@@ -8,10 +8,11 @@ This repository provides **enhanced English subtitles** specifically tailored fo
 
 ## Project Purpose
 
-The original *Rebuild of Naruto* is a fan-created reedit of the Naruto anime, offering a more streamlined and coherent viewing experience. However, subtitle timing and translation quality can vary.  
+The original *Rebuild of Naruto* is a fan-created reedit of the Naruto anime, offering a more streamlined and coherent viewing experience. However, subtitle translation quality can vary.
+
 This project offers:
 
-- **Improved English subtitles** with better grammar, timing, and readability.
+- **Improved English subtitles** with better phrasing, clarity, and typo fixes.
 - Subtitles synced to the **Rebuild-specific cuts**, not the original Naruto episodes.
 - Consistent, player-friendly filename formatting.
 
