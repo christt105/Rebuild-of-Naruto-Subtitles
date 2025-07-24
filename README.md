@@ -22,7 +22,7 @@ This project offers:
 
 Subtitle files follow a consistent naming structure to match the Rebuild episodes:
 
-> Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].eng.srt
+> Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].en.srt
 
 
 
