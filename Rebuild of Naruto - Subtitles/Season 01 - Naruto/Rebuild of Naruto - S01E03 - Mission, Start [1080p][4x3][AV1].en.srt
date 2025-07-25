@@ -682,7 +682,7 @@ Huh?!
 
 156
 00:10:35,092 --> 00:10:36,469
-W-What?
+Wh-What?
 
 157
 00:10:36,969 --> 00:10:37,970
@@ -844,7 +844,7 @@ By the way, Mr. Tazuna...
 
 195
 00:12:58,416 --> 00:13:00,293
-W-What is it...?!
+Wh-What is it...?!
 
 196
 00:13:02,068 --> 00:13:03,862
@@ -1679,7 +1679,7 @@ Fight me.
 
 384
 00:26:44,956 --> 00:26:47,208
-<i>W-What's up with his eye...?</i>
+<i>Wh-What's up with his eye...?</i>
 
 385
 00:26:48,104 --> 00:26:49,230
@@ -2012,7 +2012,7 @@ How foolish!
 
 461
 00:32:23,875 --> 00:32:27,420
-<i>W-What's with this water...?
+<i>Wh-What's with this water...?
 It's awfully heavy.</i>
 
 462
@@ -2292,7 +2292,7 @@ Hmph! Teamwork, you say?
 
 526
 00:37:22,590 --> 00:37:25,384
-<i>W-What is this feeling?</i>
+<i>Wh-What is this feeling?</i>
 
 527
 00:37:26,469 --> 00:37:28,012
@@ -2378,7 +2378,7 @@ anything, have you?
 
 546
 00:38:32,602 --> 00:38:33,979
-W-What?!
+Wh-What?!
 
 547
 00:38:35,067 --> 00:38:37,319
@@ -2770,7 +2770,7 @@ monkey mouth permanently!
 
 636
 00:46:19,768 --> 00:46:20,977
-<i>W-What's that!</i>
+<i>Wh-What's that!</i>
 
 637
 00:46:25,197 --> 00:46:26,197
@@ -2790,7 +2790,7 @@ monkey mouth permanently!
 
 641
 00:46:38,803 --> 00:46:40,137
-W-What!
+Wh-What!
 
 642
 00:46:45,903 --> 00:46:46,903
@@ -2984,7 +2984,7 @@ Let's perk up and go!
 
 687
 00:52:23,372 --> 00:52:24,372
-W-What!
+Wh-What!
 
 688
 00:52:24,491 --> 00:52:25,492
@@ -3653,7 +3653,7 @@ the weaknesses that can occur.
 
 835
 01:01:26,493 --> 01:01:28,704
-W-What should we do...?
+Wh-What should we do...?
 
 836
 01:01:30,395 --> 01:01:32,689
@@ -3667,7 +3667,7 @@ to put your life on the line to master!
 
 838
 01:01:39,724 --> 01:01:41,199
-W-What will we do?
+Wh-What will we do?
 
 839
 01:01:42,273 --> 01:01:43,273
@@ -4365,7 +4365,7 @@ U... Uh... Well...
 
 994
 01:13:25,734 --> 01:13:27,236
-W-What is it?!
+Wh-What is it?!
 
 995
 01:13:30,896 --> 01:13:34,858
@@ -5129,7 +5129,7 @@ Huh?
 
 1167
 01:27:01,376 --> 01:27:03,593
-W-What's so funny?!
+Wh-What's so funny?!
 
 1168
 01:27:05,449 --> 01:27:08,243

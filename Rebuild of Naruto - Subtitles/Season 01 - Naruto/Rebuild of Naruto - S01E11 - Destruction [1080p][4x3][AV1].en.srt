@@ -890,7 +890,7 @@ Owwee!
 
 206
 00:16:57,266 --> 00:16:59,601
-W-What's going on...?
+Wh-What's going on...?
 
 207
 00:16:59,935 --> 00:17:00,935
@@ -1608,7 +1608,7 @@ Shikamaru?!
 
 368
 00:28:24,053 --> 00:28:25,596
-W-Why you?!
+Wh-Why you?!
 
 369
 00:28:26,746 --> 00:28:29,124
@@ -3799,7 +3799,7 @@ heading for your headband.
 
 865
 01:23:00,058 --> 01:23:01,643
-W-What did you say?!
+Wh-What did you say?!
 
 866
 01:23:02,219 --> 01:23:03,470
@@ -4837,7 +4837,7 @@ Well done... Gaara.
 
 1107
 01:47:08,164 --> 01:47:10,653
-W-Why...? Why would you do that?!
+Wh-Why...? Why would you do that?!
 
 1108
 01:47:11,425 --> 01:47:13,301
@@ -5267,7 +5267,7 @@ Just what is that guy?
 
 1206
 01:55:52,609 --> 01:55:54,653
-<i>W-What lonely eyes...</i>
+<i>Wh-What lonely eyes...</i>
 
 1207
 01:55:55,093 --> 01:55:57,095
@@ -5659,7 +5659,7 @@ Ninja Chronicles begins now!
 
 1296
 02:02:37,266 --> 02:02:40,978
-W-What's up with this...
+Wh-What's up with this...
 large number of clones?!
 
 1297
@@ -5763,7 +5763,7 @@ There's no way...</i>
 
 1320
 02:04:41,765 --> 02:04:43,642
-W-What's... that?
+Wh-What's... that?
 
 1321
 02:04:51,108 --> 02:04:53,486
@@ -6052,7 +6052,7 @@ He's done it...!
 
 1386
 02:09:45,444 --> 02:09:48,322
-W-What's gonna happen, Chief?
+Wh-What's gonna happen, Chief?
 
 1387
 02:09:49,531 --> 02:09:52,951
@@ -6504,7 +6504,7 @@ Shadow Strangle Jutsu!
 
 1491
 02:19:05,503 --> 02:19:06,503
-W-What's this?!
+Wh-What's this?!
 
 1492
 02:19:07,380 --> 02:19:09,007

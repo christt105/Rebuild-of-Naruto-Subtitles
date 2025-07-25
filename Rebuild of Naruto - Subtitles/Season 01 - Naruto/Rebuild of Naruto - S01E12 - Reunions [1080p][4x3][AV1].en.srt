@@ -1655,7 +1655,7 @@ Yeah! Yeah!
 
 378
 00:29:08,997 --> 00:29:10,248
-W-What is it?
+Wh-What is it?
 
 379
 00:29:10,273 --> 00:29:12,071
@@ -2157,7 +2157,7 @@ a leg, just in case...
 
 493
 00:37:57,316 --> 00:37:58,526
-<i>W-What did he say?!</i>
+<i>Wh-What did he say?!</i>
 
 494
 00:37:59,366 --> 00:38:00,534
@@ -4378,7 +4378,7 @@ Money!
 
 1001
 01:15:43,372 --> 01:15:46,291
-W-What do you mean
+Wh-What do you mean
 "act more like a shinobi"?!
 
 1002

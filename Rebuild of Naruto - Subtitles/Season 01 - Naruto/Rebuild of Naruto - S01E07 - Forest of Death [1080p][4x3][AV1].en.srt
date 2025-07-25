@@ -65,7 +65,7 @@ I'm sorry...
 
 16
 00:02:56,926 --> 00:02:59,179
-<i>W-What's with that proctor?</i>
+<i>Wh-What's with that proctor?</i>
 
 17
 00:02:59,668 --> 00:03:00,961
@@ -257,7 +257,7 @@ until you have reached the tower!
 
 59
 00:05:20,028 --> 00:05:23,072
-W-What happens if we peek inside
+Wh-What happens if we peek inside
 before we get there?
 
 60
@@ -488,7 +488,7 @@ You're pale.
 
 110
 00:09:06,796 --> 00:09:08,172
-W-What is that?!
+Wh-What is that?!
 
 111
 00:09:15,555 --> 00:09:19,058
@@ -555,7 +555,7 @@ You don't have to go this far.
 
 125
 00:10:07,690 --> 00:10:08,858
-W-What was that for...?
+Wh-What was that for...?
 
 126
 00:10:18,367 --> 00:10:20,786
@@ -912,7 +912,7 @@ Akamaru suddenly got frightened.
 
 207
 00:14:50,030 --> 00:14:51,422
-W-Why is that?
+Wh-Why is that?
 
 208
 00:14:52,057 --> 00:14:56,502
@@ -3322,7 +3322,7 @@ Sasuke and Naruto next!
 
 770
 00:59:28,118 --> 00:59:30,370
-<i>W-What should I do?!</i>
+<i>Wh-What should I do?!</i>
 
 771
 00:59:46,762 --> 00:59:48,138
@@ -3716,7 +3716,7 @@ Uggghh. I'm dizzy.
 
 864
 01:06:05,098 --> 01:06:09,519
-W-What kind of person...
+Wh-What kind of person...
 would hurt their own teammates?
 
 865
@@ -3914,7 +3914,7 @@ Y-Yeah.
 
 910
 01:08:38,986 --> 01:08:41,489
-<i>W-What's this?</i>
+<i>Wh-What's this?</i>
 
 911
 01:08:41,947 --> 01:08:43,449
@@ -4146,7 +4146,7 @@ No, get down quick!
 
 965
 01:12:32,225 --> 01:12:34,147
-W-Where is that guy?
+Wh-Where is that guy?
 
 966
 01:12:35,500 --> 01:12:36,501

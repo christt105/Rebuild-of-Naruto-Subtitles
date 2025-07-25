@@ -718,7 +718,7 @@ a favorable answer from you.
 
 165
 00:16:38,872 --> 00:16:42,626
-W-What in the world is going on here?
+Wh-What in the world is going on here?
 
 166
 00:16:43,794 --> 00:16:44,628

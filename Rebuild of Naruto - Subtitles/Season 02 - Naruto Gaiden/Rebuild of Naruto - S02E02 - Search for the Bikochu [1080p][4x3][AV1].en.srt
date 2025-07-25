@@ -316,7 +316,7 @@ Huh?
 
 72
 00:07:10,430 --> 00:07:11,681
-W-What's this?
+Wh-What's this?
 
 73
 00:07:12,585 --> 00:07:16,185
@@ -885,7 +885,7 @@ Kurenai has been hospitalized,
 
 201
 00:15:23,045 --> 00:15:26,342
-so you guys, Squad Eight,
+so you guys, Team 8,
 no longer have a mission.
 
 202

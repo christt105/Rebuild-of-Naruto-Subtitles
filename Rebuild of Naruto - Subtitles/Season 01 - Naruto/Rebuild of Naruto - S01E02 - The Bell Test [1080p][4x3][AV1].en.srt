@@ -1483,7 +1483,7 @@ from Naruto, huh...</i>
 
 342
 00:28:25,608 --> 00:28:27,861
-Next is Team Eight. Hinata Hyuga!
+Next is Team 8. Hinata Hyuga!
 
 343
 00:28:28,252 --> 00:28:29,973
@@ -1503,7 +1503,7 @@ Why is this happening?
 
 347
 00:28:40,915 --> 00:28:41,624
-Team Nine.
+Team 9.
 
 348
 00:28:41,721 --> 00:28:44,182
@@ -1537,7 +1537,7 @@ I wouldn't want to be grouped with you.
 
 355
 00:29:05,863 --> 00:29:10,833
-Team Ten. Ino Yamanaka.
+Team 10. Ino Yamanaka.
 Shikamaru Nara.
 
 356
@@ -1904,7 +1904,7 @@ scolded by your parents.
 
 441
 00:34:56,337 --> 00:34:58,571
-W-What's gotten into you?
+Wh-What's gotten into you?
 
 442
 00:35:00,285 --> 00:35:02,165
@@ -2793,7 +2793,7 @@ Naruto is still Naruto, after all...
 
 649
 00:47:59,250 --> 00:48:00,835
-W-What?! Behind me?!
+Wh-What?! Behind me?!
 
 650
 00:48:07,135 --> 00:48:10,514

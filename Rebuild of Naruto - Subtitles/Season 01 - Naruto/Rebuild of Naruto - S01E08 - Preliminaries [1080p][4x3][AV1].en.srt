@@ -1362,7 +1362,7 @@ Oh no!
 
 313
 00:21:03,011 --> 00:21:04,011
-<i>W-What is this?</i>
+<i>Wh-What is this?</i>
 
 314
 00:21:04,294 --> 00:21:07,047
@@ -2107,7 +2107,7 @@ The winner! Shino Aburame!
 
 486
 00:37:18,945 --> 00:37:22,823
-W-What is he, Neji?!
+Wh-What is he, Neji?!
 
 487
 00:37:27,536 --> 00:37:28,536
@@ -2337,7 +2337,7 @@ ended up killing you.
 
 539
 00:41:21,020 --> 00:41:22,020
-W-What?
+Wh-What?
 
 540
 00:41:22,771 --> 00:41:25,566
@@ -2744,7 +2744,7 @@ because I wanted to be just like you.</i>
 
 633
 00:49:04,855 --> 00:49:06,983
-W-What's with Sakura?
+Wh-What's with Sakura?
 
 634
 00:49:07,753 --> 00:49:08,587
@@ -3398,7 +3398,7 @@ Shadow Possession Jutsu, success.
 
 786
 00:58:52,487 --> 00:58:54,155
-W-What are you saying?
+Wh-What are you saying?
 
 787
 00:58:54,489 --> 00:58:57,158
@@ -3859,7 +3859,7 @@ You smell like a dog!
 
 896
 01:05:03,232 --> 01:05:05,401
-W-Where's Akamaru?!
+Wh-Where's Akamaru?!
 
 897
 01:05:05,776 --> 01:05:06,776
@@ -3916,7 +3916,7 @@ But you will absolutely not beat me!
 
 910
 01:05:57,119 --> 01:05:58,245
-W-What's this?!
+Wh-What's this?!
 
 911
 01:05:58,522 --> 01:06:02,109
@@ -4368,7 +4368,7 @@ That was easy!
 
 1017
 01:13:26,276 --> 01:13:27,903
-<i>W-What to do?</i>
+<i>Wh-What to do?</i>
 
 1018
 01:13:28,779 --> 01:13:29,947
@@ -5072,7 +5072,7 @@ your tenketsu.
 
 1179
 01:23:53,862 --> 01:23:55,655
-W-What is he talking about?!
+Wh-What is he talking about?!
 
 1180
 01:23:56,029 --> 01:23:57,405
@@ -6294,7 +6294,7 @@ I-It's over!
 
 1465
 01:44:36,019 --> 01:44:37,980
-W-What? This can't be!
+Wh-What? This can't be!
 
 1466
 01:44:38,230 --> 01:44:41,024

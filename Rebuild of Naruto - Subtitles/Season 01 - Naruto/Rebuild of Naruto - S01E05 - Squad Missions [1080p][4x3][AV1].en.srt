@@ -3644,7 +3644,7 @@ Hey, what are you guys up to?
 
 835
 01:03:21,351 --> 01:03:24,771
-W-What are you talking about?
+Wh-What are you talking about?
 We are simply ninja.
 
 836
@@ -4104,7 +4104,7 @@ Yes sir!
 
 940
 01:09:29,432 --> 01:09:30,892
-W-What's this?
+Wh-What's this?
 
 941
 01:09:40,886 --> 01:09:43,013
@@ -4257,7 +4257,7 @@ Wha-?
 
 975
 01:12:32,799 --> 01:12:35,260
-W-What's going on?
+Wh-What's going on?
 
 976
 01:12:35,285 --> 01:12:36,619

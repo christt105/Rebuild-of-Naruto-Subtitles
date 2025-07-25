@@ -1015,7 +1015,7 @@ Crushing them would be interesting, too.
 
 234
 00:18:06,460 --> 00:18:07,961
-W-What did you say?!
+Wh-What did you say?!
 
 235
 00:18:08,420 --> 00:18:10,881
@@ -1752,7 +1752,7 @@ of the way...</i>
 
 405
 00:28:37,465 --> 00:28:39,467
-<i>W-What's going on?</i>
+<i>Wh-What's going on?</i>
 
 406
 00:28:40,760 --> 00:28:44,222
@@ -1928,7 +1928,7 @@ from using that technique!
 
 445
 00:31:22,506 --> 00:31:25,216
-<i>W-What's with that turtle...?</i>
+<i>Wh-What's with that turtle...?</i>
 
 446
 00:31:25,884 --> 00:31:28,720
@@ -4264,7 +4264,7 @@ will fail along with you!
 
 977
 01:06:42,958 --> 01:06:44,001
-W-What does that mean!
+Wh-What does that mean!
 
 978
 01:06:44,126 --> 01:06:46,628
@@ -5073,7 +5073,7 @@ He's certainly an interesting kid.</i>
 
 1158
 01:18:44,804 --> 01:18:47,265
-W-What is this place?!
+Wh-What is this place?!
 
 1159
 01:18:56,441 --> 01:18:59,277
