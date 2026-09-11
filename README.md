@@ -38,3 +38,8 @@ For discussions, updates, or to contribute to the project, join us on Discord:
 **[Rebuild of Naruto Discord](https://discord.gg/yDfYvsDKjR)**
 
 ---
+
+## Fork note
+
+This fork adds a Spanish (Spain) translation effort — see
+[`Spanish Translation/`](Spanish%20Translation).
