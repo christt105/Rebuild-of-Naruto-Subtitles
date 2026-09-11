@@ -20,13 +20,21 @@ priority order).
 present, register notes, continuity) — fixed reference reused across all
 episodes in that season, alongside the glossary.
 
+## Subtitles
+
+[`Subtitles/`](Subtitles) mirrors the season/episode structure of the
+English source, but files are already named with their Spanish title and
+`.es.srt` extension. Each file starts as an untouched copy of the English
+text (baseline) and gets translated in place, one episode per branch/PR —
+see `WORKFLOW.md`.
+
 ## Workflow
 
-See [`WORKFLOW.md`](WORKFLOW.md) for the two-pass (translate, then review)
-process each episode goes through, and [`PROGRESS.md`](PROGRESS.md) for
-per-episode status.
+See [`WORKFLOW.md`](WORKFLOW.md) for the one-branch-one-PR-per-episode
+process, and [`PROGRESS.md`](PROGRESS.md) for per-episode status.
 
 ## Status
 
-Translation is in progress, one episode at a time. Subtitle files will be
-added under a mirrored season/episode structure as they're completed.
+Baseline committed for all 73 currently published episodes (English text
+under Spanish filenames). Translation happens episode by episode via PR
+from here.
