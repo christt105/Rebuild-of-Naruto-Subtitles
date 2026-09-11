@@ -14,6 +14,18 @@ records its source and whether it's been verified against an official
 source (see the file header for the verification criteria and source
 priority order).
 
+## Context
+
+[`Context/`](Context) holds one arc/season primer per season (characters
+present, register notes, continuity) — fixed reference reused across all
+episodes in that season, alongside the glossary.
+
+## Workflow
+
+See [`WORKFLOW.md`](WORKFLOW.md) for the two-pass (translate, then review)
+process each episode goes through, and [`PROGRESS.md`](PROGRESS.md) for
+per-episode status.
+
 ## Status
 
 Translation is in progress, one episode at a time. Subtitle files will be
