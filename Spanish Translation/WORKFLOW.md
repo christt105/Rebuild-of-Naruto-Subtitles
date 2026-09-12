@@ -29,27 +29,32 @@ from the English baseline the same way.
 ## Per episode
 1. Branch off `main`: `translate/<code>` (e.g. `translate/s01e07`).
 2. Translate the body text of that one `.es.srt` file **in place**,
-   English → Spanish, preserving cue numbers and timestamps exactly.
-   Inputs: the glossary (`Terminology/naruto_glosario_es_es.yml`, fixed
-   reference) and the season's arc primer (`Context/season-XX-*.md`,
-   reused across its episodes).
-3. Where the missing visual context (no speaker labels in the source
-   `.srt`) leaves real ambiguity — who's talking, tone, a reference that
-   depends on what's on screen — call it out in the PR description
-   instead of guessing silently.
-4. If a verified Crunchyroll ES match exists for this exact episode
+   English → Spanish, preserving cue numbers and timestamps exactly. See
+   `AGENTS.md` for the exact, token-efficient execution procedure (what to
+   read, how to batch the work, terminology precedence and staging).
+3. If a verified Crunchyroll ES match exists for this exact episode
    (confirmed by content, not by relying on OpenSubtitles' episode
    listing — Rebuild's episode order and cuts don't line up with
    Crunchyroll's, so most episodes won't have one), note it and use it as
    a terminology/register cross-check.
+4. Run `scripts/check_episode.py <code> --strict` — must pass before
+   opening a PR. It's also the CI gate on the PR (see below).
 5. Push the branch, open a PR against `main` with `gh pr create`. The diff
    is the whole review surface: English baseline vs. translated text,
    cue by cue.
-6. Update the episode's row in `PROGRESS.md` to `PR abierta` (link the PR
-   number) in the same PR.
+6. Update the episode's row in `PROGRESS.md` via
+   `scripts/update_progress.py <code> "PR abierta" --pr <N>` in the same PR.
 7. Christian reviews the diff, comments/iterates on the branch as needed,
-   and merges when satisfied (merging is always his call, never automatic).
-   On merge, flip `PROGRESS.md` to `Fusionado`.
+   and merges when satisfied (merging is always his call, never automatic;
+   the CI check can fail a PR but never merges one). On merge, flip
+   `PROGRESS.md` to `Fusionado` the same way.
+
+## CI
+`.github/workflows/validate-subtitles.yml` runs `check_episode.py --strict`
+on every changed `.es.srt` in a PR (cue count, numbering, timestamps,
+undocumented `{CODE}` tags) and reports pass/fail in the job summary. It
+catches structural mistakes a human reviewer shouldn't have to — it doesn't
+judge translation quality.
 
 ## Full episode, not chunked
 Episode `.srt` files (even the longest, ~1250 cues) fit comfortably in a
