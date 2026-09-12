@@ -1,0 +1,51 @@
+name: Validate episode subtitles
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'Spanish Translation/Subtitles/**/*.es.srt'
+
+jobs:
+  check-episode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate changed episodes
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -uo pipefail
+          git diff --name-only "$BASE_SHA" "$HEAD_SHA" -- 'Spanish Translation/Subtitles/**/*.es.srt' > changed_files.txt
+
+          echo "## Validación de subtítulos" >> "$GITHUB_STEP_SUMMARY"
+          echo >> "$GITHUB_STEP_SUMMARY"
+
+          if [ ! -s changed_files.txt ]; then
+            echo "No hay archivos .es.srt modificados en esta PR." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          overall=0
+          while IFS= read -r file; do
+            echo "### $(basename "$file")" >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+            python3 "Spanish Translation/scripts/check_episode.py" "$file" --strict >> "$GITHUB_STEP_SUMMARY" 2>&1
+            rc=$?
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+            if [ "$rc" -ne 0 ]; then
+              overall=1
+            fi
+          done < changed_files.txt
+
+          exit $overall
