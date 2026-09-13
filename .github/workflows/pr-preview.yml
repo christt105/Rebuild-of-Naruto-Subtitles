@@ -16,7 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout PR head
-        if: github.event.action != 'closed'
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.pull_request.head.sha }}
