@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Buscar — Rebuild of Naruto ES</title>
+  <link rel="stylesheet" href="./assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Rebuild of Naruto — Traducción al castellano</h1>
+    <nav class="site-nav">
+      <a href="./index.html">Panel</a>
+      <a href="./episode.html">Episodios</a>
+      <a href="./glossary.html">Glosario</a>
+      <a href="./search.html" aria-current="page">Buscar</a>
+    </nav>
+  </header>
+  <main>
+    <div class="controls">
+      <input type="search" id="query" placeholder="Buscar un término en EN o ES, en todos los episodios..." style="flex: 1" />
+    </div>
+    <p class="muted" id="status"></p>
+    <div id="results"></div>
+  </main>
+  <script type="module" src="./assets/search.js"></script>
+</body>
+</html>
