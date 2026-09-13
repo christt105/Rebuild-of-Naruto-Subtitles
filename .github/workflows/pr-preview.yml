@@ -2,6 +2,7 @@ name: PR preview
 
 on:
   pull_request:
+    types: [opened, reopened, synchronize, closed]
     branches: [main]
     paths:
       - 'Spanish Translation/Subtitles/**/*.es.srt'
@@ -15,26 +16,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout PR head
+        if: github.event.action != 'closed'
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
 
       - name: Fetch PR base
+        if: github.event.action != 'closed'
         run: git fetch origin ${{ github.event.pull_request.base.sha }}
 
       - name: Set up Python
+        if: github.event.action != 'closed'
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
       - name: Install dependencies
+        if: github.event.action != 'closed'
         run: pip install -r "Spanish Translation/scripts/requirements.txt"
 
       - name: Build site data with diff against base
+        if: github.event.action != 'closed'
         run: python3 "Spanish Translation/scripts/build_site_data.py" --diff-against ${{ github.event.pull_request.base.sha }}
 
-      - name: Deploy preview
+      - name: Deploy or clean up preview
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: ./site
