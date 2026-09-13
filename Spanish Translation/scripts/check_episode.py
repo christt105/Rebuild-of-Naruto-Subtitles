@@ -15,6 +15,8 @@ import re
 import sys
 from pathlib import Path
 
+from srt_utils import parse_srt
+
 REPO_ROOT = Path(__file__).resolve().parents[2]
 EN_DIR = REPO_ROOT / "Rebuild of Naruto - Subtitles"
 ES_DIR = REPO_ROOT / "Spanish Translation" / "Subtitles"
@@ -22,38 +24,7 @@ PENDING_REVIEW = REPO_ROOT / "Spanish Translation" / "Terminology" / "pending-gl
 
 CODE_RE = re.compile(r"[Ss]\d{2}[Ee]\d{2}")
 TAG_RE = re.compile(r"\{([A-Z0-9]+)\}")
-TIMESTAMP_RE = re.compile(r"^(\d{2}:\d{2}:\d{2},\d{3}) --> (\d{2}:\d{2}:\d{2},\d{3})")
 DOCUMENTED_CODE_RE = re.compile(r"`\{([A-Z0-9]+)\}`")
-
-
-class Cue:
-    __slots__ = ("index", "start", "end", "text")
-
-    def __init__(self, index, start, end, text):
-        self.index = index
-        self.start = start
-        self.end = end
-        self.text = text
-
-
-def parse_srt(path):
-    raw = path.read_text(encoding="utf-8")
-    blocks = re.split(r"\n\s*\n", raw.strip())
-    cues = []
-    for block in blocks:
-        lines = block.strip("\n").split("\n")
-        if len(lines) < 2:
-            raise ValueError(f"{path}: bloque SRT incompleto: {block!r}")
-        index_line, timestamp_line, *text_lines = lines
-        try:
-            index = int(index_line.strip())
-        except ValueError:
-            raise ValueError(f"{path}: número de cue inválido: {index_line!r}")
-        m = TIMESTAMP_RE.match(timestamp_line.strip())
-        if not m:
-            raise ValueError(f"{path}: timestamp inválido en cue {index}: {timestamp_line!r}")
-        cues.append(Cue(index, m.group(1), m.group(2), "\n".join(text_lines).strip()))
-    return cues
 
 
 def resolve_target(target):

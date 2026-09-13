@@ -9,4 +9,12 @@ that used it.
 Append new entries at the end — do not edit existing ones — so concurrent
 episode translations don't conflict on this file.
 
+Entry format (parsed by `scripts/build_site_data.py` to show a tooltip for
+the tag in the site's episode viewer):
+
+```
+### `{CODE}` — short title
+Free-text explanation of the term/decision, as long as needed.
+```
+
 ---
