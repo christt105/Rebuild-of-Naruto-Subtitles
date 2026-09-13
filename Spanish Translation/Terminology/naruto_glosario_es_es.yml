@@ -109,12 +109,6 @@
   source: "Convencion (siglas ya en romaji/ingles en el original, no se localizo en el fragmento de Wikipedia consultado)"
   verified: false
 
-- japanese: "だってばよ"
-  english: "dattebayo"
-  spanish_es: "(sin fijar - ver nota)"
-  source: "naruto-official.com/es/news/01_1401: en el manga en ingles (VIZ) NO se traduce de forma fija, se deja tal cual salvo excepciones puntuales ('I tell ya'). El articulo no cubre la edicion espanola. No se encontro confirmacion de como lo resuelve el doblaje/manga de Espana."
-  verified: false
-
 # ---------------------------------------------------------------------------
 # Dojutsu y tecnicas oculares (convencion: nombres japoneses sin traducir)
 # ---------------------------------------------------------------------------
@@ -471,8 +465,68 @@
   source: "Subtítulo oficial Crunchyroll ES (rip verificado, cabecera 'Original Script: crunchyroll_es'; 'Kakashi-sensei' aparece literal en dialogo real)"
   verified: true
 
-- japanese: "殿・様・くん・ちゃん"
-  english: "-dono / -sama / -kun / -chan (suffixes)"
+- japanese: "殿・くん・ちゃん"
+  english: "-dono / -kun / -chan (suffixes)"
   spanish_es: "Se conservan como sufijos, no se traducen (misma convencion que -sensei)"
   source: "Convencion (por extension del caso -sensei, verificado solo para -sensei)"
   verified: false
+
+- japanese: "様 (-sama)"
+  english: "-sama (suffix) / English source's de-suffixed \"Lord X\" / \"Lady X\""
+  spanish_es: "Se elimina, sin sufijo ni tratamiento (\"Lord Hokage\" -> \"el Hokage\", \"Lady Hinata\" -> \"Hinata\")"
+  source: "Convencion establecida del proyecto (indicado por Christian: a diferencia de -sensei, que si esta confirmado en un rip real de Crunchyroll ES, -sama pospuesto o \"Lord/Lady\" antepuesto no se usan en el registro de Espana; se sacrifica la marca de respeto explicita cuando el contexto ya deja claro de quien se habla)"
+  verified: true
+
+- japanese: "九尾"
+  english: "Nine-Tails / Nine-Tailed Fox / Demon Fox / Nine-Tailed Demon Fox"
+  spanish_es: "\"Nine-Tails\" -> \"el Nueve Colas\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\""
+  source: "Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)"
+  verified: false
+
+- japanese: "火の意志"
+  english: "Will of Fire"
+  spanish_es: "la Voluntad de Fuego"
+  source: "Titulo oficial de la edicion espanola de Planeta Comic (\"Naruto Shippuden Anime Comic: Los Herederos de la Voluntad de Fuego\")"
+  verified: true
+
+- japanese: "封印の書 (no confirmado)"
+  english: "Scroll of Sealing"
+  spanish_es: "el Pergamino de Sellos"
+  source: "naruto.fandom.com/es (nombre del objeto, uso consistente)"
+  verified: false
+
+- japanese: "対立の印"
+  english: "Seal of Confrontation"
+  spanish_es: "el Sello de la Confrontacion"
+  source: "naruto.fandom.com/es; titulo de episodio real confirmado para su pareja \"Seal of Reconciliation\" -> \"El Sello de la Reconciliacion\""
+  verified: true
+
+- japanese: "和解の印"
+  english: "Seal of Reconciliation"
+  spanish_es: "el Sello de la Reconciliacion"
+  source: "naruto.fandom.com/es, titulo de episodio real confirmado"
+  verified: true
+
+- japanese: "(apodo, no japones)"
+  english: "Billboard Brow (Sakura's forehead nickname)"
+  spanish_es: "«Pista de Aterrizaje»"
+  source: "Convencion propia del proyecto (decidido con Christian; \"Frente de Marquesina\", la variante mas extendida online, se rastreo al doblaje mexicano/LatAm via Isabel Martinon, no al de Espana; se opta por un chiste propio en la misma linea que un modismo real ya existente en Espana sobre frentes anchas)"
+  verified: true
+
+- japanese: "宗家"
+  english: "Head Family (Hyuga clan)"
+  spanish_es: "la Familia Principal"
+  source: "Wikipedia ES / naruto.fandom.com/es (Soke); su contraparte \"Branch Family\" (Bunke) -> \"la Familia Secundaria\" se resuelve junto con esta"
+  verified: false
+
+- japanese: "分家"
+  english: "Branch Family (Hyuga clan)"
+  spanish_es: "la Familia Secundaria"
+  source: "Wikipedia ES / naruto.fandom.com/es (Bunke)"
+  verified: false
+
+- japanese: "だってばよ"
+  english: "dattebayo / \"Believe it!\""
+  spanish_es: "¡vaya que sí!"
+  source: "Doblaje de Espana (Neox/Buzz), documentado en variasveces.blogspot.com (2006, entrada dedicada al cambio de adaptacion); distinto del \"de veras\" latinoamericano"
+  verified: true
