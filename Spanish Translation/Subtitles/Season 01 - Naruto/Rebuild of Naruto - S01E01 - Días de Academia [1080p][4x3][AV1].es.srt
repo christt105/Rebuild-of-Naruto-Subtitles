@@ -154,12 +154,12 @@ No puede ser...
 
 37
 00:02:57,051 --> 00:02:58,178
-¡El Nueve Colas! {NC}
+¡El Nueve Colas!
 
 38
 00:02:58,219 --> 00:02:59,678
 – ¡Corred!
-– ¡Es el Nueve Colas! {NC}
+– ¡Es el Nueve Colas!
 
 39
 00:02:59,679 --> 00:03:01,055
@@ -172,11 +172,11 @@ Tranquilo. ¡Ya, ya!
 
 41
 00:03:24,787 --> 00:03:25,997
-¡Es el Nueve Colas! {NC}
+¡Es el Nueve Colas!
 
 42
 00:03:26,022 --> 00:03:27,690
-¡El Zorro Demonio anda suelto! {NC}
+¡El Zorro Demonio anda suelto!
 
 43
 00:03:31,336 --> 00:03:32,629
@@ -200,16 +200,16 @@ Te has asustado un poco, ¿eh?
 
 48
 00:04:06,627 --> 00:04:07,813
-¡Tercer Hokage-sama! {SAMA}
+¡Tercer Hokage!
 
 49
 00:04:08,416 --> 00:04:09,652
-¡El Nueve Colas...! {NC}
+¡El Nueve Colas...!
 
 50
 00:04:09,677 --> 00:04:11,721
 ¡El Nueve Colas ha aparecido
-de repente en la aldea! {NC}
+de repente en la aldea!
 
 51
 00:04:12,113 --> 00:04:14,949
@@ -239,7 +239,7 @@ a los civiles.
 
 57
 00:04:29,736 --> 00:04:31,154
-¡Maldito seas, Nueve Colas! {NC}
+¡Maldito seas, Nueve Colas!
 
 58
 00:04:31,562 --> 00:04:33,940
@@ -273,7 +273,7 @@ No te precipites, Guy.
 
 65
 00:04:45,867 --> 00:04:47,160
-¿Hiruzen-sama? {SAMA}
+¿Hiruzen?
 
 66
 00:04:47,428 --> 00:04:49,513
@@ -294,11 +294,11 @@ Ya lo has oído. ¡Vamos, Guy!
 
 70
 00:05:05,013 --> 00:05:06,097
-¡Por aquí, Nueve Colas! {NC}
+¡Por aquí, Nueve Colas!
 
 71
 00:05:11,144 --> 00:05:12,645
-¡Por aquí, Nueve Colas! {NC}
+¡Por aquí, Nueve Colas!
 
 72
 00:05:14,147 --> 00:05:15,398
@@ -314,7 +314,7 @@ Por aquí.
 
 75
 00:05:22,513 --> 00:05:24,031
-Aunque no podamos vencer al Nueve Colas, {NC}
+Aunque no podamos vencer al Nueve Colas,
 
 76
 00:05:24,032 --> 00:05:27,478
@@ -327,7 +327,7 @@ evacuar a los aldeanos.
 
 78
 00:05:32,165 --> 00:05:34,125
-¡Reuníos ante Hiruzen-sama! {SAMA}
+¡Reuníos ante Hiruzen!
 
 79
 00:05:34,709 --> 00:05:36,627
@@ -404,7 +404,7 @@ la aldea!
 95
 00:06:52,270 --> 00:06:55,106
 ¡Perseguid al Nueve Colas
-fuera de las murallas de la aldea! {NC}
+fuera de las murallas de la aldea!
 
 96
 00:06:55,331 --> 00:06:56,332
@@ -433,7 +433,7 @@ Aparece... ¡Rey Mono Enma!
 
 102
 00:07:26,194 --> 00:07:27,633
-El Nueve Colas, ¿eh? {NC}
+El Nueve Colas, ¿eh?
 
 103
 00:07:28,406 --> 00:07:29,907
@@ -493,11 +493,11 @@ Mi papá y mi mamá siguen...
 
 116
 00:08:49,605 --> 00:08:50,606
-¡Cuarto Hokage-sama! {SAMA}
+¡Cuarto Hokage!
 
 117
 00:08:52,164 --> 00:08:53,332
-¡Kushina-sama! {SAMA}
+¡Kushina!
 
 118
 00:08:53,783 --> 00:08:55,618
@@ -510,7 +510,7 @@ al Hospital de la Aldea de la Hoja!
 
 120
 00:08:58,704 --> 00:08:59,789
-Tercer Hokage-sama... {SAMA}
+Tercer Hokage...
 
 121
 00:09:01,642 --> 00:09:02,475
@@ -593,7 +593,7 @@ Así que, por el bien del niño,
 140
 00:10:31,857 --> 00:10:35,569
 ¡Voy a ser Hokage,
-dalo por hecho! {DBY}
+vaya que sí!
 
 141
 00:10:36,218 --> 00:10:37,386
@@ -736,7 +736,7 @@ cuando esa bestia llamada
 173
 00:12:39,133 --> 00:12:41,010
 el Zorro Demonio de las Nueve Colas
-se descontroló, ¿verdad? {NC}
+se descontroló, ¿verdad?
 
 174
 00:12:42,992 --> 00:12:46,365
@@ -1352,7 +1352,7 @@ mi frente es...
 
 320
 00:28:34,003 --> 00:28:35,422
-«Frente de Cartel»... {BB}
+«Pista de Aterrizaje»...
 
 321
 00:28:38,384 --> 00:28:41,729
@@ -1656,7 +1656,7 @@ una nevada fuerte.
 
 392
 00:33:47,751 --> 00:33:48,752
-Hinata-sama... {SAMA}
+Hinata...
 
 393
 00:33:48,934 --> 00:33:51,436
@@ -1665,7 +1665,7 @@ por tu tercer cumpleaños.
 
 394
 00:33:52,047 --> 00:33:53,097
-Hinata-sama... {SAMA}
+Hinata...
 
 395
 00:33:53,760 --> 00:33:54,844
@@ -1702,7 +1702,7 @@ Cuando éramos jóvenes...
 
 403
 00:34:51,146 --> 00:34:53,773
-Neji existe para proteger a Hinata-sama. {SAMA}
+Neji existe para proteger a Hinata.
 
 404
 00:34:54,249 --> 00:34:55,917
@@ -1774,7 +1774,7 @@ Cuando estés en peligro,
 
 420
 00:35:55,069 --> 00:35:56,988
-¡Hinata-sama, está nevando! {SAMA}
+¡Hinata, está nevando!
 
 421
 00:35:58,810 --> 00:36:04,190
@@ -1957,7 +1957,7 @@ Vives en una casa tan grande como esta,
 462
 00:40:24,610 --> 00:40:26,738
 ¡Eres la preciada heredera
-de la Familia Principal! {HF}
+de la Familia Principal!
 
 463
 00:40:27,054 --> 00:40:29,098
@@ -1970,7 +1970,7 @@ Yo...
 465
 00:40:31,491 --> 00:40:34,827
 Por tu bien, y por el bien
-de la Familia Principal, {HF}
+de la Familia Principal,
 
 466
 00:40:35,004 --> 00:40:37,882
@@ -2004,8 +2004,8 @@ Es un caso perdido.
 
 473
 00:41:17,755 --> 00:41:21,967
-Tercer Hokage-sama,
-deja que me lo piense. {SAMA}
+Tercer Hokage,
+deja que me lo piense.
 
 474
 00:41:22,218 --> 00:41:24,470
@@ -2111,8 +2111,8 @@ se quede en esta aldea?
 
 496
 00:42:48,461 --> 00:42:51,214
-Ojalá el Hokage-sama tuviera
-más consideración con nosotros. {SAMA}
+Ojalá el Hokage tuviera
+más consideración con nosotros.
 
 497
 00:42:52,715 --> 00:42:53,716
@@ -2523,12 +2523,12 @@ Ahora mismo no puedo.
 
 593
 00:50:15,377 --> 00:50:17,046
-Eso no puede ser, Hanabi-sama. {SAMA}
+Eso no puede ser, Hanabi.
 
 594
 00:50:18,020 --> 00:50:21,148
-Hinata-sama debe entrenar
-con Hiashi-sama. {SAMA}
+Hinata debe entrenar
+con Hiashi.
 
 595
 00:50:22,269 --> 00:50:24,271
@@ -2557,7 +2557,7 @@ No se puede evitar.
 601
 00:50:44,502 --> 00:50:48,005
 Su señoría es la heredera
-de la Familia Principal. {HF}
+de la Familia Principal.
 
 602
 00:50:48,806 --> 00:50:51,100
@@ -2580,7 +2580,7 @@ Como líder del clan,
 606
 00:51:01,658 --> 00:51:05,036
 hay una montaña de conocimientos
-que Hinata-sama debe aprender. {SAMA}
+que Hinata debe aprender.
 
 607
 00:51:05,276 --> 00:51:06,705
@@ -2588,11 +2588,11 @@ Aquí tienes.
 
 608
 00:51:24,057 --> 00:51:25,100
-¡Hanabi-sama! {SAMA}
+¡Hanabi!
 
 609
 00:51:26,270 --> 00:51:27,729
-¡Hanabi-sama! {SAMA}
+¡Hanabi!
 
 610
 00:51:29,767 --> 00:51:33,104
@@ -2756,7 +2756,7 @@ intención de luchar!
 647
 00:54:23,009 --> 00:54:24,794
 Esto se llama el
-«Sello de la Confrontación». {SOC}
+«Sello de la Confrontación».
 
 648
 00:54:25,914 --> 00:54:28,323
@@ -2766,12 +2766,12 @@ y decidido el vencedor,
 649
 00:54:28,348 --> 00:54:30,880
 ambos contendientes muestran
-de nuevo el Sello de la Confrontación, {SOC}
+de nuevo el Sello de la Confrontación,
 
 650
 00:54:30,929 --> 00:54:37,227
 y luego juntan las manos para formar el
-«Sello de la Reconciliación» como muestra de amistad. {SOC}
+«Sello de la Reconciliación» como muestra de amistad.
 
 651
 00:54:37,934 --> 00:54:40,647
@@ -3296,8 +3296,8 @@ Ya sé escribir mi nombre.
 
 774
 01:03:32,632 --> 01:03:35,468
-Hinata-sama, no debes hacer esperar
-a Hiashi-sama. {SAMA}
+Hinata, no debes hacer esperar
+a Hiashi.
 
 775
 01:03:35,626 --> 01:03:36,377
@@ -3376,7 +3376,7 @@ Entendido.
 
 793
 01:05:34,301 --> 01:05:36,303
-¿Qué te pasa, Hinata-sama? {SAMA}
+¿Qué te pasa, Hinata?
 
 794
 01:05:36,820 --> 01:05:38,503
@@ -3628,8 +3628,8 @@ Empecemos la clase.
 
 853
 01:12:24,076 --> 01:12:26,745
-<i>El Hokage-sama está ocupado
-con asuntos oficiales ahora mismo. {SAMA}</i>
+<i>El Hokage está ocupado
+con asuntos oficiales ahora mismo.</i>
 
 854
 01:12:26,975 --> 01:12:30,437
@@ -3716,7 +3716,7 @@ como su tutor.
 
 873
 01:13:42,667 --> 01:13:45,545
-El Hokage-sama no quiso recibirme. {SAMA}
+El Hokage no quiso recibirme.
 
 874
 01:13:47,785 --> 01:13:49,149
@@ -3747,7 +3747,7 @@ O quizá estás intentando olvidarla.
 880
 01:14:10,445 --> 01:14:13,061
 El Nueve Colas sellado dentro
-de Naruto es responsable {NC}
+de Naruto es responsable
 
 881
 01:14:13,086 --> 01:14:15,297
@@ -3765,7 +3765,7 @@ Pero cada vez que lo veo,
 884
 01:14:22,456 --> 01:14:27,919
 no puedo evitar ver
-al Nueve Colas sellado dentro de él. {NC}
+al Nueve Colas sellado dentro de él.
 
 885
 01:14:29,223 --> 01:14:32,286
@@ -3791,8 +3791,8 @@ Esa es tu prueba.
 
 890
 01:14:44,418 --> 01:14:46,920
-Sí, una que el Hokage-sama
-te ha dado. {SAMA}
+Sí, una que el Hokage
+te ha dado.
 
 891
 01:14:47,304 --> 01:14:52,726
@@ -4375,7 +4375,7 @@ la comida de mi madre.
 1027
 01:26:23,167 --> 01:26:25,336
 ¡Soy mejor que todos vosotros!
-¡Dalo por hecho! {DBY}
+¡Vaya que sí!
 
 1028
 01:26:25,659 --> 01:26:26,827
@@ -4383,7 +4383,7 @@ la comida de mi madre.
 
 1029
 01:26:26,864 --> 01:26:27,864
-¡Hokage-sama! {SAMA}
+¡Hokage!
 
 1030
 01:26:28,416 --> 01:26:29,626
@@ -4590,7 +4590,7 @@ Voy a contarte un gran secreto.
 
 1076
 01:29:45,768 --> 01:29:47,770
-<i>¿Qué pasa, Hokage-sama? {SAMA}</i>
+<i>¿Qué pasa, Hokage?</i>
 
 1077
 01:29:48,415 --> 01:29:52,349
@@ -4620,15 +4620,15 @@ siguen ahí fuera luchando!</i>
 
 1083
 01:30:17,226 --> 01:30:19,478
-¡Ven de inmediato a ver al Hokage-sama! {SAMA}
+¡Ven de inmediato a ver al Hokage!
 
 1084
 01:30:20,053 --> 01:30:24,194
-Naruto... robó el Pergamino del Sellado. {SOS}
+Naruto... robó el Pergamino de Sellos.
 
 1085
 01:30:25,626 --> 01:30:26,836
-¡¿El Pergamino del Sellado?! {SOS}
+¡¿El Pergamino de Sellos?!
 
 1086
 01:30:28,924 --> 01:30:30,009
@@ -4645,8 +4645,8 @@ El primer jutsu es...
 
 1089
 01:30:39,641 --> 01:30:42,011
-¡Hokage-sama!
-¡Esta vez no podemos perdonarlo sin más! {SAMA}
+¡Hokage!
+¡Esta vez no podemos perdonarlo sin más!
 
 1090
 01:30:42,036 --> 01:30:43,274
@@ -4685,8 +4685,8 @@ y eliminaré a Naruto...</i>
 
 1098
 01:31:23,757 --> 01:31:27,168
-<i>¡Entonces el Pergamino del Sellado
-será mío! {SOS}</i>
+<i>¡Entonces el Pergamino de Sellos
+será mío!</i>
 
 1099
 01:31:32,393 --> 01:31:35,076
@@ -4819,7 +4819,7 @@ todos menos tú.
 1128
 01:33:26,643 --> 01:33:30,647
 ¡La norma prohíbe que nadie revele
-que el Nueve Colas está dentro de ti! {NC}
+que el Nueve Colas está dentro de ti!
 
 1129
 01:33:31,522 --> 01:33:32,522
@@ -4828,7 +4828,7 @@ que el Nueve Colas está dentro de ti! {NC}
 1130
 01:33:33,065 --> 01:33:36,728
 Así es...
-El Zorro Demonio de las Nueve Colas {NC}
+El Zorro Demonio de las Nueve Colas
 
 1131
 01:33:36,753 --> 01:33:39,756
@@ -5033,7 +5033,7 @@ No hay forma de que ese monstruo...
 1176
 01:37:09,228 --> 01:37:12,773
 ese Zorro Demonio, no aproveche
-el poder de ese pergamino. {NC}
+el poder de ese pergamino.
 
 1177
 01:37:13,702 --> 01:37:14,787
@@ -5050,7 +5050,7 @@ se preocupó por mí... en absoluto!</i>
 
 1180
 01:37:27,483 --> 01:37:29,291
-... si él fuera el Zorro Demonio. {NC}
+... si él fuera el Zorro Demonio.
 
 1181
 01:37:31,224 --> 01:37:32,934
@@ -5075,7 +5075,7 @@ entiende el dolor en el corazón de la gente.
 
 1186
 01:37:51,531 --> 01:37:53,614
-Ya no es el Zorro Demonio. {NC}
+Ya no es el Zorro Demonio.
 
 1187
 01:37:54,021 --> 01:37:56,607
@@ -5121,7 +5121,7 @@ como tú de un solo golpe!
 1196
 01:38:40,203 --> 01:38:44,217
 ¡A ver si puedes!
-¡Enséñame lo que sabes hacer, Zorro Demonio! {NC}
+¡Enséñame lo que sabes hacer, Zorro Demonio!
 
 1197
 01:38:45,085 --> 01:38:46,712
@@ -5187,7 +5187,7 @@ Ya no hace falta preocuparse.
 
 1211
 01:40:00,123 --> 01:40:01,207
-¡Hokage-sama! {SAMA}
+¡Hokage!
 
 1212
 01:40:02,292 --> 01:40:05,030
@@ -5258,7 +5258,7 @@ Sí, señor.
 
 1228
 01:41:20,701 --> 01:41:22,591
-Hokage-sama... Mmm... {SAMA}
+Hokage... Mmm...
 
 1229
 01:41:24,170 --> 01:41:27,811
@@ -5272,7 +5272,7 @@ por qué quería ser profesor.
 
 1231
 01:41:36,327 --> 01:41:37,474
-Hokage-sama... {SAMA}
+Hokage...
 
 1232
 01:41:37,499 --> 01:41:40,585
@@ -5309,7 +5309,7 @@ para proteger la aldea
 
 1239
 01:42:21,385 --> 01:42:23,720
-del Zorro Demonio de las Nueve Colas. {NC}
+del Zorro Demonio de las Nueve Colas.
 
 1240
 01:42:23,745 --> 01:42:24,988
@@ -5340,11 +5340,11 @@ Pero no estás solo.
 1246
 01:42:45,420 --> 01:42:50,008
 Los ninjas de la Hoja
-llevan dentro la Voluntad de Fuego. {WOF}
+llevan dentro la Voluntad de Fuego.
 
 1247
 01:42:52,564 --> 01:42:53,732
-¿La Voluntad de Fuego? {WOF}
+¿La Voluntad de Fuego?
 
 1248
 01:42:54,418 --> 01:42:58,214
@@ -5354,7 +5354,7 @@ proteger esta aldea.
 1249
 01:42:59,256 --> 01:43:01,387
 Mientras tengas
-la Voluntad de Fuego dentro de ti, {WOF}
+la Voluntad de Fuego dentro de ti,
 
 1250
 01:43:01,412 --> 01:43:04,916
@@ -5372,4 +5372,4 @@ Iruka... ¿Tú la tienes?
 1253
 01:43:21,695 --> 01:43:27,492
 Quiero transmitir tu Voluntad de Fuego
-a la próxima generación de niños, y a Naruto. {WOF}
+a la próxima generación de niños, y a Naruto.
