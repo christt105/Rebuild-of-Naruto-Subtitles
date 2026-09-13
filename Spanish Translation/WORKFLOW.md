@@ -49,6 +49,11 @@ from the English baseline the same way.
    the CI check can fail a PR but never merges one). On merge, flip
    `PROGRESS.md` to `Fusionado` the same way.
 
+   A PR touching a `.es.srt` also gets an automatic preview-site comment
+   (see `## Site` below) with a before/after view of the changed cues — a
+   more comfortable alternative to reading the raw `.srt` diff, not a
+   required extra step.
+
 ## CI
 `.github/workflows/validate-subtitles.yml` runs `check_episode.py --strict`
 on every changed `.es.srt` in a PR (cue count, numbering, timestamps,
@@ -64,6 +69,14 @@ would risk tone/terminology drift between chunks. If an episode's output
 needs to be written in multiple batches for practical reasons, that's an
 implementation detail within the same task/branch — it must not become an
 independently-translated, independently-reviewed chunk.
+
+## Site
+`site/` is a static dashboard/episode-viewer/glossary/cross-search site built
+from `PROGRESS.md`, the `.srt` pairs and the glossary by
+`scripts/build_site_data.py` — no separate source of truth, just a read-only
+view. It deploys to GitHub Pages on push to `main`, and a per-PR preview
+(with a before/after diff view for changed cues) is published and linked in
+a PR comment for every PR touching a `.es.srt`. See `nrtw07` for the design.
 
 ## Tracking
 `PROGRESS.md` in this folder is the single source of truth for episode

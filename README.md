@@ -41,5 +41,7 @@ For discussions, updates, or to contribute to the project, join us on Discord:
 
 ## Fork note
 
-This fork adds a Spanish (Spain) translation effort — see
-[`Spanish Translation/`](Spanish%20Translation).
+This fork adds a Spanish (Spain) translation effort, see
+[`Spanish Translation/`](Spanish%20Translation). A live dashboard, episode
+viewer, glossary and cross-search for the translation is published at
+[christt105.github.io/Rebuild-of-Naruto-Subtitles](https://christt105.github.io/Rebuild-of-Naruto-Subtitles/).
