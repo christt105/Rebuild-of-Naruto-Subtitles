@@ -6,12 +6,12 @@ Fuente: 73 episodios actualmente publicados en [Maediem/Rebuild-of-Naruto-Subtit
 
 | Episodio | Título (EN) | Título (ES) | Temporada | Estado | Notas |
 |---|---|---|---|---|---|
-| S01E01 | Academy Days | Días de Academia | Naruto | PR abierta | Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero — PR #1 |
-| S01E02 | The Bell Test | La Prueba de los Cascabeles | Naruto | Pendiente | Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero |
-| S01E03 | Mission, Start | Comienza la Misión | Naruto | Pendiente | Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero |
-| S01E04 | The Bridge | El Puente | Naruto | Pendiente | Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero |
-| S01E05 | Squad Missions | Misiones de Equipo | Naruto | Pendiente | Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero |
-| S01E06 | Entrance Exam | Examen de Acceso | Naruto | Pendiente | Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero |
+| S01E01 | Academy Days | Días de Academia | Naruto | Fusionado | PR #1 |
+| S01E02 | The Bell Test | La Prueba de los Cascabeles | Naruto | Pendiente |  |
+| S01E03 | Mission, Start | Comienza la Misión | Naruto | Pendiente |  |
+| S01E04 | The Bridge | El Puente | Naruto | Pendiente |  |
+| S01E05 | Squad Missions | Misiones de Equipo | Naruto | Pendiente |  |
+| S01E06 | Entrance Exam | Examen de Acceso | Naruto | Pendiente |  |
 | S01E07 | Forest of Death | El Bosque de la Muerte | Naruto | Pendiente |  |
 | S01E08 | Preliminaries | Preliminares | Naruto | Pendiente |  |
 | S01E09 | Training | Entrenamiento | Naruto | Pendiente |  |
