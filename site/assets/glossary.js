@@ -5,6 +5,17 @@ const body = document.getElementById("glossary-body");
 const filterText = document.getElementById("filter-text");
 const filterVerified = document.getElementById("filter-verified");
 
+const INLINE_EPISODE_LIMIT = 6;
+
+function episodesCell(episodes) {
+  if (!episodes.length) return '<span class="muted">sin coincidencias</span>';
+  const chips = episodes.map((code) => `<span class="episode-chip">${code}</span>`).join("");
+  if (episodes.length <= INLINE_EPISODE_LIMIT) {
+    return `<div class="episode-chips">${chips}</div>`;
+  }
+  return `<details><summary class="episode-summary">${episodes.length} episodios</summary><div class="episode-chips">${chips}</div></details>`;
+}
+
 function render() {
   const text = filterText.value.trim().toLowerCase();
   const verified = filterVerified.value;
@@ -25,7 +36,7 @@ function render() {
       <td>${escapeHtml(e.english)}</td>
       <td>${escapeHtml(e.spanish_es)}</td>
       <td>${e.verified ? "✅" : "—"}</td>
-      <td>${e.episodes.length ? e.episodes.join(", ") : '<span class="muted">sin coincidencias</span>'}</td>
+      <td>${episodesCell(e.episodes)}</td>
     </tr>`
     )
     .join("");
