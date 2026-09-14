@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:06:51.553823+00:00",
+  "generated_at": "2026-09-14T05:56:58.490617+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -16,8 +16,8 @@
       "title_en": "Academy Days",
       "title_es": "Días de Academia",
       "season": "Naruto",
-      "status": "PR abierta",
-      "notes": "Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero — PR #1",
+      "status": "Fusionado",
+      "notes": "PR #1",
       "cue_count": 1253,
       "translated_count": 1238,
       "unresolved_tags": [],
@@ -29,7 +29,7 @@
       "title_es": "La Prueba de los Cascabeles",
       "season": "Naruto",
       "status": "Pendiente",
-      "notes": "Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero",
+      "notes": "",
       "cue_count": 901,
       "translated_count": 0,
       "unresolved_tags": [],
@@ -41,7 +41,7 @@
       "title_es": "Comienza la Misión",
       "season": "Naruto",
       "status": "Pendiente",
-      "notes": "Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero",
+      "notes": "",
       "cue_count": 1254,
       "translated_count": 0,
       "unresolved_tags": [],
@@ -53,7 +53,7 @@
       "title_es": "El Puente",
       "season": "Naruto",
       "status": "Pendiente",
-      "notes": "Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero",
+      "notes": "",
       "cue_count": 1104,
       "translated_count": 0,
       "unresolved_tags": [],
@@ -65,7 +65,7 @@
       "title_es": "Misiones de Equipo",
       "season": "Naruto",
       "status": "Pendiente",
-      "notes": "Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero",
+      "notes": "",
       "cue_count": 1351,
       "translated_count": 0,
       "unresolved_tags": [],
@@ -77,7 +77,7 @@
       "title_es": "Examen de Acceso",
       "season": "Naruto",
       "status": "Pendiente",
-      "notes": "Ccuenta tenía un borrador de este episodio en dialecto latino (ver nrtq02) — descartado, se traduce de cero",
+      "notes": "",
       "cue_count": 1162,
       "translated_count": 0,
       "unresolved_tags": [],
@@ -102,10 +102,10 @@
       "season": "Naruto",
       "status": "Pendiente",
       "notes": "",
-      "cue_count": 0,
+      "cue_count": 1774,
       "translated_count": 0,
       "unresolved_tags": [],
-      "srt_error": "Rebuild of Naruto - Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E08 - Preliminaries [1080p][4x3][AV1].en.srt: número de cue inválido: '01:33:04,887 --> 01:33:06,405'"
+      "srt_error": null
     },
     {
       "code": "S01E09",
@@ -890,7 +890,7 @@
   ],
   "totals": {
     "episodes": 73,
-    "cues_total": 96414,
+    "cues_total": 98188,
     "cues_translated": 1238,
     "unresolved_tags": 0
   }
