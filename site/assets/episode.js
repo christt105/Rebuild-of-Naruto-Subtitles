@@ -42,7 +42,7 @@ async function loadEpisode(code) {
     <tr id="cue-${cue.index}">
       <td class="time">#${cue.index}<br>${cue.start}</td>
       <td class="en">${escapeHtml(cue.en)}</td>
-      <td class="es">${cueEsHtml(cue, tagMap)}</td>
+      <td class="es${cue.translated ? " is-translated" : ""}">${cueEsHtml(cue, tagMap)}</td>
       <td class="actions"><a class="propose-link" href="${issueUrl(episode, cue)}" target="_blank" rel="noopener">Proponer cambio</a></td>
     </tr>`
     )
