@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:46:57.592854+00:00",
+  "generated_at": "2026-09-14T11:47:10.704775+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -28,8 +28,8 @@
       "title_en": "The Bell Test",
       "title_es": "La Prueba de los Cascabeles",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #6",
       "cue_count": 901,
       "translated_count": 886,
       "unresolved_tags": [
