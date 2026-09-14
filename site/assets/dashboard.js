@@ -41,10 +41,12 @@ container.innerHTML = index.seasons
       <section class="season-block">
         <h2>${escapeHtml(season)} — ${seasonPct}%</h2>
         <div class="meter"><span style="width:${seasonPct}%"></span></div>
-        <table>
-          <thead><tr><th>Código</th><th>Título</th><th>Estado</th><th>Cues</th><th>Tags</th><th></th></tr></thead>
-          <tbody>${rows}</tbody>
-        </table>
+        <div class="table-scroll">
+          <table>
+            <thead><tr><th>Código</th><th>Título</th><th>Estado</th><th>Cues</th><th>Tags</th><th></th></tr></thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>
       </section>`;
   })
   .join("");
