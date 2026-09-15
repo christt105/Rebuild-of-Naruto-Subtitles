@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:20:54.956534+00:00",
+  "generated_at": "2026-09-15T17:21:10.123423+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -42,8 +42,8 @@
       "title_en": "Mission, Start",
       "title_es": "Comienza la Misión",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #8",
       "cue_count": 1254,
       "translated_count": 1241,
       "unresolved_tags": [
