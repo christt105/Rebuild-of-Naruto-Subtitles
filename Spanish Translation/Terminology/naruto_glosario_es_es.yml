@@ -207,6 +207,12 @@
   source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G / H-Z. OJO: en doblajes de otros idiomas 'Edo Tensei' suele mantenerse sin traducir como nombre propio; esta entrada es dudosa, revisar antes de fijarla."
   verified: false
 
+- japanese: "(no aplica, apodo/broma de Kakashi)"
+  english: "A Thousand Years of Death"
+  spanish_es: "Muerte Milenaria"
+  source: "Doblaje de Espana (Neox/Buzz), segun Christian; no la variante meme/fan \"Los Mil Anos de Dolor\""
+  verified: true
+
 - japanese: "地爆天星"
   english: "Chibaku Tensei"
   spanish_es: "Devastación Planetaria"
@@ -260,10 +266,16 @@
   verified: false
 
 - japanese: "お色気の術"
-  english: "Sexy Jutsu / Harem Jutsu"
-  spanish_es: "Jutsu Sexy Harem"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z"
-  verified: false
+  english: "Sexy Jutsu"
+  spanish_es: "Jutsu Sexy"
+  source: "Convencion establecida del proyecto (indicado por Christian; S01E02 usa Sexy Jutsu y Harem Jutsu como dos tecnicas distintas en dialogo real, no una sola frase fusionada)"
+  verified: true
+
+- japanese: "お色気の術・多重影分身版"
+  english: "Harem Jutsu"
+  spanish_es: "Jutsu Harem"
+  source: "Convencion establecida del proyecto (indicado por Christian, ver nota de Sexy Jutsu)"
+  verified: true
 
 # ---------------------------------------------------------------------------
 # Tecnicas elementales (patron: "Elemento <X>: <nombre>")
@@ -333,6 +345,20 @@
   english: "Earth Style: Terra Shield / Earth Shield"
   spanish_es: "Arte Ninja de Tierra: Escudo de Tierra"
   source: "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke, técnica de Jirōbō)"
+  verified: true
+
+# ---------------------------------------------------------------------------
+# Sellos de manos (nombrados en dialogo)
+# Convencion (indicada por Christian): se traducen en general ("Sello del
+# Tigre", "Sello del Caballo", etc.), salvo que un sello concreto resulte muy
+# caracteristico/asociado a un personaje o tecnica especifica, caso en el que
+# se revisa individualmente en vez de aplicar la regla general.
+# ---------------------------------------------------------------------------
+
+- japanese: "寅"
+  english: "Sign of the Tiger"
+  spanish_es: "el Sello del Tigre"
+  source: "Convencion establecida del proyecto (indicado por Christian, ver nota de cabecera de esta seccion)"
   verified: true
 
 # ---------------------------------------------------------------------------
@@ -511,6 +537,12 @@
   english: "Billboard Brow (Sakura's forehead nickname)"
   spanish_es: "«Pista de Aterrizaje»"
   source: "Convencion propia del proyecto (decidido con Christian; \"Frente de Marquesina\", la variante mas extendida online, se rastreo al doblaje mexicano/LatAm via Isabel Martinon, no al de Espana; se opta por un chiste propio en la misma linea que un modismo real ya existente en Espana sobre frentes anchas)"
+  verified: true
+
+- japanese: "(apodo, no japones)"
+  english: "Honorable Grandson (Konohamaru's epithet)"
+  spanish_es: "Honorable Nieto"
+  source: "Convencion establecida del proyecto (indicado por Christian; dicho por Ebisu, su guardaespaldas/tutor, encaja con su tono friki/protocolario; se mantiene el honorifico en vez de aplicar la convencion de -sama, por ser un apodo recurrente y no un simple tratamiento de respeto)"
   verified: true
 
 - japanese: "宗家"

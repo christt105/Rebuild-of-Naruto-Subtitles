@@ -262,7 +262,7 @@ De todas formas,
 61
 00:06:14,991 --> 00:06:18,036
 ¿Se encuentra bien,
-Honorable Nieto? {NIETO}
+Honorable Nieto?
 
 62
 00:06:18,231 --> 00:06:20,558
@@ -362,7 +362,7 @@ que me tomes como aprendiz.
 84
 00:07:40,982 --> 00:07:43,902
 Pero antes tienes que enseñarme
-esa técnica del "Jutsu Sexy" {SXHR}
+esa técnica del "Jutsu Sexy"
 
 85
 00:07:43,927 --> 00:07:46,040
@@ -412,12 +412,12 @@ detrás de Naruto.
 
 96
 00:08:09,844 --> 00:08:11,304
-¡Honorable Nieto! {NIETO}
+¡Honorable Nieto!
 
 97
 00:08:15,186 --> 00:08:19,399
 Ese Naruto... ¿Qué le estará
-enseñando al Honorable Nieto...? {NIETO}
+enseñando al Honorable Nieto...?
 
 98
 00:08:21,189 --> 00:08:24,984
@@ -542,7 +542,7 @@ Siempre es igual.</i>
 125
 00:10:26,110 --> 00:10:29,196
 Honorable Nieto,
-debemos irnos ya. {NIETO}
+debemos irnos ya.
 
 126
 00:10:29,508 --> 00:10:30,508
@@ -582,7 +582,7 @@ Y entonces...
 
 134
 00:10:51,135 --> 00:10:53,470
-¡Toma esto! ¡Jutsu Sexy! {SXHR}
+¡Toma esto! ¡Jutsu Sexy!
 
 135
 00:10:56,533 --> 00:10:58,243
@@ -606,7 +606,7 @@ nunca funcionarán conmigo!
 139
 00:11:08,198 --> 00:11:13,779
 ¡Honorable Nieto! ¡Ese mocoso
-solo conseguirá convertirlo en un idiota! {NIETO}
+solo conseguirá convertirlo en un idiota!
 
 140
 00:11:15,101 --> 00:11:17,103
@@ -667,7 +667,7 @@ Oh, Ebisu...
 153
 00:12:31,063 --> 00:12:33,357
 A esta la llamo...
-¡el "Jutsu Harem"! {SXHR}
+¡el "Jutsu Harem"!
 
 154
 00:12:35,234 --> 00:12:39,405
@@ -2657,7 +2657,7 @@ un enemigo se le ponga detrás, idiota.
 
 616
 00:45:46,166 --> 00:45:47,345
-<i>¡¿Ese es el Sello del Tigre?!</i> {STGR}
+<i>¡¿Ese es el Sello del Tigre?!</i>
 
 617
 00:45:47,780 --> 00:45:48,281
@@ -2696,7 +2696,7 @@ va a hacer algo en serio?</i>
 
 625
 00:46:05,836 --> 00:46:07,421
-<i>¡Los Mil Años de Dolor!</i> {MAD}
+<i>¡Muerte Milenaria!</i>
 
 626
 00:46:08,975 --> 00:46:11,812
