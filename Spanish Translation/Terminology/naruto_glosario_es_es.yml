@@ -7,16 +7,29 @@
 #   1) naruto-official.com/es (sitio oficial)
 #   2) Subtítulo oficial de Crunchyroll en castellano (rip verificado directamente,
 #      cabecera "Original Script: crunchyroll_es", registro "vosotros" confirmado)
-#   3) Wikipedia ES: articulo "Naruto" y anexos "Ninjutsu (Naruto) A-G / H-Z"
+#      -> gana incluso a la guia/manga (Rebuild traduce el ANIME, no el manga)
+#   3) Guia oficial de datos de personajes (Planeta Comic, manga impreso en Espana),
+#      CBR en la biblioteca de Jellyfin; en particular el indice maestro de tecnicas
+#      del tomo "03_Libro_de_combate" (= "Jin no sho", el ultimo publicado, con
+#      indice acumulado de personajes y tecnicas de los 4 libros: 501 personajes,
+#      544 tecnicas). Extraido por OCR el 2026-09-15 (ver
+#      /buzon/Naruto/indice_tecnicas_planeta_raw.txt); es traduccion impresa real
+#      de Espana, mas fiable que Wikipedia, pero es el manga, no el doblaje del
+#      anime que se esta subtitulando aqui, asi que no gana a una fuente Crunchyroll
+#      ES real si ambas existen para el mismo termino.
+#   4) Wikipedia ES: articulo "Naruto" y anexos "Ninjutsu (Naruto) A-G / H-Z"
 #      (fuente secundaria fiable, pero NO es el manga/doblaje oficial en sí;
 #      tratar como referencia, no como prueba de fidelidad 1:1 al doblaje/manga)
-#   4) Convencion establecida en el propio proyecto (ej. Rasengan/Chidori sin traducir,
+#   5) Convencion establecida en el propio proyecto (ej. Rasengan/Chidori sin traducir,
 #      indicado explicitamente por Christian)
 #
-# No se encontro un glosario de jutsus del doblaje/manga de Planeta Comic verificable
-# online en esta sesion (ni naruto-official.com/es ni doblaje-espana.fandom.com tienen
-# listas de tecnicas). Por eso la mayoria de "spanish_es" viene de Wikipedia ES
-# (verified: false) salvo donde se indica lo contrario.
+# La mayoria de "spanish_es" sigue viniendo de Wikipedia ES (verified: false) salvo
+# donde se indica lo contrario. El indice maestro de tecnicas de la guia oficial
+# confirmo/corrigio un primer lote de entradas el 2026-09-15 (ver notas individuales
+# en "source"), pero con 544 tecnicas en el indice y solo unas pocas docenas de
+# entradas en este glosario, quedan muchas por cruzar; tratar el manga como fuente
+# de consulta puntual (buscar el termino concreto cuando haga falta), no como un
+# pase exhaustivo ya terminado.
 #
 # verified: true  -> confirmado en fuente oficial, en un rip real de subtitulo
 #                     Crunchyroll ES, o es una convencion de no-traduccion ya
@@ -140,14 +153,14 @@
 - japanese: "天照"
   english: "Amaterasu"
   spanish_es: "Amaterasu"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G"
-  verified: false
+  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G; confirmado sin traducir en el indice maestro de tecnicas de la guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice acumulado de personajes y tecnicas)"
+  verified: true
 
 - japanese: "月読"
   english: "Tsukuyomi"
   spanish_es: "Tsukuyomi"
-  source: "Convencion (nombre propio japones, no traducido en ningun idioma conocido)"
-  verified: false
+  source: "Convencion (nombre propio japones, no traducido en ningun idioma conocido); confirmado sin traducir en el indice maestro de tecnicas de la guia oficial Planeta (tomo 03 Libro de combate / Jin no sho)"
+  verified: true
 
 - japanese: "須佐能乎"
   english: "Susanoo"
@@ -157,9 +170,9 @@
 
 - japanese: "神威"
   english: "Kamui"
-  spanish_es: "Kamui: Poder de los Dioses"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z"
-  verified: false
+  spanish_es: "Kamui"
+  source: "Indice maestro de tecnicas de la guia oficial Planeta (tomo 03 Libro de combate / Jin no sho): aparece solo como «Kamui», sin el subtitulo «Poder de los Dioses» que daba Wikipedia ES (parece glosa descriptiva de los kanji, no nombre usado en la obra)"
+  verified: true
 
 # ---------------------------------------------------------------------------
 # Tecnicas icónicas (convencion establecida: se mantienen sin traducir)
@@ -198,14 +211,20 @@
 - japanese: "麒麟"
   english: "Kirin"
   spanish_es: "Kirin"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z (nombre propio, sin traducir)"
-  verified: false
+  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z (nombre propio, sin traducir); confirmado sin traducir en el indice maestro de tecnicas de la guia oficial Planeta (tomo 03 Libro de combate / Jin no sho)"
+  verified: true
 
 - japanese: "穢土転生"
   english: "Edo Tensei"
   spanish_es: "Reencarnación del Cadáver Vivo"
   source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G / H-Z. OJO: en doblajes de otros idiomas 'Edo Tensei' suele mantenerse sin traducir como nombre propio; esta entrada es dudosa, revisar antes de fijarla."
   verified: false
+
+- japanese: "(no aplica, apodo/broma de Kakashi)"
+  english: "A Thousand Years of Death"
+  spanish_es: "Muerte Milenaria"
+  source: "Doblaje de Espana (Neox/Buzz), segun Christian; no la variante meme/fan «Los Mil Anos de Dolor»; corroborado de forma independiente en el manga oficial Planeta, que ademas usa la variante «Muerte milenaria acuatica»"
+  verified: true
 
 - japanese: "地爆天星"
   english: "Chibaku Tensei"
@@ -231,15 +250,15 @@
 
 - japanese: "変化の術"
   english: "Transformation Jutsu"
-  spanish_es: "Jutsu de Transformación"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z"
-  verified: false
+  spanish_es: "Técnica de Transformación"
+  source: "Guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice maestro de tecnicas): «Técnica de transformación», no «Jutsu de Transformación» (Wikipedia ES); corrige la entrada anterior"
+  verified: true
 
 - japanese: "変わり身の術"
   english: "Substitution Jutsu"
-  spanish_es: "Técnica de Sustitución"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z"
-  verified: false
+  spanish_es: "Técnica de la Sustitución"
+  source: "Guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice maestro de tecnicas): «TÉCNICA DE LA SUSTITUCIÓN» (con articulo); corrige la entrada anterior de Wikipedia ES, que omitia el «la»"
+  verified: true
 
 - japanese: "分身の術"
   english: "Clone Technique"
@@ -260,55 +279,76 @@
   verified: false
 
 - japanese: "お色気の術"
-  english: "Sexy Jutsu / Harem Jutsu"
-  spanish_es: "Jutsu Sexy Harem"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z"
-  verified: false
+  english: "Sexy Jutsu"
+  spanish_es: "Jutsu Sexy"
+  source: "Convencion establecida del proyecto (indicado por Christian; S01E02 usa Sexy Jutsu y Harem Jutsu como dos tecnicas distintas en dialogo real, no una sola frase fusionada)"
+  verified: true
+
+- japanese: "お色気の術・多重影分身版"
+  english: "Harem Jutsu"
+  spanish_es: "Jutsu Harem"
+  source: "Convencion establecida del proyecto (indicado por Christian, ver nota de Sexy Jutsu)"
+  verified: true
 
 # ---------------------------------------------------------------------------
-# Tecnicas elementales (patron: "Elemento <X>: <nombre>")
+# Tecnicas elementales
+# CORREGIDO 2026-09-15: el patron "Elemento <X>: <nombre>" (Wikipedia ES) no
+# aparece NINGUNA vez en el indice maestro de tecnicas de la guia oficial
+# Planeta (tomo 03 Libro de combate / Jin no sho, indice acumulado de 544
+# tecnicas de los 4 libros). El patron real por elemento, con su numero de
+# apariciones en ese indice:
+#   Fuego -> "Tecnica ignea: <nombre>"      (11 tecnicas)
+#   Agua -> "Tecnica acuatica: <nombre>"    (21 tecnicas)
+#   Rayo -> "Tecnica de trueno: <nombre>"   (6 tecnicas)
+#   Madera -> "Tecnica de madera: <nombre>" (7 tecnicas)
+#   Viento -> "Tecnica de viento: <nombre>" (13 tecnicas)
+#   Tierra -> "Tecnica terrestre: <nombre>" (16 tecnicas)
+# Se corrige el prefijo en las entradas de abajo. El nombre exacto que sigue
+# al prefijo solo esta re-verificado individualmente contra el indice cuando
+# se indica explicitamente (verified: true); en el resto solo se corrige el
+# prefijo y se deja el resto de Wikipedia ES sin re-confirmar.
 # ---------------------------------------------------------------------------
 
 - japanese: "火遁・豪火球の術"
   english: "Fire Release: Great Fireball Jutsu"
-  spanish_es: "Elemento Fuego: Gran Bola de Fuego"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z"
-  verified: false
+  spanish_es: "Técnica ígnea: Gran bola de fuego"
+  source: "Guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice maestro de tecnicas): «Técnica ígnea: gran bola de fuego» citado varias veces (p.ej. Rin p. 174); corrige el prefijo «Elemento Fuego» de Wikipedia ES"
+  verified: true
 
 - japanese: "火遁・鳳仙火の術"
   english: "Fire Release: Phoenix Sage Fire Jutsu"
-  spanish_es: "Elemento Fuego: Llamas del Fénix"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z"
+  spanish_es: "Técnica ígnea: Llamas del Fénix"
+  source: "Prefijo corregido segun el patron «Tecnica ignea:» confirmado en el indice maestro de la guia oficial Planeta (tomo 03); el nombre «Llamas del Fenix» en si sigue sin re-verificar individualmente contra el indice, viene de Wikipedia ES"
   verified: false
 
 - japanese: "火遁・龍火の術"
   english: "Fire Release: Dragon Fire Jutsu"
-  spanish_es: "Elemento Fuego: Flama de Dragón"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z"
+  spanish_es: "Técnica ígnea: Flama de Dragón"
+  source: "Prefijo corregido segun el patron «Tecnica ignea:» confirmado en el indice maestro de la guia oficial Planeta (tomo 03); el indice lista variantes propias de dragon de fuego («gran dragon de fuego», «fuego del dragon») sin que se haya podido casar con certeza cual corresponde a esta tecnica exacta, asi que el nombre sigue sin re-verificar, viene de Wikipedia ES"
   verified: false
 
 - japanese: "土遁・土流大河"
   english: "Earth Release: Great Mud River"
-  spanish_es: "Elemento Tierra: Gran Río de Fango"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G"
+  spanish_es: "Técnica terrestre: Gran Río de Fango"
+  source: "Prefijo corregido segun el patron «Tecnica terrestre:» confirmado en el indice maestro de la guia oficial Planeta (tomo 03); el nombre en si sigue sin re-verificar individualmente, viene de Wikipedia ES"
   verified: false
 
 - japanese: "土遁・落とし蓋"
   english: "Earth Release: Dropping Lid"
-  spanish_es: "Elemento Tierra: Tapa Cayendo"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G"
+  spanish_es: "Técnica terrestre: Tapa Cayendo"
+  source: "Prefijo corregido segun el patron «Tecnica terrestre:» confirmado en el indice maestro de la guia oficial Planeta (tomo 03); el nombre en si sigue sin re-verificar individualmente, viene de Wikipedia ES"
   verified: false
 
 - japanese: "風遁・蝦蟇油炎弾"
   english: "Wind Release: Toad Gun"
-  spanish_es: "Elemento Viento: Llamas de Sapo"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G"
+  spanish_es: "Técnica de viento: Llamas de Sapo"
+  source: "Prefijo corregido segun el patron «Tecnica de viento:» confirmado en el indice maestro de la guia oficial Planeta (tomo 03); OJO: el indice tambien lista tecnicas igneas de sapo («llamas aceitosas del sapo», «bala aceitosa del sapo») que podrian ser esta misma tecnica mal clasificada como viento en Wikipedia ES en vez de fuego; revisar si aparece en dialogo real antes de fijar"
   verified: false
 
 - japanese: "風遁・無限砂塵大突破"
   english: "Wind Release: Infinite Sand Storm Great Breakthrough"
-  spanish_es: "Elemento Viento: Devastación de Tormenta de Arena"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G"
+  spanish_es: "Técnica de viento: Devastación de Tormenta de Arena"
+  source: "Prefijo corregido segun el patron «Tecnica de viento:» confirmado en el indice maestro de la guia oficial Planeta (tomo 03); el nombre en si sigue sin re-verificar individualmente, viene de Wikipedia ES"
   verified: false
 
 - japanese: "水分身の術"
@@ -320,7 +360,7 @@
 - japanese: "木遁"
   english: "Wood Release"
   spanish_es: "Elemento Madera"
-  source: "Convencion (patron 'Elemento <X>' ya confirmado para Fuego/Tierra/Viento en Wikipedia ES; Madera no localizada explicitamente)"
+  source: "CORREGIDO 2026-09-15: el supuesto patron 'Elemento <X>' en el que se basaba esta entrada no aparece en el indice maestro de tecnicas de la guia oficial Planeta (tomo 03); ahi el patron real es «Tecnica de madera: <nombre>» para tecnicas concretas, pero esta entrada es el nombre de la categoria/kekkei genkai en si (no una tecnica con nombre propio), y no se ha localizado como se llama esa categoria sola en ninguna fuente oficial; queda sin re-verificar"
   verified: false
 
 - japanese: "(no confirmado)"
@@ -333,6 +373,20 @@
   english: "Earth Style: Terra Shield / Earth Shield"
   spanish_es: "Arte Ninja de Tierra: Escudo de Tierra"
   source: "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke, técnica de Jirōbō)"
+  verified: true
+
+# ---------------------------------------------------------------------------
+# Sellos de manos (nombrados en dialogo)
+# Convencion (indicada por Christian): se traducen en general ("Sello del
+# Tigre", "Sello del Caballo", etc.), salvo que un sello concreto resulte muy
+# caracteristico/asociado a un personaje o tecnica especifica, caso en el que
+# se revisa individualmente en vez de aplicar la regla general.
+# ---------------------------------------------------------------------------
+
+- japanese: "寅"
+  english: "Sign of the Tiger"
+  spanish_es: "el Sello del Tigre"
+  source: "Convencion establecida del proyecto (indicado por Christian, ver nota de cabecera de esta seccion)"
   verified: true
 
 # ---------------------------------------------------------------------------
@@ -511,6 +565,12 @@
   english: "Billboard Brow (Sakura's forehead nickname)"
   spanish_es: "«Pista de Aterrizaje»"
   source: "Convencion propia del proyecto (decidido con Christian; \"Frente de Marquesina\", la variante mas extendida online, se rastreo al doblaje mexicano/LatAm via Isabel Martinon, no al de Espana; se opta por un chiste propio en la misma linea que un modismo real ya existente en Espana sobre frentes anchas)"
+  verified: true
+
+- japanese: "(apodo, no japones)"
+  english: "Honorable Grandson (Konohamaru's epithet)"
+  spanish_es: "Honorable Nieto"
+  source: "Convencion establecida del proyecto (indicado por Christian; dicho por Ebisu, su guardaespaldas/tutor, encaja con su tono friki/protocolario; se mantiene el honorifico en vez de aplicar la convencion de -sama, por ser un apodo recurrente y no un simple tratamiento de respeto)"
   verified: true
 
 - japanese: "宗家"
