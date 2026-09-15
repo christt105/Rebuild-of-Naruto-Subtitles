@@ -856,6 +856,16 @@
       "episodes": []
     },
     {
+      "japanese": "(no aplica, apodo/broma de Kakashi)",
+      "english": "A Thousand Years of Death",
+      "spanish_es": "Muerte Milenaria",
+      "source": "Doblaje de Espana (Neox/Buzz), segun Christian; no la variante meme/fan \"Los Mil Anos de Dolor\"",
+      "verified": true,
+      "episodes": [
+        "S01E02"
+      ]
+    },
+    {
       "japanese": "地爆天星",
       "english": "Chibaku Tensei",
       "spanish_es": "Devastación Planetaria",
@@ -934,12 +944,23 @@
     },
     {
       "japanese": "お色気の術",
-      "english": "Sexy Jutsu / Harem Jutsu",
-      "spanish_es": "Jutsu Sexy Harem",
-      "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z",
-      "verified": false,
+      "english": "Sexy Jutsu",
+      "spanish_es": "Jutsu Sexy",
+      "source": "Convencion establecida del proyecto (indicado por Christian; S01E02 usa Sexy Jutsu y Harem Jutsu como dos tecnicas distintas en dialogo real, no una sola frase fusionada)",
+      "verified": true,
       "episodes": [
-        "S01E01"
+        "S01E01",
+        "S01E02"
+      ]
+    },
+    {
+      "japanese": "お色気の術・多重影分身版",
+      "english": "Harem Jutsu",
+      "spanish_es": "Jutsu Harem",
+      "source": "Convencion establecida del proyecto (indicado por Christian, ver nota de Sexy Jutsu)",
+      "verified": true,
+      "episodes": [
+        "S01E02"
       ]
     },
     {
@@ -1029,6 +1050,16 @@
       "source": "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke, técnica de Jirōbō)",
       "verified": true,
       "episodes": []
+    },
+    {
+      "japanese": "寅",
+      "english": "Sign of the Tiger",
+      "spanish_es": "el Sello del Tigre",
+      "source": "Convencion establecida del proyecto (indicado por Christian, ver nota de cabecera de esta seccion)",
+      "verified": true,
+      "episodes": [
+        "S01E02"
+      ]
     },
     {
       "japanese": "口寄せの術",
@@ -1406,6 +1437,16 @@
       ]
     },
     {
+      "japanese": "(apodo, no japones)",
+      "english": "Honorable Grandson (Konohamaru's epithet)",
+      "spanish_es": "Honorable Nieto",
+      "source": "Convencion establecida del proyecto (indicado por Christian; dicho por Ebisu, su guardaespaldas/tutor, encaja con su tono friki/protocolario; se mantiene el honorifico en vez de aplicar la convencion de -sama, por ser un apodo recurrente y no un simple tratamiento de respeto)",
+      "verified": true,
+      "episodes": [
+        "S01E02"
+      ]
+    },
+    {
       "japanese": "宗家",
       "english": "Head Family (Hyuga clan)",
       "spanish_es": "la Familia Principal",
@@ -1442,29 +1483,9 @@
       "body": "Free-text explanation of the term/decision, as long as needed.\n```\n\n---"
     },
     {
-      "code": "NIETO",
-      "title": "\"Honorable Grandson\" (Konohamaru's epithet)",
-      "body": "S01E02 repeatedly addresses Konohamaru as \"Honorable Grandson\" (capitalized,\nused as a name substitute by Ebisu and the guard, e.g. cues 61, 96, 97, 125,\n139) instead of his actual name. No existing glossary entry covers this.\nIt's structurally similar to the already-verified `-sama` convention\n(\"Lord Hokage\" -> \"el Hokage\", honorific dropped when context is clear), but\nsince this is a recurring epithet tied to one specific character (Konohamaru\nreappears in later episodes), it's flagged here instead of silently applying\nthat convention. Working translation used this episode: \"Honorable Nieto\".\nReview should decide whether to keep the honorific or strip it per the\n`-sama` convention (e.g. plain \"nieto del Hokage\")."
-    },
-    {
-      "code": "SXHR",
-      "title": "\"Sexy Jutsu\" vs. \"Harem Jutsu\" split",
-      "body": "The existing glossary entry (\"Sexy Jutsu / Harem Jutsu\" -> \"Jutsu Sexy\nHarem\", verified: false) treats both English names as one merged Spanish\nphrase. S01E02 (cues 84, 134, 153) uses them as two distinct, separately\nnamed techniques in the dialogue itself: \"Sexy Jutsu\" (Naruto's original\ntransformation) and \"Harem Jutsu\" (the multi-clone escalation of it, cue\n153: `I call this one... the \"Harem Jutsu\"!`). This episode splits the\nglossary phrase into \"Jutsu Sexy\" (for Sexy Jutsu) and \"Jutsu Harem\" (for\nHarem Jutsu) to match the source. Review should confirm and split the\nglossary entry into two, or restore the merged phrasing if that was\nintentional."
-    },
-    {
-      "code": "STGR",
-      "title": "\"Sign of the Tiger\" (hand seal)",
-      "body": "S01E02, cue 616: `Is that the Sign of the Tiger?!`. No glossary entry for\nhand-seal names exists yet. Translated as \"el Sello del Tigre\" this episode.\nLikely to recur whenever hand seals are called out by name in future\nepisodes; review should fix a consistent convention for hand-seal names\ngenerally (Tiger, Horse, etc. appear as cues 741-742 in this same episode\nbut untitled there, just shouted as \"Horse!\"/\"Tiger!\")."
-    },
-    {
-      "code": "MAD",
-      "title": "\"A Thousand Years of Death\"",
-      "body": "S01E02, cue 625: Kakashi's joke taijutsu technique, `<i>A Thousand Years of\nDeath!</i>`. No glossary entry exists. Translated as \"Los Mil Años de\nDolor\", the widely-known fan/meme rendering of this move in Spanish (rather\nthan a literal \"de Muerte\"), but this hasn't been confirmed against an\nactual Spain dub/sub source. Review should verify or correct."
-    },
-    {
       "code": "ICHA",
       "title": "\"Make-Out Paradise\" (Kakashi's book)",
-      "body": "S01E02, cue 732: `There's no time to read \"Make-Out Paradise.\"`. This is the\nEnglish localization's name for Kakashi's Icha Icha book, a running gag\nacross the whole series, so it will recur constantly in later episodes. No\nglossary entry exists. Left untranslated as \"Make-Out Paradise\" this\nepisode pending a decision on whether to translate the title (and to what)\nor keep it in English/Japanese."
+      "body": "S01E02, cue 732: `There's no time to read \"Make-Out Paradise.\"`. This is the\nEnglish localization's name for Kakashi's Icha Icha book, a running gag\nacross the whole series, so it will recur constantly in later episodes. No\nglossary entry exists. Left untranslated as \"Make-Out Paradise\" this\nepisode pending a decision on whether to translate the title (and to what)\nor keep it in English/Japanese. Christian's recollection: \"Icha Icha\" is\nlikely the actual Spain dub/manga term (the Japanese title kept as-is, same\npattern as Rasengan/Chidori) rather than \"Make-Out Paradise\", but unconfirmed.\nHe owns the full manga tomes plus an official character/data guide, both on\nJellyfin under `/Manga` (not being detected correctly there yet, separate\nissue from this glossary), which could settle this and future dudas once\nreviewed."
     }
   ]
 }
