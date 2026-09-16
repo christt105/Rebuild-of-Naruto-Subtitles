@@ -493,7 +493,8 @@
       "verified": false,
       "episodes": [
         "S01E01",
-        "S01E02"
+        "S01E02",
+        "S01E03"
       ]
     },
     {
@@ -503,7 +504,8 @@
       "source": "Convencion (mismo patron que Genin/Chūnin, no localizado en el fragmento de Wikipedia consultado)",
       "verified": false,
       "episodes": [
-        "S01E02"
+        "S01E02",
+        "S01E03"
       ]
     },
     {
@@ -920,7 +922,8 @@
       "verified": false,
       "episodes": [
         "S01E01",
-        "S01E02"
+        "S01E02",
+        "S01E03"
       ]
     },
     {
@@ -931,7 +934,8 @@
       "verified": true,
       "episodes": [
         "S01E01",
-        "S01E02"
+        "S01E02",
+        "S01E03"
       ]
     },
     {
@@ -1028,7 +1032,9 @@
       "spanish_es": "Técnica de replicación de agua",
       "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z",
       "verified": false,
-      "episodes": []
+      "episodes": [
+        "S01E03"
+      ]
     },
     {
       "japanese": "木遁",
@@ -1055,6 +1061,50 @@
       "episodes": []
     },
     {
+      "japanese": "霧隠れの術",
+      "english": "Hidden Mist Jutsu",
+      "spanish_es": "la Técnica del Banco de Niebla",
+      "source": "Manga oficial Planeta (tomo 2, pág. 97): Zabuza la nombra completa en un recuadro de narración justo antes de desaparecer entre la niebla. Resuelto 2026-09-16, cue S01E03 413 (antes {HMIST}, 'Arte Ninja: Ocultación en la Niebla')",
+      "verified": true,
+      "episodes": [
+        "S01E03"
+      ]
+    },
+    {
+      "japanese": "水牢の術",
+      "english": "Water Prison Jutsu",
+      "spanish_es": "¡Prisión de Agua!",
+      "source": "Manga oficial Planeta (tomo 2, pág. 113): grito de Zabuza al atrapar a Kakashi, sin el prefijo 'Técnica acuática:'. Resuelto 2026-09-16, cue S01E03 463 (ya se traducia igual, solo se retira el tag {WPRIS})",
+      "verified": true,
+      "episodes": []
+    },
+    {
+      "japanese": "風魔手裏剣",
+      "english": "Demon Wind Shuriken",
+      "spanish_es": "Shuriken Viento Diabólico",
+      "source": "Guia oficial de datos de personajes (ficha de tecnica, tomo 01): grito en el propio panel '¡EL SHURIKEN VIENTO DIABÓLICO!'. Resuelto 2026-09-16, cues S01E03 585 y 602 (antes {DWSHU}, 'Shuriken del Viento Demoníaco')",
+      "verified": true,
+      "episodes": [
+        "S01E03"
+      ]
+    },
+    {
+      "japanese": "水遁・水龍弾の術",
+      "english": "Water Dragon Jutsu",
+      "spanish_es": "Técnica acuática: Dragón de Agua",
+      "source": "Guia oficial de datos de personajes (ficha de tecnica, tomo 01, pag. 201) y confirmado tambien en el indice maestro de la guia (Planeta, tomo 03): 'Técnica acuática: dragón de agua'. Resuelto 2026-09-16, cue S01E03 618 (ya se traducia igual, solo se retira el tag {WDRAG})",
+      "verified": true,
+      "episodes": []
+    },
+    {
+      "japanese": "音無しの殺人術",
+      "english": "Silent Killing (Hidden Mist technique)",
+      "spanish_es": "la Muerte Silenciosa",
+      "source": "Manga oficial Planeta (tomo 2, pág. 98): 'es famoso por su técnica de la Muerte Silenciosa'. Resuelto 2026-09-16, cue S01E03 419 (antes {SILKI}, 'la técnica de la Matanza Silenciosa')",
+      "verified": true,
+      "episodes": []
+    },
+    {
       "japanese": "寅",
       "english": "Sign of the Tiger",
       "spanish_es": "el Sello del Tigre",
@@ -1062,6 +1112,16 @@
       "verified": true,
       "episodes": [
         "S01E02"
+      ]
+    },
+    {
+      "japanese": "卍の陣",
+      "english": "Manji Formation",
+      "spanish_es": "Formación Manji",
+      "source": "naruto.fandom.com/es - articulo 'Formación Manji' (consultado 2026-09-16 via API de MediaWiki, la pagina normal esta tras Cloudflare); no encontrada como termino nombrado en el manga oficial Planeta ni en la guia oficial de datos de personajes, asi que esta es la fuente que fija el termino. Indicado por Christian. Cue S01E03 378 (antes {MANJI})",
+      "verified": true,
+      "episodes": [
+        "S01E03"
       ]
     },
     {
@@ -1298,6 +1358,7 @@
       "episodes": [
         "S01E01",
         "S01E02",
+        "S01E03",
         "S01E05",
         "S01E06",
         "S01E07",
@@ -1450,6 +1511,46 @@
       ]
     },
     {
+      "japanese": "コピー忍者",
+      "english": "Copy Ninja (Kakashi's epithet)",
+      "spanish_es": "el Ninja Imitador",
+      "source": "Manga oficial Planeta (tomo 2, pág. 94, dialogo real de Kakashi) y guia oficial de datos de personajes (ficha de Kakashi, tomo 01, pag. 94: apodado 'el ninja imitador'). Resuelto 2026-09-16, cues S01E03 359 y 401 (antes {COPYN}, 'el Ninja Copión')",
+      "verified": true,
+      "episodes": [
+        "S01E03"
+      ]
+    },
+    {
+      "japanese": "(no confirmado)",
+      "english": "Tracker Ninja (hunter-nin role)",
+      "spanish_es": "Ninja Cazador",
+      "source": "Manga oficial Planeta (tomo 2, pág. 178): 'los cazadores ninja se especializan en aniquilar...'. El apodo ingles 'Corpse Disposal Unit' no tiene equivalente fijo en la fuente, ahi se explica de forma descriptiva ('hacen desaparecer sus cuerpos por completo'); se mantiene 'Unidad de Eliminación de Cadáveres' como eleccion de trabajo sin verificar. Resuelto 2026-09-16, cues S01E03 656, 659, 707-709, 718, 726, 735, 745, 749 (antes {TRACK}, 'Ninja Rastreador')",
+      "verified": true,
+      "episodes": [
+        "S01E03"
+      ]
+    },
+    {
+      "japanese": "(no confirmado)",
+      "english": "Bingo Book",
+      "spanish_es": "Guía de Bolsillo",
+      "source": "Manga oficial Planeta (tomo 2, pags. 94 y 115, dialogo real de Zabuza, dos veces). Resuelto 2026-09-16, cues S01E03 397, 477, 517 (antes {BINGO}, 'Libro Bingo')",
+      "verified": true,
+      "episodes": [
+        "S01E03"
+      ]
+    },
+    {
+      "japanese": "イチャイチャ楽園",
+      "english": "Icha Icha / \"Make-Out Paradise\" (Kakashi's book)",
+      "spanish_es": "\"Paraíso Erótico\"",
+      "source": "Guia oficial de datos de personajes (ficha de Kakashi, tomo 01, pag. 94: 'Aficiones: Lectura (Colección Paraíso erótico)'). La intuicion inicial de Christian de mantener 'Icha Icha' en japones (patron Rasengan/Chidori) NO se confirma: el manga oficial si lo traduce. Resuelto 2026-09-16, cue S01E02 732 (antes {ICHA}, dejado sin traducir como 'Make-Out Paradise')",
+      "verified": true,
+      "episodes": [
+        "S01E02"
+      ]
+    },
+    {
       "japanese": "宗家",
       "english": "Head Family (Hyuga clan)",
       "spanish_es": "la Familia Principal",
@@ -1475,7 +1576,8 @@
       "source": "Doblaje de Espana (Neox/Buzz), documentado en variasveces.blogspot.com (2006, entrada dedicada al cambio de adaptacion); distinto del \"de veras\" latinoamericano",
       "verified": true,
       "episodes": [
-        "S01E01"
+        "S01E01",
+        "S01E03"
       ]
     }
   ],
@@ -1483,12 +1585,7 @@
     {
       "code": "CODE",
       "title": "short title",
-      "body": "Free-text explanation of the term/decision, as long as needed.\n```\n\n---"
-    },
-    {
-      "code": "ICHA",
-      "title": "\"Make-Out Paradise\" (Kakashi's book)",
-      "body": "S01E02, cue 732: `There's no time to read \"Make-Out Paradise.\"`. This is the\nEnglish localization's name for Kakashi's Icha Icha book, a running gag\nacross the whole series, so it will recur constantly in later episodes. No\nglossary entry exists. Left untranslated as \"Make-Out Paradise\" this\nepisode pending a decision on whether to translate the title (and to what)\nor keep it in English/Japanese. Christian's recollection: \"Icha Icha\" is\nlikely the actual Spain dub/manga term (the Japanese title kept as-is, same\npattern as Rasengan/Chidori) rather than \"Make-Out Paradise\", but unconfirmed.\nHe owns the full manga tomes plus an official character/data guide, both on\nJellyfin under `/Manga` (not being detected correctly there yet, separate\nissue from this glossary), which could settle this and future dudas once\nreviewed."
+      "body": "Free-text explanation of the term/decision, as long as needed.\n```\n\n---\n\n(No hay términos pendientes de revisión ahora mismo.)"
     }
   ]
 }
