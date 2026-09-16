@@ -8,7 +8,7 @@ Fuente: 73 episodios actualmente publicados en [Maediem/Rebuild-of-Naruto-Subtit
 |---|---|---|---|---|---|
 | S01E01 | Academy Days | Días de Academia | Naruto | Fusionado | PR #1 |
 | S01E02 | The Bell Test | La Prueba de los Cascabeles | Naruto | Fusionado | PR #6 — PR #6 |
-| S01E03 | Mission, Start | Comienza la Misión | Naruto | PR abierta | PR #8 |
+| S01E03 | Mission, Start | Comienza la Misión | Naruto | Fusionado | PR #8 — PR #8 |
 | S01E04 | The Bridge | El Puente | Naruto | Pendiente |  |
 | S01E05 | Squad Missions | Misiones de Equipo | Naruto | Pendiente |  |
 | S01E06 | Entrance Exam | Examen de Acceso | Naruto | Pendiente |  |
