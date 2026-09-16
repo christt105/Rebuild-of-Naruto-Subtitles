@@ -3593,11 +3593,9 @@
       "start": "00:25:13,724",
       "end": "00:25:15,977",
       "en": "<i>The Copy Ninja of the\nHidden Leaf Village...</i>",
-      "es": "<i>El Ninja Copión {COPYN}\nde la Aldea Oculta de la Hoja...</i>",
+      "es": "<i>El Ninja Imitador\nde la Aldea Oculta de la Hoja...</i>",
       "translated": true,
-      "tags": [
-        "COPYN"
-      ],
+      "tags": [],
       "es_prev": "<i>The Copy Ninja of the\nHidden Leaf Village...</i>"
     },
     {
@@ -3785,11 +3783,9 @@
       "start": "00:26:25,838",
       "end": "00:26:28,674",
       "en": "Form the Manji Formation...",
-      "es": "Formad la Formación Manji {MANJI}...",
+      "es": "Formad la Formación Manji...",
       "translated": true,
-      "tags": [
-        "MANJI"
-      ],
+      "tags": [],
       "es_prev": "Form the Manji Formation..."
     },
     {
@@ -3977,11 +3973,9 @@
       "start": "00:27:29,663",
       "end": "00:27:31,999",
       "en": "I had a shinobi Bingo Book...",
-      "es": "tenía un Libro Bingo {BINGO} shinobi...",
+      "es": "tenía una Guía de Bolsillo shinobi...",
       "translated": true,
-      "tags": [
-        "BINGO"
-      ],
+      "tags": [],
       "es_prev": "I had a shinobi Bingo Book..."
     },
     {
@@ -4019,11 +4013,9 @@
       "start": "00:27:42,023",
       "end": "00:27:44,004",
       "en": "Kakashi, the Copy Ninja.",
-      "es": "Kakashi, el Ninja Copión {COPYN}.",
+      "es": "Kakashi, el Ninja Imitador.",
       "translated": true,
-      "tags": [
-        "COPYN"
-      ],
+      "tags": [],
       "es_prev": "Kakashi, the Copy Ninja."
     },
     {
@@ -4141,11 +4133,9 @@
       "start": "00:28:34,845",
       "end": "00:28:37,723",
       "en": "<i>Ninja Art: Hidden Mist Jutsu.</i>",
-      "es": "<i>Arte Ninja: Ocultación en la Niebla {HMIST}.</i>",
+      "es": "<i>La Técnica del Banco de Niebla.</i>",
       "translated": true,
-      "tags": [
-        "HMIST"
-      ],
+      "tags": [],
       "es_prev": "<i>Ninja Art: Hidden Mist Jutsu.</i>"
     },
     {
@@ -4203,11 +4193,9 @@
       "start": "00:28:52,438",
       "end": "00:28:55,274",
       "en": "and he's an expert of the\nSilent Killing technique.",
-      "es": "y es un experto en la\ntécnica de la Matanza Silenciosa {SILKI}.",
+      "es": "y es un experto en la\nMuerte Silenciosa.",
       "translated": true,
-      "tags": [
-        "SILKI"
-      ],
+      "tags": [],
       "es_prev": "and he's an expert of the\nSilent Killing technique."
     },
     {
@@ -4645,11 +4633,9 @@
       "start": "00:32:30,757",
       "end": "00:32:32,008",
       "en": "<i>Water Prison Jutsu!</i>",
-      "es": "<i>¡Técnica acuática: Prisión de Agua {WPRIS}!</i>",
+      "es": "<i>¡Técnica acuática: Prisión de Agua!</i>",
       "translated": true,
-      "tags": [
-        "WPRIS"
-      ],
+      "tags": [],
       "es_prev": "<i>Water Prison Jutsu!</i>"
     },
     {
@@ -4787,11 +4773,9 @@
       "start": "00:33:25,603",
       "end": "00:33:28,481",
       "en": "only those whose names are worthy\nof being listed in my Bingo Book,",
-      "es": "solo aquellos cuyos nombres merecen\nfigurar en mi Libro Bingo {BINGO},",
+      "es": "solo aquellos cuyos nombres merecen\nfigurar en mi Guía de Bolsillo,",
       "translated": true,
-      "tags": [
-        "BINGO"
-      ],
+      "tags": [],
       "es_prev": "only those whose names are worthy\nof being listed in my Bingo Book,"
     },
     {
@@ -5189,11 +5173,9 @@
       "start": "00:36:49,611",
       "end": "00:36:53,073",
       "en": "Make a record in your Bingo Book...",
-      "es": "Apunta esto en tu Libro Bingo {BINGO}...",
+      "es": "Apunta esto en tu Guía de Bolsillo...",
       "translated": true,
-      "tags": [
-        "BINGO"
-      ],
+      "tags": [],
       "es_prev": "Make a record in your Bingo Book..."
     },
     {
@@ -5871,11 +5853,9 @@
       "start": "00:41:56,021",
       "end": "00:41:57,272",
       "en": "<i>Demon Wind Shuriken</i>",
-      "es": "<i>Shuriken del Viento Demoníaco {DWSHU}</i>",
+      "es": "<i>¡Shuriken Viento Diabólico!</i>",
       "translated": true,
-      "tags": [
-        "DWSHU"
-      ],
+      "tags": [],
       "es_prev": "<i>Demon Wind Shuriken</i>"
     },
     {
@@ -6033,11 +6013,9 @@
       "start": "00:43:20,883",
       "end": "00:43:25,637",
       "en": "but to hide me, transformed\ninto a Demon Wind Shuriken!",
-      "es": "sino esconderme a mí, transformado\nen un Shuriken del Viento Demoníaco {DWSHU}.",
+      "es": "sino esconderme a mí, transformado\nen un Shuriken Viento Diabólico.",
       "translated": true,
-      "tags": [
-        "DWSHU"
-      ],
+      "tags": [],
       "es_prev": "but to hide me, transformed\ninto a Demon Wind Shuriken!"
     },
     {
@@ -6205,11 +6183,9 @@
       "start": "00:44:28,762",
       "end": "00:44:30,514",
       "en": "<i>Water Style: Water Dragon Jutsu!</i>",
-      "es": "<i>Técnica acuática: ¡Dragón de Agua {WDRAG}!</i>",
+      "es": "<i>Técnica acuática: ¡Dragón de Agua!</i>",
       "translated": true,
-      "tags": [
-        "WDRAG"
-      ],
+      "tags": [],
       "es_prev": "<i>Water Style: Water Dragon Jutsu!</i>"
     },
     {
@@ -6587,11 +6563,9 @@
       "start": "00:49:37,063",
       "end": "00:49:39,691",
       "en": "You're a Tracker Ninja from\nthe Village Hidden in the Mist.",
-      "es": "Eres un Ninja Rastreador {TRACK}\nde la Aldea Oculta de la Niebla.",
+      "es": "Eres un Ninja Cazador\nde la Aldea Oculta de la Niebla.",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "You're a Tracker Ninja from\nthe Village Hidden in the Mist."
     },
     {
@@ -6619,11 +6593,9 @@
       "start": "00:49:50,930",
       "end": "00:49:52,182",
       "en": "<i>And he's a Tracker Ninja...?</i>",
-      "es": "<i>¿Y es un Ninja Rastreador {TRACK}...?</i>",
+      "es": "<i>¿Y es un Ninja Cazador...?</i>",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "<i>And he's a Tracker Ninja...?</i>"
     },
     {
@@ -7101,11 +7073,9 @@
       "start": "00:53:38,523",
       "end": "00:53:40,817",
       "en": "Only elite Tracker Ninja \nwear masks like that.",
-      "es": "Solo los Ninja Rastreadores {TRACK}\nde élite llevan máscaras así.",
+      "es": "Solo los Ninja Cazadores\nde élite llevan máscaras así.",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "Only elite Tracker Ninja \nwear masks like that."
     },
     {
@@ -7113,11 +7083,9 @@
       "start": "00:53:41,901",
       "end": "00:53:43,101",
       "en": "Tracker Ninja?",
-      "es": "¿Ninja Rastreador {TRACK}?",
+      "es": "¿Ninja Cazador?",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "Tracker Ninja?"
     },
     {
@@ -7125,11 +7093,9 @@
       "start": "00:53:43,486",
       "end": "00:53:46,114",
       "en": "Well, they're commonly known as\n\"Corpse Disposal Unit,\"",
-      "es": "Bueno, se les conoce comúnmente como\nla \"Unidad de Eliminación de Cadáveres {TRACK}\",",
+      "es": "Bueno, se les conoce comúnmente como\nla \"Unidad de Eliminación de Cadáveres\",",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "Well, they're commonly known as\n\"Corpse Disposal Unit,\""
     },
     {
@@ -7217,11 +7183,9 @@
       "start": "00:54:16,603",
       "end": "00:54:18,208",
       "en": "In other words,\nTracker Ninja are specialists",
-      "es": "En otras palabras, los Ninja\nRastreadores {TRACK} son especialistas",
+      "es": "En otras palabras, los Ninja\nCazadores son especialistas",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "In other words,\nTracker Ninja are specialists"
     },
     {
@@ -7299,11 +7263,9 @@
       "start": "00:54:45,933",
       "end": "00:54:46,934",
       "en": "Tracker Ninja...",
-      "es": "Los Ninja Rastreadores {TRACK}...",
+      "es": "Los Ninja Cazadores...",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "Tracker Ninja..."
     },
     {
@@ -7391,11 +7353,9 @@
       "start": "00:55:14,077",
       "end": "00:55:18,164",
       "en": "the weapon that Tracker Ninja\nused to kill Zabuza...",
-      "es": "el arma que el Ninja Rastreador {TRACK}\nusó para matar a Zabuza...",
+      "es": "el arma que el Ninja Cazador\nusó para matar a Zabuza...",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "the weapon that Tracker Ninja\nused to kill Zabuza..."
     },
     {
@@ -7493,11 +7453,9 @@
       "start": "00:55:50,748",
       "end": "00:55:55,545",
       "en": "The senbon that the Tracker Ninja used\nhas a very low chance of killing...",
-      "es": "El senbon que usó el Ninja\nRastreador {TRACK} tiene muy pocas probabilidades de matar...",
+      "es": "El senbon que usó el Ninja\nCazador tiene muy pocas probabilidades de matar...",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "The senbon that the Tracker Ninja used\nhas a very low chance of killing..."
     },
     {
@@ -7535,11 +7493,9 @@
       "start": "00:56:03,961",
       "end": "00:56:07,381",
       "en": "Tracker Ninja know all about\nthe structure of the human body...",
-      "es": "Los Ninja Rastreadores {TRACK} conocen\na la perfección la estructura del cuerpo humano...",
+      "es": "Los Ninja Cazadores conocen\na la perfección la estructura del cuerpo humano...",
       "translated": true,
-      "tags": [
-        "TRACK"
-      ],
+      "tags": [],
       "es_prev": "Tracker Ninja know all about\nthe structure of the human body..."
     },
     {

@@ -7323,12 +7323,10 @@
       "start": "00:53:56,109",
       "end": "00:53:58,278",
       "en": "<i>There's no time\nto read \"Make-Out Paradise.\"</i>",
-      "es": "<i>No hay tiempo\npara leer \"Make-Out Paradise\".</i> {ICHA}",
+      "es": "<i>No hay tiempo\npara leer \"Paraíso Erótico\".</i>",
       "translated": true,
-      "tags": [
-        "ICHA"
-      ],
-      "es_prev": null
+      "tags": [],
+      "es_prev": "<i>No hay tiempo\npara leer \"Make-Out Paradise\".</i> {ICHA}"
     },
     {
       "index": 733,
