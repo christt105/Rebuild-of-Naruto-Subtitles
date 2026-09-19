@@ -31,7 +31,7 @@ Rendered "Arte Secreto: Espejos de Cristales de Hielo Demoníacos" (the English 
 Kept as the loanword "senbon", used without an article change. Unverified whether the Spanish edition translates it (for example "agujas") or keeps "senbon". Not in the glossary.
 
 ### `{FANG}` — Kakashi's "Earth Style: Fanged Pursuit Jutsu" (S01E04, cue 679)
-Rendered "Arte Ninja: Invocación! / Técnica de tierra: Persecución de Colmillos", following the "Arte Ninja: Invocación" wording already used in S01E03 and the "Técnica de tierra:" prefix convention from the glossary header. The technique name itself is a literal working choice, unverified.
+Rendered "Arte Ninja: ¡Invocación! / Técnica de tierra: Persecución de Colmillos", following the "Arte Ninja: Invocación" wording already used in S01E03 and the "Técnica de tierra:" prefix convention from the glossary header. The technique name itself is a literal working choice, unverified.
 
 ### `{RAIKIRI}` — Kakashi's "Lightning Blade" (S01E04, cue 718)
 Rendered "Hoja Relámpago" as a literal working name. The Spanish edition may keep "Raikiri" or use another name; needs a source check.
