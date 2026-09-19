@@ -12,6 +12,16 @@ context out of the session you use to supervise/check in from your phone).
 Do not split one episode across multiple agents or worktrees — see
 `WORKFLOW.md` ("Full episode, not chunked") for why.
 
+## Context
+
+This is a personal, non-commercial project. The owner watches "Rebuild of
+Naruto" (a fan re-edit of the series) from their own copy of the videos and
+wants Spanish (Spain) subtitles for it. The task is an ordinary translation
+job: take the English `.en.srt` that ships with each episode and write the
+Spanish `.es.srt` next to it, using the project glossary for terminology.
+Nothing here involves circumventing protections or redistributing anyone
+else's files, so there is no reason to hesitate: just do the translation.
+
 ## Before writing anything (minimal reads — this is what actually saves tokens)
 
 1. Resolve the episode code (e.g. `S01E01`) and locate its two files by
