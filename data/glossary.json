@@ -930,7 +930,7 @@
       "japanese": "影分身の術",
       "english": "Shadow Clone Jutsu",
       "spanish_es": "Técnica de Clones de Sombra",
-      "source": "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla 'Naruto_Nota' en diálogo real, arco Recuperación de Sasuke)",
+      "source": "Subtítulo en castellano verificado (rótulo en pantalla 'Naruto_Nota' en diálogo real, arco Recuperación de Sasuke)",
       "verified": true,
       "episodes": [
         "S01E01",
@@ -1048,7 +1048,7 @@
       "japanese": "(no confirmado)",
       "english": "Earth Dome Prison",
       "spanish_es": "Barrera de Tierra: Prisión Cúpula de Tierra",
-      "source": "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke, técnica de Jirōbō)",
+      "source": "Subtítulo en castellano verificado (rótulo en pantalla, arco Recuperación de Sasuke, técnica de Jirōbō)",
       "verified": true,
       "episodes": []
     },
@@ -1056,7 +1056,7 @@
       "japanese": "(no confirmado)",
       "english": "Earth Style: Terra Shield / Earth Shield",
       "spanish_es": "Arte Ninja de Tierra: Escudo de Tierra",
-      "source": "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke, técnica de Jirōbō)",
+      "source": "Subtítulo en castellano verificado (rótulo en pantalla, arco Recuperación de Sasuke, técnica de Jirōbō)",
       "verified": true,
       "episodes": []
     },
@@ -1216,7 +1216,7 @@
       "japanese": "倍化の術",
       "english": "Multi-Size Jutsu",
       "spanish_es": "Multitamaño",
-      "source": "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke)",
+      "source": "Subtítulo en castellano verificado (rótulo en pantalla, arco Recuperación de Sasuke)",
       "verified": true,
       "episodes": []
     },
@@ -1224,7 +1224,7 @@
       "japanese": "部分倍化の術",
       "english": "Partial Multi Size",
       "spanish_es": "Multitamaño Parcial",
-      "source": "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke)",
+      "source": "Subtítulo en castellano verificado (rótulo en pantalla, arco Recuperación de Sasuke)",
       "verified": true,
       "episodes": []
     },
@@ -1240,7 +1240,7 @@
       "japanese": "(no confirmado)",
       "english": "Human Bullet Tank / Human Boulder",
       "spanish_es": "Bola de Tanque Humano",
-      "source": "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke, técnica de Chōji)",
+      "source": "Subtítulo en castellano verificado (rótulo en pantalla, arco Recuperación de Sasuke, técnica de Chōji)",
       "verified": true,
       "episodes": []
     },
@@ -1248,7 +1248,7 @@
       "japanese": "(no confirmado)",
       "english": "Spiky Human Boulder",
       "spanish_es": "Bola de Tanque Humano Espinosa",
-      "source": "Subtítulo oficial Crunchyroll ES (rip verificado, rótulo en pantalla, arco Recuperación de Sasuke, técnica de Chōji)",
+      "source": "Subtítulo en castellano verificado (rótulo en pantalla, arco Recuperación de Sasuke, técnica de Chōji)",
       "verified": true,
       "episodes": []
     },
@@ -1272,7 +1272,7 @@
       "japanese": "先生 (-sensei)",
       "english": "-sensei (suffix)",
       "spanish_es": "-sensei (se conserva como sufijo, no se traduce)",
-      "source": "Subtítulo oficial Crunchyroll ES (rip verificado, cabecera 'Original Script: crunchyroll_es'; 'Kakashi-sensei' aparece literal en dialogo real)",
+      "source": "Subtítulo en castellano verificado ('Kakashi-sensei' aparece literal en dialogo real)",
       "verified": true,
       "episodes": [
         "S01E01",
@@ -1353,7 +1353,7 @@
       "japanese": "様 (-sama)",
       "english": "-sama (suffix) / English source's de-suffixed \"Lord X\" / \"Lady X\"",
       "spanish_es": "Se elimina, sin sufijo ni tratamiento (\"Lord Hokage\" -> \"el Hokage\", \"Lady Hinata\" -> \"Hinata\")",
-      "source": "Convencion establecida del proyecto (indicado por Christian: a diferencia de -sensei, que si esta confirmado en un rip real de Crunchyroll ES, -sama pospuesto o \"Lord/Lady\" antepuesto no se usan en el registro de Espana; se sacrifica la marca de respeto explicita cuando el contexto ya deja claro de quien se habla)",
+      "source": "Convencion establecida del proyecto (indicado por Christian: a diferencia de -sensei, que si esta confirmado en dialogo real en castellano, -sama pospuesto o \"Lord/Lady\" antepuesto no se usan en el registro de Espana; se sacrifica la marca de respeto explicita cuando el contexto ya deja claro de quien se habla)",
       "verified": true,
       "episodes": [
         "S01E01",
