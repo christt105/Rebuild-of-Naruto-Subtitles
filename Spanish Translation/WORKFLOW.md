@@ -32,19 +32,14 @@ from the English baseline the same way.
    English → Spanish, preserving cue numbers and timestamps exactly. See
    `AGENTS.md` for the exact, token-efficient execution procedure (what to
    read, how to batch the work, terminology precedence and staging).
-3. If a verified Crunchyroll ES match exists for this exact episode
-   (confirmed by content, not by relying on OpenSubtitles' episode
-   listing — Rebuild's episode order and cuts don't line up with
-   Crunchyroll's, so most episodes won't have one), note it and use it as
-   a terminology/register cross-check.
-4. Run `scripts/check_episode.py <code> --strict` — must pass before
+3. Run `scripts/check_episode.py <code> --strict` — must pass before
    opening a PR. It's also the CI gate on the PR (see below).
-5. Push the branch, open a PR against `main` with `gh pr create`. The diff
+4. Push the branch, open a PR against `main` with `gh pr create`. The diff
    is the whole review surface: English baseline vs. translated text,
    cue by cue.
-6. Update the episode's row in `PROGRESS.md` via
+5. Update the episode's row in `PROGRESS.md` via
    `scripts/update_progress.py <code> "PR abierta" --pr <N>` in the same PR.
-7. Christian reviews the diff, comments/iterates on the branch as needed,
+6. Christian reviews the diff, comments/iterates on the branch as needed,
    and merges when satisfied (merging is always his call, never automatic;
    the CI check can fail a PR but never merges one). On merge, flip
    `PROGRESS.md` to `Fusionado` the same way.
