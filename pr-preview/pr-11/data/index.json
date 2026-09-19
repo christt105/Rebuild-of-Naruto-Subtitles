@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T22:55:00.522122+00:00",
+  "generated_at": "2026-09-19T22:55:07.946871+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -52,8 +52,8 @@
       "title_en": "The Bridge",
       "title_es": "El Puente",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #11",
       "cue_count": 1104,
       "translated_count": 1078,
       "unresolved_tags": [
