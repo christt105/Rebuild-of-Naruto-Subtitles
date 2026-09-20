@@ -20,21 +20,3 @@ Free-text explanation of the term/decision, as long as needed.
 ---
 
 (No hay términos pendientes de revisión ahora mismo.)
-
-### `{PIERCE}` — Haku's "Piercing Water Crystals" (S01E04, cue 151)
-Rendered "Cristales de Agua Perforantes" as a literal working name. Not in the glossary and not checked against the official Planeta manga or guide. Needs a source check and a decision on the technique prefix convention.
-
-### `{ICEMIR}` — Haku's "Demon Mirror Ice Crystals" (S01E04, cue 172)
-Rendered "Arte Secreto: Espejos de Cristales de Hielo Demoníacos" (the English source splits "Secret Art:" and the name across two cues). Literal working name, not verified against the official Spanish manga. The Spanish edition may use a shorter, established name.
-
-### `{SENBON}` — "senbon" needles (S01E04, cue 209)
-Kept as the loanword "senbon", used without an article change. Unverified whether the Spanish edition translates it (for example "agujas") or keeps "senbon". Not in the glossary.
-
-### `{FANG}` — Kakashi's "Earth Style: Fanged Pursuit Jutsu" (S01E04, cue 679)
-Rendered "Arte Ninja: ¡Invocación! / Técnica de tierra: Persecución de Colmillos", following the "Arte Ninja: Invocación" wording already used in S01E03 and the "Técnica de tierra:" prefix convention from the glossary header. The technique name itself is a literal working choice, unverified.
-
-### `{RAIKIRI}` — Kakashi's "Lightning Blade" (S01E04, cue 718)
-Rendered "Hoja Relámpago" as a literal working name. The Spanish edition may keep "Raikiri" or use another name; needs a source check.
-
-### `{NINDO}` — Naruto's "Ninja Way" (S01E04, cue 1049)
-Rendered "Camino Ninja" (nindo). Unverified whether the Spanish edition keeps "nindo" or translates it. Likely to recur in later episodes.

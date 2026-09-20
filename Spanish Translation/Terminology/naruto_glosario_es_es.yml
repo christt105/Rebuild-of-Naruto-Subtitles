@@ -208,6 +208,12 @@
   source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G"
   verified: false
 
+- japanese: "雷切"
+  english: "Lightning Blade / Raikiri"
+  spanish_es: "Raikiri"
+  source: "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 209, ficha de Chidori): «El chidori de Kakashi se llama raikiri» (relampagos cortantes), sin traducir. Resuelto 2026-09-20, cue S01E04 718 (antes {RAIKIRI}, 'Hoja Relámpago')"
+  verified: true
+
 - japanese: "麒麟"
   english: "Kirin"
   spanish_es: "Kirin"
@@ -433,6 +439,12 @@
 # Invocacion, sellado y tecnicas prohibidas
 # ---------------------------------------------------------------------------
 
+- japanese: "口寄せ・土遁・追牙の術"
+  english: "Earth Style: Fanged Pursuit Jutsu"
+  spanish_es: "Técnica del hechicero: Colmillos de Tierra"
+  source: "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 181, ficha de Kakashi «Técnica del hechicero: colmillos de tierra»; el indice maestro del tomo 03 la lista igual). Solo se fija esta tecnica; 'Técnica del hechicero' como nombre general de la invocacion (Kuchiyose) queda pendiente de decidir. Resuelto 2026-09-20, cue S01E04 679 (antes {FANG})"
+  verified: true
+
 - japanese: "口寄せの術"
   english: "Summoning Jutsu"
   spanish_es: "Técnica de invocación"
@@ -478,6 +490,18 @@
 # ---------------------------------------------------------------------------
 # Tecnicas de clan
 # ---------------------------------------------------------------------------
+
+- japanese: "千殺水翔"
+  english: "Piercing Water Crystals"
+  spanish_es: "Muerte Milenaria Acuática"
+  source: "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 205, ficha de Haku, «Muerte milenaria acuática (Sensatsusuisho)»: el agua se convierte en mil agujas). Resuelto 2026-09-20, cue S01E04 151 (antes {PIERCE}, 'Cristales de Agua Perforantes')"
+  verified: true
+
+- japanese: "魔鏡氷晶"
+  english: "Demon Mirror Ice Crystals"
+  spanish_es: "Espejo de Hielo Diabólico"
+  source: "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 221 y ficha «Espejo de hielo diabólico»), en singular; el manga la llama «técnica secreta de Haku» y usa «espejos de hielo» para los espejos. Resuelto 2026-09-20, cue S01E04 171-172 (antes {ICEMIR}); el prefijo 'Secret Art' se traduce «Técnica Secreta:»"
+  verified: true
 
 - japanese: "傀儡の術"
   english: "Puppet Technique"
@@ -653,4 +677,16 @@
   english: "dattebayo / \"Believe it!\""
   spanish_es: "¡vaya que sí!"
   source: "Doblaje de Espana (Neox/Buzz), documentado en variasveces.blogspot.com (2006, entrada dedicada al cambio de adaptacion); distinto del \"de veras\" latinoamericano"
+  verified: true
+
+- japanese: "千本"
+  english: "Senbon"
+  spanish_es: "aguja(s)"
+  source: "Manga oficial Planeta (tomo 2, pag. 192, escena del Ninja Cazador: «las agujas que empleó ese chaval como armas», «simples agujas como arma»; tomo 3, pag. 149: «mil agujas» de Haku). Resuelto 2026-09-20, cues S01E04 209/240 (antes {SENBON}) y S01E03 736/745/753 (estaban como 'senbon')"
+  verified: true
+
+- japanese: "忍道"
+  english: "Ninja Way / Nindo"
+  spanish_es: "camino del ninja"
+  source: "Guia oficial Planeta (tomo 01 Formacion de combate y tomo 02 Libro de batalla: «¡Ese es su camino del ninja!», «el nuevo camino del ninja»; titulo de capitulo del tomo 2 «El camino del ninja»), sin dejar «nindo». Resuelto 2026-09-20, cue S01E04 1049 (antes {NINDO})"
   verified: true
