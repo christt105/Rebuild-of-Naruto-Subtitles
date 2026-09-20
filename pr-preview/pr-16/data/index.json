@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:38:53.307979+00:00",
+  "generated_at": "2026-09-20T22:39:06.063089+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -76,8 +76,8 @@
       "title_en": "Entrance Exam",
       "title_es": "Examen de Acceso",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #16",
       "cue_count": 1162,
       "translated_count": 1138,
       "unresolved_tags": [
