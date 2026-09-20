@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:33:07.456171+00:00",
+  "generated_at": "2026-09-20T10:33:24.739606+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -64,8 +64,8 @@
       "title_en": "Squad Missions",
       "title_es": "Misiones de Equipo",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #13",
       "cue_count": 1351,
       "translated_count": 1333,
       "unresolved_tags": [
