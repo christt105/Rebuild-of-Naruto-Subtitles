@@ -847,6 +847,16 @@
       "episodes": []
     },
     {
+      "japanese": "雷切",
+      "english": "Lightning Blade / Raikiri",
+      "spanish_es": "Raikiri",
+      "source": "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 209, ficha de Chidori): «El chidori de Kakashi se llama raikiri» (relampagos cortantes), sin traducir. Resuelto 2026-09-20, cue S01E04 718 (antes {RAIKIRI}, 'Hoja Relámpago')",
+      "verified": true,
+      "episodes": [
+        "S01E04"
+      ]
+    },
+    {
       "japanese": "麒麟",
       "english": "Kirin",
       "spanish_es": "Kirin",
@@ -871,7 +881,8 @@
       "source": "Doblaje de Espana (Neox/Buzz), segun Christian; no la variante meme/fan «Los Mil Anos de Dolor»; corroborado de forma independiente en el manga oficial Planeta, que ademas usa la variante «Muerte milenaria acuatica»",
       "verified": true,
       "episodes": [
-        "S01E02"
+        "S01E02",
+        "S01E04"
       ]
     },
     {
@@ -912,7 +923,9 @@
       "spanish_es": "Técnica de la Sustitución",
       "source": "Guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice maestro de tecnicas): «TÉCNICA DE LA SUSTITUCIÓN» (con articulo); corrige la entrada anterior de Wikipedia ES, que omitia el «la»",
       "verified": true,
-      "episodes": []
+      "episodes": [
+        "S01E04"
+      ]
     },
     {
       "japanese": "分身の術",
@@ -935,7 +948,8 @@
       "episodes": [
         "S01E01",
         "S01E02",
-        "S01E03"
+        "S01E03",
+        "S01E04"
       ]
     },
     {
@@ -976,7 +990,9 @@
       "spanish_es": "Técnica ígnea: Gran bola de fuego",
       "source": "Guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice maestro de tecnicas): «Técnica ígnea: gran bola de fuego» citado varias veces (p.ej. Rin p. 174); corrige el prefijo «Elemento Fuego» de Wikipedia ES",
       "verified": true,
-      "episodes": []
+      "episodes": [
+        "S01E04"
+      ]
     },
     {
       "japanese": "火遁・鳳仙火の術",
@@ -1102,7 +1118,9 @@
       "spanish_es": "la Muerte Silenciosa",
       "source": "Manga oficial Planeta (tomo 2, pág. 98): 'es famoso por su técnica de la Muerte Silenciosa'. Resuelto 2026-09-16, cue S01E03 419 (antes {SILKI}, 'la técnica de la Matanza Silenciosa')",
       "verified": true,
-      "episodes": []
+      "episodes": [
+        "S01E04"
+      ]
     },
     {
       "japanese": "寅",
@@ -1125,12 +1143,22 @@
       ]
     },
     {
+      "japanese": "口寄せ・土遁・追牙の術",
+      "english": "Earth Style: Fanged Pursuit Jutsu",
+      "spanish_es": "Técnica del hechicero: Colmillos de Tierra",
+      "source": "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 181, ficha de Kakashi «Técnica del hechicero: colmillos de tierra»; el indice maestro del tomo 03 la lista igual). Solo se fija esta tecnica; 'Técnica del hechicero' como nombre general de la invocacion (Kuchiyose) queda pendiente de decidir. Resuelto 2026-09-20, cue S01E04 679 (antes {FANG})",
+      "verified": true,
+      "episodes": []
+    },
+    {
       "japanese": "口寄せの術",
       "english": "Summoning Jutsu",
       "spanish_es": "Técnica de invocación",
       "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z",
       "verified": false,
-      "episodes": []
+      "episodes": [
+        "S01E04"
+      ]
     },
     {
       "japanese": "口寄せ・穢土転生",
@@ -1179,6 +1207,26 @@
       "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G",
       "verified": false,
       "episodes": []
+    },
+    {
+      "japanese": "千殺水翔",
+      "english": "Piercing Water Crystals",
+      "spanish_es": "Muerte Milenaria Acuática",
+      "source": "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 205, ficha de Haku, «Muerte milenaria acuática (Sensatsusuisho)»: el agua se convierte en mil agujas). Resuelto 2026-09-20, cue S01E04 151 (antes {PIERCE}, 'Cristales de Agua Perforantes')",
+      "verified": true,
+      "episodes": [
+        "S01E04"
+      ]
+    },
+    {
+      "japanese": "魔鏡氷晶",
+      "english": "Demon Mirror Ice Crystals",
+      "spanish_es": "Espejo de Hielo Diabólico",
+      "source": "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 221 y ficha «Espejo de hielo diabólico»), en singular; el manga la llama «técnica secreta de Haku» y usa «espejos de hielo» para los espejos. Resuelto 2026-09-20, cue S01E04 171-172 (antes {ICEMIR}); el prefijo 'Secret Art' se traduce «Técnica Secreta:»",
+      "verified": true,
+      "episodes": [
+        "S01E04"
+      ]
     },
     {
       "japanese": "傀儡の術",
@@ -1527,7 +1575,8 @@
       "source": "Manga oficial Planeta (tomo 2, pág. 178): 'los cazadores ninja se especializan en aniquilar...'. El apodo ingles 'Corpse Disposal Unit' no tiene equivalente fijo en la fuente, ahi se explica de forma descriptiva ('hacen desaparecer sus cuerpos por completo'); se mantiene 'Unidad de Eliminación de Cadáveres' como eleccion de trabajo sin verificar. Resuelto 2026-09-16, cues S01E03 656, 659, 707-709, 718, 726, 735, 745, 749 (antes {TRACK}, 'Ninja Rastreador')",
       "verified": true,
       "episodes": [
-        "S01E03"
+        "S01E03",
+        "S01E04"
       ]
     },
     {
@@ -1578,6 +1627,27 @@
       "episodes": [
         "S01E01",
         "S01E03"
+      ]
+    },
+    {
+      "japanese": "千本",
+      "english": "Senbon",
+      "spanish_es": "aguja(s)",
+      "source": "Manga oficial Planeta (tomo 2, pag. 192, escena del Ninja Cazador: «las agujas que empleó ese chaval como armas», «simples agujas como arma»; tomo 3, pag. 149: «mil agujas» de Haku). Resuelto 2026-09-20, cues S01E04 209/240 (antes {SENBON}) y S01E03 736/745/753 (estaban como 'senbon')",
+      "verified": true,
+      "episodes": [
+        "S01E03",
+        "S01E04"
+      ]
+    },
+    {
+      "japanese": "忍道",
+      "english": "Ninja Way / Nindo",
+      "spanish_es": "camino del ninja",
+      "source": "Guia oficial Planeta (tomo 01 Formacion de combate y tomo 02 Libro de batalla: «¡Ese es su camino del ninja!», «el nuevo camino del ninja»; titulo de capitulo del tomo 2 «El camino del ninja»), sin dejar «nindo». Resuelto 2026-09-20, cue S01E04 1049 (antes {NINDO})",
+      "verified": true,
+      "episodes": [
+        "S01E04"
       ]
     }
   ],
