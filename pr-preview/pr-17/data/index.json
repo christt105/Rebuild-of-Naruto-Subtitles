@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:40:20.341775+00:00",
+  "generated_at": "2026-09-20T22:40:30.153020+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -88,8 +88,8 @@
       "title_en": "Forest of Death",
       "title_es": "El Bosque de la Muerte",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #17",
       "cue_count": 1309,
       "translated_count": 1287,
       "unresolved_tags": [
