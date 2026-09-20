@@ -12,7 +12,7 @@ Fuente: 73 episodios actualmente publicados en [Maediem/Rebuild-of-Naruto-Subtit
 | S01E04 | The Bridge | El Puente | Naruto | Fusionado | PR #11 — PR #11 |
 | S01E05 | Squad Missions | Misiones de Equipo | Naruto | Pendiente |  |
 | S01E06 | Entrance Exam | Examen de Acceso | Naruto | Pendiente |  |
-| S01E07 | Forest of Death | El Bosque de la Muerte | Naruto | Pendiente |  |
+| S01E07 | Forest of Death | El Bosque de la Muerte | Naruto | PR abierta | PR #17 |
 | S01E08 | Preliminaries | Preliminares | Naruto | Pendiente |  |
 | S01E09 | Training | Entrenamiento | Naruto | Pendiente |  |
 | S01E10 | Finals | La Final | Naruto | Pendiente |  |
