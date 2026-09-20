@@ -646,7 +646,7 @@ Nunca había visto algo así...
 
 151
 00:12:49,477 --> 00:12:52,062
-<i>¡Cristales de Agua Perforantes! {PIERCE}</i>
+<i>¡Muerte Milenaria Acuática!</i>
 
 152
 00:12:57,347 --> 00:12:59,647
@@ -731,11 +731,11 @@ Es una lástima...
 
 171
 00:14:43,632 --> 00:14:44,508
-<i>Arte Secreto:</i>
+<i>Técnica Secreta:</i>
 
 172
 00:15:03,033 --> 00:15:04,659
-<i>¡Espejos de Cristales de Hielo Demoníacos! {ICEMIR}</i>
+<i>¡Espejo de Hielo Diabólico!</i>
 
 173
 00:15:24,381 --> 00:15:26,467
@@ -891,7 +891,7 @@ Lo siento...
 209
 00:18:30,109 --> 00:18:32,528
 <i>no hay duda de que
-me atacaron con senbon. {SENBON}</i>
+me atacaron con agujas.</i>
 
 210
 00:18:33,112 --> 00:18:36,115
@@ -1024,7 +1024,7 @@ escondidos en los espejos</i>
 240
 00:20:34,875 --> 00:20:37,294
 <i>y que todos lancen
-senbon a la vez...</i>
+agujas a la vez...</i>
 
 241
 00:20:37,419 --> 00:20:39,504
@@ -2936,8 +2936,8 @@ me mates.
 
 679
 00:56:15,580 --> 00:56:19,501
-<i>¡Arte Ninja: Invocación!
-¡Técnica de tierra: Persecución de Colmillos! {FANG}</i>
+<i>¡Técnica del hechicero:
+Colmillos de Tierra!</i>
 
 680
 00:56:27,235 --> 00:56:29,404
@@ -3112,7 +3112,7 @@ una técnica propia...
 
 718
 00:59:08,112 --> 00:59:09,243
-<i>¡Hoja Relámpago! {RAIKIRI}</i>
+<i>¡Raikiri!</i>
 
 719
 00:59:10,029 --> 00:59:11,156
@@ -4539,7 +4539,7 @@ Como Zabuza... y ese chico...
 
 1049
 01:28:47,075 --> 01:28:50,078
-¡Voy a seguir mi propio Camino Ninja! {NINDO}
+¡Voy a seguir mi propio camino del ninja!
 
 1050
 01:28:50,664 --> 01:28:53,417
