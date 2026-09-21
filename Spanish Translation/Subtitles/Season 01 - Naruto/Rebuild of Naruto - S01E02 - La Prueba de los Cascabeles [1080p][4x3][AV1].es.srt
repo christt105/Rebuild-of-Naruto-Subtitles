@@ -224,7 +224,7 @@ es un documento muy importante,
 
 52
 00:05:43,325 --> 00:05:46,161
-muy valorado por nuestra aldea.
+muy valorado por nuestra villa.
 
 53
 00:05:46,722 --> 00:05:49,141
@@ -453,7 +453,7 @@ quien me puso ese nombre.
 
 105
 00:09:04,669 --> 00:09:06,337
-Me llamó así por la aldea.
+Me llamó así por la Villa.
 
 106
 00:09:08,644 --> 00:09:12,106
@@ -708,12 +708,12 @@ Pero sigo fracasando.
 162
 00:13:05,716 --> 00:13:08,593
 Solo se le concede
-al ninja más grande de la aldea.
+al ninja más grande de la Villa.
 
 163
 00:13:08,966 --> 00:13:11,844
 Tienes que conseguir que
-toda la aldea te reconozca.
+toda la Villa te reconozca.
 
 164
 00:13:14,774 --> 00:13:16,943
@@ -921,7 +921,7 @@ Basta. Puedes irte.
 211
 00:18:21,151 --> 00:18:25,071
 Hinata probablemente
-servirá a la aldea como Genin.
+servirá a la Villa como Genin.
 
 212
 00:18:26,736 --> 00:18:27,581
@@ -2135,7 +2135,7 @@ Y mi sueño para el futuro...
 
 494
 00:38:21,383 --> 00:38:23,093
-Y entonces toda la aldea
+Y entonces toda la Villa
 
 495
 00:38:23,118 --> 00:38:26,205
@@ -2675,7 +2675,7 @@ poderoso para usarlo en él!</i>
 620
 00:45:52,255 --> 00:45:54,715
 <i>Ese sello...
-Va a usar un jutsu de Elemento Fuego.</i>
+Va a usar una técnica ígnea.</i>
 
 621
 00:45:55,717 --> 00:45:58,303
@@ -3203,7 +3203,7 @@ tú eres diferente a esos dos.
 
 743
 00:54:50,157 --> 00:54:51,992
-<i>¡Elemento Fuego: Bola de Fuego!</i>
+<i>¡Técnica ígnea: Gran bola de fuego!</i>
 
 744
 00:54:52,498 --> 00:54:55,335
@@ -3655,7 +3655,7 @@ en esta piedra...
 843
 01:01:59,425 --> 01:02:03,054
 Todos ellos son ninja considerados
-"héroes" de nuestra aldea.
+"héroes" de nuestra villa.
 
 844
 01:02:04,420 --> 01:02:07,806

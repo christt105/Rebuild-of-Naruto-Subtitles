@@ -447,12 +447,12 @@ que asignó Itachi,
 
 105
 00:08:02,998 --> 00:08:07,753
-se lo pedí a Yugito Nii de la Aldea Oculta de la Nube,
+se lo pedí a Yugito Nii de la Villa Oculta de la Nube,
 y tuvo la amabilidad de aceptar.
 
 106
 00:08:07,963 --> 00:08:10,674
-<i>¿Nii de la Aldea Oculta de la Nube?
+<i>¿Nii de la Villa Oculta de la Nube?
 ¿Quién es esa?</i>
 
 107
@@ -1268,7 +1268,7 @@ La verdad... Si estuviéramos solos,
 292
 00:22:48,327 --> 00:22:50,871
 habríamos podido volver
-a la aldea esta noche.
+a la Villa esta noche.
 
 293
 00:22:54,432 --> 00:22:56,225
@@ -2202,7 +2202,7 @@ Se acabó lo de seguirle.
 
 506
 00:37:00,485 --> 00:37:03,113
-Gente de la Aldea de la Hoja.
+Gente de la Villa de la Hoja.
 
 507
 00:37:04,781 --> 00:37:10,078
@@ -2350,11 +2350,11 @@ Es hora de un enfoque más humano.
 540
 00:40:36,083 --> 00:40:41,297
 <i>Infíltrate en el País del Fuego e
-investiga la Aldea Oculta de la Hoja.</i>
+investiga la Villa Oculta de la Hoja.</i>
 
 541
 00:40:42,061 --> 00:40:44,396
-<i>La Aldea Oculta de la Hoja.</i>
+<i>La Villa Oculta de la Hoja.</i>
 
 542
 00:40:45,126 --> 00:40:52,050
@@ -2391,13 +2391,13 @@ Esa banda...
 
 549
 00:41:24,207 --> 00:41:27,460
-Pertenece a la Aldea Oculta del Cerrojo
+Pertenece a la Villa Oculta del Cerrojo
 del País de la Llave. {LOCK}
 
 550
 00:41:56,504 --> 00:41:59,424
 La capturaron antes de que
-se hubiera infiltrado en la Aldea Oculta de la Hoja.
+se hubiera infiltrado en la Villa Oculta de la Hoja.
 
 551
 00:41:59,993 --> 00:42:02,704
@@ -2407,7 +2407,7 @@ de importancia.
 552
 00:42:04,762 --> 00:42:09,726
 Lo siento, pero ahora me toca a mí obtener
-algo de información sobre tu aldea.
+algo de información sobre tu villa.
 
 553
 00:42:24,723 --> 00:42:26,141
@@ -2416,7 +2416,7 @@ algo de información sobre tu aldea.
 554
 00:42:26,692 --> 00:42:29,195
 No tiene ningún recuerdo
-de su aldea.
+de su villa.
 
 555
 00:42:36,078 --> 00:42:37,078
@@ -2453,7 +2453,7 @@ Nada significativo.
 563
 00:43:19,781 --> 00:43:23,034
 Y no tenía recuerdos
-de la Aldea del Cerrojo.
+de la Villa del Cerrojo.
 
 564
 00:43:23,638 --> 00:43:25,807
@@ -2506,13 +2506,13 @@ más a fondo en su mente.
 
 575
 00:44:20,717 --> 00:44:23,720
-Me estás enseñando la misma aldea
+Me estás enseñando la misma villa
 a la que vine a espiar.
 
 576
 00:44:24,304 --> 00:44:27,474
 Aquí no encontrarás nada distinto
-de lo que hay en cualquier otra aldea.
+de lo que hay en cualquier otra villa.
 
 577
 00:44:28,475 --> 00:44:31,603
@@ -2629,7 +2629,7 @@ y me lo imaginaba.
 
 603
 00:46:36,449 --> 00:46:37,658
-La vida en la aldea...
+La vida en la Villa...
 
 604
 00:46:38,170 --> 00:46:40,047
@@ -2644,7 +2644,7 @@ no habría podido soportarlo.
 606
 00:46:43,484 --> 00:46:46,112
 Sin saber quiénes eran mis padres,
-ni nada sobre mi aldea.
+ni nada sobre mi villa.
 
 607
 00:46:46,821 --> 00:46:49,991
@@ -2670,11 +2670,11 @@ Voy a acercarme más.
 
 612
 00:47:03,173 --> 00:47:04,883
-No conozco mi aldea.
+No conozco mi villa.
 
 613
 00:47:05,367 --> 00:47:06,910
-Me criaron fuera de la aldea,
+Me criaron fuera de la Villa,
 
 614
 00:47:07,042 --> 00:47:10,712
@@ -2729,7 +2729,7 @@ de aquella vez.
 625
 00:47:53,012 --> 00:47:56,224
 Quería ver a mis padres
-y me puse en camino hacia la aldea.
+y me puse en camino hacia la Villa.
 
 626
 00:47:57,850 --> 00:48:01,396
@@ -2807,16 +2807,16 @@ Gracias.
 
 642
 00:49:39,702 --> 00:49:44,499
-La Aldea del Cerrojo ha capturado
+La Villa del Cerrojo ha capturado
 a uno de nuestros jonin, Riichi.
 
 643
 00:49:44,818 --> 00:49:45,986
-¿La Aldea del Cerrojo?
+¿La Villa del Cerrojo?
 
 644
 00:49:46,579 --> 00:49:49,207
-¿La aldea de donde
+¿La villa de donde
 es esa kunoichi?
 
 645
@@ -2836,7 +2836,7 @@ sabe muy poco
 648
 00:49:59,389 --> 00:50:02,266
 sobre el País del Fuego y
-la Aldea de la Hoja.
+la Villa de la Hoja.
 
 649
 00:50:02,892 --> 00:50:05,144
@@ -2896,7 +2896,7 @@ No voy a dejarte ir.
 662
 00:51:39,347 --> 00:51:42,350
 ¡Trae información sobre
-la Aldea Oculta de la Hoja sin falta!
+la Villa Oculta de la Hoja sin falta!
 
 663
 00:51:46,245 --> 00:51:48,206
@@ -3233,7 +3233,7 @@ la estáis acosando.
 
 741
 00:57:10,806 --> 00:57:11,949
-Os llevaré de vuelta a la aldea.
+Os llevaré de vuelta a la Villa.
 
 742
 00:57:11,987 --> 00:57:12,905
@@ -4148,7 +4148,7 @@ Maldición.
 951
 01:10:58,850 --> 01:11:00,560
 Perseguidores de
-la Aldea de la Hoja, ¿eh?
+la Villa de la Hoja, ¿eh?
 
 952
 01:11:01,608 --> 01:11:03,860
@@ -4687,7 +4687,7 @@ Podemos detener al menos una de sus manos.
 
 1075
 01:22:37,923 --> 01:22:38,590
-<i>¡Técnica ígnea!</i> {FIRE}
+<i>¡Técnica ígnea!</i>
 
 1076
 01:22:38,789 --> 01:22:40,124
@@ -4716,7 +4716,7 @@ Maldito... ¡Me toma por tonto!
 
 1082
 01:22:55,654 --> 01:22:57,990
-¡Jutsu Pachinko! {PACHINKO}
+¡Técnica Pachinko! {PACHINKO}
 
 1083
 01:23:13,964 --> 01:23:16,509
@@ -5063,7 +5063,7 @@ a ese tal Kakashi sin máscara,
 1161
 01:27:16,786 --> 01:27:19,956
 tendré la mayor exclusiva desde
-la fundación de la Aldea de la Hoja.
+la fundación de la Villa de la Hoja.
 
 1162
 01:27:20,562 --> 01:27:24,233
@@ -5529,7 +5529,7 @@ para ir al hospital.
 
 1267
 01:35:46,620 --> 01:35:48,080
-<i>¡Jutsu de Expansión!</i> {EXPANSION}
+<i>¡Multitamaño!</i>
 
 1268
 01:35:49,839 --> 01:35:54,594
@@ -5547,7 +5547,7 @@ Tenemos que llevarla a...
 
 1271
 01:36:14,169 --> 01:36:15,754
-<i>¡Jutsu Secreto: Esfera de Escarabajos!</i> {BEETLE}
+<i>¡Técnica Secreta: Esfera de Insectos!</i>
 
 1272
 01:36:19,249 --> 01:36:20,250
@@ -5567,7 +5567,7 @@ Tenemos que llevarla a...
 
 1276
 01:36:30,462 --> 01:36:32,047
-<i>¡Jutsu de Transferencia de Mente!</i> {MIND}
+<i>¡Técnica del Traspaso Mental!</i>
 
 1277
 01:36:43,660 --> 01:36:44,869

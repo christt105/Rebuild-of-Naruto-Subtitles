@@ -689,7 +689,7 @@ Puede que no lo parezca,
 161
 00:13:51,580 --> 00:13:54,667
 pero Sasuke es el novato número uno
-de la Aldea Oculta de la Hoja.
+de la Villa Oculta de la Hoja.
 
 162
 00:13:56,043 --> 00:13:58,963
@@ -1231,7 +1231,7 @@ que debo cumplir...
 
 287
 00:23:46,833 --> 00:23:50,429
-El sueño de que todos en la aldea
+El sueño de que todos en la Villa
 reconozcan mi fuerza...
 
 288
@@ -1354,7 +1354,7 @@ Exacto...
 
 314
 00:25:25,116 --> 00:25:30,830
-Una aldea ablandada por la paz como la vuestra
+Una villa ablandada por la paz como la vuestra
 jamás podría producir un verdadero shinobi.
 
 315
@@ -2102,7 +2102,7 @@ más prestigioso
 
 486
 00:37:58,276 --> 00:38:00,736
-de la Aldea Oculta de la Hoja.
+de la Villa Oculta de la Hoja.
 
 487
 00:38:02,234 --> 00:38:03,235
@@ -2803,7 +2803,7 @@ Me dijiste que...
 
 649
 00:53:27,313 --> 00:53:31,609
-serías el mejor ninja de tu aldea
+serías el mejor ninja de tu villa
 y que harías que todos te reconocieran.
 
 650
@@ -3067,7 +3067,7 @@ y te convertiste en un ninja renegado.
 708
 00:58:25,623 --> 00:58:29,776
 Poco después, la noticia de tus hazañas
-llegó a la Aldea Oculta de la Hoja.
+llegó a la Villa Oculta de la Hoja.
 
 709
 00:58:30,690 --> 00:58:32,692
@@ -4701,7 +4701,7 @@ una cita
 
 1086
 01:30:57,873 --> 01:30:59,115
-cuando volvamos a la aldea?!
+cuando volvamos a la Villa?!
 
 1087
 01:30:59,459 --> 01:31:00,835
