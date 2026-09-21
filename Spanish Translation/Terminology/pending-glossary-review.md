@@ -19,6 +19,21 @@ Free-text explanation of the term/decision, as long as needed.
 
 ---
 
+### `{CEJAS}` - Bushy Brow (apodo de Rock Lee)
+Apodo que Sasuke y Naruto dan a Rock Lee (S01E06, cues 381, 384, 419, 448, 538). Se ha traducido como «Cejotas» (aumentativo sobre «cejas», registro coloquial de España). Alternativas: «Cejas Pobladas», «Cejudo». Pendiente de contrastar con el doblaje/manga de España.
+
+### `{INOCERDA}` - Ino Pig (apodo que Sakura da a Ino)
+Sakura llama a Ino «Ino Pig» (S01E06, cue 591). Se ha traducido como «Ino-cerda», con el mismo esquema que el apodo de Sakura («Pista de Aterrizaje»). Pendiente de contrastar con el doblaje de España.
+
+### `{NOVATOS}` - Rookie Nine (los nueve Genin novatos)
+Kabuto llama «Rookie Nine» a los nueve Genin recién salidos de la Academia (S01E06, cue 618). Se ha traducido como «Nueve Novatos». Pendiente de decidir si se fija como término recurrente (aparecerá en episodios posteriores).
+
+### `{TORBELLINO}` - Leaf Whirlwind (técnica de Rock Lee)
+Técnica de taijutsu de Rock Lee (S01E06, cue 392), de la que el inglés solo da «Leaf Whirlwind». Se ha traducido literalmente como «Torbellino de la Hoja». Pendiente de contrastar con el nombre en el manga Planeta / doblaje de España (Konoha Senpū).
+
+### `{TERCEROJO}` - Third Eye (técnica de Gaara)
+Técnica de Gaara con la que observa el examen usando un ojo de arena (S01E06, cue 916). Se ha traducido como «Tercer Ojo». El inglés lo dice en cursiva y como pensamiento; se atribuye a Gaara por contexto. Pendiente de contrastar con el manga Planeta.
+
 ### `{PAWENC}` - Paw Encyclopedia (S01E05)
 English "Paw Encyclopedia", the book of cat paw prints Sasuke and Itachi compiled. Translated literally as "Enciclopedia de Patas". The official Spain rendering is unknown.
 
