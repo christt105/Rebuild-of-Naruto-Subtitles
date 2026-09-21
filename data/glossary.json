@@ -494,7 +494,8 @@
       "episodes": [
         "S01E01",
         "S01E02",
-        "S01E03"
+        "S01E03",
+        "S01E06"
       ]
     },
     {
@@ -505,7 +506,8 @@
       "verified": false,
       "episodes": [
         "S01E02",
-        "S01E03"
+        "S01E03",
+        "S01E06"
       ]
     },
     {
@@ -1552,7 +1554,8 @@
       "source": "Convencion propia del proyecto (decidido con Christian; \"Frente de Marquesina\", la variante mas extendida online, se rastreo al doblaje mexicano/LatAm via Isabel Martinon, no al de Espana; se opta por un chiste propio en la misma linea que un modismo real ya existente en Espana sobre frentes anchas)",
       "verified": true,
       "episodes": [
-        "S01E01"
+        "S01E01",
+        "S01E06"
       ]
     },
     {
@@ -1633,7 +1636,8 @@
       "verified": true,
       "episodes": [
         "S01E01",
-        "S01E03"
+        "S01E03",
+        "S01E06"
       ]
     },
     {
@@ -1655,7 +1659,8 @@
       "source": "Guia oficial Planeta (tomo 01 Formacion de combate y tomo 02 Libro de batalla: «¡Ese es su camino del ninja!», «el nuevo camino del ninja»; titulo de capitulo del tomo 2 «El camino del ninja»), sin dejar «nindo». Resuelto 2026-09-20, cue S01E04 1049 (antes {NINDO})",
       "verified": true,
       "episodes": [
-        "S01E04"
+        "S01E04",
+        "S01E06"
       ]
     }
   ],
@@ -1664,6 +1669,31 @@
       "code": "CODE",
       "title": "short title",
       "body": "Free-text explanation of the term/decision, as long as needed.\n```\n\n---"
+    },
+    {
+      "code": "CEJAS",
+      "title": "Bushy Brow (apodo de Rock Lee)",
+      "body": "Apodo que Sasuke y Naruto dan a Rock Lee (S01E06, cues 381, 384, 419, 448, 538). Se ha traducido como «Cejotas» (aumentativo sobre «cejas», registro coloquial de España). Alternativas: «Cejas Pobladas», «Cejudo». Pendiente de contrastar con el doblaje/manga de España."
+    },
+    {
+      "code": "INOCERDA",
+      "title": "Ino Pig (apodo que Sakura da a Ino)",
+      "body": "Sakura llama a Ino «Ino Pig» (S01E06, cue 591). Se ha traducido como «Ino-cerda», con el mismo esquema que el apodo de Sakura («Pista de Aterrizaje»). Pendiente de contrastar con el doblaje de España."
+    },
+    {
+      "code": "NOVATOS",
+      "title": "Rookie Nine (los nueve Genin novatos)",
+      "body": "Kabuto llama «Rookie Nine» a los nueve Genin recién salidos de la Academia (S01E06, cue 618). Se ha traducido como «Nueve Novatos». Pendiente de decidir si se fija como término recurrente (aparecerá en episodios posteriores)."
+    },
+    {
+      "code": "TORBELLINO",
+      "title": "Leaf Whirlwind (técnica de Rock Lee)",
+      "body": "Técnica de taijutsu de Rock Lee (S01E06, cue 392), de la que el inglés solo da «Leaf Whirlwind». Se ha traducido literalmente como «Torbellino de la Hoja». Pendiente de contrastar con el nombre en el manga Planeta / doblaje de España (Konoha Senpū)."
+    },
+    {
+      "code": "TERCEROJO",
+      "title": "Third Eye (técnica de Gaara)",
+      "body": "Técnica de Gaara con la que observa el examen usando un ojo de arena (S01E06, cue 916). Se ha traducido como «Tercer Ojo». El inglés lo dice en cursiva y como pensamiento; se atribuye a Gaara por contexto. Pendiente de contrastar con el manga Planeta."
     },
     {
       "code": "PAWENC",
