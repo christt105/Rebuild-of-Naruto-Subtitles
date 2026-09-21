@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T22:59:24.023396+00:00",
+  "generated_at": "2026-09-21T23:02:42.848801+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -104,11 +104,26 @@
       "title_en": "Forest of Death",
       "title_es": "El Bosque de la Muerte",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #17",
       "cue_count": 1309,
-      "translated_count": 0,
-      "unresolved_tags": [],
+      "translated_count": 1287,
+      "unresolved_tags": [
+        "ARTE",
+        "ATAUD",
+        "BESTIA",
+        "BOMBA",
+        "FENIX",
+        "HOJA",
+        "LEONES",
+        "LOTO",
+        "MENTE",
+        "PERG",
+        "PESCA",
+        "SELLO",
+        "SERP",
+        "SONIDO"
+      ],
       "srt_error": null
     },
     {
@@ -907,7 +922,7 @@
   "totals": {
     "episodes": 73,
     "cues_total": 98188,
-    "cues_translated": 6914,
-    "unresolved_tags": 14
+    "cues_translated": 8201,
+    "unresolved_tags": 28
   }
 }

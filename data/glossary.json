@@ -928,7 +928,8 @@
       "source": "Guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice maestro de tecnicas): «TÉCNICA DE LA SUSTITUCIÓN» (con articulo); corrige la entrada anterior de Wikipedia ES, que omitia el «la»",
       "verified": true,
       "episodes": [
-        "S01E04"
+        "S01E04",
+        "S01E07"
       ]
     },
     {
@@ -954,7 +955,8 @@
         "S01E02",
         "S01E03",
         "S01E04",
-        "S01E05"
+        "S01E05",
+        "S01E07"
       ]
     },
     {
@@ -1014,7 +1016,9 @@
       "spanish_es": "Técnica ígnea: Flama de Dragón",
       "source": "Prefijo corregido segun el patron «Tecnica ignea:» confirmado en el indice maestro de la guia oficial Planeta (tomo 03); el indice lista variantes propias de dragon de fuego («gran dragon de fuego», «fuego del dragon») sin que se haya podido casar con certeza cual corresponde a esta tecnica exacta, asi que el nombre sigue sin re-verificar, viene de Wikipedia ES",
       "verified": false,
-      "episodes": []
+      "episodes": [
+        "S01E07"
+      ]
     },
     {
       "japanese": "土遁・土流大河",
@@ -1163,7 +1167,8 @@
       "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z",
       "verified": false,
       "episodes": [
-        "S01E04"
+        "S01E04",
+        "S01E07"
       ]
     },
     {
@@ -1257,7 +1262,8 @@
       "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z (clan Nara)",
       "verified": false,
       "episodes": [
-        "S01E05"
+        "S01E05",
+        "S01E07"
       ]
     },
     {
@@ -1299,7 +1305,8 @@
       "source": "Subtítulo en castellano verificado (rótulo en pantalla, arco Recuperación de Sasuke, técnica de Chōji)",
       "verified": true,
       "episodes": [
-        "S01E05"
+        "S01E05",
+        "S01E07"
       ]
     },
     {
@@ -1649,7 +1656,8 @@
       "episodes": [
         "S01E03",
         "S01E04",
-        "S01E05"
+        "S01E05",
+        "S01E07"
       ]
     },
     {
@@ -1739,6 +1747,76 @@
       "code": "MIND",
       "title": "Mind Transfer Jutsu (S01E05)",
       "body": "English \"Mind Transfer Jutsu\" (Yamanaka technique). Rendered \"Jutsu de Transferencia de Mente\". Unverified."
+    },
+    {
+      "code": "PERG",
+      "title": "Heaven Scroll / Earth Scroll",
+      "body": "\"Heaven Scroll\" and \"Earth Scroll\" rendered as \"Pergamino del Cielo\" and \"Pergamino de la Tierra\" (S01E07). Only the first occurrence is tagged; all later uses in the episode follow the same wording."
+    },
+    {
+      "code": "FENIX",
+      "title": "Fire Style: Phoenix Flower Jutsu",
+      "body": "Rendered \"Técnica ígnea: Flor de Fénix\", following the glossary's \"Técnica ígnea:\" pattern. The glossary only has \"Llamas del Fénix\" for the Phoenix Sage Fire Jutsu, which is a different technique. Later uses in S01E07 use the same wording untagged."
+    },
+    {
+      "code": "BOMBA",
+      "title": "Paper Bomb",
+      "body": "\"Paper Bomb\" rendered \"sello explosivo\" (S01E07). Alternative: \"papel bomba\". Later uses in the episode use \"sello explosivo\" untagged."
+    },
+    {
+      "code": "ARTE",
+      "title": "\"Ninja Art:\" technique prefix",
+      "body": "\"Ninja Art:\" rendered \"Arte ninja:\" before technique names (S01E07, Senbon Rainstorm rendered \"Lluvia de Agujas\", Shadow Possession and Mind Transfer also use the prefix). Only the first occurrence is tagged."
+    },
+    {
+      "code": "ATAUD",
+      "title": "Sand Coffin / Sand Burial",
+      "body": "\"Sand Coffin\" rendered \"Ataúd de Arena\" (tagged) and \"Sand Burial\" rendered \"Funeral de Arena\" (untagged, next cues)."
+    },
+    {
+      "code": "SELLO",
+      "title": "Curse Mark / Five-Pronged Seal",
+      "body": "\"Five-Pronged Seal\" rendered \"Sello de Cinco Puntas\" and \"Curse Mark\" rendered \"Sello Maldito\" (S01E07). The glossary has \"Sello\" conventions for other seals but not these."
+    },
+    {
+      "code": "SONIDO",
+      "title": "Sound Village techniques and ninja",
+      "body": "\"Sound ninja\" rendered \"ninjas del Sonido\" and \"Sound Village\" rendered \"Aldea del Sonido\" (tagged at the first use, cue 506). \"Slicing Sound Wave\" rendered \"Onda Sonora Cortante\" (tagged at first use, cue 787); \"Super Sound Wave\" as \"Súper Onda Sonora\" and \"Super Sonic Slicing Wave\" as \"Onda Sonora Cortante Supersónica\"."
+    },
+    {
+      "code": "SERP",
+      "title": "Striking Shadow Snakes",
+      "body": "Rendered \"Serpientes Sombra Golpeadoras\" (S01E07, Anko's technique)."
+    },
+    {
+      "code": "HOJA",
+      "title": "Leaf Hurricane",
+      "body": "Rendered \"Huracán de la Hoja\" (S01E07, Lee). \"Leaf Style Taijutsu\" (Choji) rendered \"Taijutsu Estilo Hoja\", untagged."
+    },
+    {
+      "code": "BESTIA",
+      "title": "Beautiful Green Beast of the Leaf",
+      "body": "Lee's epithet rendered \"la Bestia Verde de la Hoja\", dropping \"Beautiful\" (S01E07). Also \"Bushy Brow\" rendered \"Cejotas\" (cue 995), untagged."
+    },
+    {
+      "code": "LOTO",
+      "title": "Primary Lotus",
+      "body": "Rendered \"Loto Primario\" (S01E07, Lee)."
+    },
+    {
+      "code": "MENTE",
+      "title": "Ino-Shika-Cho formation and Mind Transfer",
+      "body": "\"Formation Ino\" rendered \"Formación Ino\" (tagged); \"Expansion Jutsu\" rendered \"Jutsu de Expansión\" and \"Mind Transfer Jutsu\" rendered \"Jutsu de Transferencia de Mente\" (untagged, S01E07). \"Human Boulder\" uses the verified glossary entry \"Bola de Tanque Humano\"."
+    },
+    {
+      "code": "PESCA",
+      "title": "Shadow Clone Jutsu: Fishing Version",
+      "body": "Naruto's joke technique rendered \"Técnica de Clones de Sombra: Versión Pesca\", introduced by \"Técnica especial:\" (S01E07, cue 1010)."
+    },
+    {
+      "code": "LEONES",
+      "title": "Lions Barrage",
+      "body": "Lee's/Sasuke's \"Lions Barrage\" rendered \"Ráfaga de Leones\" (S01E07, cue 1069)."
     }
   ]
 }
