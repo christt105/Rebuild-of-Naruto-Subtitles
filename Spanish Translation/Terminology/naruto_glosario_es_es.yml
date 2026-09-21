@@ -690,3 +690,9 @@
   spanish_es: "camino del ninja"
   source: "Guia oficial Planeta (tomo 01 Formacion de combate y tomo 02 Libro de batalla: «¡Ese es su camino del ninja!», «el nuevo camino del ninja»; titulo de capitulo del tomo 2 «El camino del ninja»), sin dejar «nindo». Resuelto 2026-09-20, cue S01E04 1049 (antes {NINDO})"
   verified: true
+
+- japanese: "隠れ里"
+  english: "Hidden Village (any shinobi village)"
+  spanish_es: "Villa Oculta de X (Villa Oculta de la Hoja, del Sonido, de la Arena...); «la Villa» al abreviar"
+  source: "Manga y guia oficial Planeta («Villa de la Hoja», «Villa Oculta del Sonido», tomos 6-9 y guia 1). Convencion fijada por Christian 2026-09-21: todas las aldeas se llaman «Villa», nunca «Aldea», tambien las que solo salen en el anime"
+  verified: true
