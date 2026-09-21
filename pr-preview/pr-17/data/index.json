@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:40:30.153020+00:00",
+  "generated_at": "2026-09-21T23:00:10.354583+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -64,11 +64,21 @@
       "title_en": "Squad Missions",
       "title_es": "Misiones de Equipo",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #13",
       "cue_count": 1351,
-      "translated_count": 0,
-      "unresolved_tags": [],
+      "translated_count": 1333,
+      "unresolved_tags": [
+        "BEETLE",
+        "EXPANSION",
+        "FIRE",
+        "LOCK",
+        "MATATABI",
+        "MIND",
+        "PACHINKO",
+        "PAWENC",
+        "VENDETTA"
+      ],
       "srt_error": null
     },
     {
@@ -76,11 +86,17 @@
       "title_en": "Entrance Exam",
       "title_es": "Examen de Acceso",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #16",
       "cue_count": 1162,
-      "translated_count": 0,
-      "unresolved_tags": [],
+      "translated_count": 1138,
+      "unresolved_tags": [
+        "CEJAS",
+        "INOCERDA",
+        "NOVATOS",
+        "TERCEROJO",
+        "TORBELLINO"
+      ],
       "srt_error": null
     },
     {
@@ -906,7 +922,7 @@
   "totals": {
     "episodes": 73,
     "cues_total": 98188,
-    "cues_translated": 5730,
-    "unresolved_tags": 14
+    "cues_translated": 8201,
+    "unresolved_tags": 28
   }
 }
