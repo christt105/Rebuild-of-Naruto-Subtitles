@@ -38,7 +38,7 @@ PENDING_REVIEW = REPO_ROOT / "Spanish Translation" / "Terminology" / "pending-gl
 
 CODE_RE = re.compile(r"[Ss]\d{2}[Ee]\d{2}")
 TAG_RE = re.compile(r"\{([A-Z0-9]+)\}")
-PENDING_ENTRY_RE = re.compile(r"^### `\{([A-Z0-9]+)\}` — (.+)$", re.MULTILINE)
+PENDING_ENTRY_RE = re.compile(r"^### `\{([A-Z0-9]+)\}` (?:—|-) (.+)$", re.MULTILINE)
 
 
 def load_progress_rows():
