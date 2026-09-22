@@ -597,8 +597,8 @@
 
 - japanese: "九尾"
   english: "Nine-Tails / Nine-Tailed Fox / Demon Fox / Nine-Tailed Demon Fox"
-  spanish_es: "\"Nine-Tails\" -> \"el Nueve Colas\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\""
-  source: "Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)"
+  spanish_es: "\"Nine-Tails\" -> \"el Kyubi\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\""
+  source: "«Kyubi»: Guías oficiales Planeta («Kyúbi»), decisión de Christian 2026-09-22 (antes «el Nueve Colas»), sin tilde como «Hyuga» e «Ichibi». Resto: Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)"
   verified: false
 
 - japanese: "火の意志"
@@ -892,7 +892,7 @@
 - japanese: "一尾"
   english: "One-Tail / One-Tailed Beast"
   spanish_es: "el Ichibi"
-  source: "Guías oficiales Planeta 3 y 4 («Ichibi (una cola)»). Planeta también usa «Kyúbi», mientras que el glosario usa «el Nueve Colas»; si se unifica, revisar ambas entradas a la vez. Resuelto 2026-09-22, S01E09 (antes {ICHIBI})"
+  source: "Guías oficiales Planeta 3 y 4 («Ichibi (una cola)»). Unificado con «el Kyubi» (Nine-Tails) por decisión de Christian 2026-09-22; sin tilde, como «Hyuga». Resuelto 2026-09-22, S01E09 (antes {ICHIBI})"
   verified: true
 
 - japanese: "擬獣忍法"
@@ -905,4 +905,10 @@
   english: "All Fours Jutsu / Four Legs Technique"
   spanish_es: "Técnica de las Cuatro Garras"
   source: "Guía oficial Planeta 1 p189. Sustituye «Técnica de las Cuatro Patas». Resuelto 2026-09-22, S01E08 (antes {KIBA})"
+  verified: true
+
+- japanese: "獣人分身"
+  english: "Man Beast Clone"
+  spanish_es: "Multiplicación Bestial"
+  source: "Guía oficial Planeta 1 p195. Decisión de Christian 2026-09-22: se usa el nombre de Planeta aunque «Shadow Clone» siga siendo «Clones de Sombra». Resuelto 2026-09-22, S01E08 (antes {KIBA})"
   verified: true
