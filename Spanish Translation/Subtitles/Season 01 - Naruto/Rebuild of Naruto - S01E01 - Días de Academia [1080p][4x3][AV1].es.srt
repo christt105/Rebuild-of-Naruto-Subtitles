@@ -154,12 +154,12 @@ No puede ser...
 
 37
 00:02:57,051 --> 00:02:58,178
-¡El Nueve Colas!
+¡El Kyubi!
 
 38
 00:02:58,219 --> 00:02:59,678
 – ¡Corred!
-– ¡Es el Nueve Colas!
+– ¡Es el Kyubi!
 
 39
 00:02:59,679 --> 00:03:01,055
@@ -172,7 +172,7 @@ Tranquilo. ¡Ya, ya!
 
 41
 00:03:24,787 --> 00:03:25,997
-¡Es el Nueve Colas!
+¡Es el Kyubi!
 
 42
 00:03:26,022 --> 00:03:27,690
@@ -204,11 +204,11 @@ Te has asustado un poco, ¿eh?
 
 49
 00:04:08,416 --> 00:04:09,652
-¡El Nueve Colas...!
+¡El Kyubi...!
 
 50
 00:04:09,677 --> 00:04:11,721
-¡El Nueve Colas ha aparecido
+¡El Kyubi ha aparecido
 de repente en la Villa!
 
 51
@@ -239,7 +239,7 @@ a los civiles.
 
 57
 00:04:29,736 --> 00:04:31,154
-¡Maldito seas, Nueve Colas!
+¡Maldito seas, Kyubi!
 
 58
 00:04:31,562 --> 00:04:33,940
@@ -294,11 +294,11 @@ Ya lo has oído. ¡Vamos, Guy!
 
 70
 00:05:05,013 --> 00:05:06,097
-¡Por aquí, Nueve Colas!
+¡Por aquí, Kyubi!
 
 71
 00:05:11,144 --> 00:05:12,645
-¡Por aquí, Nueve Colas!
+¡Por aquí, Kyubi!
 
 72
 00:05:14,147 --> 00:05:15,398
@@ -314,7 +314,7 @@ Por aquí.
 
 75
 00:05:22,513 --> 00:05:24,031
-Aunque no podamos vencer al Nueve Colas,
+Aunque no podamos vencer al Kyubi,
 
 76
 00:05:24,032 --> 00:05:27,478
@@ -403,7 +403,7 @@ la Villa!
 
 95
 00:06:52,270 --> 00:06:55,106
-¡Perseguid al Nueve Colas
+¡Perseguid al Kyubi
 fuera de las murallas de la Villa!
 
 96
@@ -425,7 +425,7 @@ para preparar mi jutsu!
 
 100
 00:07:15,685 --> 00:07:17,728
-<i>Arte Ninja: ¡Invocación!</i>
+<i>Arte ninja: ¡Invocación!</i>
 
 101
 00:07:18,604 --> 00:07:21,858
@@ -433,7 +433,7 @@ Aparece... ¡Rey Mono Enma!
 
 102
 00:07:26,194 --> 00:07:27,633
-El Nueve Colas, ¿eh?
+El Kyubi, ¿eh?
 
 103
 00:07:28,406 --> 00:07:29,907
@@ -3746,7 +3746,7 @@ O quizá estás intentando olvidarla.
 
 880
 01:14:10,445 --> 01:14:13,061
-El Nueve Colas sellado dentro
+El Kyubi sellado dentro
 de Naruto es responsable
 
 881
@@ -3765,7 +3765,7 @@ Pero cada vez que lo veo,
 884
 01:14:22,456 --> 01:14:27,919
 no puedo evitar ver
-al Nueve Colas sellado dentro de él.
+al Kyubi sellado dentro de él.
 
 885
 01:14:29,223 --> 01:14:32,286
@@ -4819,7 +4819,7 @@ todos menos tú.
 1128
 01:33:26,643 --> 01:33:30,647
 ¡La norma prohíbe que nadie revele
-que el Nueve Colas está dentro de ti!
+que el Kyubi está dentro de ti!
 
 1129
 01:33:31,522 --> 01:33:32,522

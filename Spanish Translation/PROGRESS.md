@@ -7,14 +7,14 @@ Fuente: 73 episodios actualmente publicados en [Maediem/Rebuild-of-Naruto-Subtit
 | Episodio | Título (EN) | Título (ES) | Temporada | Estado | Notas |
 |---|---|---|---|---|---|
 | S01E01 | Academy Days | Días de Academia | Naruto | Fusionado | PR #1 |
-| S01E02 | The Bell Test | La Prueba de los Cascabeles | Naruto | Fusionado | PR #6 — PR #6 |
-| S01E03 | Mission, Start | Comienza la Misión | Naruto | Fusionado | PR #8 — PR #8 |
-| S01E04 | The Bridge | El Puente | Naruto | Fusionado | PR #11 — PR #11 |
+| S01E02 | The Bell Test | La Prueba de los Cascabeles | Naruto | Fusionado | PR #6 |
+| S01E03 | Mission, Start | Comienza la Misión | Naruto | Fusionado | PR #8 |
+| S01E04 | The Bridge | El Puente | Naruto | Fusionado | PR #11 |
 | S01E05 | Squad Missions | Misiones de Equipo | Naruto | Fusionado | PR #13 |
 | S01E06 | Entrance Exam | Examen de Acceso | Naruto | Fusionado | PR #16 |
 | S01E07 | Forest of Death | El Bosque de la Muerte | Naruto | Fusionado | PR #17 |
-| S01E08 | Preliminaries | Preliminares | Naruto | Pendiente |  |
-| S01E09 | Training | Entrenamiento | Naruto | Pendiente |  |
+| S01E08 | Preliminaries | Preliminares | Naruto | Fusionado | PR #21 |
+| S01E09 | Training | Entrenamiento | Naruto | Fusionado | PR #20 |
 | S01E10 | Finals | La Final | Naruto | Pendiente |  |
 | S01E11 | Destruction | Destrucción | Naruto | Pendiente |  |
 | S01E12 | Reunions | Reencuentros | Naruto | Pendiente |  |
