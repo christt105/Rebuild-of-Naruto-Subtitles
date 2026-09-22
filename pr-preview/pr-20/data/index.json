@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:16:56.780380+00:00",
+  "generated_at": "2026-09-22T06:17:07.817301+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -143,8 +143,8 @@
       "title_en": "Training",
       "title_es": "Entrenamiento",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #20",
       "cue_count": 1518,
       "translated_count": 1503,
       "unresolved_tags": [
