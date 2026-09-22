@@ -2607,108 +2607,108 @@ Perdona, tu cabeza se veía tan vacía,
 
 601
 00:45:58,278 --> 00:46:01,114
-I mistook you for a vase
-and stuck flowers in it.
+Te confundí con un jarrón
+y te metí flores dentro.
 
 602
 00:46:02,223 --> 00:46:03,349
-Ino!
+¡Ino!
 
 603
 00:46:04,449 --> 00:46:05,992
-The shinobi flower, aconite.
+La flor shinobi, el acónito.
 
 604
 00:46:06,526 --> 00:46:11,448
-It's mildly poisonous,
-so you should spit it out.
+Es ligeramente venenosa,
+así que deberías escupirla.
 
 605
 00:46:15,314 --> 00:46:17,191
-Sensei!
+¡Sensei!
 
 606
 00:46:19,931 --> 00:46:22,309
-Only the root is poisonous, though.
+Aunque solo la raíz es venenosa.
 
 607
 00:46:26,826 --> 00:46:28,620
-<i>Ino is great.</i>
+<i>Ino es genial.</i>
 
 608
 00:46:29,495 --> 00:46:32,831
-<i>She knows everything,
-is stylish, and is cute.</i>
+<i>Lo sabe todo,
+tiene estilo y es mona.</i>
 
 609
 00:46:33,724 --> 00:46:35,684
-<i>And her skill with shuriken...</i>
+<i>Y su habilidad con el shuriken...</i>
 
 610
 00:46:36,356 --> 00:46:37,899
-<i>Even her ninjutsu is great.</i>
+<i>Hasta su ninjutsu es genial.</i>
 
 611
 00:46:39,379 --> 00:46:41,673
-<i>Compared to her, I...</i>
+<i>Comparada con ella, yo...</i>
 
 612
 00:46:46,303 --> 00:46:47,303
-Sakura?
+¿Sakura?
 
 613
 00:46:48,581 --> 00:46:50,875
-If you're a cosmos flower...
+Si tú eres una flor de cosmos...
 
 614
 00:46:52,233 --> 00:46:54,361
-then am I a thoroughwort?
+¿entonces yo soy un eupatorio?
 
 615
 00:46:56,788 --> 00:46:58,373
-What are you saying?!
+¡¿Qué estás diciendo?!
 
 616
 00:46:58,510 --> 00:46:59,510
-What?
+¿Qué?
 
 617
 00:46:59,923 --> 00:47:01,925
-Let me see...
+A ver...
 
 618
 00:47:02,802 --> 00:47:07,181
-You're not a flower yet,
-you're still just a bud!
+¡Todavía no eres una flor,
+sigues siendo solo un capullo!
 
 619
 00:47:10,990 --> 00:47:12,120
-You're right.
+Tienes razón.
 
 620
 00:47:13,528 --> 00:47:15,071
-Say, Ino...
+Oye, Ino...
 
 621
 00:47:17,580 --> 00:47:22,335
-Why... did you give this ribbon to me?
+¿Por qué... me diste esta cinta?
 
 622
 00:47:25,212 --> 00:47:30,051
-I thought it'd be a waste for
-you to wilt away as a bud.
+Pensé que sería una pena
+que te marchitaras siendo solo un capullo.
 
 623
 00:47:36,256 --> 00:47:39,090
-A flower is meaningless until it blooms.
+Una flor no significa nada hasta que florece.
 
 624
 00:47:57,040 --> 00:47:58,083
-<i>Thank you...</i>
+<i>Gracias...</i>
 
 625
 00:48:00,294 --> 00:48:01,294
-<i>Ino!</i>
+<i>¡Ino!</i>
 
 626
 00:48:04,631 --> 00:48:05,631
@@ -2716,34 +2716,34 @@ A flower is meaningless until it blooms.
 
 627
 00:48:08,802 --> 00:48:14,224
-<i>I've always believed in what
-you told me back then.</i>
+<i>Siempre he creído en lo que
+me dijiste entonces.</i>
 
 628
 00:48:15,350 --> 00:48:17,436
-<i>I really hoped it could be true.</i>
+<i>De verdad esperaba que fuera cierto.</i>
 
 629
 00:48:18,729 --> 00:48:21,273
-<i>That I could become
-a beautiful flower...</i>
+<i>Que yo pudiera convertirme
+en una flor hermosa...</i>
 
 630
 00:48:22,316 --> 00:48:28,780
-<i>I always looked up to you
-because I wanted to be just like you.</i>
+<i>Siempre te admiré
+porque quería ser igual que tú.</i>
 
 631
 00:48:32,117 --> 00:48:34,953
-<i>Thanks to that, I'm here now.</i>
+<i>Gracias a eso, estoy aquí ahora.</i>
 
 632
 00:48:36,330 --> 00:48:39,333
-<i>So, Ino, I want to fight you seriously.</i>
+<i>Así que, Ino, quiero luchar contra ti en serio.</i>
 
 633
 00:49:04,855 --> 00:49:06,983
-Wh-What's with Sakura?
+¿Q-Qué le pasa a Sakura?
 
 634
 00:49:07,753 --> 00:49:08,587
@@ -2751,292 +2751,292 @@ Hmm.
 
 635
 00:49:08,760 --> 00:49:12,305
-Why are those two getting so worked up?!
+¡¿Por qué se han puesto así esas dos?!
 
 636
 00:49:12,960 --> 00:49:19,804
-<i>Honestly, he doesn't realize why
-he's always challenging Sasuke.</i>
+<i>Sinceramente, no se da cuenta de por qué
+siempre reta a Sasuke.</i>
 
 637
 00:49:20,398 --> 00:49:25,069
-Well, rivals are mysterious things.
+Bueno, los rivales son cosas misteriosas.
 
 638
 00:49:25,305 --> 00:49:26,305
-Huh?
+¿Eh?
 
 639
 00:49:28,223 --> 00:49:29,767
-Oh, hi...
+Ah, hola...
 
 640
 00:49:31,228 --> 00:49:34,075
-<i>My rival from youth, Kakashi...</i>
+<i>Mi rival desde la juventud, Kakashi...</i>
 
 641
 00:49:34,554 --> 00:49:39,351
-<i>Oh, how that nonchalant attitude of his
-is so infuriatingly cool!</i>
+<i>¡Ay, esa actitud tan despreocupada suya
+es tan irritantemente genial!</i>
 
 642
 00:49:40,877 --> 00:49:43,796
-I understand... Sakura.
+Lo entiendo... Sakura.
 
 643
 00:49:59,204 --> 00:50:01,044
-- This time for sure...
-- This time for sure...
+- Esta vez sí que sí...
+- Esta vez sí que sí...
 
 644
 00:50:02,040 --> 00:50:03,880
-- with full strength...
-- with full strength...
+- con todas mis fuerzas...
+- con todas mis fuerzas...
 
 645
 00:50:05,711 --> 00:50:09,131
-- a fair... fight!
-- a fair... fight!
+- ¡un combate... limpio!
+- ¡un combate... limpio!
 
 646
 00:50:13,260 --> 00:50:14,970
-<i>Just a Clone Jutsu?!</i>
+<i>¡¿Solo una Técnica de Clones?!</i>
 
 647
 00:50:15,637 --> 00:50:18,223
-This isn't a ninja Academy's
-graduation exam!
+¡Esto no es el examen de graduación
+de la Academia ninja!
 
 648
 00:50:18,682 --> 00:50:20,475
-You think you can beat me...
+¿Crees que puedes vencerme...
 
 649
 00:50:20,500 --> 00:50:22,335
-with a basic ninja art?!
+con una técnica ninja básica?!
 
 650
 00:50:25,281 --> 00:50:27,617
-If you still think
-I'm the same old crybaby Sakura,
+Si todavía piensas
+que soy la misma Sakura llorona de siempre,
 
 651
 00:50:27,774 --> 00:50:29,109
-you've got another thing coming!
+¡vas a llevarte una sorpresa!
 
 652
 00:50:40,537 --> 00:50:42,789
-<i>However, her opponent is good too.</i>
+<i>Sin embargo, su rival también es buena.</i>
 
 653
 00:50:43,248 --> 00:50:45,667
-<i>This evenly matched battle looks
-like it's going to take a while!</i>
+<i>¡Este combate tan igualado parece
+que va a llevar un buen rato!</i>
 
 654
 00:50:54,688 --> 00:50:57,891
-<i>Since when did she get this strong?!</i>
+<i>¡¿Desde cuándo se ha vuelto tan fuerte?!</i>
 
 655
 00:50:59,139 --> 00:51:01,808
-<i>I can make it, too!</i>
+<i>¡Yo también puedo lograrlo!</i>
 
 656
 00:51:03,351 --> 00:51:04,394
-<i>You little!</i>
+<i>¡Serás...!</i>
 
 657
 00:51:07,553 --> 00:51:08,638
-Whoa!
+¡Vaya!
 
 658
 00:51:09,566 --> 00:51:10,609
-<i>This is long...</i>
+<i>Esto se alarga...</i>
 
 659
 00:51:12,110 --> 00:51:14,270
-<i>They've been going at it
-for ten minutes, at the least.</i>
+<i>Llevan al menos diez minutos
+peleando.</i>
 
 660
 00:51:14,571 --> 00:51:18,158
-You shouldn't be evenly
-matched with me!
+¡No deberías estar
+a mi nivel!
 
 661
 00:51:19,740 --> 00:51:23,619
-What makes you think
-I'm evenly matched with you...
+¿Qué te hace pensar
+que estoy a tu nivel...
 
 662
 00:51:24,043 --> 00:51:26,683
-who only cares about her looks
-and her precious long hair?!
+a ti, que solo te preocupas por tu aspecto
+y tu precioso pelo largo?!
 
 663
 00:51:30,796 --> 00:51:31,796
-You!
+¡Tú!
 
 664
 00:51:31,821 --> 00:51:33,960
-You take that back!
+¡Retira eso!
 
 665
 00:51:34,508 --> 00:51:35,508
-Idiot.
+Idiota.
 
 666
 00:51:35,589 --> 00:51:37,424
-She's going for the bait.
+Está mordiendo el anzuelo.
 
 667
 00:51:38,053 --> 00:51:41,014
-Who knows what Ino will do!
+¡Quién sabe qué hará Ino!
 
 668
 00:51:41,348 --> 00:51:44,017
-I don't like Ino when she's that way!
+¡No me gusta Ino cuando se pone así!
 
 669
 00:51:55,529 --> 00:51:56,822
-You're simple-minded...
+Eres simplona...
 
 670
 00:51:57,823 --> 00:51:58,865
-<i>Uh oh.</i>
+<i>Uy, uy.</i>
 
 671
 00:51:59,611 --> 00:52:01,071
-<i>She's totally lost it!</i>
+<i>¡Ha perdido los estribos por completo!</i>
 
 672
 00:52:04,746 --> 00:52:05,746
-<i>- This is!
-- This is!</i>
+<i>- ¡Esto es!
+- ¡Esto es!</i>
 
 673
 00:52:08,875 --> 00:52:09,918
-<i>- This is...
-- This is...</i>
+<i>- Esto es...
+- Esto es...</i>
 
 674
 00:52:10,210 --> 00:52:11,210
-<i>- the end!
-- the end!</i>
+<i>- ¡el final!
+- ¡el final!</i>
 
 675
 00:52:43,034 --> 00:52:45,412
-Both parties are unable
-to continue the match!
+¡Ninguna de las dos puede
+continuar el combate!
 
 676
 00:52:46,215 --> 00:52:47,759
-By double knockout,
+Por doble fuera de combate,
 
 677
 00:52:48,206 --> 00:52:51,334
-no one advances from
-the fourth preliminary match!
+¡nadie avanza
+del cuarto combate preliminar!
 
 678
 00:52:52,460 --> 00:52:53,460
-- What?!
-- Huh?!
+- ¡¿Qué?!
+- ¡¿Eh?!
 
 679
 00:52:56,941 --> 00:52:57,984
-Now then...
+Bueno...
 
 680
 00:52:58,603 --> 00:52:59,687
-Good grief.
+Vaya por Dios.
 
 681
 00:53:01,845 --> 00:53:03,221
-Hey, Ino!
+¡Oye, Ino!
 
 682
 00:53:03,499 --> 00:53:04,375
-Sakura!
+¡Sakura!
 
 683
 00:53:04,400 --> 00:53:05,610
-Sakura!
+¡Sakura!
 
 684
 00:53:05,804 --> 00:53:07,972
-A-Are you okay?!
+¡¿Estáis bien?!
 
 685
 00:53:20,363 --> 00:53:23,825
-<i>Seeing that made me all fired up, too!</i>
+<i>¡Ver eso también me ha encendido a mí!</i>
 
 686
 00:53:25,268 --> 00:53:26,268
-Now...
+Ahora...
 
 687
 00:53:26,786 --> 00:53:28,506
-The second one from the Sand...
+El segundo de la Arena...
 
 688
 00:53:28,905 --> 00:53:31,425
-- This should be an interesting match.
-- Do your best, Tenten!
+- Este debería ser un combate interesante.
+- ¡Da lo mejor de ti, Tenten!
 
 689
 00:53:34,294 --> 00:53:35,670
-The fifth battle...
+El quinto combate...
 
 690
 00:53:36,213 --> 00:53:39,966
-Tenten, Temari...
-come forward!
+¡Tenten, Temari...
+adelante!
 
 691
 00:53:47,288 --> 00:53:50,791
-It looks like you finally
-woke up, huh... Sakura.
+Parece que por fin
+despertaste, ¿eh... Sakura?
 
 692
 00:53:52,562 --> 00:53:53,146
-Huh?!
+¡¿Eh?!
 
 693
 00:53:53,271 --> 00:53:56,274
-Tenten, power of youth!
+¡Tenten, el poder de la juventud!
 
 694
 00:53:56,566 --> 00:53:57,484
-Go, Go!
+¡Vamos, vamos!
 
 695
 00:53:57,567 --> 00:53:59,778
-There is no limit to your youth!
+¡No hay límite para tu juventud!
 
 696
 00:54:00,695 --> 00:54:03,448
-Our match is already over.
+Nuestro combate ya ha terminado.
 
 697
 00:54:04,076 --> 00:54:06,745
-To think I tied with somebody like you...
+Pensar que empaté con alguien como tú...
 
 698
 00:54:08,203 --> 00:54:09,203
-Huh?
+¿Eh?
 
 699
 00:54:10,580 --> 00:54:11,580
-Here!
+¡Toma!
 
 700
 00:54:14,542 --> 00:54:16,753
-Your own flower bloomed, didn't it?
+Tu propia flor floreció, ¿verdad?
 
 701
 00:54:17,504 --> 00:54:18,880
-A beautiful flower!
+¡Una flor hermosa!
 
 702
 00:54:25,804 --> 00:54:26,804
@@ -3044,99 +3044,99 @@ Ino...
 
 703
 00:54:36,648 --> 00:54:37,648
-However...
+Sin embargo...
 
 704
 00:54:38,672 --> 00:54:39,924
-the next time we fight,
+la próxima vez que luchemos,
 
 705
 00:54:40,068 --> 00:54:42,028
-it won't end with you
-getting knocked out!
+¡no acabará contigo
+fuera de combate!
 
 706
 00:54:42,612 --> 00:54:43,612
-Hm?!
+¡¿Eh?!
 
 707
 00:54:44,018 --> 00:54:48,439
-And... I won't hand over
-Sasuke to you!
+Y... ¡no voy a cederte
+a Sasuke!
 
 708
 00:54:49,958 --> 00:54:53,456
-Right back at you!
+¡Lo mismo digo!
 
 709
 00:54:56,017 --> 00:54:57,017
-- Humph!
-- Humph!
+- ¡Já!
+- ¡Já!
 
 710
 00:54:57,711 --> 00:54:59,998
-T-That's awful.
+Q-Qué horror.
 
 711
 00:55:00,964 --> 00:55:01,964
-Tenten!
+¡Tenten!
 
 712
 00:55:03,197 --> 00:55:06,343
-How boring... really.
+Qué aburrido... de verdad.
 
 713
 00:55:08,722 --> 00:55:11,308
-Temari wins the fifth battle.
+Temari gana el quinto combate.
 
 714
 00:55:13,560 --> 00:55:14,560
-Oh no!
+¡Oh, no!
 
 715
 00:55:22,235 --> 00:55:23,320
-Nice catch.
+Buena atrapada.
 
 716
 00:55:24,360 --> 00:55:25,569
-What are you doing?!
+¡¿Qué estás haciendo?!
 
 717
 00:55:26,102 --> 00:55:29,649
-Is that how you treat an opponent
-who gave it their all?!
+¡¿Así tratas a una rival
+que se dejó la piel?!
 
 718
 00:55:30,982 --> 00:55:32,150
-You're annoying!
+¡Eres molesta!
 
 719
 00:55:32,402 --> 00:55:34,487
-Take that trash away already!
+¡Llevaos ya esa basura!
 
 720
 00:55:35,530 --> 00:55:36,656
-Stop! Lee!
+¡Para! ¡Lee!
 
 721
 00:55:37,000 --> 00:55:38,668
-<i>Leaf Hurricane!</i>
+<i>¡Remolino de la Hoja!</i>
 
 722
 00:55:39,377 --> 00:55:40,377
-<i>What?!</i>
+<i>¡¿Qué?!</i>
 
 723
 00:55:40,503 --> 00:55:41,671
-You're just like you look...
+Eres tal y como pareces...
 
 724
 00:55:42,756 --> 00:55:43,756
-Stop! Lee!
+¡Para! ¡Lee!
 
 725
 00:55:44,674 --> 00:55:45,674
-Guy-sensei!
+¡Guy-sensei!
 
 726
 00:55:45,800 --> 00:55:46,800
@@ -3144,54 +3144,54 @@ Temari.
 
 727
 00:55:47,427 --> 00:55:50,847
-Come up quick, you've been
-declared the winner.
+Sube rápido,
+te han declarado ganadora.
 
 728
 00:55:51,473 --> 00:55:56,227
-Don't waste your time with
-that fool and his master.
+No pierdas el tiempo con
+ese tonto y su maestro.
 
 729
 00:55:57,103 --> 00:55:58,103
-What?!
+¡¿Qué?!
 
 730
 00:56:02,233 --> 00:56:03,233
-You ninja of the Sand...
+Vosotros, ninjas de la Arena...
 
 731
 00:56:04,235 --> 00:56:07,238
-Allow me to give you a word of warning.
+Permitidme daros una advertencia.
 
 732
 00:56:09,783 --> 00:56:11,201
-This kid is strong.
+Este chico es fuerte.
 
 733
 00:56:11,826 --> 00:56:13,578
-You should prepare yourselves.
+Deberíais ir preparándoos.
 
 734
 00:56:17,040 --> 00:56:19,542
-Picking a fight with the Sand...
+Meterse en líos con la Arena...
 
 735
 00:56:20,794 --> 00:56:24,255
-I definitely wouldn't want
-to fight those guys.
+Desde luego, yo no querría
+luchar contra esos tipos.
 
 736
 00:56:25,256 --> 00:56:27,342
-T-They're all terrifying...
+S-Son todos aterradores...
 
 737
 00:56:33,306 --> 00:56:35,730
-Don't lose to those guys!
+¡No pierdas contra esos tipos!
 
 738
 00:56:36,002 --> 00:56:36,906
-Naruto!
+¡Naruto!
 
 739
 00:56:37,564 --> 00:56:38,564
@@ -3199,491 +3199,491 @@ S-Sakura.
 
 740
 00:56:38,928 --> 00:56:41,976
-Sakura... Are you okay?
+Sakura... ¿estás bien?
 
 741
 00:56:42,232 --> 00:56:45,527
-Never mind that,
-you should worry about yourself!
+Olvida eso,
+¡deberías preocuparte por ti mismo!
 
 742
 00:56:45,902 --> 00:56:49,864
-Huh? Me? I'm not injured or anything.
+¿Eh? ¿Yo? No estoy herido ni nada.
 
 743
 00:56:50,153 --> 00:56:51,446
-That's not what I mean.
+No me refiero a eso.
 
 744
 00:56:51,783 --> 00:56:54,536
-If you lose here,
-it'll be a disgrace.
+Si pierdes aquí,
+será una vergüenza.
 
 745
 00:56:54,911 --> 00:56:56,621
-You'd be ashamed to face Sasuke!
+¡Te daría vergüenza mirar a Sasuke a la cara!
 
 746
 00:56:57,080 --> 00:56:58,415
-Y-Yeah.
+S-Sí.
 
 747
 00:57:03,086 --> 00:57:06,085
-Okay, hurry, hurry!
-Me next!
+¡Bien, rápido, rápido!
+¡Yo el siguiente!
 
 748
 00:57:06,110 --> 00:57:07,826
-Next! It's my turn!
+¡El siguiente! ¡Me toca a mí!
 
 749
 00:57:10,508 --> 00:57:11,948
-Damn!
+¡Maldición!
 
 750
 00:57:12,971 --> 00:57:13,971
-It's me.
+Soy yo.
 
 751
 00:57:14,431 --> 00:57:16,391
-That guy manipulates shadows.
+Ese tipo manipula sombras.
 
 752
 00:57:16,891 --> 00:57:18,601
-Be careful of the shadows...
+Ten cuidado con las sombras...
 
 753
 00:57:21,229 --> 00:57:23,940
-I won't lose to a stupid jutsu like that.
+No perderé ante un jutsu estúpido como ese.
 
 754
 00:57:25,001 --> 00:57:26,185
-Shikamaru!
+¡Shikamaru!
 
 755
 00:57:26,210 --> 00:57:29,087
-Wipe the floor with her!
-And while you're at it...
+¡Aplástala!
+Y ya que estás...
 
 756
 00:57:29,112 --> 00:57:30,864
-Ugh, what a drag.
+Uf, qué fastidio.
 
 757
 00:57:31,531 --> 00:57:34,075
-Plus, my opponent's a woman...
-Makes it even more of a drag.
+Y encima mi rival es una mujer...
+Eso lo hace aún más pesado.
 
 758
 00:57:35,192 --> 00:57:37,194
-If that's what you think,
-I'll end this quickly.
+Si eso es lo que piensas,
+acabaré con esto rápido.
 
 759
 00:57:37,495 --> 00:57:38,955
-Go, go! Shikamaru!
+¡Vamos, vamos! ¡Shikamaru!
 
 760
 00:57:39,122 --> 00:57:41,858
-<i>Well, you could say that
-I know these guys' raw power</i>
+<i>Bueno, podría decirse que
+conozco el poder bruto de estos tipos</i>
 
 761
 00:57:41,883 --> 00:57:44,620
-<i>from that incident from
-the second test...</i>
+<i>por aquel incidente de
+la segunda prueba...</i>
 
 762
 00:57:44,645 --> 00:57:47,773
-<i>I don't know anything about
-this one's jutsu.</i>
+<i>No sé nada sobre
+el jutsu de esta.</i>
 
 763
 00:57:48,715 --> 00:57:51,843
-<i>On top of that, she's seen my jutsu...</i>
+<i>Y encima, ella ya ha visto mi jutsu...</i>
 
 764
 00:57:53,166 --> 00:57:55,377
-- The sixth battle.
-- <i>That being said, for me...</i>
+- El sexto combate.
+- <i>Dicho esto, para mí...</i>
 
 765
 00:57:55,668 --> 00:57:56,752
-Shikamaru versus Kin!
+¡Shikamaru contra Kin!
 
 766
 00:57:58,353 --> 00:57:59,212
-Begin!
+¡Comiencen!
 
 767
 00:57:59,893 --> 00:58:01,895
-<i>Ninja Art: Shadow Possession Jutsu!</i>
+<i>¡Arte ninja: Jutsu Posesión de Sombras!</i>
 
 768
 00:58:02,520 --> 00:58:03,104
-That jutsu!
+¡Ese jutsu!
 
 769
 00:58:03,521 --> 00:58:07,025
-It's useless as long as I watch
-your shadow's movements!
+¡Es inútil mientras vigile
+los movimientos de tu sombra!
 
 770
 00:58:11,654 --> 00:58:12,654
-<i>Bells?</i>
+<i>¿Cascabeles?</i>
 
 771
 00:58:13,948 --> 00:58:15,992
-Heh, that's a classic.
+Já, eso es un clásico.
 
 772
 00:58:16,951 --> 00:58:19,078
-Next, you'll throw senbons with bells
+Después lanzarás agujas con cascabeles
 
 773
 00:58:19,329 --> 00:58:21,873
-and senbons without bells
-at the same time, right?
+y agujas sin cascabeles
+al mismo tiempo, ¿verdad?
 
 774
 00:58:22,665 --> 00:58:24,226
-You're a chatty guy!
+¡Eres un charlatán!
 
 775
 00:58:24,341 --> 00:58:27,136
-So in order to not get caught
-by the shadow senbons...
+Así que para no dejarme atrapar
+por las agujas de la sombra...
 
 776
 00:58:27,301 --> 00:58:29,136
-I'm alert to the trick
-and look closely...
+estoy alerta al truco
+y miro de cerca...
 
 777
 00:58:31,434 --> 00:58:31,934
-<i>What?!</i>
+<i>¡¿Qué?!</i>
 
 778
 00:58:32,248 --> 00:58:33,248
-<i>Behind?!</i>
+<i>¡¿Detrás?!</i>
 
 779
 00:58:36,467 --> 00:58:37,010
-<i>String?</i>
+<i>¿Un hilo?</i>
 
 780
 00:58:37,398 --> 00:58:38,398
-Too late!
+¡Demasiado tarde!
 
 781
 00:58:40,073 --> 00:58:41,074
-Shikamaru!
+¡Shikamaru!
 
 782
 00:58:41,180 --> 00:58:42,724
-He took that pretty bad.
+Le ha dado bastante fuerte.
 
 783
 00:58:43,098 --> 00:58:45,392
-It wasn't that bad, look closely.
+No ha sido para tanto, mira bien.
 
 784
 00:58:45,438 --> 00:58:46,606
-M-My body...
+M-Mi cuerpo...
 
 785
 00:58:49,816 --> 00:58:52,462
-Shadow Possession Jutsu, success.
+Jutsu Posesión de Sombras, con éxito.
 
 786
 00:58:52,487 --> 00:58:54,155
-Wh-What are you saying?
+¿Q-Qué estás diciendo?
 
 787
 00:58:54,489 --> 00:58:57,158
-No way!
-Your shadow isn't anywhere...
+¡No puede ser!
+Tu sombra no está por ninguna parte...
 
 788
 00:58:58,212 --> 00:58:59,880
-You don't realize it yet?
+¿Todavía no te das cuenta?
 
 789
 00:59:00,537 --> 00:59:01,996
-I-It can't be...
+N-No puede ser...
 
 790
 00:59:03,039 --> 00:59:04,832
-That's exactly it, you idiot!
+¡Exacto, idiota!
 
 791
 00:59:06,289 --> 00:59:09,834
-A thread at this height
-won't cast a shadow.
+Un hilo a esta altura
+no proyecta sombra.
 
 792
 00:59:10,547 --> 00:59:14,467
-I can stretch and shrink
-my own shadow.
+Puedo estirar y encoger
+mi propia sombra.
 
 793
 00:59:17,960 --> 00:59:20,921
-But... How do you win with that?
+Pero... ¿cómo se gana con eso?
 
 794
 00:59:21,478 --> 00:59:23,480
-I'm just going to move
-the same way as you.
+Simplemente voy a moverme
+igual que tú.
 
 795
 00:59:23,889 --> 00:59:25,057
-What a drag.
+Qué fastidio.
 
 796
 00:59:31,025 --> 00:59:32,360
-No way! You're...
+¡No puede ser! Tú eres...
 
 797
 00:59:33,111 --> 00:59:34,838
-We're going to throw shuriken
-at each other.
+Vamos a lanzarnos shuriken
+el uno al otro.
 
 798
 00:59:34,862 --> 00:59:36,030
-How far will we go?
+¿Hasta dónde llegaremos?
 
 799
 00:59:36,270 --> 00:59:37,270
-Fool, stop it!
+¡Idiota, para ya!
 
 800
 00:59:40,743 --> 00:59:41,953
-<i>You're only talk...</i>
+<i>Solo sabes hablar...</i>
 
 801
 00:59:44,229 --> 00:59:45,397
-And that's checkmate.
+Y eso es jaque mate.
 
 802
 00:59:47,584 --> 00:59:48,585
-If you're a shinobi,
+Si eres un shinobi,
 
 803
 00:59:49,025 --> 00:59:52,028
-you have to understand the situation
-and the surroundings when you fight.
+tienes que entender la situación
+y el entorno cuando luchas.
 
 804
 00:59:52,323 --> 00:59:54,325
-Even though we made
-the same movements...
+Aunque hiciéramos
+los mismos movimientos...
 
 805
 00:59:55,258 --> 00:59:57,385
-Winner! Shikamaru Nara.
+¡Ganador! Shikamaru Nara.
 
 806
 00:59:57,635 --> 00:59:59,554
-Good job Shikamaru!
+¡Buen trabajo, Shikamaru!
 
 807
 00:59:59,887 --> 01:00:00,740
-Cool!
+¡Genial!
 
 808
 01:00:00,764 --> 01:00:02,932
-And the next match.
+Y el siguiente combate.
 
 809
 01:00:03,600 --> 01:00:05,810
-The people left are that Sound guy,
+Los que quedan son ese tipo del Sonido,
 
 810
 01:00:06,019 --> 01:00:09,272
-me, Hinata, Naruto, Choji, Neji and Lee.
+yo, Hinata, Naruto, Choji, Neji y Lee.
 
 811
 01:00:09,772 --> 01:00:11,149
-And that Sand guy...
+Y ese tipo de la Arena...
 
 812
 01:00:12,108 --> 01:00:14,861
-Just please don't make me fight that guy.
+Por favor, que no me toque luchar contra ese.
 
 813
 01:00:16,404 --> 01:00:19,699
-This year's rookies are pretty impressive...
+Los novatos de este año son bastante impresionantes...
 
 814
 01:00:28,541 --> 01:00:30,710
-It's here, it's here, it's here!
+¡Ya llega, ya llega, ya llega!
 
 815
 01:00:31,002 --> 01:00:32,462
-What we've been waiting for!
+¡Lo que hemos estado esperando!
 
 816
 01:00:32,629 --> 01:00:35,131
-It's finally my turn!
+¡Por fin me toca a mí!
 
 817
 01:00:35,256 --> 01:00:37,675
-Yeah! Lucky us!
+¡Sí! ¡Qué suerte!
 
 818
 01:00:37,759 --> 01:00:40,553
-If it's this guy, it's an easy win, Akamaru!
+Si es este tipo, es una victoria fácil, ¡Akamaru!
 
 819
 01:00:42,263 --> 01:00:43,640
-Yahoo!
+¡Yupi!
 
 820
 01:00:43,806 --> 01:00:46,076
-- If I'm not next, Sakura will be so disappointed.
-- I'm going to do it!
+- Si no soy el siguiente, Sakura se llevará una gran decepción.
+- ¡Voy a conseguirlo!
 
 821
 01:00:46,100 --> 01:00:48,478
-- She'll just think I'm "Bushy Brow".
-- I'm going to go for it!
+- Solo pensará que soy "Cejotas".
+- ¡Voy a darlo todo!
 
 822
 01:00:48,770 --> 01:00:51,731
-- If I'm not next... Sakura...
-- Just watch me! Yay!
+- Si no soy el siguiente... Sakura...
+- ¡Mírame! ¡Bien!
 
 823
 01:00:52,106 --> 01:00:55,735
-<i>This Lee kid, he's just like
-Guy was in the past...</i>
+<i>Este chico, Lee, es igual que
+Guy en el pasado...</i>
 
 824
 01:00:59,656 --> 01:01:01,115
-Do your best, Naruto.
+Da lo mejor de ti, Naruto.
 
 825
 01:01:01,574 --> 01:01:03,326
-Leave it to me.
+Déjamelo a mí.
 
 826
 01:01:04,285 --> 01:01:07,080
-<i>Well Naruto, show us...</i>
+<i>Bueno, Naruto, muéstranos...</i>
 
 827
 01:01:07,872 --> 01:01:09,415
-<i>how much you've grown.</i>
+<i>cuánto has crecido.</i>
 
 828
 01:01:13,127 --> 01:01:14,587
-I'm going to do it!
+¡Voy a conseguirlo!
 
 829
 01:01:16,172 --> 01:01:20,635
-The seventh battle,
-Naruto Uzumaki versus Kiba Inuzuka.
+El séptimo combate,
+Naruto Uzumaki contra Kiba Inuzuka.
 
 830
 01:01:23,054 --> 01:01:24,847
-I got sick of waiting!
+¡Me cansé de esperar!
 
 831
 01:01:25,264 --> 01:01:28,559
-It's finally time for me to shine!
+¡Por fin es hora de que yo brille!
 
 832
 01:01:30,228 --> 01:01:31,562
-That's my line!
+¡Esa es mi frase!
 
 833
 01:01:31,729 --> 01:01:33,690
-With you as my opponent,
-victory is in the bag!
+Contigo como rival,
+¡la victoria está asegurada!
 
 834
 01:01:33,815 --> 01:01:34,815
-Right, Akamaru?
+¿Verdad, Akamaru?
 
 835
 01:01:36,401 --> 01:01:38,403
-Don't get excited!
+¡No te emociones!
 
 836
 01:01:38,569 --> 01:01:40,822
-You won't be able to beat me!
+¡No podrás vencerme!
 
 837
 01:01:40,947 --> 01:01:42,365
-Why you little...!
+¡Serás...!
 
 838
 01:01:44,028 --> 01:01:46,498
-Hey! Don't bring your puppy!
+¡Oye! ¡No traigas a tu cachorro!
 
 839
 01:01:46,602 --> 01:01:48,105
-He'll get in the way of the match!
+¡Estorbará en el combate!
 
 840
 01:01:48,339 --> 01:01:49,340
-You fool!
+¡Tonto!
 
 841
 01:01:49,497 --> 01:01:51,249
-Akamaru's going to fight with me.
+Akamaru va a luchar conmigo.
 
 842
 01:01:52,616 --> 01:01:54,910
-Hey, hey! Is that okay?
+¡Oiga, oiga! ¿Eso está permitido?
 
 843
 01:01:55,503 --> 01:01:56,148
-Yes.
+Sí.
 
 844
 01:01:56,337 --> 01:01:59,257
-Animals and insects are treated
-the same as ninja tools.
+Los animales y los insectos se tratan
+igual que las herramientas ninja.
 
 845
 01:02:00,091 --> 01:02:01,592
-There's no problem.
+No hay ningún problema.
 
 846
 01:02:03,970 --> 01:02:05,388
-Well, that's fine!
+¡Bueno, entonces está bien!
 
 847
 01:02:05,763 --> 01:02:07,765
-It's a perfect handicap!
+¡Es un hándicap perfecto!
 
 848
 01:02:07,974 --> 01:02:09,851
-Talking tough!
+¡Menudo fanfarrón!
 
 849
 01:02:10,435 --> 01:02:11,435
-Then...
+Entonces...
 
 850
 01:02:12,437 --> 01:02:14,397
-Akamaru, stay out of this one.
+Akamaru, no te metas en este.
 
 851
 01:02:14,897 --> 01:02:15,982
-I'll fight him by myself!
+¡Lucharé contra él yo solo!
 
 852
 01:02:17,488 --> 01:02:20,115
-Naruto! Don't lose to a guy like this!
+¡Naruto! ¡No pierdas contra un tipo así!
 
 853
 01:02:21,821 --> 01:02:22,822
-<i>Naruto, huh?</i>
+<i>Naruto, ¿eh?</i>
 
 854
 01:02:23,906 --> 01:02:26,576
-<i>I'm sorry, but he can't beat Kiba...</i>
+<i>Lo siento, pero no puede ganarle a Kiba...</i>
 
 855
 01:02:27,827 --> 01:02:28,827
@@ -3695,44 +3695,44 @@ Naruto! Don't lose to a guy like this!
 
 857
 01:02:30,371 --> 01:02:32,206
-<i>I-I want to support you, but...</i>
+<i>Q-Quiero apoyarte, pero...</i>
 
 858
 01:02:32,373 --> 01:02:35,543
-<i>Kiba's on my team...</i>
+<i>Kiba es de mi equipo...</i>
 
 859
 01:02:35,918 --> 01:02:38,463
-Kiba's lucky.
+Kiba tiene suerte.
 
 860
 01:02:38,713 --> 01:02:39,713
-Hah!
+¡Já!
 
 861
 01:02:42,300 --> 01:02:45,303
-Well then. Please begin!
+Bien, entonces. ¡Comiencen!
 
 862
 01:02:46,986 --> 01:02:49,572
-<i>Ninja Art of Beast Mimicry: All Four Jutsu!</i>
+<i>¡Arte ninja de Imitación de Bestias: Técnica de las Cuatro Patas!</i> {KIBA}
 
 863
 01:02:55,354 --> 01:02:56,354
-Here I come!
+¡Allá voy!
 
 864
 01:03:01,319 --> 01:03:05,531
-It'll be a while
-until he opens his eyes, Proctor.
+Va a pasar un rato
+hasta que abra los ojos, examinador.
 
 865
 01:03:05,990 --> 01:03:07,241
-Just as I thought.
+Tal como pensaba.
 
 866
 01:03:07,573 --> 01:03:10,493
-That Naruto is no match for Kiba.
+Ese Naruto no tiene nada que hacer contra Kiba.
 
 867
 01:03:10,787 --> 01:03:11,787
@@ -3740,93 +3740,93 @@ Naruto...
 
 868
 01:03:12,163 --> 01:03:13,664
-That was too embarrassing to watch.
+Ha sido demasiado bochornoso de ver.
 
 869
 01:03:15,708 --> 01:03:16,876
-See...
+¿Ves...?
 
 870
 01:03:17,585 --> 01:03:20,546
-What was that?
-That guy is weak.
+¿Qué ha sido eso?
+Ese tipo es débil.
 
 871
 01:03:23,633 --> 01:03:24,633
-Don't...
+No...
 
 872
 01:03:26,177 --> 01:03:27,177
-Don't...
+No...
 
 873
 01:03:27,929 --> 01:03:29,138
-underestimate me!
+¡me subestimes!
 
 874
 01:03:33,226 --> 01:03:34,602
-Yeah!
+¡Sí!
 
 875
 01:03:35,937 --> 01:03:37,688
-<i>He seems to have grown,
-to say things like that.</i>
+<i>Parece que ha crecido,
+para decir esas cosas.</i>
 
 876
 01:03:38,064 --> 01:03:39,982
-What are you talking about,
-bleeding like that?
+¿De qué hablas,
+si estás sangrando así?
 
 877
 01:03:40,441 --> 01:03:42,235
-Your tough talk has gone too far!
+¡Te has pasado con las bravuconadas!
 
 878
 01:03:43,236 --> 01:03:47,323
-I didn't use my full power...
-I wanted to observe your strength first!
+No usé todo mi poder...
+¡Quería ver primero tu fuerza!
 
 879
 01:03:49,242 --> 01:03:52,829
-You too, cut out the tough talk
-and use the dog or whatever you want!
+Tú también, déjate de bravuconadas
+y usa al perro o lo que quieras.
 
 880
 01:03:54,080 --> 01:03:55,665
-You'll regret this...
+Te vas a arrepentir de esto...
 
 881
 01:03:56,958 --> 01:03:58,084
-Let's go Akamaru!
+¡Vamos, Akamaru!
 
 882
 01:04:04,257 --> 01:04:05,257
-Smoke bomb?
+¿Una bomba de humo?
 
 883
 01:04:05,466 --> 01:04:06,466
-Take this!
+¡Toma esto!
 
 884
 01:04:22,316 --> 01:04:23,316
-<i>I can't see!</i>
+<i>¡No veo nada!</i>
 
 885
 01:04:23,484 --> 01:04:24,484
-<i>This is bad!</i>
+<i>¡Esto es malo!</i>
 
 886
 01:04:24,861 --> 01:04:27,572
-<i>I have to get out of the smoke...
-or I'll be done for.</i>
+<i>Tengo que salir del humo...
+o estaré acabado.</i>
 
 887
 01:04:38,875 --> 01:04:40,751
-Yeah! We did it!
+¡Sí! ¡Lo conseguimos!
 
 888
 01:04:42,587 --> 01:04:44,297
-Yay! Good job, Akama-
+¡Bien! Buen trabajo, Akama-
 
 889
 01:04:47,800 --> 01:04:49,135
@@ -3834,48 +3834,48 @@ A-Akamaru...
 
 890
 01:04:49,760 --> 01:04:50,760
-Why?
+¿Por qué?
 
 891
 01:04:53,556 --> 01:04:54,599
-Y-You!
+¡T-Tú!
 
 892
 01:04:54,640 --> 01:04:55,640
-Transformation Jutsu?!
+¡¿Técnica de Transformación?!
 
 893
 01:04:55,975 --> 01:04:57,476
-Ouch! Damn!
+¡Ay! ¡Maldición!
 
 894
 01:04:58,019 --> 01:04:59,019
-Let go!
+¡Suelta!
 
 895
 01:05:01,147 --> 01:05:02,773
-You smell like a dog!
+¡Hueles a perro!
 
 896
 01:05:03,232 --> 01:05:05,401
-Wh-Where's Akamaru?!
+¡¿D-Dónde está Akamaru?!
 
 897
 01:05:05,776 --> 01:05:06,776
-Over here!
+¡Aquí!
 
 898
 01:05:08,029 --> 01:05:10,489
-Akamaru! Damn!
+¡Akamaru! ¡Maldición!
 
 899
 01:05:10,781 --> 01:05:14,493
-Applying Shadow Clone Jutsu to
-a Transformation Jutsu, that's a clever trick.
+Aplicar la Técnica de Clones de Sombra a
+una Técnica de Transformación, menudo truco astuto.
 
 900
 01:05:14,985 --> 01:05:16,987
-Naruto shouldn't be able to do that...
+Naruto no debería ser capaz de hacer eso...
 
 901
 01:05:18,039 --> 01:05:20,541
