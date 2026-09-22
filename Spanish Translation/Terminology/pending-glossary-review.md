@@ -44,7 +44,7 @@ Combination attack named "Pachinko Jutsu" in the English. Rendered "Técnica Pac
 Naruto's joke technique rendered "Técnica de Clones de Sombra: Versión Pesca", introduced by "Técnica especial:" (S01E07, cue 1010).
 
 ### `{KIBA}` - Kiba's beast-mimicry techniques (remaining)
-S01E08: "Man Beast Clone" rendered "Clon de Hombre-Bestia" (cue 918), "Man Beast Taijutsu Technique" rendered "Técnica de Taijutsu Hombre-Bestia" (cue 932) and "Fang Over Fang" rendered "Colmillo sobre Colmillo" (cue 933). The Planeta guide calls the clone "Multiplicación bestial", but the project keeps "clon" for bunshin (see the verified "Técnica de Clones de Sombra"), so this needs a decision: "Clon Bestial" is one option. The guide's "Colmillo perforador" is the single-user version, not Fang Over Fang. "Técnica animal" and "Técnica de las Cuatro Garras" are already resolved in the glossary.
+S01E08: "Man Beast Taijutsu Technique" rendered "Técnica de Taijutsu Hombre-Bestia" (cue 932) and "Fang Over Fang" rendered "Colmillo sobre Colmillo" (cue 933). The guide's "Colmillo perforador" is the single-user version, not Fang Over Fang. "Técnica animal", "Técnica de las Cuatro Garras" and "Multiplicación Bestial" are already resolved in the glossary.
 
 ### `{SANGRE}` - Hot-Blooded (young Lee's Academy nickname)
 In the Academy-days flashback, Lee is mocked as "Hot-Blooded" / "Hot-Blooded loser" (S01E08, cues 1485-1490). Rendered "Sangre Caliente" / "Perdedor de Sangre Caliente". No source found for an official rendering; pending confirmation.
