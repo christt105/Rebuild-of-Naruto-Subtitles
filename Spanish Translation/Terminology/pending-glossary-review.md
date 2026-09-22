@@ -54,3 +54,30 @@ Naruto's joke technique rendered "Técnica de Clones de Sombra: Versión Pesca",
 
 ### `{LEONES}` - Lions Barrage
 Lee's/Sasuke's "Lions Barrage" rendered "Ráfaga de Leones" (S01E07, cue 1069).
+
+### `{INSECTOS}` - Parasitic Insects (Shino's technique)
+"These things are called Parasitic Insects" rendered "insectos parásito" (S01E08, cue 427), following the official character guide (vol. 1, "TÉCNICA DE LOS INSECTOS PARÁSITO" / "Técnica de los insectos parásito"). Note the guide's own wording keeps "parásito" singular even though "insectos" is plural.
+
+### `{MARIONETA}` - Puppet Master Jutsu (Kankuro)
+"He's... a Puppet Master..." and "That's the Puppet Master Jutsu" rendered "un marionetista" / "la Técnica del marionetista" (S01E08, cues 543 and 553), following the official guide's technique index ("Técnica del marionetista", vol. 1).
+
+### `{FRENTONA}` - Billboard Brow (Ino's nickname for Sakura)
+Ino calls Sakura "Billboard Brow" (S01E08, cue 596). Rendered "Frentona" (aumentativo on "frente", same pattern as "Cejotas" for Lee's "Bushy Brow"). No source found for an official Spain dub/manga rendering; pending confirmation.
+
+### `{KIBA}` - Kiba's beast-mimicry techniques
+Kiba/Akamaru's Inuzuka-style techniques (S01E08): "Ninja Art of Beast Mimicry: All Four Jutsu" rendered "Arte ninja de Imitación de Bestias: Técnica de las Cuatro Patas" (cue 862, "cuatro patas" partially confirmed by the official guide's description of the technique); "Man Beast Clone" rendered "Clon de Hombre-Bestia" (cue 918); "Man Beast Taijutsu Technique" rendered "Técnica de Taijutsu Hombre-Bestia" (cue 932); "Fang Over Fang" rendered "Colmillo sobre Colmillo" (cue 933, common fandom rendering, unconfirmed in the ingested guide/manga volumes); "All Fours Jutsu" (cue 985) also rendered "Técnica de las Cuatro Patas". None of these are yet in the glossary.
+
+### `{RAFAGA}` - Naruto Barrage
+Naruto's finishing move "Naruto Barrage" (Uzumaki Naruto Rendan) rendered "Ráfaga de Naruto" (S01E08, cue 1006), following the same "Ráfaga de X" pattern as the already-resolved "Lions Barrage" -> "Ráfaga de Leones".
+
+### `{ARMADURA}` - Sand Shield / Sand Armor (Gaara)
+"The Sand shields and protects Gaara" and "sand armor" rendered "Escudo de Arena" / "Armadura de Arena" (S01E08, cues 1384 and 1447), sourced from the manga itself (vol. 10, p37: "el 'Escudo de Arena' ... la 'Armadura de Arena'") and the official guide (vol. 1 p204). Later untagged uses in the episode ("The Sand Armor is...", cue 1626; "The Sand Shield can't keep up!", cue 1640) follow the same rendering.
+
+### `{TAZON}` - "bowl-cut guy" (nickname for Lee)
+A Sand genin calls Lee "that bowl-cut guy" (S01E08, cue 1474), mocking his haircut. Rendered "ese del corte de tazón". No source found for an official rendering; pending confirmation.
+
+### `{SANGRE}` - Hot-Blooded (young Lee's Academy nickname)
+In the Academy-days flashback, Lee is mocked as "Hot-Blooded" / "Hot-Blooded loser" (S01E08, cues 1485-1490). Rendered "Sangre Caliente" / "Perdedor de Sangre Caliente". No source found for an official rendering; pending confirmation.
+
+### `{PUERTAS}` - Eight (Inner) Gates and their individual names
+Guy explains the Eight Inner Gates to Kakashi (S01E08, cues 1579-1633). Rendered "las Ocho Puertas" for the set, with individual gates as "Puerta de la Apertura / del Descanso / de la Vida / de la Herida / de la Espiritualidad / de la Sombra / de la Sorpresa / de la Muerte", sourced directly from the manga (vol. 10 p73: "PUERTA DE LA 'APERTURA', DEL 'DESCANSO', DE LA 'VIDA', DE LA 'HERIDA', DE LA 'ESPIRITUALIDAD', DE LA 'SOMBRA', DE LA 'SORPRESA' Y DE LA 'MUERTE'"). Note several English names (Healing, Limit, View, Wonder) don't literally match the manga's Spanish names (Descanso, Espiritualidad, Sombra, Sorpresa) at the same gate position; the manga's own naming was preferred over a literal translation of the English fansub. Also introduces "Strong Fist (Gōken)" / "Gentle Fist (Jūken)" rendered "la técnica dura (Gōken)" / "la técnica blanda (Jūken)" (cues 1150 and 1156), "chakra network" rendered "meridianos" (cue 1154 onward), and "chakra points" / "tenketsu" rendered "puntos de chakra" / "tenketsu" (cues 1168-1183) - all sourced from the same official guide/manga (vol. 1 p158 "técnicas duras y técnicas blandas"; p265 and Naruto vol. 9 p139 "361 puntos de chakra" in the "meridianos"). Also introduces "Lady Hinata" rendered "señorita Hinata" (first at cue 1033) for the "-sama" honorific Neji uses for his cousin; no official source found for this specific rendering, pending confirmation alongside the rest of this cluster.
