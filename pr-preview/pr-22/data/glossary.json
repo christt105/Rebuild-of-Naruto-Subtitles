@@ -1270,9 +1270,9 @@
     {
       "japanese": "影真似の術",
       "english": "Shadow Possession Jutsu",
-      "spanish_es": "Jutsu Posesión de Sombras",
-      "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z (clan Nara)",
-      "verified": false,
+      "spanish_es": "Técnica de la Sombra Imitadora (en frases, «mi Sombra Imitadora»)",
+      "source": "Índice de técnicas de las guías oficiales Planeta («Técnica de la sombra imitadora»). Sustituye «Jutsu Posesión de Sombras» 2026-09-22, S01E05-S01E09",
+      "verified": true,
       "episodes": [
         "S01E05",
         "S01E07",
@@ -2085,6 +2085,20 @@
       "episodes": [
         "S01E08"
       ]
+    },
+    {
+      "japanese": "忍法 (prefijo)",
+      "english": "Ninja Art: (prefijo de técnica)",
+      "spanish_es": "Arte ninja:",
+      "source": "Planeta no usa prefijo (traduce ninpō como «técnica»). Decisión de Christian 2026-09-22: se mantiene «Arte ninja:» porque se oye en el audio y ocupa lo mismo que el inglés; «ninja» en minúscula. Resuelto 2026-09-22, S01E01-S01E09 (antes {ARTE})",
+      "verified": true,
+      "episodes": [
+        "S01E01",
+        "S01E04",
+        "S01E07",
+        "S01E08",
+        "S01E09"
+      ]
     }
   ],
   "pending_tags": [
@@ -2122,11 +2136,6 @@
       "code": "PACHINKO",
       "title": "Pachinko Jutsu (S01E05)",
       "body": "Combination attack named \"Pachinko Jutsu\" in the English. Rendered \"Técnica Pachinko\". Unknown whether the Spanish edition transliterates or adapts it."
-    },
-    {
-      "code": "ARTE",
-      "title": "\"Ninja Art:\" technique prefix",
-      "body": "\"Ninja Art:\" rendered \"Arte ninja:\" before technique names (S01E07, Senbon Rainstorm rendered \"Lluvia de Agujas\", Shadow Possession and Mind Transfer also use the prefix). Only the first occurrence is tagged. Planeta has no equivalent prefix: it renders ninpō as \"técnica\" (e.g. \"¡Técnica animal!\" for Kiba). Capitalization is also inconsistent across episodes (\"Arte Ninja:\" in S01E01, S01E04 and S01E09, \"Arte ninja:\" in S01E07 and S01E08)."
     },
     {
       "code": "PESCA",

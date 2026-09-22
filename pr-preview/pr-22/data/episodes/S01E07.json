@@ -2263,12 +2263,10 @@
       "start": "00:16:11,046",
       "end": "00:16:13,225",
       "en": "<i>Ninja Art: Senbon Rainstorm!</i>",
-      "es": "<i>¡Arte ninja: Lluvia de Agujas!</i> {ARTE}",
+      "es": "<i>¡Arte ninja: Lluvia de Agujas!</i>",
       "translated": true,
-      "tags": [
-        "ARTE"
-      ],
-      "es_prev": null
+      "tags": [],
+      "es_prev": "<i>¡Arte ninja: Lluvia de Agujas!</i> {ARTE}"
     },
     {
       "index": 227,
@@ -8435,10 +8433,10 @@
       "start": "01:04:49,456",
       "end": "01:04:50,791",
       "en": "<i>Shadow Possession Jutsu!</i>",
-      "es": "<i>¡Jutsu Posesión de Sombras!</i>",
+      "es": "<i>¡Técnica de la Sombra Imitadora!</i>",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "<i>¡Jutsu Posesión de Sombras!</i>"
     },
     {
       "index": 844,
@@ -8735,10 +8733,10 @@
       "start": "01:06:34,832",
       "end": "01:06:38,002",
       "en": "It's not Shadow Paralysis Jutsu,\nit's Shadow Possession Jutsu!",
-      "es": "¡No es Parálisis de Sombras,\nes Posesión de Sombras!",
+      "es": "¡No es Parálisis de Sombras,\nes la Sombra Imitadora!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "¡No es Parálisis de Sombras,\nes Posesión de Sombras!"
     },
     {
       "index": 874,
