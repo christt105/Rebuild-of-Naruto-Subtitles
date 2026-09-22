@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install dependencies
+        run: pip install -r "Spanish Translation/scripts/requirements.txt"
+
       - name: Validate changed episodes
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
