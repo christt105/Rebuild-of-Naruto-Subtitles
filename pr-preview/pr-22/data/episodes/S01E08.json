@@ -9183,11 +9183,9 @@
       "start": "01:06:20,393",
       "end": "01:06:21,686",
       "en": "<i>Man Beast Clone!</i>",
-      "es": "<i>¡Clon de Hombre-Bestia!</i> {KIBA}",
+      "es": "<i>¡Multiplicación Bestial!</i>",
       "translated": true,
-      "tags": [
-        "KIBA"
-      ],
+      "tags": [],
       "es_prev": "<i>Man Beast Clone!</i>"
     },
     {
@@ -10379,7 +10377,7 @@
       "start": "01:15:07,341",
       "end": "01:15:11,044",
       "en": "<i>The power of Nine-Tails is\ntruly something else.</i>",
-      "es": "<i>El poder del Nueve Colas es\nrealmente algo aparte.</i>",
+      "es": "<i>El poder del Kyubi es\nrealmente algo aparte.</i>",
       "translated": true,
       "tags": [],
       "es_prev": "<i>The power of Nine-Tails is\ntruly something else.</i>"

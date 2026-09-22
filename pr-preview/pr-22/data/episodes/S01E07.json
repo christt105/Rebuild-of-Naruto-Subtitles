@@ -4535,20 +4535,20 @@
       "start": "00:33:52,375",
       "end": "00:33:56,630",
       "en": "<i>To think the Nine-Tails kid was\nalive all this time...</i>",
-      "es": "<i>Pensar que el chico del Nueve Colas\nestaba vivo todo este tiempo...</i>",
+      "es": "<i>Pensar que el chico del Kyubi\nestaba vivo todo este tiempo...</i>",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "<i>Pensar que el chico del Nueve Colas\nestaba vivo todo este tiempo...</i>"
     },
     {
       "index": 454,
       "start": "00:33:58,256",
       "end": "00:34:02,928",
       "en": "<i>When he gets excited, a little bit\nof the Nine-Tails' power leaks out...</i>",
-      "es": "<i>Cuando se altera, se le escapa\nun poco del poder del Nueve Colas...</i>",
+      "es": "<i>Cuando se altera, se le escapa\nun poco del poder del Kyubi...</i>",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "<i>Cuando se altera, se le escapa\nun poco del poder del Nueve Colas...</i>"
     },
     {
       "index": 455,
@@ -4615,10 +4615,10 @@
       "start": "00:34:39,548",
       "end": "00:34:44,636",
       "en": "<i>Naruto's chakra and the Nine-Tails'\nchakra are beginning to synchronize...</i>",
-      "es": "<i>El chakra de Naruto y el del Nueve Colas\nestán empezando a sincronizarse...</i>",
+      "es": "<i>El chakra de Naruto y el del Kyubi\nestán empezando a sincronizarse...</i>",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "<i>El chakra de Naruto y el del Nueve Colas\nestán empezando a sincronizarse...</i>"
     },
     {
       "index": 462,

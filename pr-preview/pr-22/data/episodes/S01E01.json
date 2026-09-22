@@ -373,20 +373,20 @@
       "start": "00:02:57,051",
       "end": "00:02:58,178",
       "en": "The Nine-Tails!",
-      "es": "¡El Nueve Colas!",
+      "es": "¡El Kyubi!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "¡El Nueve Colas!"
     },
     {
       "index": 38,
       "start": "00:02:58,219",
       "end": "00:02:59,678",
       "en": "– Run!\n– It's the Nine-Tails!",
-      "es": "– ¡Corred!\n– ¡Es el Nueve Colas!",
+      "es": "– ¡Corred!\n– ¡Es el Kyubi!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "– ¡Corred!\n– ¡Es el Nueve Colas!"
     },
     {
       "index": 39,
@@ -413,10 +413,10 @@
       "start": "00:03:24,787",
       "end": "00:03:25,997",
       "en": "It's the Nine-Tails!",
-      "es": "¡Es el Nueve Colas!",
+      "es": "¡Es el Kyubi!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "¡Es el Nueve Colas!"
     },
     {
       "index": 42,
@@ -493,17 +493,17 @@
       "start": "00:04:08,416",
       "end": "00:04:09,652",
       "en": "The Nine-Tails is...!",
-      "es": "¡El Nueve Colas...!",
+      "es": "¡El Kyubi...!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "¡El Nueve Colas...!"
     },
     {
       "index": 50,
       "start": "00:04:09,677",
       "end": "00:04:11,721",
       "en": "The Nine-Tails suddenly\nappeared in the village!",
-      "es": "¡El Nueve Colas ha aparecido\nde repente en la Villa!",
+      "es": "¡El Kyubi ha aparecido\nde repente en la Villa!",
       "translated": true,
       "tags": [],
       "es_prev": "¡El Nueve Colas ha aparecido\nde repente en la aldea!"
@@ -573,10 +573,10 @@
       "start": "00:04:29,736",
       "end": "00:04:31,154",
       "en": "Damn you, Nine-Tails!",
-      "es": "¡Maldito seas, Nueve Colas!",
+      "es": "¡Maldito seas, Kyubi!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "¡Maldito seas, Nueve Colas!"
     },
     {
       "index": 58,
@@ -703,20 +703,20 @@
       "start": "00:05:05,013",
       "end": "00:05:06,097",
       "en": "Over here, Nine-Tails!",
-      "es": "¡Por aquí, Nueve Colas!",
+      "es": "¡Por aquí, Kyubi!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "¡Por aquí, Nueve Colas!"
     },
     {
       "index": 71,
       "start": "00:05:11,144",
       "end": "00:05:12,645",
       "en": "Over here, Nine-Tails!",
-      "es": "¡Por aquí, Nueve Colas!",
+      "es": "¡Por aquí, Kyubi!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "¡Por aquí, Nueve Colas!"
     },
     {
       "index": 72,
@@ -753,10 +753,10 @@
       "start": "00:05:22,513",
       "end": "00:05:24,031",
       "en": "Even if we can't defeat the Nine-Tails,",
-      "es": "Aunque no podamos vencer al Nueve Colas,",
+      "es": "Aunque no podamos vencer al Kyubi,",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "Aunque no podamos vencer al Nueve Colas,"
     },
     {
       "index": 76,
@@ -953,7 +953,7 @@
       "start": "00:06:52,270",
       "end": "00:06:55,106",
       "en": "Chase the Nine-Tails\noutside the village walls!",
-      "es": "¡Perseguid al Nueve Colas\nfuera de las murallas de la Villa!",
+      "es": "¡Perseguid al Kyubi\nfuera de las murallas de la Villa!",
       "translated": true,
       "tags": [],
       "es_prev": "¡Perseguid al Nueve Colas\nfuera de las murallas de la aldea!"
@@ -1023,10 +1023,10 @@
       "start": "00:07:26,194",
       "end": "00:07:27,633",
       "en": "The Nine-Tails, huh.",
-      "es": "El Nueve Colas, ¿eh?",
+      "es": "El Kyubi, ¿eh?",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "El Nueve Colas, ¿eh?"
     },
     {
       "index": 103,
@@ -8803,10 +8803,10 @@
       "start": "01:14:10,445",
       "end": "01:14:13,061",
       "en": "The Nine-Tails sealed inside\nof Naruto is responsible",
-      "es": "El Nueve Colas sellado dentro\nde Naruto es responsable",
+      "es": "El Kyubi sellado dentro\nde Naruto es responsable",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "El Nueve Colas sellado dentro\nde Naruto es responsable"
     },
     {
       "index": 881,
@@ -8843,10 +8843,10 @@
       "start": "01:14:22,456",
       "end": "01:14:27,919",
       "en": "I can't help but see\nthe Nine-Tails sealed inside of him.",
-      "es": "no puedo evitar ver\nal Nueve Colas sellado dentro de él.",
+      "es": "no puedo evitar ver\nal Kyubi sellado dentro de él.",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "no puedo evitar ver\nal Nueve Colas sellado dentro de él."
     },
     {
       "index": 885,
@@ -11283,10 +11283,10 @@
       "start": "01:33:26,643",
       "end": "01:33:30,647",
       "en": "The rule forbids anyone from revealing\nthat the Nine-Tails is inside you!",
-      "es": "¡La norma prohíbe que nadie revele\nque el Nueve Colas está dentro de ti!",
+      "es": "¡La norma prohíbe que nadie revele\nque el Kyubi está dentro de ti!",
       "translated": true,
       "tags": [],
-      "es_prev": null
+      "es_prev": "¡La norma prohíbe que nadie revele\nque el Nueve Colas está dentro de ti!"
     },
     {
       "index": 1129,

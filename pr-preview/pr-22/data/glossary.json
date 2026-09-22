@@ -1483,8 +1483,8 @@
     {
       "japanese": "九尾",
       "english": "Nine-Tails / Nine-Tailed Fox / Demon Fox / Nine-Tailed Demon Fox",
-      "spanish_es": "\"Nine-Tails\" -> \"el Nueve Colas\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\"",
-      "source": "Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)",
+      "spanish_es": "\"Nine-Tails\" -> \"el Kyubi\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\"",
+      "source": "«Kyubi»: Guías oficiales Planeta («Kyúbi»), decisión de Christian 2026-09-22 (antes «el Nueve Colas»), sin tilde como «Hyuga» e «Ichibi». Resto: Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)",
       "verified": false,
       "episodes": [
         "S01E01",
@@ -2050,7 +2050,7 @@
       "japanese": "一尾",
       "english": "One-Tail / One-Tailed Beast",
       "spanish_es": "el Ichibi",
-      "source": "Guías oficiales Planeta 3 y 4 («Ichibi (una cola)»). Planeta también usa «Kyúbi», mientras que el glosario usa «el Nueve Colas»; si se unifica, revisar ambas entradas a la vez. Resuelto 2026-09-22, S01E09 (antes {ICHIBI})",
+      "source": "Guías oficiales Planeta 3 y 4 («Ichibi (una cola)»). Unificado con «el Kyubi» (Nine-Tails) por decisión de Christian 2026-09-22; sin tilde, como «Hyuga». Resuelto 2026-09-22, S01E09 (antes {ICHIBI})",
       "verified": true,
       "episodes": [
         "S01E09"
@@ -2071,6 +2071,16 @@
       "english": "All Fours Jutsu / Four Legs Technique",
       "spanish_es": "Técnica de las Cuatro Garras",
       "source": "Guía oficial Planeta 1 p189. Sustituye «Técnica de las Cuatro Patas». Resuelto 2026-09-22, S01E08 (antes {KIBA})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ]
+    },
+    {
+      "japanese": "獣人分身",
+      "english": "Man Beast Clone",
+      "spanish_es": "Multiplicación Bestial",
+      "source": "Guía oficial Planeta 1 p195. Decisión de Christian 2026-09-22: se usa el nombre de Planeta aunque «Shadow Clone» siga siendo «Clones de Sombra». Resuelto 2026-09-22, S01E08 (antes {KIBA})",
       "verified": true,
       "episodes": [
         "S01E08"
@@ -2126,7 +2136,7 @@
     {
       "code": "KIBA",
       "title": "Kiba's beast-mimicry techniques (remaining)",
-      "body": "S01E08: \"Man Beast Clone\" rendered \"Clon de Hombre-Bestia\" (cue 918), \"Man Beast Taijutsu Technique\" rendered \"Técnica de Taijutsu Hombre-Bestia\" (cue 932) and \"Fang Over Fang\" rendered \"Colmillo sobre Colmillo\" (cue 933). The Planeta guide calls the clone \"Multiplicación bestial\", but the project keeps \"clon\" for bunshin (see the verified \"Técnica de Clones de Sombra\"), so this needs a decision: \"Clon Bestial\" is one option. The guide's \"Colmillo perforador\" is the single-user version, not Fang Over Fang. \"Técnica animal\" and \"Técnica de las Cuatro Garras\" are already resolved in the glossary."
+      "body": "S01E08: \"Man Beast Taijutsu Technique\" rendered \"Técnica de Taijutsu Hombre-Bestia\" (cue 932) and \"Fang Over Fang\" rendered \"Colmillo sobre Colmillo\" (cue 933). The guide's \"Colmillo perforador\" is the single-user version, not Fang Over Fang. \"Técnica animal\", \"Técnica de las Cuatro Garras\" and \"Multiplicación Bestial\" are already resolved in the glossary."
     },
     {
       "code": "SANGRE",
