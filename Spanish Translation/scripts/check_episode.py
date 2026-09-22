@@ -15,12 +15,15 @@ import re
 import sys
 from pathlib import Path
 
+import yaml
+
 from srt_utils import parse_srt
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 EN_DIR = REPO_ROOT / "Rebuild of Naruto - Subtitles"
 ES_DIR = REPO_ROOT / "Spanish Translation" / "Subtitles"
 PENDING_REVIEW = REPO_ROOT / "Spanish Translation" / "Terminology" / "pending-glossary-review.md"
+GLOSSARY = REPO_ROOT / "Spanish Translation" / "Terminology" / "naruto_glosario_es_es.yml"
 
 CODE_RE = re.compile(r"[Ss]\d{2}[Ee]\d{2}")
 TAG_RE = re.compile(r"\{([A-Z0-9]+)\}")
@@ -55,6 +58,22 @@ def load_documented_codes():
     return set(DOCUMENTED_CODE_RE.findall(PENDING_REVIEW.read_text(encoding="utf-8")))
 
 
+def load_deprecated_terms():
+    """(deprecated term, current spanish_es) pairs for glossary entries that
+    replaced an older rendering. Terms are matched as a case-insensitive
+    substring against each cue's raw text, so keep them specific enough not
+    to collide with an unrelated, still-current entry (checked separately
+    by the glossary's own test, not here)."""
+    if not GLOSSARY.exists():
+        return []
+    entries = yaml.safe_load(GLOSSARY.read_text(encoding="utf-8")) or []
+    pairs = []
+    for entry in entries:
+        for term in entry.get("deprecated") or []:
+            pairs.append((term, entry["spanish_es"]))
+    return pairs
+
+
 def check(code, en_path, es_path):
     result = {
         "code": code,
@@ -64,6 +83,7 @@ def check(code, en_path, es_path):
         "warnings": [],
         "untranslated_cues": [],
         "tags": {},
+        "deprecated_terms": {},
     }
 
     try:
@@ -77,7 +97,9 @@ def check(code, en_path, es_path):
         result["errors"].append(f"número de cues no coincide: EN={len(en_cues)} ES={len(es_cues)}")
 
     documented = load_documented_codes()
+    deprecated_terms = load_deprecated_terms()
     seen_tags = {}
+    seen_deprecated = {}
 
     for i, (en, es) in enumerate(zip(en_cues, es_cues), start=1):
         if en.index != i or es.index != i:
@@ -94,10 +116,21 @@ def check(code, en_path, es_path):
         for tm in TAG_RE.finditer(es.text):
             seen_tags.setdefault(tm.group(1), []).append(i)
 
+        es_lower = es.text.lower()
+        for term, current in deprecated_terms:
+            if term.lower() in es_lower:
+                seen_deprecated.setdefault((term, current), []).append(i)
+
     for tag, cues in seen_tags.items():
         result["tags"][tag] = {"cues": cues, "documented": tag in documented}
         if tag not in documented:
             result["errors"].append(f"tag {{{tag}}} usado en cues {cues} pero no documentado en pending-glossary-review.md")
+
+    for (term, current), cues in seen_deprecated.items():
+        result["deprecated_terms"][term] = {"cues": cues, "current": current}
+        result["errors"].append(
+            f"término obsoleto «{term}» en cues {cues}: el glosario ya usa «{current}»"
+        )
 
     if result["untranslated_cues"]:
         n = len(result["untranslated_cues"])

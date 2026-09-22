@@ -213,6 +213,8 @@
   spanish_es: "Raikiri"
   source: "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 209, ficha de Chidori): «El chidori de Kakashi se llama raikiri» (relampagos cortantes), sin traducir. Resuelto 2026-09-20, cue S01E04 718 (antes {RAIKIRI}, 'Hoja Relámpago')"
   verified: true
+  deprecated:
+    - "Hoja Relámpago"
 
 - japanese: "麒麟"
   english: "Kirin"
@@ -386,6 +388,8 @@
   spanish_es: "la Técnica del Banco de Niebla"
   source: "Manga oficial Planeta (tomo 2, pág. 97): Zabuza la nombra completa en un recuadro de narración justo antes de desaparecer entre la niebla. Resuelto 2026-09-16, cue S01E03 413 (antes {HMIST}, 'Arte Ninja: Ocultación en la Niebla')"
   verified: true
+  deprecated:
+    - "Ocultación en la Niebla"
 
 - japanese: "水牢の術"
   english: "Water Prison Jutsu"
@@ -398,6 +402,8 @@
   spanish_es: "Shuriken Viento Diabólico"
   source: "Guia oficial de datos de personajes (ficha de tecnica, tomo 01): grito en el propio panel '¡EL SHURIKEN VIENTO DIABÓLICO!'. Resuelto 2026-09-16, cues S01E03 585 y 602 (antes {DWSHU}, 'Shuriken del Viento Demoníaco')"
   verified: true
+  deprecated:
+    - "Shuriken del Viento Demoníaco"
 
 - japanese: "水遁・水龍弾の術"
   english: "Water Dragon Jutsu"
@@ -410,6 +416,8 @@
   spanish_es: "la Muerte Silenciosa"
   source: "Manga oficial Planeta (tomo 2, pág. 98): 'es famoso por su técnica de la Muerte Silenciosa'. Resuelto 2026-09-16, cue S01E03 419 (antes {SILKI}, 'la técnica de la Matanza Silenciosa')"
   verified: true
+  deprecated:
+    - "Matanza Silenciosa"
 
 # ---------------------------------------------------------------------------
 # Sellos de manos (nombrados en dialogo)
@@ -496,6 +504,8 @@
   spanish_es: "Muerte Milenaria Acuática"
   source: "Guia oficial Planeta (tomo 01 Formacion de combate, pag. 205, ficha de Haku, «Muerte milenaria acuática (Sensatsusuisho)»: el agua se convierte en mil agujas). Resuelto 2026-09-20, cue S01E04 151 (antes {PIERCE}, 'Cristales de Agua Perforantes')"
   verified: true
+  deprecated:
+    - "Cristales de Agua Perforantes"
 
 - japanese: "魔鏡氷晶"
   english: "Demon Mirror Ice Crystals"
@@ -520,6 +530,8 @@
   spanish_es: "Técnica de la Sombra Imitadora (en frases, «mi Sombra Imitadora»)"
   source: "Índice de técnicas de las guías oficiales Planeta («Técnica de la sombra imitadora»). Sustituye «Jutsu Posesión de Sombras» 2026-09-22, S01E05-S01E09"
   verified: true
+  deprecated:
+    - "Posesión de Sombras"
 
 - japanese: "影縫いの術"
   english: "Shadow Sewing Jutsu"
@@ -600,6 +612,10 @@
   spanish_es: "\"Nine-Tails\" -> \"el Kyubi\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\""
   source: "«Kyubi»: Guías oficiales Planeta («Kyúbi»), decisión de Christian 2026-09-22 (antes «el Nueve Colas»), sin tilde como «Hyuga» e «Ichibi». Resto: Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)"
   verified: false
+  deprecated:
+    - "el Nueve Colas"
+    - "al Nueve Colas"
+    - "del Nueve Colas"
 
 - japanese: "火の意志"
   english: "Will of Fire"
@@ -642,24 +658,32 @@
   spanish_es: "el Ninja Imitador"
   source: "Manga oficial Planeta (tomo 2, pág. 94, dialogo real de Kakashi) y guia oficial de datos de personajes (ficha de Kakashi, tomo 01, pag. 94: apodado 'el ninja imitador'). Resuelto 2026-09-16, cues S01E03 359 y 401 (antes {COPYN}, 'el Ninja Copión')"
   verified: true
+  deprecated:
+    - "Ninja Copión"
 
 - japanese: "(no confirmado)"
   english: "Tracker Ninja (hunter-nin role)"
   spanish_es: "Ninja Cazador"
   source: "Manga oficial Planeta (tomo 2, pág. 178): 'los cazadores ninja se especializan en aniquilar...'. El apodo ingles 'Corpse Disposal Unit' no tiene equivalente fijo en la fuente, ahi se explica de forma descriptiva ('hacen desaparecer sus cuerpos por completo'); se mantiene 'Unidad de Eliminación de Cadáveres' como eleccion de trabajo sin verificar. Resuelto 2026-09-16, cues S01E03 656, 659, 707-709, 718, 726, 735, 745, 749 (antes {TRACK}, 'Ninja Rastreador')"
   verified: true
+  deprecated:
+    - "Ninja Rastreador"
 
 - japanese: "(no confirmado)"
   english: "Bingo Book"
   spanish_es: "Guía de Bolsillo"
   source: "Manga oficial Planeta (tomo 2, pags. 94 y 115, dialogo real de Zabuza, dos veces). Resuelto 2026-09-16, cues S01E03 397, 477, 517 (antes {BINGO}, 'Libro Bingo')"
   verified: true
+  deprecated:
+    - "Libro Bingo"
 
 - japanese: "イチャイチャ楽園"
   english: "Icha Icha / \"Make-Out Paradise\" (Kakashi's book)"
   spanish_es: "\"Paraíso Erótico\""
   source: "Guia oficial de datos de personajes (ficha de Kakashi, tomo 01, pag. 94: 'Aficiones: Lectura (Colección Paraíso erótico)'). La intuicion inicial de Christian de mantener 'Icha Icha' en japones (patron Rasengan/Chidori) NO se confirma: el manga oficial si lo traduce. Resuelto 2026-09-16, cue S01E02 732 (antes {ICHA}, dejado sin traducir como 'Make-Out Paradise')"
   verified: true
+  deprecated:
+    - "Make-Out Paradise"
 
 - japanese: "宗家"
   english: "Head Family (Hyuga clan)"
@@ -684,18 +708,24 @@
   spanish_es: "aguja(s)"
   source: "Manga oficial Planeta (tomo 2, pag. 192, escena del Ninja Cazador: «las agujas que empleó ese chaval como armas», «simples agujas como arma»; tomo 3, pag. 149: «mil agujas» de Haku). Resuelto 2026-09-20, cues S01E04 209/240 (antes {SENBON}) y S01E03 736/745/753 (estaban como 'senbon')"
   verified: true
+  deprecated:
+    - "senbon"
 
 - japanese: "忍道"
   english: "Ninja Way / Nindo"
   spanish_es: "camino del ninja"
   source: "Guia oficial Planeta (tomo 01 Formacion de combate y tomo 02 Libro de batalla: «¡Ese es su camino del ninja!», «el nuevo camino del ninja»; titulo de capitulo del tomo 2 «El camino del ninja»), sin dejar «nindo». Resuelto 2026-09-20, cue S01E04 1049 (antes {NINDO})"
   verified: true
+  deprecated:
+    - "nindo"
 
 - japanese: "隠れ里"
   english: "Hidden Village (any shinobi village)"
   spanish_es: "Villa Oculta de X (Villa Oculta de la Hoja, del Sonido, de la Arena...); «la Villa» al abreviar"
   source: "Manga y guia oficial Planeta («Villa de la Hoja», «Villa Oculta del Sonido», tomos 6-9 y guia 1). Convencion fijada por Christian 2026-09-21: todas las aldeas se llaman «Villa», nunca «Aldea», tambien las que solo salen en el anime"
   verified: true
+  deprecated:
+    - "Aldea Oculta"
 
 - japanese: "天の書 / 地の書"
   english: "Heaven Scroll / Earth Scroll"
@@ -780,6 +810,8 @@
   spanish_es: "Técnica ígnea"
   source: "Guía oficial Planeta 1 p175-176 («Técnica ígnea: gran bola de fuego», «fuego del dragón»). Sustituye «Elemento Fuego» en S01E02. Resuelto 2026-09-21 (antes {FIRE})"
   verified: true
+  deprecated:
+    - "Elemento Fuego"
 
 - japanese: "火遁・鳳仙火の術"
   english: "Fire Release: Phoenix Flower Jutsu"
@@ -798,36 +830,49 @@
   spanish_es: "Cejudo"
   source: "Manga Planeta tomo 10 p104 y Guía oficial Planeta 1 p230 («el cejudo»). Sustituye «Cejotas». Resuelto 2026-09-22, S01E06-S01E09 (antes {CEJAS})"
   verified: true
+  deprecated:
+    - "Cejotas"
 
 - japanese: "デコリン"
   english: "Billboard Brow / Forehead (apodo de Sakura)"
   spanish_es: "Frentuda"
   source: "Manga Planeta tomo 6 p173 y tomo 7 p58. Resuelto 2026-09-22, S01E08 (antes {FRENTONA})"
   verified: true
+  deprecated:
+    - "Frentona"
 
 - japanese: "(no confirmado)"
   english: "bowl-cut guy (apodo de Rock Lee)"
   spanish_es: "cabeza de tazón"
   source: "Manga Planeta tomo 10 p10 («ese cabeza de tazón», misma escena de las preliminares). Resuelto 2026-09-22, S01E08 (antes {TAZON})"
   verified: true
+  deprecated:
+    - "del corte de tazón"
+    - "del corte a tazón"
 
 - japanese: "潜影蛇手"
   english: "Striking Shadow Snakes"
   spanish_es: "Serpientes de las Sombras"
   source: "Guía oficial Planeta 1 p205 (ficha de técnica de Anko) e índices de técnicas de las guías 2-4. Resuelto 2026-09-22, S01E07 (antes {SERP})"
   verified: true
+  deprecated:
+    - "Serpientes Sombra Golpeadoras"
 
 - japanese: "獅子連弾"
   english: "Lions Barrage"
   spanish_es: "Golpe del León"
   source: "Índices de técnicas de las guías oficiales Planeta 2-4 («Golpe del león»); la guía 1 p164 lo menciona como base del golpe de Naruto. Sustituye «Ráfaga de Leones». Resuelto 2026-09-22, S01E07-S01E08 (antes {LEONES})"
   verified: true
+  deprecated:
+    - "Ráfaga de Leones"
 
 - japanese: "うずまきナルト連弾"
   english: "Naruto Barrage (Uzumaki Naruto Barrage)"
   spanish_es: "Gran Golpe Cuádruple de Naruto Uzumaki"
   source: "Guía oficial Planeta 1 p164. Planeta adapta el grito por sílabas; aquí se mantiene el «¡U! ¡Zu! ¡Ma! ¡Ki!» del audio y se usa el nombre de Planeta al final. Resuelto 2026-09-22, S01E08 (antes {RAFAGA})"
   verified: true
+  deprecated:
+    - "Ráfaga de Naruto"
 
 - japanese: "起爆札"
   english: "Paper Bomb / Explosive Tag"
@@ -906,12 +951,16 @@
   spanish_es: "Técnica de las Cuatro Garras"
   source: "Guía oficial Planeta 1 p189. Sustituye «Técnica de las Cuatro Patas». Resuelto 2026-09-22, S01E08 (antes {KIBA})"
   verified: true
+  deprecated:
+    - "Cuatro Patas"
 
 - japanese: "獣人分身"
   english: "Man Beast Clone"
   spanish_es: "Multiplicación Bestial"
   source: "Guía oficial Planeta 1 p195. Decisión de Christian 2026-09-22: se usa el nombre de Planeta aunque «Shadow Clone» siga siendo «Clones de Sombra». Resuelto 2026-09-22, S01E08 (antes {KIBA})"
   verified: true
+  deprecated:
+    - "Clon de Hombre-Bestia"
 
 - japanese: "忍法 (prefijo)"
   english: "Ninja Art: (prefijo de técnica)"
