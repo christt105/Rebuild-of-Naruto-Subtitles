@@ -1649,7 +1649,7 @@ y aun así desafiarme.
 381
 00:27:00,076 --> 00:27:04,414
 ¿Quieres descubrir
-qué significa ese nombre, Cejotas {CEJAS}?
+qué significa ese nombre, Cejudo?
 
 382
 00:27:06,541 --> 00:27:07,250
@@ -1661,7 +1661,7 @@ Insisto.
 
 384
 00:27:15,050 --> 00:27:17,510
-¡Yo me encargo de Cejotas {CEJAS}!
+¡Yo me encargo de Cejudo!
 ¡Vaya que sí!
 
 385
@@ -1811,7 +1811,7 @@ que el de Kakashi-sensei...</i>
 
 419
 00:29:23,427 --> 00:29:25,346
-<i>¡puede leer las técnicas de Cejotas! {CEJAS}</i>
+<i>¡puede leer las técnicas de Cejudo!</i>
 
 420
 00:29:29,601 --> 00:29:30,310
@@ -1940,7 +1940,7 @@ No pretendía...
 
 448
 00:31:33,725 --> 00:31:37,729
-<i>¿Podría ser... el maestro de Cejotas? {CEJAS}</i>
+<i>¿Podría ser... el maestro de Cejudo?</i>
 
 449
 00:31:45,236 --> 00:31:46,863
@@ -2327,7 +2327,7 @@ Lo viste, ¿verdad? Su mano...
 
 538
 00:37:03,137 --> 00:37:06,515
-Ese Cejotas {CEJAS} debe de haber entrenado
+Ese Cejudo debe de haber entrenado
 una barbaridad.
 
 539

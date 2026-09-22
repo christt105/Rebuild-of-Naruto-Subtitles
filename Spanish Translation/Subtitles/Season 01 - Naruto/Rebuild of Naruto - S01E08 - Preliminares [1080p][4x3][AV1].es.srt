@@ -1472,7 +1472,7 @@ me trague...</i>
 
 339
 00:23:56,935 --> 00:23:57,978
-<i>¡Ráfaga de Leones!</i>
+<i>¡Golpe del León!</i>
 
 340
 00:24:13,580 --> 00:24:15,541
@@ -1502,7 +1502,7 @@ Bueno. Buen trabajo...
 
 346
 00:24:48,445 --> 00:24:50,572
-Antes de esa Ráfaga de Leones,
+Antes de ese Golpe del León,
 
 347
 00:24:51,158 --> 00:24:52,918
@@ -1848,7 +1848,7 @@ desde dentro de su cuerpo?!</i>
 
 427
 00:31:55,666 --> 00:31:57,668
-A esto se le llama insectos parásito. {INSECTOS}
+A esto se le llama insectos parásito.
 
 428
 00:31:57,969 --> 00:32:00,972
@@ -2352,7 +2352,7 @@ Bien, ahora me toca a mí.
 
 543
 00:41:44,877 --> 00:41:46,712
-<i>Es... un marionetista...</i> {MARIONETA}
+<i>Es... un marionetista...</i>
 
 544
 00:41:50,883 --> 00:41:52,009
@@ -2396,7 +2396,7 @@ Al fin y al cabo, es una marioneta.
 
 553
 00:42:22,311 --> 00:42:24,480
-Esa es la Técnica del marionetista. {MARIONETA}
+Esa es la Técnica del marionetista.
 
 554
 00:42:24,760 --> 00:42:26,678
@@ -2586,7 +2586,7 @@ pasando muy bien.
 
 596
 00:45:36,964 --> 00:45:38,841
-¡Frentona! {FRENTONA}
+¡Frentuda!
 
 597
 00:45:42,334 --> 00:45:45,045
@@ -3545,7 +3545,7 @@ Si es este tipo, es una victoria fácil, ¡Akamaru!
 
 821
 01:00:46,100 --> 01:00:48,478
-- Solo pensará que soy "Cejotas".
+- Solo pensará que soy "Cejudo".
 - ¡Voy a darlo todo!
 
 822
@@ -3715,7 +3715,7 @@ Bien, entonces. ¡Comiencen!
 
 862
 01:02:46,986 --> 01:02:49,572
-<i>¡Arte ninja de Imitación de Bestias: Técnica de las Cuatro Patas!</i> {KIBA}
+<i>¡Técnica animal: Técnica de las Cuatro Garras!</i>
 
 863
 01:02:55,354 --> 01:02:56,354
@@ -3945,7 +3945,7 @@ que significa rojo.
 
 917
 01:06:16,555 --> 01:06:17,765
-<i>Arte ninja de Imitación de Bestias:</i>
+<i>Técnica animal:</i>
 
 918
 01:06:20,393 --> 01:06:21,686
@@ -4235,7 +4235,7 @@ y si hay una abertura...</i>
 985
 01:11:11,934 --> 01:11:14,770
 <i>Seguro que puedo atraparlo
-por detrás con la Técnica de las Cuatro Patas.</i> {KIBA}
+por detrás con la Técnica de las Cuatro Garras.</i>
 
 986
 01:11:15,604 --> 01:11:18,774
@@ -4323,7 +4323,7 @@ destrozado hasta ahora,
 
 1006
 01:12:32,056 --> 01:12:33,265
-<i>¡Ráfaga de Naruto!</i> {RAFAGA}
+<i>¡Gran Golpe Cuádruple de Naruto Uzumaki!</i>
 
 1007
 01:12:52,117 --> 01:12:54,328
@@ -5944,7 +5944,7 @@ tener efecto en él.
 
 1384
 01:37:50,756 --> 01:37:52,758
-El Escudo de Arena protege a Gaara {ARMADURA}
+El Escudo de Arena protege a Gaara
 
 1385
 01:37:53,052 --> 01:37:55,889
@@ -6133,7 +6133,7 @@ no perderá ante nadie...
 
 1428
 01:41:20,080 --> 01:41:23,583
-¡Cejotas es todavía más rápido que antes!
+¡Cejudo es todavía más rápido que antes!
 
 1429
 01:41:24,461 --> 01:41:26,713
@@ -6329,7 +6329,7 @@ anticipando el golpe.
 
 1474
 01:45:43,128 --> 01:45:45,797
-Ese del corte de tazón está totalmente agotado... {TAZON}
+Ese cabeza de tazón está totalmente agotado...
 
 1475
 01:45:46,757 --> 01:45:48,592
@@ -6782,7 +6782,7 @@ Así que ese Genin...
 1579
 01:52:17,939 --> 01:52:21,735
 ese chico puede abrir algunas de
-las Ocho Puertas para usar la Flor de Loto Oculta... {PUERTAS}
+las Ocho Puertas para usar la Flor de Loto Oculta...
 
 1580
 01:52:22,902 --> 01:52:23,902
@@ -7224,7 +7224,7 @@ Gaara.
 
 1683
 02:00:19,444 --> 02:00:22,739
-<i>¡Cejotas perdió
+<i>¡Cejudo perdió
 contra un tipo como ese...!</i>
 
 1684
@@ -7317,7 +7317,7 @@ No es verdad... no es verdad.
 1704
 02:02:02,612 --> 02:02:06,992
 ¡¿Después de oír eso, qué se supone que
-va a hacer Cejotas ahora...?!
+va a hacer Cejudo ahora...?!
 
 1705
 02:02:08,362 --> 02:02:09,362

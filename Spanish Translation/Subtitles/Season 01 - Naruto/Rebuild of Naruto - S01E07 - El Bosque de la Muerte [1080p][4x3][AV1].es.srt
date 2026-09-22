@@ -619,7 +619,7 @@ En ese caso...
 
 140
 00:11:05,581 --> 00:11:06,415
-¡Sello explosivo! {BOMBA}
+¡Sello explosivo!
 
 141
 00:11:10,461 --> 00:11:11,712
@@ -2318,7 +2318,7 @@ No puedes ganar.
 
 536
 00:42:51,372 --> 00:42:52,623
-<i>¡Serpientes Sombra Golpeadoras!</i> {SERP}
+<i>¡Serpientes de las Sombras!</i>
 
 537
 00:43:00,214 --> 00:43:01,507
@@ -4272,7 +4272,7 @@ No puedo negarlo.
 
 995
 01:14:14,238 --> 01:14:17,199
-¡Tú, Cejotas!
+¡Tú, Cejudo!
 
 996
 01:14:17,699 --> 01:14:18,826
@@ -4596,7 +4596,7 @@ Tengo que permanecer escondido.
 
 1069
 01:19:21,378 --> 01:19:22,504
-<i>¡Ráfaga de Leones!</i> {LEONES}
+<i>¡Golpe del León!</i>
 
 1070
 01:19:29,659 --> 01:19:31,578
