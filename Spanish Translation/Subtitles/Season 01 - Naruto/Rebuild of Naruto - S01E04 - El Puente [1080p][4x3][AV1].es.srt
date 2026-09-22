@@ -1627,7 +1627,7 @@ no funciona conmigo dos veces."
 
 376
 00:30:24,989 --> 00:30:28,326
-<i>¡Arte Ninja: Técnica del Banco de Niebla!</i>
+<i>¡Arte ninja: Técnica del Banco de Niebla!</i>
 
 377
 00:30:37,043 --> 00:30:37,877

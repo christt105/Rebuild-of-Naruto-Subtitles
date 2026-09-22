@@ -3693,7 +3693,7 @@ Jabalí-Perro-Pájaro-Mono-Carnero.
 
 841
 00:59:00,143 --> 00:59:02,645
-<i>¡Arte Ninja: Técnica de Invocación!</i>
+<i>¡Arte ninja: Técnica de Invocación!</i>
 
 842
 00:59:08,969 --> 00:59:11,305
@@ -6161,7 +6161,7 @@ Eh, Naruto...
 
 1404
 01:39:43,041 --> 01:39:48,130
-¡Cuando uso mi Jutsu Posesión de Sombras,
+¡Cuando uso mi Sombra Imitadora,
 yo también tengo que moverme! ¡¿Vale?!
 
 1405
@@ -6201,7 +6201,7 @@ Intentaba matarlo.
 1413
 01:40:23,790 --> 01:40:27,753
 <i>Sobre todo cuando no puede
-moverse con mi Jutsu Posesión de Sombras...</i>
+moverse con mi Sombra Imitadora...</i>
 
 1414
 01:40:29,022 --> 01:40:31,358
@@ -6621,7 +6621,7 @@ son demasiado diferentes...!</i>
 
 1505
 01:46:19,980 --> 01:46:24,484
-<i>¿Qué? Mi Jutsu Posesión de Sombras
+<i>¿Qué? Mi Técnica de la Sombra Imitadora
 debería estar reteniéndolo, pero...</i>
 
 1506
