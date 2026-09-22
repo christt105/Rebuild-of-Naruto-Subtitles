@@ -996,7 +996,7 @@ Bueno, hagámoslo. ¡Rápido!
 
 226
 00:16:11,046 --> 00:16:13,225
-<i>¡Arte ninja: Lluvia de Agujas!</i> {ARTE}
+<i>¡Arte ninja: Lluvia de Agujas!</i>
 
 227
 00:16:19,197 --> 00:16:21,805
@@ -3627,7 +3627,7 @@ si esa cosa me toca,</i>
 
 843
 01:04:49,456 --> 01:04:50,791
-<i>¡Jutsu Posesión de Sombras!</i>
+<i>¡Técnica de la Sombra Imitadora!</i>
 
 844
 01:04:52,400 --> 01:04:53,651
@@ -3755,7 +3755,7 @@ solo dura cinco minutos?
 873
 01:06:34,832 --> 01:06:38,002
 ¡No es Parálisis de Sombras,
-es Posesión de Sombras!
+es la Sombra Imitadora!
 
 874
 01:06:38,960 --> 01:06:41,045

@@ -37,9 +37,6 @@ English "Hidden Lock Village" in the "Land of Key", later shortened to "Lock Vil
 ### `{PACHINKO}` - Pachinko Jutsu (S01E05)
 Combination attack named "Pachinko Jutsu" in the English. Rendered "Técnica Pachinko". Unknown whether the Spanish edition transliterates or adapts it.
 
-### `{ARTE}` - "Ninja Art:" technique prefix
-"Ninja Art:" rendered "Arte ninja:" before technique names (S01E07, Senbon Rainstorm rendered "Lluvia de Agujas", Shadow Possession and Mind Transfer also use the prefix). Only the first occurrence is tagged. Planeta has no equivalent prefix: it renders ninpō as "técnica" (e.g. "¡Técnica animal!" for Kiba). Capitalization is also inconsistent across episodes ("Arte Ninja:" in S01E01, S01E04 and S01E09, "Arte ninja:" in S01E07 and S01E08).
-
 ### `{PESCA}` - Shadow Clone Jutsu: Fishing Version
 Naruto's joke technique rendered "Técnica de Clones de Sombra: Versión Pesca", introduced by "Técnica especial:" (S01E07, cue 1010).
 

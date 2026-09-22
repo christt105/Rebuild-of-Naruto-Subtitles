@@ -3317,7 +3317,7 @@ el jutsu de esta.</i>
 
 767
 00:57:59,893 --> 00:58:01,895
-<i>¡Arte ninja: Jutsu Posesión de Sombras!</i>
+<i>¡Arte ninja: Técnica de la Sombra Imitadora!</i>
 
 768
 00:58:02,520 --> 00:58:03,104
@@ -3393,7 +3393,7 @@ M-Mi cuerpo...
 
 785
 00:58:49,816 --> 00:58:52,462
-Jutsu Posesión de Sombras, con éxito.
+Técnica de la Sombra Imitadora, con éxito.
 
 786
 00:58:52,487 --> 00:58:54,155

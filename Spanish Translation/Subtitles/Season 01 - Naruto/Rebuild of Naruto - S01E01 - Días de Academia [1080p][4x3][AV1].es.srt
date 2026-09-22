@@ -425,7 +425,7 @@ para preparar mi jutsu!
 
 100
 00:07:15,685 --> 00:07:17,728
-<i>Arte Ninja: ¡Invocación!</i>
+<i>Arte ninja: ¡Invocación!</i>
 
 101
 00:07:18,604 --> 00:07:21,858

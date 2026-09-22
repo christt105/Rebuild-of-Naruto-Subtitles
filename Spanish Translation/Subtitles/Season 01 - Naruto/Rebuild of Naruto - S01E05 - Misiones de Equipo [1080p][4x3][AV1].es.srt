@@ -5590,7 +5590,7 @@ al hospital cuanto antes!
 
 1281
 01:36:58,025 --> 01:36:59,568
-<i>¡Jutsu Posesión de Sombras!</i>
+<i>¡Técnica de la Sombra Imitadora!</i>
 
 1282
 01:36:59,686 --> 01:37:00,687
