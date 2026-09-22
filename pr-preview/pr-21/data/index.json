@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:17:25.874676+00:00",
+  "generated_at": "2026-09-22T06:17:34.891513+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -131,8 +131,8 @@
       "title_en": "Preliminaries",
       "title_es": "Preliminares",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #21",
       "cue_count": 1774,
       "translated_count": 1727,
       "unresolved_tags": [
