@@ -80,14 +80,27 @@ def extract_glossary_terms(spanish_es):
     return terms
 
 
-def load_pending_tags():
+def load_pending_tags(episodes_by_code):
     text = PENDING_REVIEW.read_text(encoding="utf-8")
     matches = list(PENDING_ENTRY_RE.finditer(text))
     entries = []
     for i, m in enumerate(matches):
         start = m.end()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        entries.append({"code": m.group(1), "title": m.group(2).strip(), "body": text[start:end].strip()})
+        code = m.group(1)
+        cues_by_episode = {}
+        for ep_code, episode in sorted(episodes_by_code.items()):
+            matched_indices = [cue["index"] for cue in episode["cues"] if code in cue["tags"]]
+            if matched_indices:
+                cues_by_episode[ep_code] = matched_indices
+        entries.append(
+            {
+                "code": code,
+                "title": m.group(2).strip(),
+                "body": text[start:end].strip(),
+                "cues": cues_by_episode,
+            }
+        )
     return entries
 
 
@@ -182,13 +195,17 @@ def build_glossary_index(episodes_by_code):
     entries = []
     for entry in load_glossary():
         terms = [t.lower() for t in extract_glossary_terms(entry.get("spanish_es", ""))]
-        matched_episodes = []
-        for code, episode in episodes_by_code.items():
-            es_text = " ".join(cue["es"] for cue in episode["cues"]).lower()
-            if any(term and term in es_text for term in terms):
-                matched_episodes.append(code)
-        entries.append({**entry, "episodes": matched_episodes})
-    return {"entries": entries, "pending_tags": load_pending_tags()}
+        cues_by_episode = {}
+        for code, episode in sorted(episodes_by_code.items()):
+            matched_indices = [
+                cue["index"]
+                for cue in episode["cues"]
+                if any(term and term in cue["es"].lower() for term in terms)
+            ]
+            if matched_indices:
+                cues_by_episode[code] = matched_indices
+        entries.append({**entry, "episodes": list(cues_by_episode.keys()), "cues": cues_by_episode})
+    return {"entries": entries, "pending_tags": load_pending_tags(episodes_by_code)}
 
 
 def main():
