@@ -4,7 +4,7 @@
   "title_es": "La Prueba de los Cascabeles",
   "season": "Naruto",
   "status": "Fusionado",
-  "notes": "PR #6 — PR #6",
+  "notes": "PR #6",
   "en_path": "Rebuild of Naruto - Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E02 - The Bell Test [1080p][4x3][AV1].en.srt",
   "es_path": "Spanish Translation/Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E02 - La Prueba de los Cascabeles [1080p][4x3][AV1].es.srt",
   "cues": [
@@ -523,7 +523,7 @@
       "start": "00:05:43,325",
       "end": "00:05:46,161",
       "en": "held in high regard by our village.",
-      "es": "muy valorado por nuestra aldea.",
+      "es": "muy valorado por nuestra villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -653,7 +653,7 @@
       "start": "00:06:25,532",
       "end": "00:06:27,409",
       "en": "<i>I know this kid...\nHe's the boy with Nine-Tails!</i>",
-      "es": "<i>Conozco a este crío...\n¡Es el chico del Nueve Colas!</i>",
+      "es": "<i>Conozco a este crío...\n¡Es el chico del Kyubi!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1053,7 +1053,7 @@
       "start": "00:09:04,669",
       "end": "00:09:06,337",
       "en": "He named me after the village.",
-      "es": "Me llamó así por la aldea.",
+      "es": "Me llamó así por la Villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1623,7 +1623,7 @@
       "start": "00:13:05,716",
       "end": "00:13:08,593",
       "en": "It's given only to the greatest ninja\nin the village.",
-      "es": "Solo se le concede\nal ninja más grande de la aldea.",
+      "es": "Solo se le concede\nal ninja más grande de la Villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1633,7 +1633,7 @@
       "start": "00:13:08,966",
       "end": "00:13:11,844",
       "en": "You have to get everyone\nin the village to acknowledge you.",
-      "es": "Tienes que conseguir que\ntoda la aldea te reconozca.",
+      "es": "Tienes que conseguir que\ntoda la Villa te reconozca.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2113,7 +2113,7 @@
       "start": "00:18:21,151",
       "end": "00:18:25,071",
       "en": "Hinata will probably serve\nthe village as a Genin.",
-      "es": "Hinata probablemente\nservirá a la aldea como Genin.",
+      "es": "Hinata probablemente\nservirá a la Villa como Genin.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4943,7 +4943,7 @@
       "start": "00:38:21,383",
       "end": "00:38:23,093",
       "en": "And then the entire village",
-      "es": "Y entonces toda la aldea",
+      "es": "Y entonces toda la Villa",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6203,7 +6203,7 @@
       "start": "00:45:52,255",
       "end": "00:45:54,715",
       "en": "<i>That sign...\nHe's going to use a Fire Style jutsu.</i>",
-      "es": "<i>Ese sello...\nVa a usar un jutsu de Elemento Fuego.</i>",
+      "es": "<i>Ese sello...\nVa a usar una técnica ígnea.</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -7433,7 +7433,7 @@
       "start": "00:54:50,157",
       "end": "00:54:51,992",
       "en": "<i>Fire Style: Fireball Jutsu!</i>",
-      "es": "<i>¡Elemento Fuego: Bola de Fuego!</i>",
+      "es": "<i>¡Técnica ígnea: Gran bola de fuego!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8433,7 +8433,7 @@
       "start": "01:01:59,425",
       "end": "01:02:03,054",
       "en": "These are all ninja who are\nconsidered \"heroes\" of our village.",
-      "es": "Todos ellos son ninja considerados\n\"héroes\" de nuestra aldea.",
+      "es": "Todos ellos son ninja considerados\n\"héroes\" de nuestra villa.",
       "translated": true,
       "tags": [],
       "es_prev": null

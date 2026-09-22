@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:59:00.181323+00:00",
+  "generated_at": "2026-09-22T16:18:21.926493+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -29,7 +29,7 @@
       "title_es": "La Prueba de los Cascabeles",
       "season": "Naruto",
       "status": "Fusionado",
-      "notes": "PR #6 — PR #6",
+      "notes": "PR #6",
       "cue_count": 901,
       "translated_count": 886,
       "unresolved_tags": [],
@@ -41,7 +41,7 @@
       "title_es": "Comienza la Misión",
       "season": "Naruto",
       "status": "Fusionado",
-      "notes": "PR #8 — PR #8",
+      "notes": "PR #8",
       "cue_count": 1254,
       "translated_count": 1241,
       "unresolved_tags": [],
@@ -53,7 +53,7 @@
       "title_es": "El Puente",
       "season": "Naruto",
       "status": "Fusionado",
-      "notes": "PR #11 — PR #11",
+      "notes": "PR #11",
       "cue_count": 1104,
       "translated_count": 1078,
       "unresolved_tags": [],
@@ -64,17 +64,13 @@
       "title_en": "Squad Missions",
       "title_es": "Misiones de Equipo",
       "season": "Naruto",
-      "status": "PR abierta",
+      "status": "Fusionado",
       "notes": "PR #13",
       "cue_count": 1351,
       "translated_count": 1333,
       "unresolved_tags": [
-        "BEETLE",
-        "EXPANSION",
-        "FIRE",
         "LOCK",
         "MATATABI",
-        "MIND",
         "PACHINKO",
         "PAWENC",
         "VENDETTA"
@@ -86,16 +82,12 @@
       "title_en": "Entrance Exam",
       "title_es": "Examen de Acceso",
       "season": "Naruto",
-      "status": "PR abierta",
+      "status": "Fusionado",
       "notes": "PR #16",
       "cue_count": 1162,
       "translated_count": 1138,
       "unresolved_tags": [
-        "CEJAS",
-        "INOCERDA",
-        "NOVATOS",
-        "TERCEROJO",
-        "TORBELLINO"
+        "INOCERDA"
       ],
       "srt_error": null
     },
@@ -104,25 +96,12 @@
       "title_en": "Forest of Death",
       "title_es": "El Bosque de la Muerte",
       "season": "Naruto",
-      "status": "PR abierta",
+      "status": "Fusionado",
       "notes": "PR #17",
       "cue_count": 1309,
       "translated_count": 1287,
       "unresolved_tags": [
-        "ARTE",
-        "ATAUD",
-        "BESTIA",
-        "BOMBA",
-        "FENIX",
-        "HOJA",
-        "LEONES",
-        "LOTO",
-        "MENTE",
-        "PERG",
-        "PESCA",
-        "SELLO",
-        "SERP",
-        "SONIDO"
+        "PESCA"
       ],
       "srt_error": null
     },
@@ -131,11 +110,14 @@
       "title_en": "Preliminaries",
       "title_es": "Preliminares",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "Fusionado",
+      "notes": "PR #21",
       "cue_count": 1774,
-      "translated_count": 0,
-      "unresolved_tags": [],
+      "translated_count": 1727,
+      "unresolved_tags": [
+        "KIBA",
+        "SANGRE"
+      ],
       "srt_error": null
     },
     {
@@ -143,11 +125,17 @@
       "title_en": "Training",
       "title_es": "Entrenamiento",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "Fusionado",
+      "notes": "PR #20",
       "cue_count": 1518,
-      "translated_count": 0,
-      "unresolved_tags": [],
+      "translated_count": 1503,
+      "unresolved_tags": [
+        "CLOSET",
+        "DANZALUNA",
+        "INOCERDA",
+        "MYOBOKU",
+        "TRIGRAMAS"
+      ],
       "srt_error": null
     },
     {
@@ -922,7 +910,7 @@
   "totals": {
     "episodes": 73,
     "cues_total": 98188,
-    "cues_translated": 8201,
-    "unresolved_tags": 28
+    "cues_translated": 11431,
+    "unresolved_tags": 13
   }
 }

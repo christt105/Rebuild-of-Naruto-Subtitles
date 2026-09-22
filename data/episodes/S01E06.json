@@ -3,7 +3,7 @@
   "title_en": "Entrance Exam",
   "title_es": "Examen de Acceso",
   "season": "Naruto",
-  "status": "PR abierta",
+  "status": "Fusionado",
   "notes": "PR #16",
   "en_path": "Rebuild of Naruto - Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E06 - Entrance Exam [1080p][4x3][AV1].en.srt",
   "es_path": "Spanish Translation/Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E06 - Examen de Acceso [1080p][4x3][AV1].es.srt",
@@ -1173,7 +1173,7 @@
       "start": "00:11:22,431",
       "end": "00:11:26,518",
       "en": "The Genin from the Leaf Village\nare weaker than I thought.",
-      "es": "Los Genin de la Aldea de la Hoja\nson más flojos de lo que pensaba.",
+      "es": "Los Genin de la Villa de la Hoja\nson más flojos de lo que pensaba.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1183,7 +1183,7 @@
       "start": "00:11:27,911",
       "end": "00:11:29,746",
       "en": "<i>T-These guys aren't from\nour village.</i>",
-      "es": "<i>E-Estos tipos no son\nde nuestra aldea.</i>",
+      "es": "<i>E-Estos tipos no son\nde nuestra villa.</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1283,7 +1283,7 @@
       "start": "00:12:10,328",
       "end": "00:12:13,414",
       "en": "What do you think you're doing\nin someone else's village, huh?!",
-      "es": "¡¿Qué crees que haces\nen la aldea de otros, eh?!",
+      "es": "¡¿Qué crees que haces\nen la Villa de otros, eh?!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1443,7 +1443,7 @@
       "start": "00:13:25,888",
       "end": "00:13:27,991",
       "en": "You're an embarrassment\nto our village.",
-      "es": "Eres una vergüenza\npara nuestra aldea.",
+      "es": "Eres una vergüenza\npara nuestra villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1453,7 +1453,7 @@
       "start": "00:13:28,766",
       "end": "00:13:31,727",
       "en": "Why do you think we came all\nthe way to the Leaf Village?",
-      "es": "¿Por qué crees que hemos venido\nhasta la Aldea de la Hoja?",
+      "es": "¿Por qué crees que hemos venido\nhasta la Villa de la Hoja?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1633,7 +1633,7 @@
       "start": "00:14:20,401",
       "end": "00:14:23,028",
       "en": "you're shinobi from the\nHidden Sand Village, right?",
-      "es": "sois shinobi de la\nAldea Oculta de la Arena, ¿verdad?",
+      "es": "sois shinobi de la\nVilla Oculta de la Arena, ¿verdad?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1663,7 +1663,7 @@
       "start": "00:14:28,909",
       "end": "00:14:30,661",
       "en": "between our villages without permission.",
-      "es": "entre nuestras aldeas sin permiso.",
+      "es": "entre nuestras villas sin permiso.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1713,7 +1713,7 @@
       "start": "00:14:38,586",
       "end": "00:14:41,505",
       "en": "We came to this village to\ntake the Chunin Exam.",
-      "es": "Hemos venido a esta aldea\na presentarnos al Examen Chūnin.",
+      "es": "Hemos venido a esta villa\na presentarnos al Examen Chūnin.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -3813,11 +3813,9 @@
       "start": "00:27:00,076",
       "end": "00:27:04,414",
       "en": "Do you want to find out\nwhat this name means, Bushy Brow?",
-      "es": "¿Quieres descubrir\nqué significa ese nombre, Cejotas {CEJAS}?",
+      "es": "¿Quieres descubrir\nqué significa ese nombre, Cejudo?",
       "translated": true,
-      "tags": [
-        "CEJAS"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -3845,11 +3843,9 @@
       "start": "00:27:15,050",
       "end": "00:27:17,510",
       "en": "I'll take on Bushy Brow!\nBelieve it!",
-      "es": "¡Yo me encargo de Cejotas {CEJAS}!\n¡Vaya que sí!",
+      "es": "¡Yo me encargo de Cejudo!\n¡Vaya que sí!",
       "translated": true,
-      "tags": [
-        "CEJAS"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -3927,11 +3923,9 @@
       "start": "00:27:41,993",
       "end": "00:27:43,203",
       "en": "<i>Leaf Whirlwind!</i>",
-      "es": "<i>¡Torbellino de la Hoja! {TORBELLINO}</i>",
+      "es": "<i>¡Ventisca de la Hoja!</i>",
       "translated": true,
-      "tags": [
-        "TORBELLINO"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -4199,11 +4193,9 @@
       "start": "00:29:23,427",
       "end": "00:29:25,346",
       "en": "<i>he can read Bushy Brow's jutsu!</i>",
-      "es": "<i>¡puede leer las técnicas de Cejotas! {CEJAS}</i>",
+      "es": "<i>¡puede leer las técnicas de Cejudo!</i>",
       "translated": true,
-      "tags": [
-        "CEJAS"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -4491,11 +4483,9 @@
       "start": "00:31:33,725",
       "end": "00:31:37,729",
       "en": "<i>Could that be... Bushy Brow's teacher?!</i>",
-      "es": "<i>¿Podría ser... el maestro de Cejotas? {CEJAS}</i>",
+      "es": "<i>¿Podría ser... el maestro de Cejudo?</i>",
       "translated": true,
-      "tags": [
-        "CEJAS"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -5393,11 +5383,9 @@
       "start": "00:37:03,137",
       "end": "00:37:06,515",
       "en": "That Bushy Brow must have done\nan insane amount of training.",
-      "es": "Ese Cejotas {CEJAS} debe de haber entrenado\nuna barbaridad.",
+      "es": "Ese Cejudo debe de haber entrenado\nuna barbaridad.",
       "translated": true,
-      "tags": [
-        "CEJAS"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -6197,11 +6185,9 @@
       "start": "00:41:57,848",
       "end": "00:42:03,687",
       "en": "You're the \"Rookie Nine,\" aren't you?\nStraight out of the Academy?",
-      "es": "Sois los \"Nueve Novatos\" {NOVATOS}, ¿verdad?\n¿Recién salidos de la Academia?",
+      "es": "Sois los \"Novatos\", ¿verdad?\n¿Recién salidos de la Academia?",
       "translated": true,
-      "tags": [
-        "NOVATOS"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -6249,7 +6235,7 @@
       "start": "00:42:24,649",
       "end": "00:42:28,152",
       "en": "The ones behind you...\nThey're from the Hidden Rain Village.",
-      "es": "Los que están detrás de vosotros...\nSon de la Aldea Oculta de la Lluvia.",
+      "es": "Los que están detrás de vosotros...\nSon de la Villa Oculta de la Lluvia.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6399,7 +6385,7 @@
       "start": "00:43:10,838",
       "end": "00:43:13,257",
       "en": "There are lots of exceptional Genin\nfrom those villages",
-      "es": "Hay muchos Genin excepcionales\nde esas aldeas",
+      "es": "Hay muchos Genin excepcionales\nde esas villas",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6419,7 +6405,7 @@
       "start": "00:43:17,595",
       "end": "00:43:20,222",
       "en": "As far as the Village Hidden\nin Sound goes,",
-      "es": "En cuanto a la Aldea Oculta\ndel Sonido,",
+      "es": "En cuanto a la Villa Oculta\ndel Sonido,",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6429,7 +6415,7 @@
       "start": "00:43:20,489",
       "end": "00:43:23,283",
       "en": "it's a new village from a small nation.",
-      "es": "es una aldea nueva de una nación pequeña,",
+      "es": "es una villa nueva de una nación pequeña,",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6459,7 +6445,7 @@
       "start": "00:43:28,564",
       "end": "00:43:30,858",
       "en": "they're all elites\nfrom their respective villages.",
-      "es": "todos son la élite\nde sus respectivas aldeas.",
+      "es": "todos son la élite\nde sus respectivas villas.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6899,7 +6885,7 @@
       "start": "00:45:36,859",
       "end": "00:45:40,404",
       "en": "Sound Village is a minor\nHidden Village of a small nation.",
-      "es": "La Aldea del Sonido es una Aldea Oculta\nmenor de una nación pequeña.",
+      "es": "La Villa del Sonido es una Villa Oculta\nmenor de una nación pequeña.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6929,7 +6915,7 @@
       "start": "00:45:45,868",
       "end": "00:45:50,956",
       "en": "Yeah, especially after that crack\nabout our \"minor village\".",
-      "es": "Sí, sobre todo después de ese comentario\nsobre nuestra \"aldea menor\".",
+      "es": "Sí, sobre todo después de ese comentario\nsobre nuestra \"villa menor\".",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6939,7 +6925,7 @@
       "start": "00:46:08,307",
       "end": "00:46:10,350",
       "en": "<i>These guys... are the Sound Village...</i>",
-      "es": "<i>Estos tíos... son de la Aldea del Sonido...</i>",
+      "es": "<i>Estos tíos... son de la Villa del Sonido...</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -7079,7 +7065,7 @@
       "start": "00:46:53,477",
       "end": "00:46:56,605",
       "en": "Those three from Sound Village...\nNo doubt they're Chunin-level.",
-      "es": "Esos tres de la Aldea del Sonido...\nSin duda tienen nivel Chūnin.",
+      "es": "Esos tres de la Villa del Sonido...\nSin duda tienen nivel Chūnin.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -7169,7 +7155,7 @@
       "start": "00:47:46,864",
       "end": "00:47:48,198",
       "en": "You, from the Village Hidden in the Sound!",
-      "es": "¡Tú, el de la Aldea Oculta del Sonido!",
+      "es": "¡Tú, el de la Villa Oculta del Sonido!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -9179,11 +9165,9 @@
       "start": "01:02:10,218",
       "end": "01:02:12,470",
       "en": "<i>Third Eye... open!</i>",
-      "es": "<i>Tercer Ojo... ¡ábrete! {TERCEROJO}</i>",
+      "es": "<i>Tercer Ojo... ¡ábrete!</i>",
       "translated": true,
-      "tags": [
-        "TERCEROJO"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -10211,7 +10195,7 @@
       "start": "01:09:28,665",
       "end": "01:09:31,334",
       "en": "<i>And I will make all of\nthe people in the village</i>",
-      "es": "<i>¡Y haré que todos\nlos habitantes de la aldea</i>",
+      "es": "<i>¡Y haré que todos\nlos habitantes de la Villa</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11071,7 +11055,7 @@
       "start": "01:14:51,654",
       "end": "01:14:55,116",
       "en": "can bring a catastrophic blow\nto your comrades and your village.",
-      "es": "puede suponer un golpe catastrófico\npara vuestros compañeros y vuestra aldea.",
+      "es": "puede suponer un golpe catastrófico\npara vuestros compañeros y vuestra villa.",
       "translated": true,
       "tags": [],
       "es_prev": null

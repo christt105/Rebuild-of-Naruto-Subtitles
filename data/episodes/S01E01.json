@@ -373,7 +373,7 @@
       "start": "00:02:57,051",
       "end": "00:02:58,178",
       "en": "The Nine-Tails!",
-      "es": "¡El Nueve Colas!",
+      "es": "¡El Kyubi!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -383,7 +383,7 @@
       "start": "00:02:58,219",
       "end": "00:02:59,678",
       "en": "– Run!\n– It's the Nine-Tails!",
-      "es": "– ¡Corred!\n– ¡Es el Nueve Colas!",
+      "es": "– ¡Corred!\n– ¡Es el Kyubi!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -413,7 +413,7 @@
       "start": "00:03:24,787",
       "end": "00:03:25,997",
       "en": "It's the Nine-Tails!",
-      "es": "¡Es el Nueve Colas!",
+      "es": "¡Es el Kyubi!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -493,7 +493,7 @@
       "start": "00:04:08,416",
       "end": "00:04:09,652",
       "en": "The Nine-Tails is...!",
-      "es": "¡El Nueve Colas...!",
+      "es": "¡El Kyubi...!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -503,7 +503,7 @@
       "start": "00:04:09,677",
       "end": "00:04:11,721",
       "en": "The Nine-Tails suddenly\nappeared in the village!",
-      "es": "¡El Nueve Colas ha aparecido\nde repente en la aldea!",
+      "es": "¡El Kyubi ha aparecido\nde repente en la Villa!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -573,7 +573,7 @@
       "start": "00:04:29,736",
       "end": "00:04:31,154",
       "en": "Damn you, Nine-Tails!",
-      "es": "¡Maldito seas, Nueve Colas!",
+      "es": "¡Maldito seas, Kyubi!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -703,7 +703,7 @@
       "start": "00:05:05,013",
       "end": "00:05:06,097",
       "en": "Over here, Nine-Tails!",
-      "es": "¡Por aquí, Nueve Colas!",
+      "es": "¡Por aquí, Kyubi!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -713,7 +713,7 @@
       "start": "00:05:11,144",
       "end": "00:05:12,645",
       "en": "Over here, Nine-Tails!",
-      "es": "¡Por aquí, Nueve Colas!",
+      "es": "¡Por aquí, Kyubi!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -753,7 +753,7 @@
       "start": "00:05:22,513",
       "end": "00:05:24,031",
       "en": "Even if we can't defeat the Nine-Tails,",
-      "es": "Aunque no podamos vencer al Nueve Colas,",
+      "es": "Aunque no podamos vencer al Kyubi,",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -813,7 +813,7 @@
       "start": "00:05:39,208",
       "end": "00:05:41,128",
       "en": "<i>I will protect the village...\nmy family...</i>",
-      "es": "<i>protegeré la aldea...\na mi familia...</i>",
+      "es": "<i>protegeré la Villa...\na mi familia...</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -943,7 +943,7 @@
       "start": "00:06:50,201",
       "end": "00:06:52,245",
       "en": "You must avoid damage\nto the village!",
-      "es": "¡Evitad que se dañe\nla aldea!",
+      "es": "¡Evitad que se dañe\nla Villa!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -953,7 +953,7 @@
       "start": "00:06:52,270",
       "end": "00:06:55,106",
       "en": "Chase the Nine-Tails\noutside the village walls!",
-      "es": "¡Perseguid al Nueve Colas\nfuera de las murallas de la aldea!",
+      "es": "¡Perseguid al Kyubi\nfuera de las murallas de la Villa!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1003,7 +1003,7 @@
       "start": "00:07:15,685",
       "end": "00:07:17,728",
       "en": "<i>Ninja Art: Summoning!</i>",
-      "es": "<i>Arte Ninja: ¡Invocación!</i>",
+      "es": "<i>Arte ninja: ¡Invocación!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1023,7 +1023,7 @@
       "start": "00:07:26,194",
       "end": "00:07:27,633",
       "en": "The Nine-Tails, huh.",
-      "es": "El Nueve Colas, ¿eh?",
+      "es": "El Kyubi, ¿eh?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1043,7 +1043,7 @@
       "start": "00:07:31,008",
       "end": "00:07:34,053",
       "en": "We'll chase it out of the village \nwith the <i>Adamantine Staff</i>!",
-      "es": "Lo echaremos de la aldea\ncon el <i>Bastón Adamantino</i>.",
+      "es": "Lo echaremos de la Villa\ncon el <i>Bastón Adamantino</i>.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1093,7 +1093,7 @@
       "start": "00:07:57,477",
       "end": "00:07:59,854",
       "en": "I've chased it out of the village.",
-      "es": "Lo he echado fuera de la aldea.",
+      "es": "Lo he echado fuera de la Villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1183,7 +1183,7 @@
       "start": "00:08:53,783",
       "end": "00:08:55,618",
       "en": "Take her to the Leaf Village Hospital\nimmediately!",
-      "es": "¡Llevadla de inmediato\nal Hospital de la Aldea de la Hoja!",
+      "es": "¡Llevadla de inmediato\nal Hospital de la Villa de la Hoja!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1743,7 +1743,7 @@
       "start": "00:12:42,992",
       "end": "00:12:46,365",
       "en": "And that a lot of people\nin the village were killed,",
-      "es": "Y que mucha gente\nde la aldea murió,",
+      "es": "Y que mucha gente\nde la Villa murió,",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4823,7 +4823,7 @@
       "start": "00:41:53,823",
       "end": "00:41:57,672",
       "en": "He will remain an outcast in\nthis village for the rest of his life.",
-      "es": "Seguirá siendo un marginado en\nesta aldea el resto de su vida.",
+      "es": "Seguirá siendo un marginado en\nesta villa el resto de su vida.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4953,7 +4953,7 @@
       "start": "00:42:45,458",
       "end": "00:42:47,960",
       "en": "Why do we let that boy\nstay in this village?",
-      "es": "¿Por qué dejamos que ese chico\nse quede en esta aldea?",
+      "es": "¿Por qué dejamos que ese chico\nse quede en esta villa?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8803,7 +8803,7 @@
       "start": "01:14:10,445",
       "end": "01:14:13,061",
       "en": "The Nine-Tails sealed inside\nof Naruto is responsible",
-      "es": "El Nueve Colas sellado dentro\nde Naruto es responsable",
+      "es": "El Kyubi sellado dentro\nde Naruto es responsable",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8843,7 +8843,7 @@
       "start": "01:14:22,456",
       "end": "01:14:27,919",
       "en": "I can't help but see\nthe Nine-Tails sealed inside of him.",
-      "es": "no puedo evitar ver\nal Nueve Colas sellado dentro de él.",
+      "es": "no puedo evitar ver\nal Kyubi sellado dentro de él.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10933,7 +10933,7 @@
       "start": "01:30:50,012",
       "end": "01:30:53,307",
       "en": "It will be a major disaster if\nit is taken out of the village!",
-      "es": "¡Será un desastre enorme si\nlo sacan de la aldea!",
+      "es": "¡Será un desastre enorme si\nlo sacan de la Villa!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10973,7 +10973,7 @@
       "start": "01:31:19,500",
       "end": "01:31:23,045",
       "en": "<i>I will tell everyone in the village\nabout this and eliminate Naruto...</i>",
-      "es": "<i>Le contaré esto a todos en la aldea\ny eliminaré a Naruto...</i>",
+      "es": "<i>Le contaré esto a todos en la Villa\ny eliminaré a Naruto...</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11253,7 +11253,7 @@
       "start": "01:33:14,672",
       "end": "01:33:19,885",
       "en": "It's a rule everyone in the village knows, Naruto...\neveryone but you.",
-      "es": "Es una norma que todos en la aldea conocen, Naruto...\ntodos menos tú.",
+      "es": "Es una norma que todos en la Villa conocen, Naruto...\ntodos menos tú.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11283,7 +11283,7 @@
       "start": "01:33:26,643",
       "end": "01:33:30,647",
       "en": "The rule forbids anyone from revealing\nthat the Nine-Tails is inside you!",
-      "es": "¡La norma prohíbe que nadie revele\nque el Nueve Colas está dentro de ti!",
+      "es": "¡La norma prohíbe que nadie revele\nque el Kyubi está dentro de ti!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11313,7 +11313,7 @@
       "start": "01:33:36,753",
       "end": "01:33:39,756",
       "en": "that killed Iruka's parents and\ndestroyed our village!",
-      "es": "que mató a los padres de Iruka y\ndestruyó nuestra aldea.",
+      "es": "que mató a los padres de Iruka y\ndestruyó nuestra villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11563,7 +11563,7 @@
       "start": "01:35:30,899",
       "end": "01:35:34,111",
       "en": "He's going to use the scroll\nto take revenge on the village!",
-      "es": "¡Va a usar el pergamino\npara vengarse de la aldea!",
+      "es": "¡Va a usar el pergamino\npara vengarse de la Villa!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11873,7 +11873,7 @@
       "start": "01:37:54,021",
       "end": "01:37:56,607",
       "en": "He's a member of the Hidden Leaf Village...\nHe's Naruto Uzumaki!",
-      "es": "Es un miembro de la Aldea Oculta de la Hoja...\n¡Es Naruto Uzumaki!",
+      "es": "Es un miembro de la Villa Oculta de la Hoja...\n¡Es Naruto Uzumaki!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -12243,7 +12243,7 @@
       "start": "01:41:08,245",
       "end": "01:41:11,957",
       "en": "it seems Naruto's recklessness\nsaved the village.",
-      "es": "parece que la temeridad de Naruto\nsalvó la aldea.",
+      "es": "parece que la temeridad de Naruto\nsalvó la Villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -12383,7 +12383,7 @@
       "start": "01:42:18,965",
       "end": "01:42:21,384",
       "en": "Mom and dad sacrificed their lives\nto protect the village",
-      "es": "Mamá y papá sacrificaron sus vidas\npara proteger la aldea",
+      "es": "Mamá y papá sacrificaron sus vidas\npara proteger la Villa",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -12483,7 +12483,7 @@
       "start": "01:42:54,418",
       "end": "01:42:58,214",
       "en": "It's the strong will to\nprotect this village.",
-      "es": "Es la firme voluntad de\nproteger esta aldea.",
+      "es": "Es la firme voluntad de\nproteger esta villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -12503,7 +12503,7 @@
       "start": "01:43:01,412",
       "end": "01:43:04,916",
       "en": "everyone in the village\nis your family.",
-      "es": "todos en la aldea\nson tu familia.",
+      "es": "todos en la Villa\nson tu familia.",
       "translated": true,
       "tags": [],
       "es_prev": null

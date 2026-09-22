@@ -3300,8 +3300,6 @@
           767,
           802,
           844,
-          862,
-          917,
           923,
           1073,
           1134,
@@ -5046,12 +5044,9 @@
           554,
           928,
           1154,
-          1161,
           1162,
           1167,
           1168,
-          1169,
-          1180,
           1181,
           1184,
           1185,
@@ -6626,8 +6621,14 @@
       "spanish_es": "Bijū",
       "source": "Wikipedia ES - articulo Naruto (confirmado sin traducir)",
       "verified": true,
-      "episodes": [],
-      "cues": {}
+      "episodes": [
+        "S01E09"
+      ],
+      "cues": {
+        "S01E09": [
+          690
+        ]
+      }
     },
     {
       "japanese": "暁",
@@ -9560,7 +9561,8 @@
       "verified": true,
       "episodes": [
         "S01E02",
-        "S01E04"
+        "S01E04",
+        "S01E09"
       ],
       "cues": {
         "S01E02": [
@@ -9568,6 +9570,9 @@
         ],
         "S01E04": [
           151
+        ],
+        "S01E09": [
+          443
         ]
       }
     },
@@ -9605,12 +9610,18 @@
       "source": "Guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice maestro de tecnicas): «Técnica de transformación», no «Jutsu de Transformación» (Wikipedia ES); corrige la entrada anterior",
       "verified": true,
       "episodes": [
-        "S01E05"
+        "S01E05",
+        "S01E08"
       ],
       "cues": {
         "S01E05": [
           122,
           652
+        ],
+        "S01E08": [
+          892,
+          899,
+          964
         ]
       }
     },
@@ -9622,7 +9633,8 @@
       "verified": true,
       "episodes": [
         "S01E04",
-        "S01E07"
+        "S01E07",
+        "S01E09"
       ],
       "cues": {
         "S01E04": [
@@ -9630,6 +9642,9 @@
         ],
         "S01E07": [
           784
+        ],
+        "S01E09": [
+          528
         ]
       }
     },
@@ -9680,7 +9695,9 @@
         "S01E03",
         "S01E04",
         "S01E05",
-        "S01E07"
+        "S01E07",
+        "S01E08",
+        "S01E09"
       ],
       "cues": {
         "S01E01": [
@@ -9707,6 +9724,13 @@
           354,
           1010,
           1233
+        ],
+        "S01E08": [
+          899,
+          1001
+        ],
+        "S01E09": [
+          812
         ]
       }
     },
@@ -9741,7 +9765,8 @@
       "verified": true,
       "episodes": [
         "S01E01",
-        "S01E02"
+        "S01E02",
+        "S01E09"
       ],
       "cues": {
         "S01E01": [
@@ -9752,6 +9777,9 @@
           84,
           134,
           154
+        ],
+        "S01E09": [
+          577
         ]
       }
     },
@@ -9762,11 +9790,16 @@
       "source": "Convencion establecida del proyecto (indicado por Christian, ver nota de Sexy Jutsu)",
       "verified": true,
       "episodes": [
-        "S01E02"
+        "S01E02",
+        "S01E09"
       ],
       "cues": {
         "S01E02": [
           153
+        ],
+        "S01E09": [
+          237,
+          238
         ]
       }
     },
@@ -9777,9 +9810,13 @@
       "source": "Guia oficial Planeta (tomo 03 Libro de combate / Jin no sho, indice maestro de tecnicas): «Técnica ígnea: gran bola de fuego» citado varias veces (p.ej. Rin p. 174); corrige el prefijo «Elemento Fuego» de Wikipedia ES",
       "verified": true,
       "episodes": [
+        "S01E02",
         "S01E04"
       ],
       "cues": {
+        "S01E02": [
+          743
+        ],
         "S01E04": [
           364
         ]
@@ -9999,7 +10036,9 @@
       "verified": false,
       "episodes": [
         "S01E04",
-        "S01E07"
+        "S01E07",
+        "S01E08",
+        "S01E09"
       ],
       "cues": {
         "S01E04": [
@@ -10007,6 +10046,19 @@
         ],
         "S01E07": [
           409
+        ],
+        "S01E08": [
+          4,
+          489
+        ],
+        "S01E09": [
+          801,
+          824,
+          841,
+          851,
+          960,
+          1096,
+          1169
         ]
       }
     },
@@ -10115,12 +10167,14 @@
     {
       "japanese": "影真似の術",
       "english": "Shadow Possession Jutsu",
-      "spanish_es": "Jutsu Posesión de Sombras",
-      "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z (clan Nara)",
-      "verified": false,
+      "spanish_es": "Técnica de la Sombra Imitadora (en frases, «mi Sombra Imitadora»)",
+      "source": "Índice de técnicas de las guías oficiales Planeta («Técnica de la sombra imitadora»). Sustituye «Jutsu Posesión de Sombras» 2026-09-22, S01E05-S01E09",
+      "verified": true,
       "episodes": [
         "S01E05",
-        "S01E07"
+        "S01E07",
+        "S01E08",
+        "S01E09"
       ],
       "cues": {
         "S01E05": [
@@ -10128,6 +10182,13 @@
         ],
         "S01E07": [
           843
+        ],
+        "S01E08": [
+          767,
+          785
+        ],
+        "S01E09": [
+          1505
         ]
       }
     },
@@ -10146,8 +10207,22 @@
       "spanish_es": "Multitamaño",
       "source": "Subtítulo en castellano verificado (rótulo en pantalla, arco Recuperación de Sasuke)",
       "verified": true,
-      "episodes": [],
-      "cues": {}
+      "episodes": [
+        "S01E05",
+        "S01E07",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E05": [
+          1267
+        ],
+        "S01E07": [
+          829
+        ],
+        "S01E08": [
+          1753
+        ]
+      }
     },
     {
       "japanese": "部分倍化の術",
@@ -10175,7 +10250,8 @@
       "verified": true,
       "episodes": [
         "S01E05",
-        "S01E07"
+        "S01E07",
+        "S01E08"
       ],
       "cues": {
         "S01E05": [
@@ -10183,6 +10259,10 @@
         ],
         "S01E07": [
           831
+        ],
+        "S01E08": [
+          1756,
+          1757
         ]
       }
     },
@@ -11170,7 +11250,6 @@
         ],
         "S01E08": [
           36,
-          259,
           810,
           1020,
           1024,
@@ -11197,14 +11276,13 @@
           1273,
           1304,
           1318,
-          1322
+          1322,
+          1603
         ],
         "S01E09": [
           192,
-          412,
-          729,
-          1060,
-          1083
+          663,
+          666
         ],
         "S01E10": [
           14,
@@ -11606,8 +11684,8 @@
     {
       "japanese": "九尾",
       "english": "Nine-Tails / Nine-Tailed Fox / Demon Fox / Nine-Tailed Demon Fox",
-      "spanish_es": "\"Nine-Tails\" -> \"el Nueve Colas\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\"",
-      "source": "Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)",
+      "spanish_es": "\"Nine-Tails\" -> \"el Kyubi\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\"",
+      "source": "«Kyubi»: Guías oficiales Planeta («Kyúbi»), decisión de Christian 2026-09-22 (antes «el Nueve Colas»), sin tilde como «Hyuga» e «Ichibi». Resto: Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)",
       "verified": false,
       "episodes": [
         "S01E01",
@@ -11690,7 +11768,6 @@
         ],
         "S01E09": [
           46,
-          428,
           604,
           608,
           627,
@@ -12365,7 +12442,8 @@
       "source": "Convencion establecida del proyecto (indicado por Christian; dicho por Ebisu, su guardaespaldas/tutor, encaja con su tono friki/protocolario; se mantiene el honorifico en vez de aplicar la convencion de -sama, por ser un apodo recurrente y no un simple tratamiento de respeto)",
       "verified": true,
       "episodes": [
-        "S01E02"
+        "S01E02",
+        "S01E09"
       ],
       "cues": {
         "S01E02": [
@@ -12374,6 +12452,9 @@
           97,
           125,
           139
+        ],
+        "S01E09": [
+          409
         ]
       }
     },
@@ -12384,12 +12465,16 @@
       "source": "Manga oficial Planeta (tomo 2, pág. 94, dialogo real de Kakashi) y guia oficial de datos de personajes (ficha de Kakashi, tomo 01, pag. 94: apodado 'el ninja imitador'). Resuelto 2026-09-16, cues S01E03 359 y 401 (antes {COPYN}, 'el Ninja Copión')",
       "verified": true,
       "episodes": [
-        "S01E03"
+        "S01E03",
+        "S01E09"
       ],
       "cues": {
         "S01E03": [
           359,
           401
+        ],
+        "S01E09": [
+          1005
         ]
       }
     },
@@ -12443,11 +12528,15 @@
       "source": "Guia oficial de datos de personajes (ficha de Kakashi, tomo 01, pag. 94: 'Aficiones: Lectura (Colección Paraíso erótico)'). La intuicion inicial de Christian de mantener 'Icha Icha' en japones (patron Rasengan/Chidori) NO se confirma: el manga oficial si lo traduce. Resuelto 2026-09-16, cue S01E02 732 (antes {ICHA}, dejado sin traducir como 'Make-Out Paradise')",
       "verified": true,
       "episodes": [
-        "S01E02"
+        "S01E02",
+        "S01E09"
       ],
       "cues": {
         "S01E02": [
           732
+        ],
+        "S01E09": [
+          480
         ]
       }
     },
@@ -12459,7 +12548,8 @@
       "verified": false,
       "episodes": [
         "S01E01",
-        "S01E02"
+        "S01E02",
+        "S01E08"
       ],
       "cues": {
         "S01E01": [
@@ -12469,6 +12559,15 @@
         ],
         "S01E02": [
           187
+        ],
+        "S01E08": [
+          1061,
+          1067,
+          1172,
+          1257,
+          1263,
+          1267,
+          1269
         ]
       }
     },
@@ -12478,8 +12577,14 @@
       "spanish_es": "la Familia Secundaria",
       "source": "Wikipedia ES / naruto.fandom.com/es (Bunke)",
       "verified": false,
-      "episodes": [],
-      "cues": {}
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          1063
+        ]
+      }
     },
     {
       "japanese": "だってばよ",
@@ -12490,7 +12595,8 @@
       "episodes": [
         "S01E01",
         "S01E03",
-        "S01E06"
+        "S01E06",
+        "S01E08"
       ],
       "cues": {
         "S01E01": [
@@ -12503,6 +12609,9 @@
           384,
           891,
           932
+        ],
+        "S01E08": [
+          75
         ]
       }
     },
@@ -12516,7 +12625,8 @@
         "S01E03",
         "S01E04",
         "S01E05",
-        "S01E07"
+        "S01E07",
+        "S01E08"
       ],
       "cues": {
         "S01E03": [
@@ -12535,6 +12645,11 @@
           226,
           228,
           234
+        ],
+        "S01E08": [
+          772,
+          773,
+          775
         ]
       }
     },
@@ -12546,7 +12661,9 @@
       "verified": true,
       "episodes": [
         "S01E04",
-        "S01E06"
+        "S01E06",
+        "S01E08",
+        "S01E09"
       ],
       "cues": {
         "S01E04": [
@@ -12555,6 +12672,746 @@
         "S01E06": [
           16,
           1040
+        ],
+        "S01E08": [
+          1134,
+          1202,
+          1559
+        ],
+        "S01E09": [
+          208
+        ]
+      }
+    },
+    {
+      "japanese": "隠れ里",
+      "english": "Hidden Village (any shinobi village)",
+      "spanish_es": "Villa Oculta de X (Villa Oculta de la Hoja, del Sonido, de la Arena...); «la Villa» al abreviar",
+      "source": "Manga y guia oficial Planeta («Villa de la Hoja», «Villa Oculta del Sonido», tomos 6-9 y guia 1). Convencion fijada por Christian 2026-09-21: todas las aldeas se llaman «Villa», nunca «Aldea», tambien las que solo salen en el anime",
+      "verified": true,
+      "episodes": [],
+      "cues": {}
+    },
+    {
+      "japanese": "天の書 / 地の書",
+      "english": "Heaven Scroll / Earth Scroll",
+      "spanish_es": "Rollo del Cielo / Rollo de la Tierra",
+      "source": "Manga Planeta tomo 7 («rollo del cielo»). Resuelto 2026-09-21, S01E07 (antes {PERG}); también «rollo» en genérico dentro del examen, no «pergamino»",
+      "verified": true,
+      "episodes": [
+        "S01E07"
+      ],
+      "cues": {
+        "S01E07": [
+          29,
+          175,
+          255,
+          326,
+          1041,
+          1052,
+          1070,
+          1087,
+          1266
+        ]
+      }
+    },
+    {
+      "japanese": "木ノ葉旋風",
+      "english": "Leaf Whirlwind",
+      "spanish_es": "Ventisca de la Hoja",
+      "source": "Guía oficial Planeta 1 p186 (patada giratoria baja de Lee). Resuelto 2026-09-21, S01E06 (antes {TORBELLINO})",
+      "verified": true,
+      "episodes": [
+        "S01E06"
+      ],
+      "cues": {
+        "S01E06": [
+          392
+        ]
+      }
+    },
+    {
+      "japanese": "木ノ葉烈風",
+      "english": "Leaf Hurricane",
+      "spanish_es": "Remolino de la Hoja",
+      "source": "Guía oficial Planeta 1 p185. Resuelto 2026-09-21, S01E07 (antes {HOJA})",
+      "verified": true,
+      "episodes": [
+        "S01E07",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E07": [
+          655
+        ],
+        "S01E08": [
+          721,
+          1375
+        ]
+      }
+    },
+    {
+      "japanese": "木ノ葉の碧き猛獣",
+      "english": "Beautiful Green Beast of the Leaf",
+      "spanish_es": "la Bella Bestia Verde de la Hoja",
+      "source": "Manga Planeta tomo 6 («¡La bella bestia!») y guía 3 p206 («la bella y joven bestia de la Hoja»); «Verde» se conserva del inglés del anime. Resuelto 2026-09-21, S01E07 (antes {BESTIA})",
+      "verified": true,
+      "episodes": [
+        "S01E07"
+      ],
+      "cues": {
+        "S01E07": [
+          659
+        ]
+      }
+    },
+    {
+      "japanese": "表蓮華 / 裏蓮華",
+      "english": "Primary Lotus / Hidden Lotus",
+      "spanish_es": "Flor de Loto Frontal / Flor de Loto Oculta",
+      "source": "Guía oficial Planeta 1 p56 («la flor de loto frontal y la oculta»). Resuelto 2026-09-21, S01E07 (antes {LOTO})",
+      "verified": true,
+      "episodes": [
+        "S01E07",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E07": [
+          702
+        ],
+        "S01E08": [
+          1460,
+          1579,
+          1583,
+          1595,
+          1598,
+          1643,
+          1653
+        ]
+      }
+    },
+    {
+      "japanese": "第三の眼",
+      "english": "Third Eye",
+      "spanish_es": "Tercer Ojo",
+      "source": "Guía oficial Planeta 1 p208 («el tercer ojo» de Gaara). Resuelto 2026-09-21, S01E06 (antes {TERCEROJO})",
+      "verified": true,
+      "episodes": [
+        "S01E06"
+      ],
+      "cues": {
+        "S01E06": [
+          916
+        ]
+      }
+    },
+    {
+      "japanese": "砂縛柩 / 砂縛送葬",
+      "english": "Sand Coffin / Sand Burial",
+      "spanish_es": "Sarcófago de Arena / Funeral del Desierto",
+      "source": "Guía oficial Planeta 1 p186-188 y índice de técnicas (tomo 3 p337). Resuelto 2026-09-21, S01E07 (antes {ATAUD})",
+      "verified": true,
+      "episodes": [
+        "S01E07",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E07": [
+          241,
+          246
+        ],
+        "S01E08": [
+          1655
+        ]
+      }
+    },
+    {
+      "japanese": "心転身の術",
+      "english": "Mind Transfer Jutsu",
+      "spanish_es": "Técnica del Traspaso Mental",
+      "source": "Guía oficial Planeta 1 p106 y p201. Resuelto 2026-09-21, S01E05 y S01E07 (antes {MIND} y {MENTE})",
+      "verified": true,
+      "episodes": [
+        "S01E05",
+        "S01E07"
+      ],
+      "cues": {
+        "S01E05": [
+          1276
+        ],
+        "S01E07": [
+          853
+        ]
+      }
+    },
+    {
+      "japanese": "秘術・蟲玉",
+      "english": "Hidden Jutsu: Beetle Sphere",
+      "spanish_es": "Técnica Secreta: Esfera de Insectos",
+      "source": "Aprobado por Christian 2026-09-21 (sin hallazgo directo en Planeta; solo «insectos» como término de la serie). Resuelto en S01E05 (antes {BEETLE})",
+      "verified": false,
+      "episodes": [
+        "S01E05"
+      ],
+      "cues": {
+        "S01E05": [
+          1271
+        ]
+      }
+    },
+    {
+      "japanese": "呪印",
+      "english": "Curse Mark",
+      "spanish_es": "Sello Maldito",
+      "source": "Decisión de Christian 2026-09-21: se mantiene «Sello Maldito» (Planeta usa «sello maligno»). Resuelto en S01E07 (antes {SELLO})",
+      "verified": true,
+      "episodes": [
+        "S01E07",
+        "S01E08",
+        "S01E09"
+      ],
+      "cues": {
+        "S01E07": [
+          547
+        ],
+        "S01E08": [
+          92,
+          260,
+          291,
+          298,
+          304,
+          321,
+          374,
+          403,
+          408,
+          1738
+        ],
+        "S01E09": [
+          37
+        ]
+      }
+    },
+    {
+      "japanese": "五象封印",
+      "english": "Five-Pronged Seal",
+      "spanish_es": "Sello de Cinco Puntas",
+      "source": "Sin fuente en Planeta; se mantiene la traducción literal por decisión de Christian 2026-09-21. Resuelto en S01E07 (antes {SELLO})",
+      "verified": false,
+      "episodes": [
+        "S01E07",
+        "S01E09"
+      ],
+      "cues": {
+        "S01E07": [
+          458
+        ],
+        "S01E09": [
+          606,
+          619
+        ]
+      }
+    },
+    {
+      "japanese": "斬空波",
+      "english": "Slicing Sound Wave",
+      "spanish_es": "Onda Cortante",
+      "source": "Guía oficial Planeta 1 p188-189 e índice (tomo 3 p337: «onda cortante»; la técnica definitiva de Zaku «consume más que la onda cortante»). Resuelto 2026-09-21, S01E07 (antes {SONIDO}); «Super Sonic Slicing Wave» queda como «Onda Cortante Supersónica» (la guía llama a la definitiva «onda de vacío cortante», pendiente de confirmar con Christian)",
+      "verified": true,
+      "episodes": [
+        "S01E07",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E07": [
+          787,
+          834,
+          836,
+          917
+        ],
+        "S01E08": [
+          399
+        ]
+      }
+    },
+    {
+      "japanese": "(no confirmado)",
+      "english": "Rookie Nine",
+      "spanish_es": "los Novatos",
+      "source": "Manga Planeta tomo 8 p34 («todos los novatos de la Villa de la Hoja»); Planeta no dice «nueve». Resuelto 2026-09-21, S01E06 (antes {NOVATOS})",
+      "verified": true,
+      "episodes": [
+        "S01E06",
+        "S01E07",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E06": [
+          216,
+          666
+        ],
+        "S01E07": [
+          87
+        ],
+        "S01E08": [
+          813
+        ]
+      }
+    },
+    {
+      "japanese": "火遁 (prefijo)",
+      "english": "Fire Release / Fire Style (prefix)",
+      "spanish_es": "Técnica ígnea",
+      "source": "Guía oficial Planeta 1 p175-176 («Técnica ígnea: gran bola de fuego», «fuego del dragón»). Sustituye «Elemento Fuego» en S01E02. Resuelto 2026-09-21 (antes {FIRE})",
+      "verified": true,
+      "episodes": [
+        "S01E02",
+        "S01E04",
+        "S01E05",
+        "S01E07"
+      ],
+      "cues": {
+        "S01E02": [
+          620,
+          743
+        ],
+        "S01E04": [
+          260,
+          364
+        ],
+        "S01E05": [
+          1075
+        ],
+        "S01E07": [
+          135,
+          491,
+          920
+        ]
+      }
+    },
+    {
+      "japanese": "火遁・鳳仙火の術",
+      "english": "Fire Release: Phoenix Flower Jutsu",
+      "spanish_es": "Técnica ígnea: Flor de Fénix",
+      "source": "Mismo jutsu (鳳仙火) que la entrada «Llamas del Fénix» de arriba, que viene de Wikipedia ES; el inglés del anime dice «Phoenix Flower». Solo el prefijo está confirmado por Planeta. Resuelto 2026-09-21, S01E07 (antes {FENIX})",
+      "verified": false,
+      "episodes": [
+        "S01E07"
+      ],
+      "cues": {
+        "S01E07": [
+          135
+        ]
+      }
+    },
+    {
+      "japanese": "倍化の術",
+      "english": "Expansion Jutsu",
+      "spanish_es": "Multitamaño",
+      "source": "Es el Multi-Size de los Akimichi: se alinea con la entrada verificada «Multitamaño». Resuelto 2026-09-21, S01E05 y S01E07 (antes {EXPANSION})",
+      "verified": true,
+      "episodes": [
+        "S01E05",
+        "S01E07",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E05": [
+          1267
+        ],
+        "S01E07": [
+          829
+        ],
+        "S01E08": [
+          1753
+        ]
+      }
+    },
+    {
+      "japanese": "ゲジマユ",
+      "english": "Bushy Brow (apodo de Rock Lee)",
+      "spanish_es": "Cejudo",
+      "source": "Manga Planeta tomo 10 p104 y Guía oficial Planeta 1 p230 («el cejudo»). Sustituye «Cejotas». Resuelto 2026-09-22, S01E06-S01E09 (antes {CEJAS})",
+      "verified": true,
+      "episodes": [
+        "S01E06",
+        "S01E07",
+        "S01E08",
+        "S01E09"
+      ],
+      "cues": {
+        "S01E06": [
+          381,
+          384,
+          419,
+          448,
+          538
+        ],
+        "S01E07": [
+          995
+        ],
+        "S01E08": [
+          821,
+          1428,
+          1683,
+          1704
+        ],
+        "S01E09": [
+          188,
+          1409
+        ]
+      }
+    },
+    {
+      "japanese": "デコリン",
+      "english": "Billboard Brow / Forehead (apodo de Sakura)",
+      "spanish_es": "Frentuda",
+      "source": "Manga Planeta tomo 6 p173 y tomo 7 p58. Resuelto 2026-09-22, S01E08 (antes {FRENTONA})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          596
+        ]
+      }
+    },
+    {
+      "japanese": "(no confirmado)",
+      "english": "bowl-cut guy (apodo de Rock Lee)",
+      "spanish_es": "cabeza de tazón",
+      "source": "Manga Planeta tomo 10 p10 («ese cabeza de tazón», misma escena de las preliminares). Resuelto 2026-09-22, S01E08 (antes {TAZON})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          1474
+        ]
+      }
+    },
+    {
+      "japanese": "潜影蛇手",
+      "english": "Striking Shadow Snakes",
+      "spanish_es": "Serpientes de las Sombras",
+      "source": "Guía oficial Planeta 1 p205 (ficha de técnica de Anko) e índices de técnicas de las guías 2-4. Resuelto 2026-09-22, S01E07 (antes {SERP})",
+      "verified": true,
+      "episodes": [
+        "S01E07"
+      ],
+      "cues": {
+        "S01E07": [
+          536
+        ]
+      }
+    },
+    {
+      "japanese": "獅子連弾",
+      "english": "Lions Barrage",
+      "spanish_es": "Golpe del León",
+      "source": "Índices de técnicas de las guías oficiales Planeta 2-4 («Golpe del león»); la guía 1 p164 lo menciona como base del golpe de Naruto. Sustituye «Ráfaga de Leones». Resuelto 2026-09-22, S01E07-S01E08 (antes {LEONES})",
+      "verified": true,
+      "episodes": [
+        "S01E07",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E07": [
+          1069
+        ],
+        "S01E08": [
+          339,
+          346
+        ]
+      }
+    },
+    {
+      "japanese": "うずまきナルト連弾",
+      "english": "Naruto Barrage (Uzumaki Naruto Barrage)",
+      "spanish_es": "Gran Golpe Cuádruple de Naruto Uzumaki",
+      "source": "Guía oficial Planeta 1 p164. Planeta adapta el grito por sílabas; aquí se mantiene el «¡U! ¡Zu! ¡Ma! ¡Ki!» del audio y se usa el nombre de Planeta al final. Resuelto 2026-09-22, S01E08 (antes {RAFAGA})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          1006
+        ]
+      }
+    },
+    {
+      "japanese": "起爆札",
+      "english": "Paper Bomb / Explosive Tag",
+      "spanish_es": "sello explosivo",
+      "source": "Guías oficiales Planeta 2 y 3 («sellos explosivos», también dentro de nombres de técnica). La guía 4 usa una vez «papel explosivo». Resuelto 2026-09-22, S01E07 (antes {BOMBA})",
+      "verified": true,
+      "episodes": [
+        "S01E07"
+      ],
+      "cues": {
+        "S01E07": [
+          140,
+          586,
+          602
+        ]
+      }
+    },
+    {
+      "japanese": "寄壊蟲",
+      "english": "Parasitic Insects",
+      "spanish_es": "insectos parásito (Técnica de los Insectos Parásito)",
+      "source": "Guía oficial Planeta 1 p160 y p179, guía 2 p22. Planeta deja «parásito» en singular. Resuelto 2026-09-22, S01E08 (antes {INSECTOS})",
+      "verified": true,
+      "episodes": [
+        "S01E01",
+        "S01E08"
+      ],
+      "cues": {
+        "S01E01": [
+          697
+        ],
+        "S01E08": [
+          427
+        ]
+      }
+    },
+    {
+      "japanese": "傀儡の術",
+      "english": "Puppet Master Jutsu / Puppet Master",
+      "spanish_es": "Técnica del Marionetista / marionetista",
+      "source": "Guía oficial Planeta 1 p64 y p181. Resuelto 2026-09-22, S01E08 (antes {MARIONETA})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          543,
+          553
+        ]
+      }
+    },
+    {
+      "japanese": "砂の盾 / 砂の鎧",
+      "english": "Sand Shield / Sand Armor",
+      "spanish_es": "Escudo de Arena / Armadura de Arena",
+      "source": "Manga Planeta tomo 10 p37 y Guía oficial Planeta 1 p204. Resuelto 2026-09-22, S01E08 (antes {ARMADURA})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          1384,
+          1447,
+          1626,
+          1640
+        ]
+      }
+    },
+    {
+      "japanese": "八門遁甲",
+      "english": "Eight (Inner) Gates",
+      "spanish_es": "las Ocho Puertas: Puerta de la Apertura, del Descanso, de la Vida, de la Herida, de la Espiritualidad, de la Sombra, de la Sorpresa y de la Muerte",
+      "source": "Manga Planeta tomo 10 p73 (nombres de cada puerta) y guías 1 y 3. Se siguen los nombres de Planeta aunque no coincidan literalmente con el inglés (Healing, Limit, View, Wonder). Resuelto 2026-09-22, S01E08 (antes {PUERTAS})",
+      "verified": true,
+      "episodes": [],
+      "cues": {}
+    },
+    {
+      "japanese": "剛拳 / 柔拳",
+      "english": "Strong Fist / Gentle Fist",
+      "spanish_es": "la técnica dura / la técnica blanda",
+      "source": "Guía oficial Planeta 1 p158 y guía 3 («Técnica blanda: ...»). Resuelto 2026-09-22, S01E08 (antes {PUERTAS})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          1150,
+          1156
+        ]
+      }
+    },
+    {
+      "japanese": "経絡系 / 点穴",
+      "english": "chakra network / chakra points (tenketsu)",
+      "spanish_es": "meridianos / puntos de chakra",
+      "source": "Manga Planeta tomo 9 p139 y tomo 10 p73, guía 1 p265. Resuelto 2026-09-22, S01E08 (antes {PUERTAS})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          1154,
+          1161,
+          1168,
+          1169,
+          1180,
+          1181,
+          1187,
+          1585
+        ]
+      }
+    },
+    {
+      "japanese": "ヒナタ様",
+      "english": "Lady Hinata (Hinata-sama)",
+      "spanish_es": "señorita Hinata",
+      "source": "Manga Planeta tomo 9 p109-115 (Neji). Resuelto 2026-09-22, S01E08 (antes {PUERTAS})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          1033,
+          1052,
+          1071,
+          1191
+        ]
+      }
+    },
+    {
+      "japanese": "エロ仙人",
+      "english": "Pervy Sage (apodo de Jiraiya)",
+      "spanish_es": "Senninfómano",
+      "source": "Guía oficial Planeta 1 p261 y manga Planeta tomo 11 p112. Resuelto 2026-09-22, S01E09 (antes {SENNIN})",
+      "verified": true,
+      "episodes": [
+        "S01E09"
+      ],
+      "cues": {
+        "S01E09": [
+          451,
+          475,
+          550,
+          551,
+          552,
+          582,
+          656,
+          778,
+          846,
+          1092,
+          1219,
+          1224
+        ]
+      }
+    },
+    {
+      "japanese": "狸寝入りの術",
+      "english": "Playing Possum Jutsu",
+      "spanish_es": "Técnica del Sueño Instantáneo",
+      "source": "Guía oficial Planeta 2 p92 y p244 (técnica de Gaara para liberar a Shukaku). Resuelto 2026-09-22, S01E09 (antes {SUENOINSTANTANEO})",
+      "verified": true,
+      "episodes": [
+        "S01E09"
+      ],
+      "cues": {
+        "S01E09": [
+          695
+        ]
+      }
+    },
+    {
+      "japanese": "一尾",
+      "english": "One-Tail / One-Tailed Beast",
+      "spanish_es": "el Ichibi",
+      "source": "Guías oficiales Planeta 3 y 4 («Ichibi (una cola)»). Unificado con «el Kyubi» (Nine-Tails) por decisión de Christian 2026-09-22; sin tilde, como «Hyuga». Resuelto 2026-09-22, S01E09 (antes {ICHIBI})",
+      "verified": true,
+      "episodes": [
+        "S01E09"
+      ],
+      "cues": {
+        "S01E09": [
+          688,
+          694
+        ]
+      }
+    },
+    {
+      "japanese": "擬獣忍法",
+      "english": "Ninja Art of Beast Mimicry (Beast Mimicry)",
+      "spanish_es": "Técnica animal",
+      "source": "Guía oficial Planeta 1 p195 (grito «¡Técnica animal!»). Resuelto 2026-09-22, S01E08 (antes {KIBA})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          862,
+          917
+        ]
+      }
+    },
+    {
+      "japanese": "四脚の術",
+      "english": "All Fours Jutsu / Four Legs Technique",
+      "spanish_es": "Técnica de las Cuatro Garras",
+      "source": "Guía oficial Planeta 1 p189. Sustituye «Técnica de las Cuatro Patas». Resuelto 2026-09-22, S01E08 (antes {KIBA})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          862,
+          985
+        ]
+      }
+    },
+    {
+      "japanese": "獣人分身",
+      "english": "Man Beast Clone",
+      "spanish_es": "Multiplicación Bestial",
+      "source": "Guía oficial Planeta 1 p195. Decisión de Christian 2026-09-22: se usa el nombre de Planeta aunque «Shadow Clone» siga siendo «Clones de Sombra». Resuelto 2026-09-22, S01E08 (antes {KIBA})",
+      "verified": true,
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          918
+        ]
+      }
+    },
+    {
+      "japanese": "忍法 (prefijo)",
+      "english": "Ninja Art: (prefijo de técnica)",
+      "spanish_es": "Arte ninja:",
+      "source": "Planeta no usa prefijo (traduce ninpō como «técnica»). Decisión de Christian 2026-09-22: se mantiene «Arte ninja:» porque se oye en el audio y ocupa lo mismo que el inglés; «ninja» en minúscula. Resuelto 2026-09-22, S01E01-S01E09 (antes {ARTE})",
+      "verified": true,
+      "episodes": [
+        "S01E01",
+        "S01E04",
+        "S01E07",
+        "S01E08",
+        "S01E09"
+      ],
+      "cues": {
+        "S01E01": [
+          100
+        ],
+        "S01E04": [
+          376
+        ],
+        "S01E07": [
+          226,
+          842,
+          853
+        ],
+        "S01E08": [
+          767,
+          1752,
+          1753
+        ],
+        "S01E09": [
+          841
         ]
       }
     }
@@ -12567,56 +13424,15 @@
       "cues": {}
     },
     {
-      "code": "CEJAS",
-      "title": "Bushy Brow (apodo de Rock Lee)",
-      "body": "Apodo que Sasuke y Naruto dan a Rock Lee (S01E06, cues 381, 384, 419, 448, 538). Se ha traducido como «Cejotas» (aumentativo sobre «cejas», registro coloquial de España). Alternativas: «Cejas Pobladas», «Cejudo». Pendiente de contrastar con el doblaje/manga de España.",
-      "cues": {
-        "S01E06": [
-          381,
-          384,
-          419,
-          448,
-          538
-        ]
-      }
-    },
-    {
       "code": "INOCERDA",
       "title": "Ino Pig (apodo que Sakura da a Ino)",
       "body": "Sakura llama a Ino «Ino Pig» (S01E06, cue 591). Se ha traducido como «Ino-cerda», con el mismo esquema que el apodo de Sakura («Pista de Aterrizaje»). Pendiente de contrastar con el doblaje de España.",
       "cues": {
         "S01E06": [
           591
-        ]
-      }
-    },
-    {
-      "code": "NOVATOS",
-      "title": "Rookie Nine (los nueve Genin novatos)",
-      "body": "Kabuto llama «Rookie Nine» a los nueve Genin recién salidos de la Academia (S01E06, cue 618). Se ha traducido como «Nueve Novatos». Pendiente de decidir si se fija como término recurrente (aparecerá en episodios posteriores).",
-      "cues": {
-        "S01E06": [
-          618
-        ]
-      }
-    },
-    {
-      "code": "TORBELLINO",
-      "title": "Leaf Whirlwind (técnica de Rock Lee)",
-      "body": "Técnica de taijutsu de Rock Lee (S01E06, cue 392), de la que el inglés solo da «Leaf Whirlwind». Se ha traducido literalmente como «Torbellino de la Hoja». Pendiente de contrastar con el nombre en el manga Planeta / doblaje de España (Konoha Senpū).",
-      "cues": {
-        "S01E06": [
-          392
-        ]
-      }
-    },
-    {
-      "code": "TERCEROJO",
-      "title": "Third Eye (técnica de Gaara)",
-      "body": "Técnica de Gaara con la que observa el examen usando un ojo de arena (S01E06, cue 916). Se ha traducido como «Tercer Ojo». El inglés lo dice en cursiva y como pensamiento; se atribuye a Gaara por contexto. Pendiente de contrastar con el manga Planeta.",
-      "cues": {
-        "S01E06": [
-          916
+        ],
+        "S01E09": [
+          911
         ]
       }
     },
@@ -12653,7 +13469,7 @@
     {
       "code": "LOCK",
       "title": "Lock Village and Land of Key (S01E05)",
-      "body": "English \"Hidden Lock Village\" in the \"Land of Key\", later shortened to \"Lock Village\" and \"ninja of the Lock\". Rendered \"Aldea Oculta del Cerrojo\", \"País de la Llave\", \"Aldea del Cerrojo\". The official village and country names are unverified (follows the \"Aldea Oculta de la Hoja\" pattern).",
+      "body": "English \"Hidden Lock Village\" in the \"Land of Key\", later shortened to \"Lock Village\" and \"ninja of the Lock\". Rendered \"Villa Oculta del Cerrojo\", \"País de la Llave\", \"Villa del Cerrojo\". The official village and country names are unverified (follows the \"Villa Oculta de la Hoja\" convention).",
       "cues": {
         "S01E05": [
           549
@@ -12661,174 +13477,12 @@
       }
     },
     {
-      "code": "FIRE",
-      "title": "\"Fire Style!\" (S01E05)",
-      "body": "Bare shout \"Fire Style!\" (no technique name). Rendered \"¡Técnica ígnea!\" to match the glossary entry \"Técnica ígnea: Gran bola de fuego\". Earlier episodes (S01E01-S01E04) render the same prefix as \"Elemento Fuego\", which conflicts with the glossary; both need reconciling.",
-      "cues": {
-        "S01E05": [
-          1075
-        ]
-      }
-    },
-    {
       "code": "PACHINKO",
       "title": "Pachinko Jutsu (S01E05)",
-      "body": "Combination attack named \"Pachinko Jutsu\" in the English. Rendered \"Jutsu Pachinko\". Unknown whether the Spanish edition transliterates or adapts it.",
+      "body": "Combination attack named \"Pachinko Jutsu\" in the English. Rendered \"Técnica Pachinko\". Unknown whether the Spanish edition transliterates or adapts it.",
       "cues": {
         "S01E05": [
           1082
-        ]
-      }
-    },
-    {
-      "code": "EXPANSION",
-      "title": "Expansion Jutsu (S01E05)",
-      "body": "English \"Expansion Jutsu\" (Akimichi Multi-Size family). Rendered \"Jutsu de Expansión\". The glossary has \"Multitamaño Parcial\" and \"Jutsu Super Multi Tamaño\" for related techniques, so this may need to align with the \"Multi Tamaño\" family.",
-      "cues": {
-        "S01E05": [
-          1267
-        ]
-      }
-    },
-    {
-      "code": "BEETLE",
-      "title": "Hidden Jutsu: Beetle Sphere (S01E05)",
-      "body": "English \"Hidden Jutsu: Beetle Sphere\" (Aburame technique). Rendered \"Jutsu Secreto: Esfera de Escarabajos\". Both the \"Hidden Jutsu\" prefix (secreto vs oculto) and the technique name are unverified.",
-      "cues": {
-        "S01E05": [
-          1271
-        ]
-      }
-    },
-    {
-      "code": "MIND",
-      "title": "Mind Transfer Jutsu (S01E05)",
-      "body": "English \"Mind Transfer Jutsu\" (Yamanaka technique). Rendered \"Jutsu de Transferencia de Mente\". Unverified.",
-      "cues": {
-        "S01E05": [
-          1276
-        ]
-      }
-    },
-    {
-      "code": "PERG",
-      "title": "Heaven Scroll / Earth Scroll",
-      "body": "\"Heaven Scroll\" and \"Earth Scroll\" rendered as \"Pergamino del Cielo\" and \"Pergamino de la Tierra\" (S01E07). Only the first occurrence is tagged; all later uses in the episode follow the same wording.",
-      "cues": {
-        "S01E07": [
-          29
-        ]
-      }
-    },
-    {
-      "code": "FENIX",
-      "title": "Fire Style: Phoenix Flower Jutsu",
-      "body": "Rendered \"Técnica ígnea: Flor de Fénix\", following the glossary's \"Técnica ígnea:\" pattern. The glossary only has \"Llamas del Fénix\" for the Phoenix Sage Fire Jutsu, which is a different technique. Later uses in S01E07 use the same wording untagged.",
-      "cues": {
-        "S01E07": [
-          135
-        ]
-      }
-    },
-    {
-      "code": "BOMBA",
-      "title": "Paper Bomb",
-      "body": "\"Paper Bomb\" rendered \"sello explosivo\" (S01E07). Alternative: \"papel bomba\". Later uses in the episode use \"sello explosivo\" untagged.",
-      "cues": {
-        "S01E07": [
-          140
-        ]
-      }
-    },
-    {
-      "code": "ARTE",
-      "title": "\"Ninja Art:\" technique prefix",
-      "body": "\"Ninja Art:\" rendered \"Arte ninja:\" before technique names (S01E07, Senbon Rainstorm rendered \"Lluvia de Agujas\", Shadow Possession and Mind Transfer also use the prefix). Only the first occurrence is tagged.",
-      "cues": {
-        "S01E07": [
-          226
-        ]
-      }
-    },
-    {
-      "code": "ATAUD",
-      "title": "Sand Coffin / Sand Burial",
-      "body": "\"Sand Coffin\" rendered \"Ataúd de Arena\" (tagged) and \"Sand Burial\" rendered \"Funeral de Arena\" (untagged, next cues).",
-      "cues": {
-        "S01E07": [
-          241
-        ]
-      }
-    },
-    {
-      "code": "SELLO",
-      "title": "Curse Mark / Five-Pronged Seal",
-      "body": "\"Five-Pronged Seal\" rendered \"Sello de Cinco Puntas\" and \"Curse Mark\" rendered \"Sello Maldito\" (S01E07). The glossary has \"Sello\" conventions for other seals but not these.",
-      "cues": {
-        "S01E07": [
-          458,
-          547
-        ]
-      }
-    },
-    {
-      "code": "SONIDO",
-      "title": "Sound Village techniques and ninja",
-      "body": "\"Sound ninja\" rendered \"ninjas del Sonido\" and \"Sound Village\" rendered \"Aldea del Sonido\" (tagged at the first use, cue 506). \"Slicing Sound Wave\" rendered \"Onda Sonora Cortante\" (tagged at first use, cue 787); \"Super Sound Wave\" as \"Súper Onda Sonora\" and \"Super Sonic Slicing Wave\" as \"Onda Sonora Cortante Supersónica\".",
-      "cues": {
-        "S01E07": [
-          506,
-          787
-        ]
-      }
-    },
-    {
-      "code": "SERP",
-      "title": "Striking Shadow Snakes",
-      "body": "Rendered \"Serpientes Sombra Golpeadoras\" (S01E07, Anko's technique).",
-      "cues": {
-        "S01E07": [
-          536
-        ]
-      }
-    },
-    {
-      "code": "HOJA",
-      "title": "Leaf Hurricane",
-      "body": "Rendered \"Huracán de la Hoja\" (S01E07, Lee). \"Leaf Style Taijutsu\" (Choji) rendered \"Taijutsu Estilo Hoja\", untagged.",
-      "cues": {
-        "S01E07": [
-          655
-        ]
-      }
-    },
-    {
-      "code": "BESTIA",
-      "title": "Beautiful Green Beast of the Leaf",
-      "body": "Lee's epithet rendered \"la Bestia Verde de la Hoja\", dropping \"Beautiful\" (S01E07). Also \"Bushy Brow\" rendered \"Cejotas\" (cue 995), untagged.",
-      "cues": {
-        "S01E07": [
-          659
-        ]
-      }
-    },
-    {
-      "code": "LOTO",
-      "title": "Primary Lotus",
-      "body": "Rendered \"Loto Primario\" (S01E07, Lee).",
-      "cues": {
-        "S01E07": [
-          702
-        ]
-      }
-    },
-    {
-      "code": "MENTE",
-      "title": "Ino-Shika-Cho formation and Mind Transfer",
-      "body": "\"Formation Ino\" rendered \"Formación Ino\" (tagged); \"Expansion Jutsu\" rendered \"Jutsu de Expansión\" and \"Mind Transfer Jutsu\" rendered \"Jutsu de Transferencia de Mente\" (untagged, S01E07). \"Human Boulder\" uses the verified glossary entry \"Bola de Tanque Humano\".",
-      "cues": {
-        "S01E07": [
-          827
         ]
       }
     },
@@ -12843,12 +13497,63 @@
       }
     },
     {
-      "code": "LEONES",
-      "title": "Lions Barrage",
-      "body": "Lee's/Sasuke's \"Lions Barrage\" rendered \"Ráfaga de Leones\" (S01E07, cue 1069).",
+      "code": "KIBA",
+      "title": "Kiba's beast-mimicry techniques (remaining)",
+      "body": "S01E08: \"Man Beast Taijutsu Technique\" rendered \"Técnica de Taijutsu Hombre-Bestia\" (cue 932) and \"Fang Over Fang\" rendered \"Colmillo sobre Colmillo\" (cue 933). The guide's \"Colmillo perforador\" is the single-user version, not Fang Over Fang. \"Técnica animal\", \"Técnica de las Cuatro Garras\" and \"Multiplicación Bestial\" are already resolved in the glossary.",
       "cues": {
-        "S01E07": [
-          1069
+        "S01E08": [
+          932,
+          933
+        ]
+      }
+    },
+    {
+      "code": "SANGRE",
+      "title": "Hot-Blooded (young Lee's Academy nickname)",
+      "body": "In the Academy-days flashback, Lee is mocked as \"Hot-Blooded\" / \"Hot-Blooded loser\" (S01E08, cues 1485-1490). Rendered \"Sangre Caliente\" / \"Perdedor de Sangre Caliente\". No source found for an official rendering; pending confirmation.",
+      "cues": {
+        "S01E08": [
+          1485
+        ]
+      }
+    },
+    {
+      "code": "CLOSET",
+      "title": "Closet Perv (Naruto's nickname for Ebisu)",
+      "body": "Naruto calls Ebisu \"The Closet Perv\" / \"Closet pervert\" on first meeting him (S01E09, first use cue 233). Rendered \"el Pervertido de Armario\", a literal calque of the English \"closet\" (hidden/secret) metaphor. No official Spanish-dub or manga source found; the character guide only confirms \"pervertido\" as a listed personality trait for Ebisu, not this specific nickname. Only the first occurrence is tagged.",
+      "cues": {
+        "S01E09": [
+          233
+        ]
+      }
+    },
+    {
+      "code": "MYOBOKU",
+      "title": "Great Toad Sage of Mount Myoboku",
+      "body": "Jiraiya's mock self-introduction the first time Naruto meets him, \"I am the Great Toad Sage of Mount Myoboku, the immortal... also known as the Toad Mountain Sage\" (S01E09, cue 447-448). Rendered \"el Sabio Sapo del Monte Myoboku\" / \"el Sabio Montaña Sapo\". \"Monte Myoboku\" itself is confirmed by the Planeta character guide (recurring as \"monte Myóboku\"); the \"Great Toad Sage\" title is Jiraiya's own comedic exaggeration in-universe (not the same as \"Ogama Sennin\", the actual toad elder character named later in the guide) and has no direct official rendering. The place name is confirmed; only the title \"Sabio Sapo\" is pending.",
+      "cues": {
+        "S01E09": [
+          447
+        ]
+      }
+    },
+    {
+      "code": "TRIGRAMAS",
+      "title": "Eight Trigrams Sealing Style / Four-Symbols Seal",
+      "body": "Jiraiya's internal analysis of Naruto's seal: \"Two Four-Symbols Seals making up an Eight Trigrams Seal... So it's an Eight Trigrams Sealing Style\" (S01E09, cue 602-603). Rendered \"Sello de los Cuatro Símbolos\" and \"Sello/Estilo de Sellado de los Ocho Trigramas\". No source found in the manga/guide database; literal translation of the English fansub terms (the seal's canonical Japanese name is Hakke no Fūin Shiki).",
+      "cues": {
+        "S01E09": [
+          602
+        ]
+      }
+    },
+    {
+      "code": "DANZALUNA",
+      "title": "Leaf Style: Crescent Moon Dance",
+      "body": "A sword technique used against Zaku during the forest sequence, \"Leaf Style: Crescent Moon Dance\" (S01E09, cue 742-743). Rendered \"Estilo Hoja: Danza de la Luna Creciente\". No source found; literal translation, unverified against manga/guide.",
+      "cues": {
+        "S01E09": [
+          743
         ]
       }
     }

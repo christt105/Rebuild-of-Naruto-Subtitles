@@ -3,7 +3,7 @@
   "title_en": "Squad Missions",
   "title_es": "Misiones de Equipo",
   "season": "Naruto",
-  "status": "PR abierta",
+  "status": "Fusionado",
   "notes": "PR #13",
   "en_path": "Rebuild of Naruto - Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E05 - Squad Missions [1080p][4x3][AV1].en.srt",
   "es_path": "Spanish Translation/Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E05 - Misiones de Equipo [1080p][4x3][AV1].es.srt",
@@ -1055,7 +1055,7 @@
       "start": "00:08:02,998",
       "end": "00:08:07,753",
       "en": "I asked Yugito Nii of the Hidden Cloud,\nand she was kind enough to agree.",
-      "es": "se lo pedí a Yugito Nii de la Aldea Oculta de la Nube,\ny tuvo la amabilidad de aceptar.",
+      "es": "se lo pedí a Yugito Nii de la Villa Oculta de la Nube,\ny tuvo la amabilidad de aceptar.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1065,7 +1065,7 @@
       "start": "00:08:07,963",
       "end": "00:08:10,674",
       "en": "<i>Nii of the Hidden Cloud?\nWho's that?</i>",
-      "es": "<i>¿Nii de la Aldea Oculta de la Nube?\n¿Quién es esa?</i>",
+      "es": "<i>¿Nii de la Villa Oculta de la Nube?\n¿Quién es esa?</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2927,7 +2927,7 @@
       "start": "00:22:48,327",
       "end": "00:22:50,871",
       "en": "we could've made it back\nto the village tonight.",
-      "es": "habríamos podido volver\na la aldea esta noche.",
+      "es": "habríamos podido volver\na la Villa esta noche.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5069,7 +5069,7 @@
       "start": "00:37:00,485",
       "end": "00:37:03,113",
       "en": "People of the Leaf Village.",
-      "es": "Gente de la Aldea de la Hoja.",
+      "es": "Gente de la Villa de la Hoja.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5409,7 +5409,7 @@
       "start": "00:40:36,083",
       "end": "00:40:41,297",
       "en": "<i>Infiltrate the Land of Fire and\ninvestigate the Hidden Leaf.</i>",
-      "es": "<i>Infíltrate en el País del Fuego e\ninvestiga la Aldea Oculta de la Hoja.</i>",
+      "es": "<i>Infíltrate en el País del Fuego e\ninvestiga la Villa Oculta de la Hoja.</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5419,7 +5419,7 @@
       "start": "00:40:42,061",
       "end": "00:40:44,396",
       "en": "<i>The Hidden Leaf Village.</i>",
-      "es": "<i>La Aldea Oculta de la Hoja.</i>",
+      "es": "<i>La Villa Oculta de la Hoja.</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5499,7 +5499,7 @@
       "start": "00:41:24,207",
       "end": "00:41:27,460",
       "en": "It belongs to the Hidden Lock Village\nin the Land of Key.",
-      "es": "Pertenece a la Aldea Oculta del Cerrojo\ndel País de la Llave. {LOCK}",
+      "es": "Pertenece a la Villa Oculta del Cerrojo\ndel País de la Llave. {LOCK}",
       "translated": true,
       "tags": [
         "LOCK"
@@ -5511,7 +5511,7 @@
       "start": "00:41:56,504",
       "end": "00:41:59,424",
       "en": "She was captured before\nshe had infiltrated the Hidden Leaf.",
-      "es": "La capturaron antes de que\nse hubiera infiltrado en la Aldea Oculta de la Hoja.",
+      "es": "La capturaron antes de que\nse hubiera infiltrado en la Villa Oculta de la Hoja.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5531,7 +5531,7 @@
       "start": "00:42:04,762",
       "end": "00:42:09,726",
       "en": "Sorry, but now it's my turn to get\nsome information about your village.",
-      "es": "Lo siento, pero ahora me toca a mí obtener\nalgo de información sobre tu aldea.",
+      "es": "Lo siento, pero ahora me toca a mí obtener\nalgo de información sobre tu villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5551,7 +5551,7 @@
       "start": "00:42:26,692",
       "end": "00:42:29,195",
       "en": "She has no memories\nabout her village at all.",
-      "es": "No tiene ningún recuerdo\nde su aldea.",
+      "es": "No tiene ningún recuerdo\nde su villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5641,7 +5641,7 @@
       "start": "00:43:19,781",
       "end": "00:43:23,034",
       "en": "And she had no memories\nof the Lock Village.",
-      "es": "Y no tenía recuerdos\nde la Aldea del Cerrojo.",
+      "es": "Y no tenía recuerdos\nde la Villa del Cerrojo.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5761,7 +5761,7 @@
       "start": "00:44:20,717",
       "end": "00:44:23,720",
       "en": "You're showing me around the very\nvillage I came to spy on.",
-      "es": "Me estás enseñando la misma aldea\na la que vine a espiar.",
+      "es": "Me estás enseñando la misma villa\na la que vine a espiar.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5771,7 +5771,7 @@
       "start": "00:44:24,304",
       "end": "00:44:27,474",
       "en": "You won't find anything different\nhere than in any other village.",
-      "es": "Aquí no encontrarás nada distinto\nde lo que hay en cualquier otra aldea.",
+      "es": "Aquí no encontrarás nada distinto\nde lo que hay en cualquier otra villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6041,7 +6041,7 @@
       "start": "00:46:36,449",
       "end": "00:46:37,658",
       "en": "Life in the village...",
-      "es": "La vida en la aldea...",
+      "es": "La vida en la Villa...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6071,7 +6071,7 @@
       "start": "00:46:43,484",
       "end": "00:46:46,112",
       "en": "Not knowing who my parents were,\nand not knowing about my village.",
-      "es": "Sin saber quiénes eran mis padres,\nni nada sobre mi aldea.",
+      "es": "Sin saber quiénes eran mis padres,\nni nada sobre mi villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6131,7 +6131,7 @@
       "start": "00:47:03,173",
       "end": "00:47:04,883",
       "en": "I don't know my village.",
-      "es": "No conozco mi aldea.",
+      "es": "No conozco mi villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6141,7 +6141,7 @@
       "start": "00:47:05,367",
       "end": "00:47:06,910",
       "en": "I was raised outside the village,",
-      "es": "Me criaron fuera de la aldea,",
+      "es": "Me criaron fuera de la Villa,",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6261,7 +6261,7 @@
       "start": "00:47:53,012",
       "end": "00:47:56,224",
       "en": "I wanted to see my parents\nand I set out for the village.",
-      "es": "Quería ver a mis padres\ny me puse en camino hacia la aldea.",
+      "es": "Quería ver a mis padres\ny me puse en camino hacia la Villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6431,7 +6431,7 @@
       "start": "00:49:39,702",
       "end": "00:49:44,499",
       "en": "The Lock Village has captured \none of our Jonin, Riichi.",
-      "es": "La Aldea del Cerrojo ha capturado\na uno de nuestros jonin, Riichi.",
+      "es": "La Villa del Cerrojo ha capturado\na uno de nuestros jonin, Riichi.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6441,7 +6441,7 @@
       "start": "00:49:44,818",
       "end": "00:49:45,986",
       "en": "The Lock Village?",
-      "es": "¿La Aldea del Cerrojo?",
+      "es": "¿La Villa del Cerrojo?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6451,7 +6451,7 @@
       "start": "00:49:46,579",
       "end": "00:49:49,207",
       "en": "You mean the village where\nthat kunoichi is from?",
-      "es": "¿La aldea de donde\nes esa kunoichi?",
+      "es": "¿La villa de donde\nes esa kunoichi?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6491,7 +6491,7 @@
       "start": "00:49:59,389",
       "end": "00:50:02,266",
       "en": "about the Land of Fire and\nthe Leaf Village.",
-      "es": "sobre el País del Fuego y\nla Aldea de la Hoja.",
+      "es": "sobre el País del Fuego y\nla Villa de la Hoja.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6631,7 +6631,7 @@
       "start": "00:51:39,347",
       "end": "00:51:42,350",
       "en": "Bring back information on\nthe Hidden Leaf without fail!",
-      "es": "¡Trae información sobre\nla Aldea Oculta de la Hoja sin falta!",
+      "es": "¡Trae información sobre\nla Villa Oculta de la Hoja sin falta!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -7421,7 +7421,7 @@
       "start": "00:57:10,806",
       "end": "00:57:11,949",
       "en": "I'll take you back to the village.",
-      "es": "Os llevaré de vuelta a la aldea.",
+      "es": "Os llevaré de vuelta a la Villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -9521,7 +9521,7 @@
       "start": "01:10:58,850",
       "end": "01:11:00,560",
       "en": "Pursuers from\nthe Hidden Leaf, eh?",
-      "es": "Perseguidores de\nla Aldea de la Hoja, ¿eh?",
+      "es": "Perseguidores de\nla Villa de la Hoja, ¿eh?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10761,11 +10761,9 @@
       "start": "01:22:37,923",
       "end": "01:22:38,590",
       "en": "<i>Fire Style!</i>",
-      "es": "<i>¡Técnica ígnea!</i> {FIRE}",
+      "es": "<i>¡Técnica ígnea!</i>",
       "translated": true,
-      "tags": [
-        "FIRE"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -10833,7 +10831,7 @@
       "start": "01:22:55,654",
       "end": "01:22:57,990",
       "en": "Pachinko Jutsu!",
-      "es": "¡Jutsu Pachinko! {PACHINKO}",
+      "es": "¡Técnica Pachinko! {PACHINKO}",
       "translated": true,
       "tags": [
         "PACHINKO"
@@ -11625,7 +11623,7 @@
       "start": "01:27:16,786",
       "end": "01:27:19,956",
       "en": "I'll have the biggest scoop since\nthe founding of the Hidden Leaf.",
-      "es": "tendré la mayor exclusiva desde\nla fundación de la Aldea de la Hoja.",
+      "es": "tendré la mayor exclusiva desde\nla fundación de la Villa de la Hoja.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -12685,11 +12683,9 @@
       "start": "01:35:46,620",
       "end": "01:35:48,080",
       "en": "<i>Expansion Jutsu!</i>",
-      "es": "<i>¡Jutsu de Expansión!</i> {EXPANSION}",
+      "es": "<i>¡Multitamaño!</i>",
       "translated": true,
-      "tags": [
-        "EXPANSION"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -12727,11 +12723,9 @@
       "start": "01:36:14,169",
       "end": "01:36:15,754",
       "en": "<i>Hidden Jutsu: Beetle Sphere!</i>",
-      "es": "<i>¡Jutsu Secreto: Esfera de Escarabajos!</i> {BEETLE}",
+      "es": "<i>¡Técnica Secreta: Esfera de Insectos!</i>",
       "translated": true,
-      "tags": [
-        "BEETLE"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -12779,11 +12773,9 @@
       "start": "01:36:30,462",
       "end": "01:36:32,047",
       "en": "<i>Mind Transfer Jutsu!</i>",
-      "es": "<i>¡Jutsu de Transferencia de Mente!</i> {MIND}",
+      "es": "<i>¡Técnica del Traspaso Mental!</i>",
       "translated": true,
-      "tags": [
-        "MIND"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -12831,7 +12823,7 @@
       "start": "01:36:58,025",
       "end": "01:36:59,568",
       "en": "<i>Shadow Possession Jutsu!</i>",
-      "es": "<i>¡Jutsu Posesión de Sombras!</i>",
+      "es": "<i>¡Técnica de la Sombra Imitadora!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null

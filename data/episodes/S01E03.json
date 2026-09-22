@@ -4,7 +4,7 @@
   "title_es": "Comienza la Misión",
   "season": "Naruto",
   "status": "Fusionado",
-  "notes": "PR #8 — PR #8",
+  "notes": "PR #8",
   "en_path": "Rebuild of Naruto - Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E03 - Mission, Start [1080p][4x3][AV1].en.srt",
   "es_path": "Spanish Translation/Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E03 - Comienza la Misión [1080p][4x3][AV1].es.srt",
   "cues": [
@@ -463,7 +463,7 @@
       "start": "00:03:41,721",
       "end": "00:03:45,225",
       "en": "Requests pour into the village\nevery day.",
-      "es": "Cada día llegan peticiones\na la aldea.",
+      "es": "Cada día llegan peticiones\na la Villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -503,7 +503,7 @@
       "start": "00:04:01,142",
       "end": "00:04:03,732",
       "en": "All the ninja in our village...",
-      "es": "Todos los ninja de nuestra aldea...",
+      "es": "Todos los ninja de nuestra villa...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -933,7 +933,7 @@
       "start": "00:06:32,308",
       "end": "00:06:36,913",
       "en": "You see, I've never been outside\nthe village before!",
-      "es": "¡Es que nunca he salido\nde la aldea antes!",
+      "es": "¡Es que nunca he salido\nde la Villa antes!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1033,7 +1033,7 @@
       "start": "00:07:04,966",
       "end": "00:07:09,053",
       "en": "The Hokage's the top ninja\nin the village, right?",
-      "es": "El Hokage es el ninja más\nimportante de la aldea, ¿no?",
+      "es": "El Hokage es el ninja más\nimportante de la Villa, ¿no?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1213,7 +1213,7 @@
       "start": "00:08:07,950",
       "end": "00:08:10,536",
       "en": "Hidden Villages exist,\nand there are ninja there.",
-      "es": "existen Aldeas Ocultas,\ny allí sí hay ninja.",
+      "es": "existen Villas Ocultas,\ny allí sí hay ninja.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1233,7 +1233,7 @@
       "start": "00:08:17,538",
       "end": "00:08:21,292",
       "en": "Hidden Villages are a measure\nof their nation's military strength.",
-      "es": "las Aldeas Ocultas son una medida\nde la fuerza militar de su nación.",
+      "es": "las Villas Ocultas son una medida\nde la fuerza militar de su nación.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1263,7 +1263,7 @@
       "start": "00:08:28,674",
       "end": "00:08:32,720",
       "en": "However, a Hiden Village is not\nsubservient to its nation.",
-      "es": "Sin embargo, una Aldea Oculta\nno está subordinada a su nación.",
+      "es": "Sin embargo, una Villa Oculta\nno está subordinada a su nación.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1303,7 +1303,7 @@
       "start": "00:08:42,021",
       "end": "00:08:44,734",
       "en": "there is no need\nfor a Hidden Village.",
-      "es": "no hace falta\nuna Aldea Oculta.",
+      "es": "no hace falta\nuna Villa Oculta.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1313,7 +1313,7 @@
       "start": "00:08:47,777",
       "end": "00:08:50,838",
       "en": "Among the respective nations\nthat possess a Hidden Village,",
-      "es": "Entre las naciones que\ncuentan con una Aldea Oculta,",
+      "es": "Entre las naciones que\ncuentan con una Villa Oculta,",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1353,7 +1353,7 @@
       "start": "00:09:04,961",
       "end": "00:09:07,041",
       "en": "The Hidden Leaf Village\nof the Land of Fire.",
-      "es": "La Aldea Oculta de la Hoja\ndel País del Fuego.",
+      "es": "La Villa Oculta de la Hoja\ndel País del Fuego.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1363,7 +1363,7 @@
       "start": "00:09:07,964",
       "end": "00:09:10,049",
       "en": "The Village Hidden in the Mist\nof the Land of Water.",
-      "es": "La Aldea Oculta de la Niebla\ndel País del Agua.",
+      "es": "La Villa Oculta de la Niebla\ndel País del Agua.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1373,7 +1373,7 @@
       "start": "00:09:10,758",
       "end": "00:09:13,039",
       "en": "The Village Hidden in the Clouds\nof the Land of Lightning.",
-      "es": "La Aldea Oculta de la Nube\ndel País del Rayo.",
+      "es": "La Villa Oculta de la Nube\ndel País del Rayo.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1383,7 +1383,7 @@
       "start": "00:09:13,594",
       "end": "00:09:15,721",
       "en": "The Village Hidden in the Sand\nof the Land of Wind.",
-      "es": "La Aldea Oculta de la Arena\ndel País del Viento.",
+      "es": "La Villa Oculta de la Arena\ndel País del Viento.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1393,7 +1393,7 @@
       "start": "00:09:16,721",
       "end": "00:09:19,015",
       "en": "The Village Hidden in the Stone\nof the Land of Earth.",
-      "es": "La Aldea Oculta de la Roca\ndel País de la Tierra.",
+      "es": "La Villa Oculta de la Roca\ndel País de la Tierra.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1403,7 +1403,7 @@
       "start": "00:09:19,892",
       "end": "00:09:21,936",
       "en": "Only the leaders of\neach of these Hidden Villages",
-      "es": "Solo a los líderes de\ncada una de estas Aldeas Ocultas",
+      "es": "Solo a los líderes de\ncada una de estas Villas Ocultas",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1973,7 +1973,7 @@
       "start": "00:13:07,177",
       "end": "00:13:09,638",
       "en": "Chunin from the\nVillage Hidden in the Mist...",
-      "es": "Chūnin de la\nAldea Oculta de la Niebla...",
+      "es": "Chūnin de la\nVilla Oculta de la Niebla...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2253,7 +2253,7 @@
       "start": "00:14:55,538",
       "end": "00:14:58,833",
       "en": "Since we need to treat Naruto's wound,\nshall we go back to the village...?",
-      "es": "Como hay que tratar la herida de Naruto,\n¿deberíamos volver a la aldea...?",
+      "es": "Como hay que tratar la herida de Naruto,\n¿deberíamos volver a la Villa...?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -3593,7 +3593,7 @@
       "start": "00:25:13,724",
       "end": "00:25:15,977",
       "en": "<i>The Copy Ninja of the\nHidden Leaf Village...</i>",
-      "es": "<i>El Ninja Imitador\nde la Aldea Oculta de la Hoja...</i>",
+      "es": "<i>El Ninja Imitador\nde la Villa Oculta de la Hoja...</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5043,7 +5043,7 @@
       "start": "00:35:29,750",
       "end": "00:35:32,419",
       "en": "<i>And then the entire Village</i>",
-      "es": "<i>Y entonces toda la aldea</i>",
+      "es": "<i>Y entonces toda la Villa</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5183,7 +5183,7 @@
       "start": "00:36:53,923",
       "end": "00:36:57,510",
       "en": "a man who will one day be Hokage\nof the Hidden Leaf Village.",
-      "es": "un hombre que un día será Hokage\nde la Aldea Oculta de la Hoja.",
+      "es": "un hombre que un día será Hokage\nde la Villa Oculta de la Hoja.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5193,7 +5193,7 @@
       "start": "00:36:57,758",
       "end": "00:36:59,593",
       "en": "The Hidden Leaf Village's very own...",
-      "es": "El propio ninja de\nla Aldea Oculta de la Hoja...",
+      "es": "El propio ninja de\nla Villa Oculta de la Hoja...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5523,7 +5523,7 @@
       "start": "00:38:56,630",
       "end": "00:39:01,259",
       "en": "Long ago, the Hidden Mist Village was\nknown as the \"Village of the Bloody Mist.\"",
-      "es": "Hace mucho, la Aldea de la Niebla era\nconocida como la \"Aldea de la Niebla Sangrienta.\"",
+      "es": "Hace mucho, la Villa de la Niebla era\nconocida como la \"Villa de la Niebla Sangrienta.\"",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5663,7 +5663,7 @@
       "start": "00:39:56,368",
       "end": "00:40:00,956",
       "en": "the Mist Village's graduation exam\nwas forced to undergo drastic reform.",
-      "es": "el examen de graduación de la Aldea\nde la Niebla tuvo que someterse a una reforma drástica.",
+      "es": "el examen de graduación de la Villa\nde la Niebla tuvo que someterse a una reforma drástica.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6563,7 +6563,7 @@
       "start": "00:49:37,063",
       "end": "00:49:39,691",
       "en": "You're a Tracker Ninja from\nthe Village Hidden in the Mist.",
-      "es": "Eres un Ninja Cazador\nde la Aldea Oculta de la Niebla.",
+      "es": "Eres un Ninja Cazador\nde la Villa Oculta de la Niebla.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -7063,7 +7063,7 @@
       "start": "00:53:35,437",
       "end": "00:53:37,647",
       "en": "He was an ANBU Black Ops\nfrom the Hidden Mist Village.",
-      "es": "Era del ANBU\nde la Aldea Oculta de la Niebla.",
+      "es": "Era del ANBU\nde la Villa Oculta de la Niebla.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -7123,7 +7123,7 @@
       "start": "00:53:53,080",
       "end": "00:53:57,793",
       "en": "Ninjutsu secrets and chakra\ncharacteristics of their village...",
-      "es": "Secretos de ninjutsu y las\ncaracterísticas del chakra de su aldea...",
+      "es": "Secretos de ninjutsu y las\ncaracterísticas del chakra de su villa...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -7193,7 +7193,7 @@
       "start": "00:54:18,233",
       "end": "00:54:21,236",
       "en": "who prevent village secrets\nfrom leaking out",
-      "es": "que evitan que se filtren\nlos secretos de la aldea",
+      "es": "que evitan que se filtren\nlos secretos de la Villa",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -7203,7 +7203,7 @@
       "start": "00:54:21,608",
       "end": "00:54:24,444",
       "en": "by hunting down rogue ninja\nwho've fled their village,",
-      "es": "cazando a los ninja renegados\nque han huido de su aldea,",
+      "es": "cazando a los ninja renegados\nque han huido de su villa,",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11623,7 +11623,7 @@
       "start": "01:26:40,615",
       "end": "01:26:43,118",
       "en": "To become the greatest ninja\nin my village!",
-      "es": "¡Para convertirme en el\nmejor ninja de mi aldea!",
+      "es": "¡Para convertirme en el\nmejor ninja de mi villa!",
       "translated": true,
       "tags": [],
       "es_prev": null

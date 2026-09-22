@@ -3,7 +3,7 @@
   "title_en": "Forest of Death",
   "title_es": "El Bosque de la Muerte",
   "season": "Naruto",
-  "status": "PR abierta",
+  "status": "Fusionado",
   "notes": "PR #17",
   "en_path": "Rebuild of Naruto - Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E07 - Forest of Death [1080p][4x3][AV1].en.srt",
   "es_path": "Spanish Translation/Subtitles/Season 01 - Naruto/Rebuild of Naruto - S01E07 - El Bosque de la Muerte [1080p][4x3][AV1].es.srt",
@@ -283,7 +283,7 @@
       "start": "00:03:43,659",
       "end": "00:03:47,163",
       "en": "A no-holds-barred battle for scrolls!",
-      "es": "¡Una batalla sin reglas por los pergaminos!",
+      "es": "¡Una batalla sin reglas por los rollos!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -293,11 +293,9 @@
       "start": "00:03:47,644",
       "end": "00:03:49,312",
       "en": "The Heaven Scroll and the Earth Scroll.",
-      "es": "El Pergamino del Cielo y el Pergamino de la Tierra. {PERG}",
+      "es": "El Rollo del Cielo y el Rollo de la Tierra.",
       "translated": true,
-      "tags": [
-        "PERG"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -325,7 +323,7 @@
       "start": "00:03:56,569",
       "end": "00:03:59,322",
       "en": "Half the teams, or 13,\nwill be given Heaven Scrolls.",
-      "es": "La mitad de los equipos, es decir 13,\nrecibirá Pergaminos del Cielo.",
+      "es": "La mitad de los equipos, es decir 13,\nrecibirá Rollos del Cielo.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -335,7 +333,7 @@
       "start": "00:03:59,864",
       "end": "00:04:02,909",
       "en": "The other half will be\ngiven Earth Scrolls.",
-      "es": "La otra mitad\nrecibirá Pergaminos de la Tierra.",
+      "es": "La otra mitad\nrecibirá Rollos de la Tierra.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -345,7 +343,7 @@
       "start": "00:04:02,951",
       "end": "00:04:05,370",
       "en": "Each team will have\none of the scrolls.",
-      "es": "Cada equipo tendrá\nuno de los pergaminos.",
+      "es": "Cada equipo tendrá\nuno de los rollos.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -365,7 +363,7 @@
       "start": "00:04:10,136",
       "end": "00:04:12,518",
       "en": "to acquire both scrolls",
-      "es": "conseguir ambos pergaminos",
+      "es": "conseguir ambos rollos",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -495,7 +493,7 @@
       "start": "00:04:44,492",
       "end": "00:04:48,579",
       "en": "And aside from injuries sustained\nwhile fighting for the scrolls...",
-      "es": "Y aparte de las heridas sufridas\npeleando por los pergaminos...",
+      "es": "Y aparte de las heridas sufridas\npeleando por los rollos...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -545,7 +543,7 @@
       "start": "00:05:01,676",
       "end": "00:05:04,762",
       "en": "with the Heaven and Earth Scrolls\nwithin the time limit.",
-      "es": "con los pergaminos del Cielo y de la Tierra\ndentro del tiempo límite.",
+      "es": "con los rollos del Cielo y de la Tierra\ndentro del tiempo límite.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -575,7 +573,7 @@
       "start": "00:05:14,564",
       "end": "00:05:17,025",
       "en": "Absolutely do not look at\nthe contents of the scrolls",
-      "es": "Bajo ningún concepto miréis\nel contenido de los pergaminos",
+      "es": "Bajo ningún concepto miréis\nel contenido de los rollos",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -655,7 +653,7 @@
       "start": "00:05:39,464",
       "end": "00:05:42,675",
       "en": "Exchange your team's three consent forms\nfor one scroll at that hut over there.",
-      "es": "Cambiad los tres formularios de vuestro equipo\npor un pergamino en aquella cabaña.",
+      "es": "Cambiad los tres formularios de vuestro equipo\npor un rollo en aquella cabaña.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -675,7 +673,7 @@
       "start": "00:06:01,861",
       "end": "00:06:06,324",
       "en": "<i>I see, so you won't know which\nscroll was given to each team...</i>",
-      "es": "<i>Ya veo, así que no sabrás qué\npergamino le ha tocado a cada equipo...</i>",
+      "es": "<i>Ya veo, así que no sabrás qué\nrollo le ha tocado a cada equipo...</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -685,7 +683,7 @@
       "start": "00:06:06,574",
       "end": "00:06:11,329",
       "en": "<i>and you won't know which of the three\nmembers is carrying the scroll.</i>",
-      "es": "<i>y no sabrás cuál de los tres\nmiembros lleva el pergamino.</i>",
+      "es": "<i>y no sabrás cuál de los tres\nmiembros lleva el rollo.</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1335,7 +1333,7 @@
       "start": "00:10:42,975",
       "end": "00:10:44,935",
       "en": "Which one of you has the scroll?!",
-      "es": "¡¿Cuál de vosotros tiene el pergamino?!",
+      "es": "¡¿Cuál de vosotros tiene el rollo?!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1355,11 +1353,9 @@
       "start": "00:10:48,314",
       "end": "00:10:50,358",
       "en": "<i>Fire Style: Phoenix Flower Jutsu!</i>",
-      "es": "<i>¡Técnica ígnea: Flor de Fénix!</i> {FENIX}",
+      "es": "<i>¡Técnica ígnea: Flor de Fénix!</i>",
       "translated": true,
-      "tags": [
-        "FENIX"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -1407,11 +1403,9 @@
       "start": "00:11:05,581",
       "end": "00:11:06,415",
       "en": "Paper bomb!",
-      "es": "¡Sello explosivo! {BOMBA}",
+      "es": "¡Sello explosivo!",
       "translated": true,
-      "tags": [
-        "BOMBA"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -1429,7 +1423,7 @@
       "start": "00:11:11,837",
       "end": "00:11:15,299",
       "en": "Move and you're dead!\nNow hand over the scroll, nice and easy!",
-      "es": "¡Si te mueves, eres hombre muerto!\n¡Ahora entrega el pergamino, por las buenas!",
+      "es": "¡Si te mueves, eres hombre muerto!\n¡Ahora entrega el rollo, por las buenas!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1759,7 +1753,7 @@
       "start": "00:13:04,116",
       "end": "00:13:06,420",
       "en": "the guys who got caught in\nthe trap had an Earth scroll!",
-      "es": "los tipos que cayeron en\nla trampa tenían un pergamino de la Tierra!",
+      "es": "los tipos que cayeron en\nla trampa tenían un rollo de la Tierra!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -1979,7 +1973,7 @@
       "start": "00:14:11,963",
       "end": "00:14:16,489",
       "en": "The proctor said we need one \"Heaven\"\nand one \"Earth\" scroll to pass.",
-      "es": "La examinadora dijo que necesitamos un pergamino del \"Cielo\"\ny uno de la \"Tierra\" para pasar.",
+      "es": "La examinadora dijo que necesitamos un rollo del \"Cielo\"\ny uno de la \"Tierra\" para pasar.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2119,7 +2113,7 @@
       "start": "00:15:09,272",
       "end": "00:15:13,657",
       "en": "Some brats from the Sand village\nare challenging us.",
-      "es": "Unos críos de la aldea de la Arena\nnos están desafiando.",
+      "es": "Unos críos de la Villa de la Arena\nnos están desafiando.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2169,7 +2163,7 @@
       "start": "00:15:38,149",
       "end": "00:15:41,557",
       "en": "<i>Which scroll do those guys have...</i>",
-      "es": "<i>¿Qué pergamino tendrán esos...?</i>",
+      "es": "<i>¿Qué rollo tendrán esos...?</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2199,7 +2193,7 @@
       "start": "00:15:48,541",
       "end": "00:15:51,889",
       "en": "If they have the same scroll as us,\nthere's no point in fighting.",
-      "es": "Si tienen el mismo pergamino que nosotros,\nno tiene sentido pelear.",
+      "es": "Si tienen el mismo rollo que nosotros,\nno tiene sentido pelear.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2269,11 +2263,9 @@
       "start": "00:16:11,046",
       "end": "00:16:13,225",
       "en": "<i>Ninja Art: Senbon Rainstorm!</i>",
-      "es": "<i>¡Arte ninja: Lluvia de Agujas!</i> {ARTE}",
+      "es": "<i>¡Arte ninja: Lluvia de Agujas!</i>",
       "translated": true,
-      "tags": [
-        "ARTE"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -2421,11 +2413,9 @@
       "start": "00:17:18,048",
       "end": "00:17:19,463",
       "en": "<i>Sand Coffin!</i>",
-      "es": "<i>¡Ataúd de Arena!</i> {ATAUD}",
+      "es": "<i>¡Sarcófago de Arena!</i>",
       "translated": true,
-      "tags": [
-        "ATAUD"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -2473,7 +2463,7 @@
       "start": "00:18:14,166",
       "end": "00:18:15,825",
       "en": "<i>Sand Burial!</i>",
-      "es": "<i>¡Funeral de Arena!</i>",
+      "es": "<i>¡Funeral del Desierto!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2503,7 +2493,7 @@
       "start": "00:18:34,877",
       "end": "00:18:36,229",
       "en": "T-The scroll...",
-      "es": "E-El pergamino...",
+      "es": "E-El rollo...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2563,7 +2553,7 @@
       "start": "00:19:06,748",
       "end": "00:19:08,637",
       "en": "Lucky. It's a Heaven scroll.",
-      "es": "Qué suerte. Es un pergamino del Cielo.",
+      "es": "Qué suerte. Es un rollo del Cielo.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2653,7 +2643,7 @@
       "start": "00:19:38,115",
       "end": "00:19:39,885",
       "en": "One set of scrolls is enough!",
-      "es": "¡Un juego de pergaminos es suficiente!",
+      "es": "¡Un juego de rollos es suficiente!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -2793,7 +2783,7 @@
       "start": "00:20:53,180",
       "end": "00:20:55,015",
       "en": "I'll carry the scroll!",
-      "es": "¡Yo llevaré el pergamino!",
+      "es": "¡Yo llevaré el rollo!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -3273,7 +3263,7 @@
       "start": "00:24:00,326",
       "end": "00:24:03,370",
       "en": "You want our Earth Scroll,\ndon't you?",
-      "es": "Queréis nuestro pergamino de la Tierra,\n¿verdad?",
+      "es": "Queréis nuestro rollo de la Tierra,\n¿verdad?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -3303,7 +3293,7 @@
       "start": "00:24:18,451",
       "end": "00:24:20,870",
       "en": "the battle for the Scrolls.",
-      "es": "la batalla por los pergaminos.",
+      "es": "la batalla por los rollos.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -3793,7 +3783,7 @@
       "start": "00:28:55,162",
       "end": "00:28:56,914",
       "en": "I'll give you the scroll.",
-      "es": "Te daré el pergamino.",
+      "es": "Te daré el rollo.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -3833,7 +3823,7 @@
       "start": "00:29:05,130",
       "end": "00:29:07,591",
       "en": "What's the point of giving\nthe enemy the scroll?!",
-      "es": "¡¿De qué sirve darle\nel pergamino al enemigo?!",
+      "es": "¡¿De qué sirve darle\nel rollo al enemigo?!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4013,7 +4003,7 @@
       "start": "00:30:03,463",
       "end": "00:30:04,798",
       "en": "after we give her the scroll?!",
-      "es": "después de darle el pergamino!",
+      "es": "después de darle el rollo!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4063,7 +4053,7 @@
       "start": "00:30:18,166",
       "end": "00:30:19,584",
       "en": "A scroll can be easily...",
-      "es": "Un pergamino se puede...",
+      "es": "Un rollo se puede...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4283,7 +4273,7 @@
       "start": "00:32:11,358",
       "end": "00:32:13,193",
       "en": "The Leaf Village mark, perfect!",
-      "es": "¡La marca de la Aldea de la Hoja, perfecto!",
+      "es": "¡La marca de la Villa de la Hoja, perfecto!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4353,7 +4343,7 @@
       "start": "00:32:46,810",
       "end": "00:32:49,646",
       "en": "Show me the photos of these three\nfrom the Village Hidden in the Grass.",
-      "es": "Enséñame las fotos de estos tres\nde la Aldea Oculta de la Hierba.",
+      "es": "Enséñame las fotos de estos tres\nde la Villa Oculta de la Hierba.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4503,7 +4493,7 @@
       "start": "00:33:29,598",
       "end": "00:33:31,809",
       "en": "<i>That man...\nhe's in the Hidden Leaf Village!</i>",
-      "es": "<i>¡Ese hombre...\nestá en la Aldea Oculta de la Hoja!</i>",
+      "es": "<i>¡Ese hombre...\nestá en la Villa Oculta de la Hoja!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4543,7 +4533,7 @@
       "start": "00:33:52,375",
       "end": "00:33:56,630",
       "en": "<i>To think the Nine-Tails kid was\nalive all this time...</i>",
-      "es": "<i>Pensar que el chico del Nueve Colas\nestaba vivo todo este tiempo...</i>",
+      "es": "<i>Pensar que el chico del Kyubi\nestaba vivo todo este tiempo...</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4553,7 +4543,7 @@
       "start": "00:33:58,256",
       "end": "00:34:02,928",
       "en": "<i>When he gets excited, a little bit\nof the Nine-Tails' power leaks out...</i>",
-      "es": "<i>Cuando se altera, se le escapa\nun poco del poder del Nueve Colas...</i>",
+      "es": "<i>Cuando se altera, se le escapa\nun poco del poder del Kyubi...</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -4593,11 +4583,9 @@
       "start": "00:34:13,438",
       "end": "00:34:16,149",
       "en": "<i>Five-Pronged Seal!</i>",
-      "es": "<i>¡Sello de Cinco Puntas!</i> {SELLO}",
+      "es": "<i>¡Sello de Cinco Puntas!</i>",
       "translated": true,
-      "tags": [
-        "SELLO"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -4625,7 +4613,7 @@
       "start": "00:34:39,548",
       "end": "00:34:44,636",
       "en": "<i>Naruto's chakra and the Nine-Tails'\nchakra are beginning to synchronize...</i>",
-      "es": "<i>El chakra de Naruto y el del Nueve Colas\nestán empezando a sincronizarse...</i>",
+      "es": "<i>El chakra de Naruto y el del Kyubi\nestán empezando a sincronizarse...</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5065,7 +5053,7 @@
       "start": "00:40:01,611",
       "end": "00:40:03,488",
       "en": "- The Scroll!\n- Defeat the three...",
-      "es": "- ¡El pergamino!\n- Derrota a los tres...",
+      "es": "- ¡El rollo!\n- Derrota a los tres...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5075,11 +5063,9 @@
       "start": "00:40:03,571",
       "end": "00:40:06,074",
       "en": "Sound ninja under my command.",
-      "es": "ninjas del Sonido {SONIDO} a mis órdenes.",
+      "es": "ninjas del Sonido a mis órdenes.",
       "translated": true,
-      "tags": [
-        "SONIDO"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -5377,11 +5363,9 @@
       "start": "00:42:51,372",
       "end": "00:42:52,623",
       "en": "<i>Striking Shadow Snakes!</i>",
-      "es": "<i>¡Serpientes Sombra Golpeadoras!</i> {SERP}",
+      "es": "<i>¡Serpientes de las Sombras!</i>",
       "translated": true,
-      "tags": [
-        "SERP"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -5449,7 +5433,7 @@
       "start": "00:44:00,733",
       "end": "00:44:04,529",
       "en": "As you are a special Jonin\nof the village.",
-      "es": "Siendo como eres una jonin especial\nde la aldea.",
+      "es": "Siendo como eres una jonin especial\nde la Villa.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -5489,11 +5473,9 @@
       "start": "00:44:27,313",
       "end": "00:44:29,991",
       "en": "I gave that same Curse Mark\nas a gift.",
-      "es": "le di ese mismo Sello Maldito\ncomo regalo. {SELLO}",
+      "es": "le di ese mismo Sello Maldito\ncomo regalo.",
       "translated": true,
-      "tags": [
-        "SELLO"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -5611,7 +5593,7 @@
       "start": "00:45:15,433",
       "end": "00:45:18,436",
       "en": "Three people from my village\nare also under your care.",
-      "es": "Tres personas de mi aldea\ntambién están a tu cargo.",
+      "es": "Tres personas de mi villa\ntambién están a tu cargo.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6261,7 +6243,7 @@
       "start": "00:50:25,635",
       "end": "00:50:29,013",
       "en": "Taking a scroll from cowardly wimps\nlike you",
-      "es": "Quitarle un pergamino a unos cobardes\ncomo vosotros",
+      "es": "Quitarle un rollo a unos cobardes\ncomo vosotros",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -6571,11 +6553,9 @@
       "start": "00:52:14,643",
       "end": "00:52:15,769",
       "en": "<i>Leaf Hurricane!</i>",
-      "es": "<i>¡Huracán de la Hoja!</i> {HOJA}",
+      "es": "<i>¡Remolino de la Hoja!</i>",
       "translated": true,
-      "tags": [
-        "HOJA"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -6613,11 +6593,9 @@
       "start": "00:52:29,969",
       "end": "00:52:33,598",
       "en": "I am the Hidden Leaf's\nBeautiful Green Beast, Rock Lee!",
-      "es": "¡Soy la Bestia Verde de la Hoja, {BESTIA}\nRock Lee!",
+      "es": "¡Soy la Bella Bestia Verde de la Hoja,\nRock Lee!",
       "translated": true,
-      "tags": [
-        "BESTIA"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -7045,11 +7023,9 @@
       "start": "00:55:04,480",
       "end": "00:55:05,898",
       "en": "<i>Primary Lotus!</i>",
-      "es": "<i>¡Loto Primario!</i> {LOTO}",
+      "es": "<i>¡Flor de Loto Frontal!</i>",
       "translated": true,
-      "tags": [
-        "LOTO"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -7897,11 +7873,9 @@
       "start": "01:00:49,783",
       "end": "01:00:50,951",
       "en": "<i>Slicing Sound Wave!</i>",
-      "es": "<i>¡Onda Sonora Cortante!</i> {SONIDO}",
+      "es": "<i>¡Onda Cortante!</i>",
       "translated": true,
-      "tags": [
-        "SONIDO"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -8299,11 +8273,9 @@
       "start": "01:03:56,261",
       "end": "01:03:57,804",
       "en": "Formation Ino!",
-      "es": "¡Formación Ino! {MENTE}",
+      "es": "¡Formación Ino!",
       "translated": true,
-      "tags": [
-        "MENTE"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -8321,7 +8293,7 @@
       "start": "01:03:59,514",
       "end": "01:04:00,473",
       "en": "<i>Expansion Jutsu!</i>",
-      "es": "<i>¡Jutsu de Expansión!</i>",
+      "es": "<i>¡Multitamaño!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8371,7 +8343,7 @@
       "start": "01:04:19,159",
       "end": "01:04:20,785",
       "en": "<i>Slicing Sound Wave!</i>",
-      "es": "<i>¡Onda Sonora Cortante!</i>",
+      "es": "<i>¡Onda Cortante!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8391,7 +8363,7 @@
       "start": "01:04:32,464",
       "end": "01:04:33,965",
       "en": "<i>The wind pressure of my\nSlicing Sound Wave</i>",
-      "es": "<i>La presión del viento de mi\nOnda Sonora Cortante</i>",
+      "es": "<i>La presión del viento de mi\nOnda Cortante</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8461,7 +8433,7 @@
       "start": "01:04:49,456",
       "end": "01:04:50,791",
       "en": "<i>Shadow Possession Jutsu!</i>",
-      "es": "<i>¡Jutsu Posesión de Sombras!</i>",
+      "es": "<i>¡Técnica de la Sombra Imitadora!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8561,7 +8533,7 @@
       "start": "01:05:21,756",
       "end": "01:05:23,973",
       "en": "<i>Ninja Art: Mind Transfer Jutsu!</i>",
-      "es": "<i>¡Arte ninja: Jutsu de Transferencia de Mente!</i>",
+      "es": "<i>¡Arte ninja: Técnica del Traspaso Mental!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8621,7 +8593,7 @@
       "start": "01:05:45,120",
       "end": "01:05:47,455",
       "en": "leave your scroll and walk away!",
-      "es": "¡dejad vuestro pergamino y marchaos!",
+      "es": "¡dejad vuestro rollo y marchaos!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8691,7 +8663,7 @@
       "start": "01:06:13,773",
       "end": "01:06:20,822",
       "en": "Our goal isn't the scrolls or\neven passing this test.",
-      "es": "Nuestro objetivo no son los pergaminos ni\nsiquiera aprobar esta prueba.",
+      "es": "Nuestro objetivo no son los rollos ni\nsiquiera aprobar esta prueba.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -8761,7 +8733,7 @@
       "start": "01:06:34,832",
       "end": "01:06:38,002",
       "en": "It's not Shadow Paralysis Jutsu,\nit's Shadow Possession Jutsu!",
-      "es": "¡No es Parálisis de Sombras,\nes Posesión de Sombras!",
+      "es": "¡No es Parálisis de Sombras,\nes la Sombra Imitadora!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -9201,7 +9173,7 @@
       "start": "01:08:59,173",
       "end": "01:09:00,883",
       "en": "<i>Super Sonic Slicing Wave!</i>",
-      "es": "<i>¡Onda Sonora Cortante Supersónica!</i>",
+      "es": "<i>¡Onda Cortante Supersónica!</i>",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -9901,7 +9873,7 @@
       "start": "01:13:52,073",
       "end": "01:13:53,950",
       "en": "Where are those Sound Village ninja?",
-      "es": "¿Dónde están esos ninjas de la Aldea del Sonido?",
+      "es": "¿Dónde están esos ninjas de la Villa del Sonido?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -9981,7 +9953,7 @@
       "start": "01:14:14,238",
       "end": "01:14:17,199",
       "en": "You, Bushy Brow!",
-      "es": "¡Tú, Cejotas!",
+      "es": "¡Tú, Cejudo!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10263,7 +10235,7 @@
       "start": "01:15:59,885",
       "end": "01:16:02,387",
       "en": "there may not be any Heaven scrolls.",
-      "es": "puede que no queden pergaminos del Cielo.",
+      "es": "puede que no queden rollos del Cielo.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10323,7 +10295,7 @@
       "start": "01:16:20,478",
       "end": "01:16:23,106",
       "en": "There are only thirteen each\nof the Heaven and Earth scrolls.",
-      "es": "Solo hay trece pergaminos del Cielo\ny trece de la Tierra.",
+      "es": "Solo hay trece rollos del Cielo\ny trece de la Tierra.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10423,7 +10395,7 @@
       "start": "01:17:11,999",
       "end": "01:17:15,085",
       "en": "I have lots of blank scrolls stocked up.",
-      "es": "Tengo un montón de pergaminos en blanco guardados.",
+      "es": "Tengo un montón de rollos en blanco guardados.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10443,7 +10415,7 @@
       "start": "01:17:19,065",
       "end": "01:17:22,359",
       "en": "If we tweak this a little and make it\nlook exactly like a Heaven scroll...",
-      "es": "Si lo retocamos un poco y hacemos que\nse parezca exactamente a un pergamino del Cielo...",
+      "es": "Si lo retocamos un poco y hacemos que\nse parezca exactamente a un rollo del Cielo...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10523,7 +10495,7 @@
       "start": "01:17:36,690",
       "end": "01:17:39,693",
       "en": "and you can't understand it\nunless you have both scrolls.",
-      "es": "y no se entiende\na menos que tengas ambos pergaminos.",
+      "es": "y no se entiende\na menos que tengas ambos rollos.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10553,7 +10525,7 @@
       "start": "01:17:48,618",
       "end": "01:17:49,786",
       "en": "This Earth scroll...",
-      "es": "Este pergamino de la Tierra...",
+      "es": "Este rollo de la Tierra...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10613,7 +10585,7 @@
       "start": "01:18:25,800",
       "end": "01:18:27,209",
       "en": "How can we steal a scroll",
-      "es": "¿Cómo podemos robar un pergamino",
+      "es": "¿Cómo podemos robar un rollo",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10643,7 +10615,7 @@
       "start": "01:18:32,572",
       "end": "01:18:34,999",
       "en": "The pride of our village\nis on the line!",
-      "es": "¡El orgullo de nuestra aldea\nestá en juego!",
+      "es": "¡El orgullo de nuestra villa\nestá en juego!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10723,11 +10695,9 @@
       "start": "01:19:21,378",
       "end": "01:19:22,504",
       "en": "<i>Lions Barrage!</i>",
-      "es": "<i>¡Ráfaga de Leones!</i> {LEONES}",
+      "es": "<i>¡Golpe del León!</i>",
       "translated": true,
-      "tags": [
-        "LEONES"
-      ],
+      "tags": [],
       "es_prev": null
     },
     {
@@ -10735,7 +10705,7 @@
       "start": "01:19:29,659",
       "end": "01:19:31,578",
       "en": "The Earth Scroll... same as us.",
-      "es": "El Pergamino de la Tierra... igual que el nuestro.",
+      "es": "El Rollo de la Tierra... igual que el nuestro.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10825,7 +10795,7 @@
       "start": "01:20:43,418",
       "end": "01:20:46,504",
       "en": "to affect the eyes of anyone who opened\nthe scroll before reaching the tower.",
-      "es": "para afectar a los ojos de quien abriera\nel pergamino antes de llegar a la torre.",
+      "es": "para afectar a los ojos de quien abriera\nel rollo antes de llegar a la torre.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10875,7 +10845,7 @@
       "start": "01:21:00,745",
       "end": "01:21:04,082",
       "en": "It's not that I'm after your scroll.",
-      "es": "No es que vaya tras vuestro pergamino.",
+      "es": "No es que vaya tras vuestro rollo.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -10905,7 +10875,7 @@
       "start": "01:21:11,279",
       "end": "01:21:14,032",
       "en": "So you're also after the Heaven scroll?",
-      "es": "¿Así que tú también buscas el pergamino del Cielo?",
+      "es": "¿Así que tú también buscas el rollo del Cielo?",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11335,7 +11305,7 @@
       "start": "01:23:27,974",
       "end": "01:23:33,104",
       "en": "the area near the tower is\nthe best place to gather scrolls.",
-      "es": "la zona cercana a la torre es\nel mejor lugar para conseguir pergaminos.",
+      "es": "la zona cercana a la torre es\nel mejor lugar para conseguir rollos.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11355,7 +11325,7 @@
       "start": "01:23:36,549",
       "end": "01:23:38,885",
       "en": "In other words, we go after the scrolls\nof the teams",
-      "es": "En otras palabras, vamos a por los pergaminos\nde los equipos",
+      "es": "En otras palabras, vamos a por los rollos\nde los equipos",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -11535,7 +11505,7 @@
       "start": "01:24:43,878",
       "end": "01:24:47,798",
       "en": "Three ninja from the Hidden Sand Village\nhave broken the record.",
-      "es": "Tres ninjas de la Aldea Oculta de la Arena\nhan batido el récord.",
+      "es": "Tres ninjas de la Villa Oculta de la Arena\nhan batido el récord.",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -12695,7 +12665,7 @@
       "start": "01:32:10,143",
       "end": "01:32:12,646",
       "en": "Look, the Heaven scroll!",
-      "es": "¡Mirad, el pergamino del Cielo!",
+      "es": "¡Mirad, el rollo del Cielo!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -12765,7 +12735,7 @@
       "start": "01:32:36,071",
       "end": "01:32:41,034",
       "en": "But hey, thanks to you,\nwe got both scrolls!",
-      "es": "Pero oye, ¡gracias a ti\nhemos conseguido ambos pergaminos!",
+      "es": "Pero oye, ¡gracias a ti\nhemos conseguido ambos rollos!",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -12915,7 +12885,7 @@
       "start": "01:33:27,264",
       "end": "01:33:29,684",
       "en": "As a Sound Village spy...",
-      "es": "Como espía de la Aldea del Sonido...",
+      "es": "Como espía de la Villa del Sonido...",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -13105,7 +13075,7 @@
       "start": "01:34:28,995",
       "end": "01:34:31,248",
       "en": "It probably has something to do with the scroll",
-      "es": "Probablemente tenga algo que ver con el pergamino",
+      "es": "Probablemente tenga algo que ver con el rollo",
       "translated": true,
       "tags": [],
       "es_prev": null
@@ -13115,7 +13085,7 @@
       "start": "01:34:31,897",
       "end": "01:34:36,193",
       "en": "I think this means we're supposed to open\nthe Heaven and Earth scrolls at the same time.",
-      "es": "Creo que esto significa que se supone que\ndebemos abrir los pergaminos del Cielo y de la Tierra a la vez.",
+      "es": "Creo que esto significa que se supone que\ndebemos abrir los rollos del Cielo y de la Tierra a la vez.",
       "translated": true,
       "tags": [],
       "es_prev": null
