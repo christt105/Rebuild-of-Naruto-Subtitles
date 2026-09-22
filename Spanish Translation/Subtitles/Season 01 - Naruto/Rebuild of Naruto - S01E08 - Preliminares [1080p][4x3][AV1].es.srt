@@ -5167,28 +5167,28 @@ cada palabra...
 
 1201
 01:25:09,354 --> 01:25:10,897
-<i>I'm not going to run away!</i>
+<i>¡No voy a huir!</i>
 
 1202
 01:25:13,149 --> 01:25:16,569
-Because that's... my Ninja Way!
+¡Porque ese es... mi camino del ninja!
 
 1203
 01:25:20,031 --> 01:25:23,576
-I had no idea... Hinata was this tough.
+No tenía ni idea... de que Hinata fuera tan dura.
 
 1204
 01:25:23,701 --> 01:25:25,036
-She's a lot like you.
+Se parece mucho a ti.
 
 1205
 01:25:25,995 --> 01:25:29,666
-Come to think of it...
-She's always watching you.
+Ahora que lo pienso...
+siempre te está mirando.
 
 1206
 01:25:29,958 --> 01:25:30,958
-Huh?
+¿Eh?
 
 1207
 01:25:35,255 --> 01:25:36,255
@@ -5196,15 +5196,15 @@ Huh?
 
 1208
 01:25:46,270 --> 01:25:47,646
-<i>She has reached her limit.</i>
+<i>Ha llegado a su límite.</i>
 
 1209
 01:25:48,848 --> 01:25:50,975
-<i>One more blow and...</i>
+<i>Un golpe más y...</i>
 
 1210
 01:25:52,235 --> 01:25:55,030
-Go, Hinata!
+¡Vamos, Hinata!
 
 1211
 01:25:58,811 --> 01:25:59,811
@@ -5212,45 +5212,45 @@ Go, Hinata!
 
 1212
 01:26:01,249 --> 01:26:03,210
-<i>Strength is back in her eyes...</i>
+<i>La fuerza ha vuelto a sus ojos...</i>
 
 1213
 01:26:05,410 --> 01:26:06,953
-<i>I've been watching you...</i>
+<i>Te he estado observando...</i>
 
 1214
 01:26:12,792 --> 01:26:15,378
-<i>I've been watching you closely
-for many years now!</i>
+<i>¡Te he estado observando de cerca
+durante muchos años!</i>
 
 1215
 01:26:20,329 --> 01:26:21,329
-<i>Why I wonder...?</i>
+<i>¿Por qué será...?</i>
 
 1216
 01:26:27,182 --> 01:26:28,766
-<i>I can feel courage welling up.</i>
+<i>Siento que el valor brota en mí.</i>
 
 1217
 01:26:31,102 --> 01:26:34,606
-<i>I feel that I can hang on,
-that I can do it...</i>
+<i>Siento que puedo aguantar,
+que puedo lograrlo...</i>
 
 1218
 01:26:35,940 --> 01:26:39,485
-<i>that I too am worth something!</i>
+<i>¡que yo también valgo algo!</i>
 
 1219
 01:26:42,947 --> 01:26:43,448
-Oh!
+¡Oh!
 
 1220
 01:26:43,656 --> 01:26:44,210
-No!
+¡No!
 
 1221
 01:26:44,234 --> 01:26:44,904
-Hinata!
+¡Hinata!
 
 1222
 01:26:50,205 --> 01:26:51,205
@@ -5258,20 +5258,20 @@ Hinata!
 
 1223
 01:26:52,745 --> 01:26:55,198
-<i>At some point, Hinata, who was
-in the habit of just giving up,</i>
+<i>En algún momento, Hinata, que solía
+rendirse sin más,</i>
 
 1224
 01:26:55,223 --> 01:26:57,308
-<i>made up her mind to change.</i>
+<i>decidió cambiar.</i>
 
 1225
 01:26:58,099 --> 01:26:59,308
-<i>I have never...</i>
+<i>Nunca había...</i>
 
 1226
 01:27:00,423 --> 01:27:02,550
-<i>seen... that look in her eyes before.</i>
+<i>visto antes... esa mirada en sus ojos.</i>
 
 1227
 01:27:04,510 --> 01:27:05,510
@@ -5279,205 +5279,203 @@ in the habit of just giving up,</i>
 
 1228
 01:27:06,346 --> 01:27:09,265
-<i>Up until now,
-I've always been the one watching,</i>
+<i>Hasta ahora,
+siempre había sido yo quien miraba,</i>
 
 1229
 01:27:10,558 --> 01:27:12,352
-<i>but now...</i>
+<i>pero ahora...</i>
 
 1230
 01:27:13,811 --> 01:27:14,896
-<i>finally, I am...</i>
+<i>por fin, soy yo...</i>
 
 1231
 01:27:28,711 --> 01:27:31,463
-Your strikes were ineffective
-from the very first.
+Tus golpes fueron ineficaces
+desde el principio.
 
 1232
 01:27:33,375 --> 01:27:34,751
-It's the end.
+Es el final.
 
 1233
 01:27:40,546 --> 01:27:42,423
-<i>Hinata... That's enough.</i>
+<i>Hinata... Ya es suficiente.</i>
 
 1234
 01:27:43,245 --> 01:27:44,455
-<i>You lost the match,</i>
+<i>Perdiste el combate,</i>
 
 1235
 01:27:44,717 --> 01:27:46,517
-<i>but you've changed in the process.</i>
+<i>pero has cambiado en el proceso.</i>
 
 1236
 01:27:47,563 --> 01:27:48,647
-<i>You did well.</i>
+<i>Lo hiciste bien.</i>
 
 1237
 01:27:51,942 --> 01:27:54,236
-Neji's final blow went
-straight for the heart.
+El golpe final de Neji fue
+directo al corazón.
 
 1238
 01:27:54,892 --> 01:27:55,810
-I feel sorry for her,
+Me da pena por ella,
 
 1239
 01:27:56,020 --> 01:27:57,420
-but she won't be standing
-again now.
+pero ya no volverá a levantarse.
 
 1240
 01:28:03,766 --> 01:28:05,994
-Since further fighting is impossible
-under these conditions...
+Puesto que seguir luchando es imposible
+en estas condiciones...
 
 1241
 01:28:06,019 --> 01:28:06,968
-Don't stop it!
+¡No lo detengas!
 
 1242
 01:28:07,088 --> 01:28:08,464
-Don't stop the match, y'know!
+¡No pares el combate, vaya que sí!
 
 1243
 01:28:08,883 --> 01:28:10,187
-Naruto, stop!
+¡Naruto, para!
 
 1244
 01:28:10,489 --> 01:28:11,969
-What on earth are you saying, you idiot!
+¡¿Qué demonios estás diciendo, idiota?!
 
 1245
 01:28:12,073 --> 01:28:14,867
-She's done for.
-Can't you see she's unconscious...?
+Está acabada.
+¿No ves que está inconsciente...?
 
 1246
 01:28:16,104 --> 01:28:16,830
-Huh?
+¿Eh?
 
 1247
 01:28:35,023 --> 01:28:36,275
-Why do you stand up?
+¿Por qué te levantas?
 
 1248
 01:28:37,901 --> 01:28:40,404
-If you continue like this,
-you'll really die!
+¡Si sigues así,
+de verdad vas a morir!
 
 1249
 01:28:42,375 --> 01:28:44,455
-<i>He's finally...
-truly seeing me for the first time.</i>
+<i>Por fin...
+me está viendo de verdad por primera vez.</i>
 
 1250
 01:28:45,076 --> 01:28:46,744
-<i>I will not be caught looking bad...</i>
+<i>No dejaré que me vea quedar mal...</i>
 
 1251
 01:28:49,305 --> 01:28:50,657
-<i>In front of...</i>
+<i>Delante de...</i>
 
 1252
 01:28:52,371 --> 01:28:53,413
-<i>the person I admire most.</i>
+<i>la persona a la que más admiro.</i>
 
 1253
 01:28:59,718 --> 01:29:01,845
-I-I'm not finished yet!
+¡T-Todavía no he terminado!
 
 1254
 01:29:02,880 --> 01:29:04,423
-Stop the tough act...
+Deja de hacerte el duro...
 
 1255
 01:29:05,062 --> 01:29:07,857
-I can tell you're just
-barely standing.
+Puedo ver que apenas
+te tienes en pie.
 
 1256
 01:29:09,707 --> 01:29:11,227
-You bear the burden of having been born
+Cargas con el peso de haber nacido
 
 1257
 01:29:11,252 --> 01:29:13,504
-to the Head Family of the Hyuga clan.
+en la Familia Principal del clan Hyuga.
 
 1258
 01:29:16,486 --> 01:29:18,863
-You're wrong... Brother Neji.
+Te equivocas... hermano Neji.
 
 1259
 01:29:20,327 --> 01:29:22,746
-Because I can tell...
+Porque puedo notar...
 
 1260
 01:29:23,981 --> 01:29:27,735
-that you are suffering
-much more than I am.
+que tú sufres
+mucho más que yo.
 
 1261
 01:29:28,410 --> 01:29:29,036
-What?!
+¡¿Qué?!
 
 1262
 01:29:29,485 --> 01:29:31,821
-You are the one who is torn up
+Eres tú el que está destrozado
 
 1263
 01:29:33,117 --> 01:29:36,621
-over the fate of the Head
-and Branch Families.
+por el destino de la Familia Principal
+y la Secundaria.
 
 1264
 01:29:40,953 --> 01:29:42,997
-Neji, the match has been called!
+¡Neji, el combate ha sido detenido!
 
 1265
 01:29:47,140 --> 01:29:48,892
-Neji, get a hold of yourself!
+¡Neji, contrólate!
 
 1266
 01:29:49,388 --> 01:29:51,309
-You promised me
+Me prometiste
 
 1267
 01:29:51,564 --> 01:29:53,816
-you wouldn't let this Head Family
-business get to you!
+que no dejarías que este asunto de
+la Familia Principal te afectara.
 
 1268
 01:29:53,855 --> 01:29:56,316
-Why are all the other Jonin
-butting in?!
+¡¿Por qué se meten todos los demás Jonin?!
 
 1269
 01:29:56,814 --> 01:29:58,494
-The Head Family always gets
-special treatment, is that it?!
+¡¿La Familia Principal siempre recibe
+un trato especial, es eso?!
 
 1270
 01:30:03,406 --> 01:30:04,406
-Hinata?!
+¡¿Hinata?!
 
 1271
 01:30:04,431 --> 01:30:05,140
-Hinata!
+¡Hinata!
 
 1272
 01:30:05,366 --> 01:30:06,366
-Hinata!
+¡Hinata!
 
 1273
 01:30:08,451 --> 01:30:10,088
-Hinata! Are you okay?!
+¡Hinata! ¡¿Estás bien?!
 
 1274
 01:30:10,455 --> 01:30:11,455
-Hey!
+¡Oye!
 
 1275
 01:30:14,209 --> 01:30:15,209
@@ -5485,124 +5483,124 @@ Naruto...
 
 1276
 01:30:16,786 --> 01:30:17,786
-<i>Do you think...</i>
+<i>¿Crees que...</i>
 
 1277
 01:30:20,965 --> 01:30:25,345
-<i>Did I... change, even a little?</i>
+<i>¿yo... cambié, aunque fuera un poco?</i>
 
 1278
 01:30:28,097 --> 01:30:30,266
-Hey you, failure!
+¡Oye, tú, fracasada!
 
 1279
 01:30:32,685 --> 01:30:34,854
-I have two pieces of advice for you.
+Tengo dos consejos para ti.
 
 1280
 01:30:36,050 --> 01:30:37,407
-First, if you intend to
-call yourself a shinobi,
+Primero, si pretendes
+llamarte a ti mismo shinobi,
 
 1281
 01:30:37,432 --> 01:30:39,308
-stop that pathetic cheering.
+deja esos ánimos patéticos.
 
 1282
 01:30:40,485 --> 01:30:41,861
-And the second...
+Y el segundo...
 
 1283
 01:30:43,071 --> 01:30:45,615
-a failure will always be a failure.
+un fracaso siempre será un fracaso.
 
 1284
 01:30:46,274 --> 01:30:47,483
-There's no changing that!
+¡Eso no va a cambiar!
 
 1285
 01:30:51,073 --> 01:30:52,450
-Do you want to see about that?
+¿Quieres comprobarlo?
 
 1286
 01:31:02,548 --> 01:31:03,548
-You!
+¡Tú!
 
 1287
 01:31:03,800 --> 01:31:06,261
-Naruto, I understand how you feel.
+Naruto, entiendo cómo te sientes.
 
 1288
 01:31:07,178 --> 01:31:10,682
-But all fighting must be
-done officially in a match!
+¡Pero toda pelea debe
+hacerse oficialmente en un combate!
 
 1289
 01:31:12,533 --> 01:31:16,079
-The failure beats the gifted genius
-through sheer effort...
+El fracasado vence al genio dotado
+a base de puro esfuerzo...
 
 1290
 01:31:17,063 --> 01:31:18,903
-That would make for one exciting
-final round, wouldn't it?
+Eso sería una ronda final
+muy emocionante, ¿no?
 
 1291
 01:31:19,665 --> 01:31:23,252
-Though, I will probably be the one
-to fight Neji...
+Aunque probablemente sea yo
+quien luche contra Neji...
 
 1292
 01:31:29,325 --> 01:31:30,785
-All right already.
+Vale, vale, ya está.
 
 1293
 01:31:36,747 --> 01:31:38,999
-<i>Oh, no! She's gone into
-ventricular fibrillation.</i>
+<i>¡Oh, no! Ha entrado en
+fibrilación ventricular.</i>
 
 1294
 01:31:39,544 --> 01:31:40,920
-<i>Was he trying to kill her?!</i>
+<i>¡¿Intentaba matarla?!</i>
 
 1295
 01:31:41,296 --> 01:31:43,464
-The precious little time you have
-would be better spent
+El poco tiempo precioso que tienes
+lo aprovecharías mejor
 
 1296
 01:31:43,766 --> 01:31:45,893
-seeing to her than glaring at me.
+atendiéndola en vez de fulminarme con la mirada.
 
 1297
 01:31:46,134 --> 01:31:47,031
-Medics!
+¡Médicos!
 
 1298
 01:31:47,056 --> 01:31:48,474
-Hurry! What's taking so long?!
+¡Deprisa! ¡¿A qué esperáis?!
 
 1299
 01:31:48,720 --> 01:31:49,720
-S-Sorry.
+L-Lo sentimos.
 
 1300
 01:31:51,764 --> 01:31:54,309
-Get her on the stretcher.
-One, two, three.
+Ponedla en la camilla.
+Uno, dos, tres.
 
 1301
 01:31:56,019 --> 01:31:58,187
-This is serious! She only has about
-10 minutes, at most!
+¡Esto es grave! ¡Solo le quedan
+10 minutos, como mucho!
 
 1302
 01:31:58,469 --> 01:32:00,596
-Get her to the emergency room, now!
+¡Llevadla a urgencias, ya!
 
 1303
 01:32:00,906 --> 01:32:01,906
-Out of the way!
+¡Apartaos!
 
 1304
 01:32:10,327 --> 01:32:11,328
@@ -5610,732 +5608,732 @@ Hinata...
 
 1305
 01:32:17,093 --> 01:32:18,636
-I promise you.
+Te lo prometo.
 
 1306
 01:32:29,801 --> 01:32:31,302
-I will win, no matter what!
+¡Voy a ganar, pase lo que pase!
 
 1307
 01:32:32,813 --> 01:32:33,814
-Hey, Choji!
+¡Oye, Choji!
 
 1308
 01:32:34,231 --> 01:32:35,441
-You're in trouble.
+Estás en apuros.
 
 1309
 01:32:35,900 --> 01:32:38,069
-Only the strong ones are left.
+Solo quedan los fuertes.
 
 1310
 01:32:40,112 --> 01:32:41,947
-I-I don't care!
+¡N-No me importa!
 
 1311
 01:32:42,239 --> 01:32:44,700
-I plan to forfeit right away
-if that happens...
+Pienso rendirme de inmediato
+si eso pasa...
 
 1312
 01:32:44,950 --> 01:32:45,951
-So that means...
+Así que eso significa...
 
 1313
 01:32:46,077 --> 01:32:46,494
-Huh?
+¿Eh?
 
 1314
 01:32:46,577 --> 01:32:49,372
-... then you plan on skipping
-all-you-can-eat BBQ, too, huh?
+... entonces también piensas saltarte
+la barbacoa libre, ¿eh?
 
 1315
 01:32:49,455 --> 01:32:51,720
-What? Come on!
+¿Qué? ¡Venga ya!
 
 1316
 01:32:53,334 --> 01:32:54,334
-Don't worry.
+No te preocupes.
 
 1317
 01:32:54,559 --> 01:32:55,811
-If things start getting ugly,
+Si la cosa se pone fea,
 
 1318
 01:32:55,836 --> 01:32:59,632
-I'll step in and stop the fight,
-like I did for Hinata. Okay?
+intervendré y pararé la pelea,
+como hice con Hinata. ¿Vale?
 
 1319
 01:33:00,216 --> 01:33:01,801
-Prime beef tongue, short ribs...
+Lengua de ternera de primera, costillas cortas...
 
 1320
 01:33:01,842 --> 01:33:04,402
-- It'll be...
-- <i>Don't motivate him with food!</i>
+- Será...
+- <i>¡No lo motives con comida!</i>
 
 1321
 01:33:04,887 --> 01:33:06,405
-<i>Besides, he didn't even...</i>
+<i>Además, ni siquiera...</i>
 
 1322
 01:33:06,430 --> 01:33:08,470
-- ... all-you-can-eat!
-- <i>step in to stop Hinata's fight.</i>
+- ¡... barbacoa libre!
+- <i>intervino para parar la pelea de Hinata.</i>
 
 1323
 01:33:10,685 --> 01:33:17,732
-B-B-Q! All right, BBQ! All-you-can-eat!
+¡B-B-Q! ¡Bien, barbacoa! ¡Libre!
 
 1324
 01:33:22,066 --> 01:33:24,444
-I'm curious about that guy, Neji, too...
+Ese tal Neji también me da curiosidad...
 
 1325
 01:33:26,992 --> 01:33:28,411
-I have an idea.
+Tengo una idea.
 
 1326
 01:33:30,663 --> 01:33:31,372
-Kankuro?
+¿Kankuro?
 
 1327
 01:33:31,455 --> 01:33:34,125
-Just a little information-gathering.
+Solo un poco de recopilación de información.
 
 1328
 01:33:35,918 --> 01:33:36,419
-Hey!
+¡Oye!
 
 1329
 01:33:36,627 --> 01:33:37,627
-Huh?
+¿Eh?
 
 1330
 01:33:37,753 --> 01:33:39,714
-What are you doing here
-all by yourself?
+¿Qué haces aquí
+tú solo?
 
 1331
 01:33:40,089 --> 01:33:42,383
-Shouldn't you be with your friends?
+¿No deberías estar con tus amigos?
 
 1332
 01:33:42,883 --> 01:33:45,010
-I-It's none of your business, is it?!
+¡N-No es asunto tuyo, ¿verdad?!
 
 1333
 01:33:45,594 --> 01:33:47,471
-<i>Hmmm. Well, well...</i>
+<i>Hmmm. Vaya, vaya...</i>
 
 1334
 01:33:47,972 --> 01:33:50,224
-That guy... Neji Hyuga, right?
+Ese tipo... Neji Hyuga, ¿verdad?
 
 1335
 01:33:50,982 --> 01:33:52,855
-Well, it seems to me that
+Bueno, me parece que
 
 1336
 01:33:52,880 --> 01:33:55,465
-he didn't reveal the true extent
-of his power in that last match.
+no reveló todo el alcance
+de su poder en ese último combate.
 
 1337
 01:33:55,563 --> 01:33:56,564
-What's his deal?
+¿Qué le pasa a ese?
 
 1338
 01:33:58,691 --> 01:34:00,651
-I'm going to crush him!
+¡Voy a aplastarlo!
 
 1339
 01:34:03,195 --> 01:34:06,532
-You seem like a fun guy.
-I quite like you.
+Pareces un tipo divertido.
+Me caes bastante bien.
 
 1340
 01:34:07,032 --> 01:34:11,149
-You're boring.
-And I don't like you at all!
+Tú eres aburrido.
+¡Y no me caes nada bien!
 
 1341
 01:34:13,330 --> 01:34:15,875
-<i>I'm going to waste this guy!</i>
+<i>¡Voy a acabar con este tipo!</i>
 
 1342
 01:34:18,878 --> 01:34:21,337
-We will now resume the battle.
+Ahora reanudamos el combate.
 
 1343
 01:34:25,090 --> 01:34:26,090
-Okay!
+¡Vale!
 
 1344
 01:34:26,594 --> 01:34:30,222
-You'll be up this time for sure.
-Go for it, Lee!
+Esta vez te toca seguro.
+¡Adelante, Lee!
 
 1345
 01:34:31,098 --> 01:34:31,891
-No!
+¡No!
 
 1346
 01:34:32,099 --> 01:34:33,099
-- Huh?
-- What?
+- ¿Eh?
+- ¿Qué?
 
 1347
 01:34:33,350 --> 01:34:38,147
-Seeing as I've come this far,
-I'd rather be the last!
+Ya que he llegado hasta aquí,
+¡prefiero ser el último!
 
 1348
 01:35:04,560 --> 01:35:06,979
-Hurry up and get down here...
+Baja aquí de una vez...
 
 1349
 01:35:10,221 --> 01:35:11,764
-Safe!
+¡Salvado!
 
 1350
 01:35:16,143 --> 01:35:17,686
-It worked!
+¡Ha funcionado!
 
 1351
 01:35:18,312 --> 01:35:20,606
-If you say you want to go last, you won't.
+Si dices que quieres ir el último, no lo serás.
 
 1352
 01:35:21,232 --> 01:35:23,234
-It's an application of the same law:
+Es una aplicación de la misma ley:
 
 1353
 01:35:23,317 --> 01:35:25,903
-If you aim to hit a telephone pole
-with a rock, you'll miss...
+Si apuntas a darle a un poste de teléfono
+con una piedra, fallarás...
 
 1354
 01:35:25,986 --> 01:35:28,906
-But if you throw it to miss,
-you'll hit it dead-on!
+¡Pero si la lanzas para fallar,
+le darás de lleno!
 
 1355
 01:35:29,156 --> 01:35:32,117
-Right! That's my student!
+¡Eso es! ¡Ese es mi alumno!
 
 1356
 01:35:32,284 --> 01:35:34,745
-I absolutely did not
-want to go last!
+¡De ninguna manera
+quería ir el último!
 
 1357
 01:35:35,204 --> 01:35:37,456
-I fooled them brilliantly!
+¡Los engañé de maravilla!
 
 1358
 01:35:38,415 --> 01:35:40,000
-<i>Who exactly fell for it?</i>
+<i>¿Quién se ha creído eso exactamente?</i>
 
 1359
 01:35:40,283 --> 01:35:43,745
-Okay, so let me give you
-a nice little piece of advice.
+Bien, déjame darte
+un pequeño y buen consejo.
 
 1360
 01:35:44,380 --> 01:35:45,380
-Right!
+¡Vale!
 
 1361
 01:35:46,340 --> 01:35:49,510
-Probably no one has noticed yet, but...
+Seguramente nadie se ha dado cuenta todavía, pero...
 
 1362
 01:35:50,427 --> 01:35:52,930
-That gourd is suspicious!
+¡Esa calabaza es sospechosa!
 
 1363
 01:35:53,556 --> 01:35:54,598
-I see!
+¡Ya veo!
 
 1364
 01:35:55,182 --> 01:35:56,182
-Enough with the notes!
+¡Ya basta de apuntes!
 
 1365
 01:35:56,559 --> 01:36:00,479
-You're not going to have time to
-read them during the match, you fool!
+¡No vas a tener tiempo de
+leerlos durante el combate, tonto!
 
 1366
 01:36:00,813 --> 01:36:01,813
-I see!
+¡Ya veo!
 
 1367
 01:36:03,274 --> 01:36:04,942
-<i>He didn't realize that?</i>
+<i>¿No se ha dado cuenta de eso?</i>
 
 1368
 01:36:06,110 --> 01:36:08,195
-<i>Wow, is Lee going to be all right?</i>
+<i>Vaya, ¿va a estar bien Lee?</i>
 
 1369
 01:36:08,404 --> 01:36:12,741
-All right!
-Go! Lee!
+¡Bien!
+¡Vamos, Lee!
 
 1370
 01:36:13,242 --> 01:36:14,785
-Yeah!
+¡Sí!
 
 1371
 01:36:23,392 --> 01:36:26,923
-I am honored to face an opponent
-like you so early on.
+Es un honor enfrentarme a un rival
+como tú tan pronto.
 
 1372
 01:36:31,847 --> 01:36:33,349
-Please don't be in such a hurry.
+Por favor, no tengas tanta prisa.
 
 1373
 01:36:38,967 --> 01:36:41,803
-Now then... The 9th match...
+Bien, entonces... el noveno combate...
 
 1374
 01:36:42,354 --> 01:36:43,209
-Begin!
+¡Comiencen!
 
 1375
 01:36:47,234 --> 01:36:49,153
-<i>Leaf Hurricane!</i>
+<i>¡Remolino de la Hoja!</i>
 
 1376
 01:37:06,629 --> 01:37:08,714
-<i>A sand-manipulation jutsu?</i>
+<i>¿Un jutsu de manipulación de arena?</i>
 
 1377
 01:37:09,381 --> 01:37:10,466
-<i>Sounds like trouble.</i>
+<i>Suena problemático.</i>
 
 1378
 01:37:11,467 --> 01:37:13,510
-<i>But let's give it a go!</i>
+<i>¡Pero intentémoslo!</i>
 
 1379
 01:37:39,036 --> 01:37:41,622
-Even that Lee's fast strikes...
+Ni siquiera los golpes rápidos de Lee...
 
 1380
 01:37:41,747 --> 01:37:43,123
-have no effect at all!
+¡tienen efecto alguno!
 
 1381
 01:37:43,499 --> 01:37:45,668
-What's the deal, y'know?!
+¡¿Qué está pasando, vaya que sí?!
 
 1382
 01:37:46,210 --> 01:37:49,713
-No physical attack will have
-any effect on him.
+Ningún ataque físico va a
+tener efecto en él.
 
 1383
 01:37:49,880 --> 01:37:50,422
-What?
+¿Qué?
 
 1384
 01:37:50,756 --> 01:37:52,758
-The Sand shields and protects Gaara
+El Escudo de Arena protege a Gaara {ARMADURA}
 
 1385
 01:37:53,052 --> 01:37:55,889
-independently of his will.
+con independencia de su voluntad.
 
 1386
 01:37:57,295 --> 01:38:00,966
-That's why... no one has been able
-to do it so far...
+Por eso... nadie ha sido capaz
+hasta ahora...
 
 1387
 01:38:02,434 --> 01:38:05,771
-to injure Gaara...
+de herir a Gaara...
 
 1388
 01:38:06,355 --> 01:38:10,150
-<i>Curses! He's not moving
-a muscle and still...!</i>
+<i>¡Maldición! ¡No mueve
+ni un músculo y aun así...!</i>
 
 1389
 01:38:11,318 --> 01:38:12,444
-Is that it?
+¿Eso es todo?
 
 1390
 01:38:14,613 --> 01:38:17,241
-Entertain me a bit more...
+Entretenme un poco más...
 
 1391
 01:38:19,292 --> 01:38:20,502
-There's not enough...
+No hay suficiente...
 
 1392
 01:38:22,720 --> 01:38:23,538
-Blood!
+¡Sangre!
 
 1393
 01:38:38,846 --> 01:38:41,473
-Why is Lee only using taijutsu?
+¿Por qué Lee solo usa taijutsu?
 
 1394
 01:38:42,016 --> 01:38:44,018
-He'll never be able to get close
-enough for that!
+¡Así nunca podrá acercarse
+lo suficiente!
 
 1395
 01:38:44,685 --> 01:38:47,896
-Why doesn't he step back a bit and
-use ninjutsu or something?
+¿Por qué no retrocede un poco y
+usa ninjutsu o algo así?
 
 1396
 01:38:49,189 --> 01:38:50,607
-It's not that he doesn't use it.
+No es que no lo use.
 
 1397
 01:38:51,505 --> 01:38:52,506
-He can't use it.
+Es que no puede usarlo.
 
 1398
 01:38:53,235 --> 01:38:53,622
-Huh?
+¿Eh?
 
 1399
 01:38:54,182 --> 01:38:58,144
-Lee has almost no ninjutsu
-or genjutsu skills.
+Lee casi no tiene habilidad
+para el ninjutsu ni el genjutsu.
 
 1400
 01:38:58,824 --> 01:39:00,034
-N-No way!
+¡N-No puede ser!
 
 1401
 01:39:01,368 --> 01:39:05,205
-When I first met Lee,
-he was completely inept.
+Cuando conocí a Lee,
+era completamente inútil.
 
 1402
 01:39:05,539 --> 01:39:07,207
-He had no talent whatsoever.
+No tenía ningún talento en absoluto.
 
 1403
 01:39:08,250 --> 01:39:10,461
-What? I can't believe that!
+¿Qué? ¡No me lo puedo creer!
 
 1404
 01:39:27,166 --> 01:39:28,543
-Lee, take them off!
+¡Lee, quítatelas!
 
 1405
 01:39:30,005 --> 01:39:31,982
-B-But Guy-sensei!
+¡P-Pero Guy-sensei!
 
 1406
 01:39:32,007 --> 01:39:36,079
-You told me I should only take them off
-to protect someone very precious!
+¡Me dijiste que solo debía quitármelas
+para proteger a alguien muy preciado!
 
 1407
 01:39:36,779 --> 01:39:38,030
-It's fine!
+¡Está bien!
 
 1408
 01:39:38,324 --> 01:39:39,534
-I give you permission!
+¡Te doy permiso!
 
 1409
 01:39:47,235 --> 01:39:48,236
-Weights?
+¿Pesas?
 
 1410
 01:39:49,063 --> 01:39:50,815
-<i>That's such an old-school
-training method...</i>
+<i>Ese es un método de entrenamiento
+tan anticuado...</i>
 
 1411
 01:39:52,795 --> 01:39:56,090
-All right, now I can
-move easily!
+¡Bien, ahora puedo
+moverme con facilidad!
 
 1412
 01:39:56,517 --> 01:39:59,979
-<i>Hmph! Does he think
-taking off some little weights</i>
+<i>¡Já! ¿Se cree que
+quitarse unas pesitas</i>
 
 1413
 01:40:00,302 --> 01:40:02,679
-<i>will let him to outmaneuver Gaara's sand...?</i>
+<i>le va a permitir burlar la arena de Gaara...?</i>
 
 1414
 01:40:08,934 --> 01:40:10,894
-<i>A bit extreme, I'd say, Guy.</i>
+<i>Un poco extremo, diría yo, Guy.</i>
 
 1415
 01:40:11,111 --> 01:40:13,197
-Go, Lee!
+¡Vamos, Lee!
 
 1416
 01:40:13,398 --> 01:40:14,399
-Right!
+¡Sí!
 
 1417
 01:40:29,507 --> 01:40:30,507
-Go!
+¡Adelante!
 
 1418
 01:40:31,444 --> 01:40:32,444
-<i>Very close!</i>
+<i>¡Muy cerca!</i>
 
 1419
 01:40:38,866 --> 01:40:41,744
-Because he can't use
-ninjutsu or genjutsu...
+Porque no puede usar
+ninjutsu ni genjutsu...
 
 1420
 01:40:42,426 --> 01:40:45,971
-Therefore, he channeled all
-of his time,
+por eso, canalizó todo
+su tiempo,
 
 1421
 01:40:46,199 --> 01:40:48,326
-all of his energy and...
+toda su energía y...
 
 1422
 01:40:48,589 --> 01:40:51,091
-all of his being into taijutsu.
+todo su ser en el taijutsu.
 
 1423
 01:40:52,733 --> 01:40:55,569
-Though he can't do any other jutsu...
+Aunque no pueda hacer ningún otro jutsu...
 
 1424
 01:40:56,336 --> 01:40:58,255
-He won't lose to anyone...
+no perderá ante nadie...
 
 1425
 01:40:59,072 --> 01:41:01,115
-He is a taijutsu specialist!
+¡Es un especialista en taijutsu!
 
 1426
 01:41:14,407 --> 01:41:17,243
-<i>I can't believe it!
-Gaara's been injured!</i>
+<i>¡No me lo puedo creer!
+¡Gaara ha sido herido!</i>
 
 1427
 01:41:18,458 --> 01:41:19,458
-<i>No way...!</i>
+<i>¡No puede ser...!</i>
 
 1428
 01:41:20,080 --> 01:41:23,583
-Bushy Brow is even faster than before!
+¡Cejotas es todavía más rápido que antes!
 
 1429
 01:41:24,461 --> 01:41:26,713
-Was he this strong?!
+¡¿Era así de fuerte?!
 
 1430
 01:41:27,406 --> 01:41:33,020
-Youth itself is... an explosion!
+¡La juventud misma es... una explosión!
 
 1431
 01:41:33,045 --> 01:41:34,296
-Right!
+¡Sí!
 
 1432
 01:41:42,934 --> 01:41:43,934
-Over here!
+¡Por aquí!
 
 1433
 01:41:48,648 --> 01:41:49,648
-Good!
+¡Bien!
 
 1434
 01:41:50,666 --> 01:41:52,043
-<i>I got him good!</i>
+<i>¡Le he dado bien!</i>
 
 1435
 01:41:52,162 --> 01:41:54,456
-I can't even track him
-with my eyes!
+¡Ni siquiera puedo seguirlo
+con la vista!
 
 1436
 01:42:05,991 --> 01:42:06,991
-Uh oh...
+Uy, uy...
 
 1437
 01:42:07,260 --> 01:42:08,970
-Uh oh is right!
+¡Y tanto que uy, uy!
 
 1438
 01:42:09,027 --> 01:42:12,989
-That guy with the black circles under
-his eyes is taking some serious hits!
+¡Ese tipo de las ojeras
+está recibiendo golpes en serio!
 
 1439
 01:42:13,163 --> 01:42:15,064
-That's not what I meant.
+No es eso lo que quería decir.
 
 1440
 01:42:15,388 --> 01:42:15,861
-Huh?
+¿Eh?
 
 1441
 01:42:29,906 --> 01:42:32,159
-<i>Sure enough, he was
-encased in sand, huh.</i>
+<i>Como pensaba, estaba
+envuelto en arena, ¿eh?</i>
 
 1442
 01:42:33,173 --> 01:42:35,467
-<i>But, it's been a long time since</i>
+<i>Pero hace mucho tiempo que</i>
 
 1443
 01:42:35,492 --> 01:42:37,535
-<i>I've seen that expression
-on Gaara's face.</i>
+<i>no veía esa expresión
+en la cara de Gaara.</i>
 
 1444
 01:42:38,258 --> 01:42:41,470
-<i>So Gaara's other self has
-been awakened, huh?</i>
+<i>Así que se ha despertado
+el otro yo de Gaara, ¿eh?</i>
 
 1445
 01:42:44,726 --> 01:42:46,286
-<i>But what an incredible
-defense he has...</i>
+<i>Pero qué defensa tan increíble
+tiene...</i>
 
 1446
 01:42:47,050 --> 01:42:50,637
-<i>no amount of speed is going
-to let me get a strike through.</i>
+<i>por mucha velocidad que tenga,
+no lograré que pase ningún golpe.</i>
 
 1447
 01:42:51,803 --> 01:42:56,469
-<i>I'll have to inflict major damage
-even through his sand armor.</i>
+<i>Tendré que infligir un daño grave
+incluso a través de su Armadura de Arena.</i>
 
 1448
 01:42:58,489 --> 01:42:59,489
-<i>The Lotus is the only way!</i>
+<i>¡El Loto es la única forma!</i>
 
 1449
 01:43:00,349 --> 01:43:01,349
-<i>Yes.</i>
+<i>Sí.</i>
 
 1450
 01:43:15,348 --> 01:43:16,198
-<i>Be ready!</i>
+<i>¡Prepárate!</i>
 
 1451
 01:43:21,916 --> 01:43:25,044
-<i>A thin sand guard like that
-won't be enough</i>
+<i>Una fina protección de arena así
+no será suficiente</i>
 
 1452
 01:43:25,555 --> 01:43:28,933
-<i>in the face of Lee's high speed
-Lotus slamming down from above.</i>
+<i>ante el Loto de alta velocidad
+de Lee cayendo desde arriba.</i>
 
 1453
 01:43:30,769 --> 01:43:32,271
-Hurry up and bring it on!
+¡Date prisa y ven ya!
 
 1454
 01:43:32,852 --> 01:43:34,645
-You asked for it!
+¡Tú te lo has buscado!
 
 1455
 01:43:37,661 --> 01:43:38,662
-Not just yet!
+¡Todavía no!
 
 1456
 01:43:44,811 --> 01:43:46,396
-What an amazing series of kicks!
+¡Vaya serie de patadas increíble!
 
 1457
 01:43:49,185 --> 01:43:53,106
-<i>Even an ordinary Lotus has
-a tremendous strain on the body...!</i>
+<i>¡Incluso un Loto normal supone
+una tensión tremenda para el cuerpo...!</i>
 
 1458
 01:43:53,598 --> 01:43:55,183
-<i>Lee, let this be the finishing blow!</i>
+<i>¡Lee, que este sea el golpe final!</i>
 
 1459
 01:44:09,326 --> 01:44:11,161
-Take this!
+¡Toma esto!
 
 1460
 01:44:13,247 --> 01:44:14,873
-<i>Primary Lotus!</i>
+<i>¡Flor de Loto Frontal!</i>
 
 1461
 01:44:27,749 --> 01:44:28,749
-I got him...
+Le he dado...
 
 1462
 01:44:29,586 --> 01:44:30,586
-good!
+¡bien!
 
 1463
 01:44:32,263 --> 01:44:33,806
-Right on!
+¡De lleno!
 
 1464
 01:44:34,054 --> 01:44:35,764
-I-It's over!
+¡S-Se acabó!
 
 1465
 01:44:36,019 --> 01:44:37,980
-Wh-What? This can't be!
+¡¿Q-Qué?! ¡Esto no puede ser!
 
 1466
 01:44:38,230 --> 01:44:41,024
-He did it! Lee's won!
+¡Lo ha conseguido! ¡Lee ha ganado!
 
 1467
 01:44:41,566 --> 01:44:44,194
-Hey, he isn't dead, is he?
+Oye, no estará muerto, ¿verdad?
 
 1468
 01:44:51,243 --> 01:44:51,978
-Wha?!
+¡¿Qué?!
 
 1469
 01:44:54,913 --> 01:44:55,913
-What?!
+¡¿Qué?!
 
 1470
 01:44:59,751 --> 01:45:00,560
-When did that...?!
+¡¿Cuándo...?!
 
 1471
 01:45:00,585 --> 01:45:01,837
-That's impossible!
+¡Eso es imposible!
 
 1472
 01:45:02,587 --> 01:45:05,215
-While you were closing your eyes
-in anticipation.
+Mientras cerrabas los ojos
+anticipando el golpe.
 
 1473
 01:45:05,465 --> 01:45:06,465
-What?
+¿Qué?
 
 1474
 01:45:43,128 --> 01:45:45,797
-That bowl-cut guy is totally exhausted...
+Ese del corte de tazón está totalmente agotado... {TAZON}
 
 1475
 01:45:46,757 --> 01:45:48,592
-Gaara is toying with him.
+Gaara está jugando con él.
 
 1476
 01:46:04,691 --> 01:46:05,514
@@ -6343,78 +6341,78 @@ Gaara is toying with him.
 
 1477
 01:46:07,110 --> 01:46:10,781
-Idiot! There's no way
-you'll become a ninja.
+¡Idiota! De ninguna manera
+vas a llegar a ser ninja.
 
 1478
 01:46:12,366 --> 01:46:13,075
-Yes, I can.
+Sí que puedo.
 
 1479
 01:46:13,325 --> 01:46:17,304
-There's no way a loser who can't
-even use ninjutsu can become a ninja!
+¡Un inútil que ni siquiera puede
+usar ninjutsu jamás será ninja!
 
 1480
 01:46:17,329 --> 01:46:18,080
-Yes, I can!
+¡Sí que puedo!
 
 1481
 01:46:18,163 --> 01:46:20,999
-Whatever, but the fact that a guy like
-you without ninjutsu or genjutsu
+Da igual, pero el hecho de que un tipo
+como tú, sin ninjutsu ni genjutsu,
 
 1482
 01:46:21,024 --> 01:46:22,784
-and with taijutsu worse than
-an average person,
+y con un taijutsu peor que
+el de una persona normal,
 
 1483
 01:46:22,959 --> 01:46:26,338
-you have no place in this ninja academy,
-it's nonsense!
+no tenga sitio en esta academia ninja,
+¡es una tontería!
 
 1484
 01:46:26,463 --> 01:46:29,341
-Do you know what you're called here?
+¿Sabes cómo te llaman aquí?
 
 1485
 01:46:30,384 --> 01:46:31,985
-Hot-Blooded!
+¡Sangre Caliente! {SANGRE}
 
 1486
 01:46:32,010 --> 01:46:33,428
-Hot-Blooded!
+¡Sangre Caliente!
 
 1487
 01:46:33,762 --> 01:46:35,263
-Hot-Blooded loser-
+Perdedor de Sangre Caliente-
 
 1488
 01:46:36,264 --> 01:46:38,016
-Hey, get in line, Lee!
+¡Oye, ponte en la fila, Lee!
 
 1489
 01:46:38,100 --> 01:46:39,226
-Hey Lee!
+¡Oye, Lee!
 
 1490
 01:46:41,478 --> 01:46:44,523
-So that's the hot-blooded loser
-everyone's talking about.
+Así que ese es el perdedor de sangre caliente
+del que todos hablan.
 
 1491
 01:46:45,164 --> 01:46:47,667
-Doesn't he look like
-someone we know?
+¿No se parece a
+alguien que conocemos?
 
 1492
 01:46:47,692 --> 01:46:48,329
-Huh?
+¿Eh?
 
 1493
 01:46:49,027 --> 01:46:50,862
-In particular... his eyebrows.
+En concreto... sus cejas.
 
 1494
 01:46:51,530 --> 01:46:52,367
@@ -6426,27 +6424,27 @@ Hmm...
 
 1496
 01:46:55,325 --> 01:46:58,078
-<i>The loser who can only perform
-under average taijutsu...</i>
+<i>El perdedor que solo puede rendir
+con un taijutsu inferior a la media...</i>
 
 1497
 01:47:05,364 --> 01:47:06,490
-<i>But you...</i>
+<i>Pero tú...</i>
 
 1498
 01:47:07,109 --> 01:47:09,236
-<i>You practiced your less
-than average taijutsu...</i>
+<i>Practicaste tu taijutsu
+por debajo de la media...</i>
 
 1499
 01:47:09,923 --> 01:47:11,883
-<i>You practiced it over and
-over again like crazy...</i>
+<i>lo practicaste una y otra vez
+como un loco...</i>
 
 1500
 01:47:12,342 --> 01:47:15,303
-All right, you've all become
-Genin as of today,
+Muy bien, todos os habéis convertido en
+Genin a partir de hoy,
 
 1501
 01:47:16,179 --> 01:47:18,974
