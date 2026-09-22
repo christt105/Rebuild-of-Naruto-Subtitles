@@ -833,7 +833,7 @@ el 'Sin Cejas' de la Arena o Sasuke?</i>
 188
 00:13:29,517 --> 00:13:31,852
 <i>Ese tío es tan fuerte que le dio
-una paliza a Cejotas {CEJAS}.</i>
+una paliza a Cejudo.</i>
 
 189
 00:13:33,086 --> 00:13:35,589
@@ -1988,7 +1988,7 @@ Exacto.
 
 451
 00:29:12,751 --> 00:29:16,880
-Oye... Senninfómano {SENNIN},
+Oye... Senninfómano,
 ¿qué vas a hacer con esto?
 
 452
@@ -3019,7 +3019,7 @@ Cuando la luna está llena, su sangre hierve.
 688
 00:47:23,698 --> 00:47:26,092
 <i>Ya veo.
-Así que este es el Ichibi {ICHIBI}.</i>
+Así que este es el Ichibi.</i>
 
 689
 00:47:30,040 --> 00:47:31,324
@@ -3049,7 +3049,7 @@ por completo y activa su
 
 695
 00:47:47,737 --> 00:47:50,790
-Técnica del Sueño Instantáneo {SUENOINSTANTANEO},
+Técnica del Sueño Instantáneo,
 no hay quien lo detenga.
 
 696
@@ -6184,7 +6184,7 @@ de los rellenitos!</i>
 1409
 01:40:13,989 --> 01:40:16,992
 ¡¿Qué intentabas hacerle
-a Cejotas aquí?!
+a Cejudo aquí?!
 
 1410
 01:40:17,284 --> 01:40:18,911
