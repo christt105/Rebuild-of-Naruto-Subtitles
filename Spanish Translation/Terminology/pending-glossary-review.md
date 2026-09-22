@@ -102,3 +102,24 @@ Naruto's joke technique rendered "Técnica de Clones de Sombra: Versión Pesca",
 
 ### `{LEONES}` - Lions Barrage
 Lee's/Sasuke's "Lions Barrage" rendered "Ráfaga de Leones" (S01E07, cue 1069).
+
+### `{SENNIN}` - Pervy Sage (Jiraiya's nickname)
+Naruto's recurring nickname for Jiraiya, "Pervy Sage" (S01E09, first use cue 451). Rendered "Senninfómano", the official Spanish nickname confirmed by the Planeta character guide (vol. 1, glossary entry: "Senninfómano: Es el mote que le puso Naruto a Jiraiya"), a portmanteau of "sennin" (sabio ermitaño) and "ninfómano". Only the first occurrence is tagged; used untagged throughout the rest of the episode. Strong source, but flagged since this is a high-frequency epithet that will recur in almost every future episode featuring Jiraiya and is worth confirming as the fixed project convention.
+
+### `{CLOSET}` - Closet Perv (Naruto's nickname for Ebisu)
+Naruto calls Ebisu "The Closet Perv" / "Closet pervert" on first meeting him (S01E09, first use cue 233). Rendered "el Pervertido de Armario", a literal calque of the English "closet" (hidden/secret) metaphor. No official Spanish-dub or manga source found; the character guide only confirms "pervertido" as a listed personality trait for Ebisu, not this specific nickname. Only the first occurrence is tagged.
+
+### `{MYOBOKU}` - Great Toad Sage of Mount Myoboku
+Jiraiya's mock self-introduction the first time Naruto meets him, "I am the Great Toad Sage of Mount Myoboku, the immortal... also known as the Toad Mountain Sage" (S01E09, cue 447-448). Rendered "el Sabio Sapo del Monte Myoboku" / "el Sabio Montaña Sapo". "Monte Myoboku" itself is confirmed by the Planeta character guide (recurring as "monte Myóboku"); the "Great Toad Sage" title is Jiraiya's own comedic exaggeration in-universe (not the same as "Ogama Sennin", the actual toad elder character named later in the guide) and has no direct official rendering.
+
+### `{ICHIBI}` - One-Tail (Gaara's Tailed Beast, before "Shukaku" is named)
+"The One-Tail" (S01E09, first use cue 688), referring to Gaara's Tailed Beast before the anime reveals its name (Shukaku). Rendered "el Ichibi", kept in Japanese rather than extending the glossary's numeric "Nine-Tails" -> "el Nueve Colas" pattern, because "el Uno Cola" / "el Un Cola" reads ungrammatically in Spanish for a singular tail. The character guide confirms "Shukaku, el espíritu de la arena" as the eventual name, but using it here would be a spoiler ahead of the anime's own reveal.
+
+### `{SUENOINSTANTANEO}` - Playing Possum Jutsu
+Baki describes Gaara's ability, "when the One-Tail transforms completely and activates his Playing Possum Jutsu, there's no stopping him" (S01E09, cue 695). Rendered "Técnica del Sueño Instantáneo", matching the Planeta character guide's description of Gaara's technique of inducing sleep to unleash Shukaku's full power ("una técnica de sueño... Técnica del sueño instantáneo" appears in the guide's technique index). The identification of "Playing Possum" with this guide technique is an interpretive judgment call, not a literal name match.
+
+### `{TRIGRAMAS}` - Eight Trigrams Sealing Style / Four-Symbols Seal
+Jiraiya's internal analysis of Naruto's seal: "Two Four-Symbols Seals making up an Eight Trigrams Seal... So it's an Eight Trigrams Sealing Style" (S01E09, cue 602-603). Rendered "Sello de los Cuatro Símbolos" and "Sello/Estilo de Sellado de los Ocho Trigramas". No source found in the manga/guide database; literal translation of the English fansub terms (the seal's canonical Japanese name is Hakke no Fūin Shiki).
+
+### `{DANZALUNA}` - Leaf Style: Crescent Moon Dance
+A sword technique used against Zaku during the forest sequence, "Leaf Style: Crescent Moon Dance" (S01E09, cue 742-743). Rendered "Estilo Hoja: Danza de la Luna Creciente". No source found; literal translation, unverified against manga/guide.
