@@ -506,13 +506,13 @@ renacuajo...
 
 117
 00:11:22,431 --> 00:11:26,518
-Los Genin de la Aldea de la Hoja
+Los Genin de la Villa de la Hoja
 son más flojos de lo que pensaba.
 
 118
 00:11:27,911 --> 00:11:29,746
 <i>E-Estos tipos no son
-de nuestra aldea.</i>
+de nuestra villa.</i>
 
 119
 00:11:30,497 --> 00:11:31,832
@@ -555,7 +555,7 @@ Cuando acabe con este renacuajo,
 128
 00:12:10,328 --> 00:12:13,414
 ¡¿Qué crees que haces
-en la aldea de otros, eh?!
+en la Villa de otros, eh?!
 
 129
 00:12:16,235 --> 00:12:18,154
@@ -625,12 +625,12 @@ Kankuro, para.
 144
 00:13:25,888 --> 00:13:27,991
 Eres una vergüenza
-para nuestra aldea.
+para nuestra villa.
 
 145
 00:13:28,766 --> 00:13:31,727
 ¿Por qué crees que hemos venido
-hasta la Aldea de la Hoja?
+hasta la Villa de la Hoja?
 
 146
 00:13:31,811 --> 00:13:33,813
@@ -705,7 +705,7 @@ A juzgar por vuestras bandas,
 163
 00:14:20,401 --> 00:14:23,028
 sois shinobi de la
-Aldea Oculta de la Arena, ¿verdad?
+Villa Oculta de la Arena, ¿verdad?
 
 164
 00:14:23,988 --> 00:14:26,907
@@ -719,7 +719,7 @@ cruzar las fronteras...
 
 166
 00:14:28,909 --> 00:14:30,661
-entre nuestras aldeas sin permiso.
+entre nuestras villas sin permiso.
 
 167
 00:14:31,412 --> 00:14:32,663
@@ -739,7 +739,7 @@ Según las circunstancias...
 
 171
 00:14:38,586 --> 00:14:41,505
-Hemos venido a esta aldea
+Hemos venido a esta villa
 a presentarnos al Examen Chūnin.
 
 172
@@ -1697,7 +1697,7 @@ no para de decir Sasuke, Sasuke.
 
 392
 00:27:41,993 --> 00:27:43,203
-<i>¡Torbellino de la Hoja! {TORBELLINO}</i>
+<i>¡Ventisca de la Hoja!</i>
 
 393
 00:27:48,833 --> 00:27:52,837
@@ -2671,7 +2671,7 @@ Deberíais hablar un poco más bajo.
 
 618
 00:41:57,848 --> 00:42:03,687
-Sois los "Nueve Novatos" {NOVATOS}, ¿verdad?
+Sois los "Novatos", ¿verdad?
 ¿Recién salidos de la Academia?
 
 619
@@ -2696,7 +2696,7 @@ En fin, echad un buen vistazo a vuestro alrededor.
 623
 00:42:24,649 --> 00:42:28,152
 Los que están detrás de vosotros...
-Son de la Aldea Oculta de la Lluvia.
+Son de la Villa Oculta de la Lluvia.
 
 624
 00:42:28,337 --> 00:42:29,505
@@ -2762,7 +2762,7 @@ la Cascada, el Sonido...
 638
 00:43:10,838 --> 00:43:13,257
 Hay muchos Genin excepcionales
-de esas aldeas
+de esas villas
 
 639
 00:43:13,340 --> 00:43:15,926
@@ -2771,12 +2771,12 @@ al examen este año.
 
 640
 00:43:17,595 --> 00:43:20,222
-En cuanto a la Aldea Oculta
+En cuanto a la Villa Oculta
 del Sonido,
 
 641
 00:43:20,489 --> 00:43:23,283
-es una aldea nueva de una nación pequeña,
+es una villa nueva de una nación pequeña,
 
 642
 00:43:23,600 --> 00:43:25,351
@@ -2789,7 +2789,7 @@ En cualquier caso,
 644
 00:43:28,564 --> 00:43:30,858
 todos son la élite
-de sus respectivas aldeas.
+de sus respectivas villas.
 
 645
 00:43:31,440 --> 00:43:34,902
@@ -2980,7 +2980,7 @@ lo bastante duro con él.
 
 688
 00:45:36,859 --> 00:45:40,404
-La Aldea del Sonido es una Aldea Oculta
+La Villa del Sonido es una Villa Oculta
 menor de una nación pequeña.
 
 689
@@ -2995,11 +2995,11 @@ doy un poco de guerra.
 691
 00:45:45,868 --> 00:45:50,956
 Sí, sobre todo después de ese comentario
-sobre nuestra "aldea menor".
+sobre nuestra "villa menor".
 
 692
 00:46:08,307 --> 00:46:10,350
-<i>Estos tíos... son de la Aldea del Sonido...</i>
+<i>Estos tíos... son de la Villa del Sonido...</i>
 
 693
 00:46:11,852 --> 00:46:13,437
@@ -3056,7 +3056,7 @@ cuatro años presentándose a este examen.</i>
 
 706
 00:46:53,477 --> 00:46:56,605
-Esos tres de la Aldea del Sonido...
+Esos tres de la Villa del Sonido...
 Sin duda tienen nivel Chūnin.
 
 707
@@ -3095,7 +3095,7 @@ de la primera prueba del Examen Chūnin.
 
 715
 00:47:46,864 --> 00:47:48,198
-¡Tú, el de la Aldea Oculta del Sonido!
+¡Tú, el de la Villa Oculta del Sonido!
 
 716
 00:47:49,700 --> 00:47:51,869
@@ -3996,7 +3996,7 @@ sin pestañear siquiera.</i>
 
 916
 01:02:10,218 --> 01:02:12,470
-<i>Tercer Ojo... ¡ábrete! {TERCEROJO}</i>
+<i>Tercer Ojo... ¡ábrete!</i>
 
 917
 01:02:28,845 --> 01:02:30,346
@@ -4449,7 +4449,7 @@ cueste lo que cueste!</i>
 1019
 01:09:28,665 --> 01:09:31,334
 <i>¡Y haré que todos
-los habitantes de la aldea</i>
+los habitantes de la Villa</i>
 
 1020
 01:09:31,418 --> 01:09:33,837
@@ -4827,7 +4827,7 @@ Recibir información falsa
 1105
 01:14:51,654 --> 01:14:55,116
 puede suponer un golpe catastrófico
-para vuestros compañeros y vuestra aldea.
+para vuestros compañeros y vuestra villa.
 
 1106
 01:14:56,659 --> 01:14:59,704

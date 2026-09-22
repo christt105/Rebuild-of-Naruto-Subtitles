@@ -209,7 +209,7 @@ Te has asustado un poco, ¿eh?
 50
 00:04:09,677 --> 00:04:11,721
 ¡El Nueve Colas ha aparecido
-de repente en la aldea!
+de repente en la Villa!
 
 51
 00:04:12,113 --> 00:04:14,949
@@ -339,7 +339,7 @@ evacuar a los aldeanos.
 
 81
 00:05:39,208 --> 00:05:41,128
-<i>protegeré la aldea...
+<i>protegeré la Villa...
 a mi familia...</i>
 
 82
@@ -399,12 +399,12 @@ proteger a sus hijos!
 94
 00:06:50,201 --> 00:06:52,245
 ¡Evitad que se dañe
-la aldea!
+la Villa!
 
 95
 00:06:52,270 --> 00:06:55,106
 ¡Perseguid al Nueve Colas
-fuera de las murallas de la aldea!
+fuera de las murallas de la Villa!
 
 96
 00:06:55,331 --> 00:06:56,332
@@ -441,7 +441,7 @@ El Nueve Colas, ¿eh?
 
 104
 00:07:31,008 --> 00:07:34,053
-Lo echaremos de la aldea
+Lo echaremos de la Villa
 con el <i>Bastón Adamantino</i>.
 
 105
@@ -463,7 +463,7 @@ con el <i>Bastón Adamantino</i>.
 
 109
 00:07:57,477 --> 00:07:59,854
-Lo he echado fuera de la aldea.
+Lo he echado fuera de la Villa.
 
 110
 00:08:00,116 --> 00:08:03,119
@@ -502,7 +502,7 @@ Mi papá y mi mamá siguen...
 118
 00:08:53,783 --> 00:08:55,618
 ¡Llevadla de inmediato
-al Hospital de la Aldea de la Hoja!
+al Hospital de la Villa de la Hoja!
 
 119
 00:08:55,924 --> 00:08:57,592
@@ -741,7 +741,7 @@ se descontroló, ¿verdad?
 174
 00:12:42,992 --> 00:12:46,365
 Y que mucha gente
-de la aldea murió,
+de la Villa murió,
 
 175
 00:12:46,643 --> 00:12:49,143
@@ -2048,7 +2048,7 @@ convertirse en ninja.
 482
 00:41:53,823 --> 00:41:57,672
 Seguirá siendo un marginado en
-esta aldea el resto de su vida.
+esta villa el resto de su vida.
 
 483
 00:41:57,697 --> 00:42:00,304
@@ -2107,7 +2107,7 @@ Anda, mira... Es <i>esa cosa</i>.
 495
 00:42:45,458 --> 00:42:47,960
 ¿Por qué dejamos que ese chico
-se quede en esta aldea?
+se quede en esta villa?
 
 496
 00:42:48,461 --> 00:42:51,214
@@ -4664,7 +4664,7 @@ Dependiendo de cómo se use...
 1093
 01:30:50,012 --> 01:30:53,307
 ¡Será un desastre enorme si
-lo sacan de la aldea!
+lo sacan de la Villa!
 
 1094
 01:30:55,124 --> 01:30:57,844
@@ -4680,7 +4680,7 @@ Sí. ¡Traed a Naruto aquí de inmediato!
 
 1097
 01:31:19,500 --> 01:31:23,045
-<i>Le contaré esto a todos en la aldea
+<i>Le contaré esto a todos en la Villa
 y eliminaré a Naruto...</i>
 
 1098
@@ -4804,7 +4804,7 @@ se creó una norma.
 
 1125
 01:33:14,672 --> 01:33:19,885
-Es una norma que todos en la aldea conocen, Naruto...
+Es una norma que todos en la Villa conocen, Naruto...
 todos menos tú.
 
 1126
@@ -4833,7 +4833,7 @@ El Zorro Demonio de las Nueve Colas
 1131
 01:33:36,753 --> 01:33:39,756
 que mató a los padres de Iruka y
-destruyó nuestra aldea.
+destruyó nuestra villa.
 
 1132
 01:33:40,145 --> 01:33:41,317
@@ -4943,7 +4943,7 @@ que cambia de opinión.
 1156
 01:35:30,899 --> 01:35:34,111
 ¡Va a usar el pergamino
-para vengarse de la aldea!
+para vengarse de la Villa!
 
 1157
 01:35:35,477 --> 01:35:39,315
@@ -5079,7 +5079,7 @@ Ya no es el Zorro Demonio.
 
 1187
 01:37:54,021 --> 01:37:56,607
-Es un miembro de la Aldea Oculta de la Hoja...
+Es un miembro de la Villa Oculta de la Hoja...
 ¡Es Naruto Uzumaki!
 
 1188
@@ -5242,7 +5242,7 @@ Aunque haya sido una coincidencia,
 1224
 01:41:08,245 --> 01:41:11,957
 parece que la temeridad de Naruto
-salvó la aldea.
+salvó la Villa.
 
 1225
 01:41:12,307 --> 01:41:13,349
@@ -5305,7 +5305,7 @@ morir en una misión!
 1238
 01:42:18,965 --> 01:42:21,384
 Mamá y papá sacrificaron sus vidas
-para proteger la aldea
+para proteger la Villa
 
 1239
 01:42:21,385 --> 01:42:23,720
@@ -5349,7 +5349,7 @@ llevan dentro la Voluntad de Fuego.
 1248
 01:42:54,418 --> 01:42:58,214
 Es la firme voluntad de
-proteger esta aldea.
+proteger esta villa.
 
 1249
 01:42:59,256 --> 01:43:01,387
@@ -5358,7 +5358,7 @@ la Voluntad de Fuego dentro de ti,
 
 1250
 01:43:01,412 --> 01:43:04,916
-todos en la aldea
+todos en la Villa
 son tu familia.
 
 1251
