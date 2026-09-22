@@ -439,3 +439,27 @@ table.glossary-table td:nth-child(5) {
 .episode-chips {
   max-width: 100%;
 }
+
+button.cue-toggle {
+  font: inherit;
+  cursor: pointer;
+}
+
+button.cue-toggle.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff3e8;
+}
+
+.cue-detail {
+  margin-top: 0.5rem;
+}
+
+.cue-match {
+  padding: 0.4rem 0;
+}
+
+.cue-match a {
+  font-weight: 600;
+  text-decoration: none;
+}

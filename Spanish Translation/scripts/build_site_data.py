@@ -182,12 +182,16 @@ def build_glossary_index(episodes_by_code):
     entries = []
     for entry in load_glossary():
         terms = [t.lower() for t in extract_glossary_terms(entry.get("spanish_es", ""))]
-        matched_episodes = []
-        for code, episode in episodes_by_code.items():
-            es_text = " ".join(cue["es"] for cue in episode["cues"]).lower()
-            if any(term and term in es_text for term in terms):
-                matched_episodes.append(code)
-        entries.append({**entry, "episodes": matched_episodes})
+        cues_by_episode = {}
+        for code, episode in sorted(episodes_by_code.items()):
+            matched_indices = [
+                cue["index"]
+                for cue in episode["cues"]
+                if any(term and term in cue["es"].lower() for term in terms)
+            ]
+            if matched_indices:
+                cues_by_episode[code] = matched_indices
+        entries.append({**entry, "episodes": list(cues_by_episode.keys()), "cues": cues_by_episode})
     return {"entries": entries, "pending_tags": load_pending_tags()}
 
 
