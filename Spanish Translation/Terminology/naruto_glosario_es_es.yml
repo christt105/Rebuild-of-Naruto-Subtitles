@@ -690,3 +690,105 @@
   spanish_es: "camino del ninja"
   source: "Guia oficial Planeta (tomo 01 Formacion de combate y tomo 02 Libro de batalla: «¡Ese es su camino del ninja!», «el nuevo camino del ninja»; titulo de capitulo del tomo 2 «El camino del ninja»), sin dejar «nindo». Resuelto 2026-09-20, cue S01E04 1049 (antes {NINDO})"
   verified: true
+
+- japanese: "隠れ里"
+  english: "Hidden Village (any shinobi village)"
+  spanish_es: "Villa Oculta de X (Villa Oculta de la Hoja, del Sonido, de la Arena...); «la Villa» al abreviar"
+  source: "Manga y guia oficial Planeta («Villa de la Hoja», «Villa Oculta del Sonido», tomos 6-9 y guia 1). Convencion fijada por Christian 2026-09-21: todas las aldeas se llaman «Villa», nunca «Aldea», tambien las que solo salen en el anime"
+  verified: true
+
+- japanese: "天の書 / 地の書"
+  english: "Heaven Scroll / Earth Scroll"
+  spanish_es: "Rollo del Cielo / Rollo de la Tierra"
+  source: "Manga Planeta tomo 7 («rollo del cielo»). Resuelto 2026-09-21, S01E07 (antes {PERG}); también «rollo» en genérico dentro del examen, no «pergamino»"
+  verified: true
+
+- japanese: "木ノ葉旋風"
+  english: "Leaf Whirlwind"
+  spanish_es: "Ventisca de la Hoja"
+  source: "Guía oficial Planeta 1 p186 (patada giratoria baja de Lee). Resuelto 2026-09-21, S01E06 (antes {TORBELLINO})"
+  verified: true
+
+- japanese: "木ノ葉烈風"
+  english: "Leaf Hurricane"
+  spanish_es: "Remolino de la Hoja"
+  source: "Guía oficial Planeta 1 p185. Resuelto 2026-09-21, S01E07 (antes {HOJA})"
+  verified: true
+
+- japanese: "木ノ葉の碧き猛獣"
+  english: "Beautiful Green Beast of the Leaf"
+  spanish_es: "la Bella Bestia Verde de la Hoja"
+  source: "Manga Planeta tomo 6 («¡La bella bestia!») y guía 3 p206 («la bella y joven bestia de la Hoja»); «Verde» se conserva del inglés del anime. Resuelto 2026-09-21, S01E07 (antes {BESTIA})"
+  verified: true
+
+- japanese: "表蓮華 / 裏蓮華"
+  english: "Primary Lotus / Hidden Lotus"
+  spanish_es: "Flor de Loto Frontal / Flor de Loto Oculta"
+  source: "Guía oficial Planeta 1 p56 («la flor de loto frontal y la oculta»). Resuelto 2026-09-21, S01E07 (antes {LOTO})"
+  verified: true
+
+- japanese: "第三の眼"
+  english: "Third Eye"
+  spanish_es: "Tercer Ojo"
+  source: "Guía oficial Planeta 1 p208 («el tercer ojo» de Gaara). Resuelto 2026-09-21, S01E06 (antes {TERCEROJO})"
+  verified: true
+
+- japanese: "砂縛柩 / 砂縛送葬"
+  english: "Sand Coffin / Sand Burial"
+  spanish_es: "Sarcófago de Arena / Funeral del Desierto"
+  source: "Guía oficial Planeta 1 p186-188 y índice de técnicas (tomo 3 p337). Resuelto 2026-09-21, S01E07 (antes {ATAUD})"
+  verified: true
+
+- japanese: "心転身の術"
+  english: "Mind Transfer Jutsu"
+  spanish_es: "Técnica del Traspaso Mental"
+  source: "Guía oficial Planeta 1 p106 y p201. Resuelto 2026-09-21, S01E05 y S01E07 (antes {MIND} y {MENTE})"
+  verified: true
+
+- japanese: "秘術・蟲玉"
+  english: "Hidden Jutsu: Beetle Sphere"
+  spanish_es: "Técnica Secreta: Esfera de Insectos"
+  source: "Aprobado por Christian 2026-09-21 (sin hallazgo directo en Planeta; solo «insectos» como término de la serie). Resuelto en S01E05 (antes {BEETLE})"
+  verified: false
+
+- japanese: "呪印"
+  english: "Curse Mark"
+  spanish_es: "Sello Maldito"
+  source: "Decisión de Christian 2026-09-21: se mantiene «Sello Maldito» (Planeta usa «sello maligno»). Resuelto en S01E07 (antes {SELLO})"
+  verified: true
+
+- japanese: "五象封印"
+  english: "Five-Pronged Seal"
+  spanish_es: "Sello de Cinco Puntas"
+  source: "Sin fuente en Planeta; se mantiene la traducción literal por decisión de Christian 2026-09-21. Resuelto en S01E07 (antes {SELLO})"
+  verified: false
+
+- japanese: "斬空波"
+  english: "Slicing Sound Wave"
+  spanish_es: "Onda Cortante"
+  source: "Guía oficial Planeta 1 p188-189 e índice (tomo 3 p337: «onda cortante»; la técnica definitiva de Zaku «consume más que la onda cortante»). Resuelto 2026-09-21, S01E07 (antes {SONIDO}); «Super Sonic Slicing Wave» queda como «Onda Cortante Supersónica» (la guía llama a la definitiva «onda de vacío cortante», pendiente de confirmar con Christian)"
+  verified: true
+
+- japanese: "(no confirmado)"
+  english: "Rookie Nine"
+  spanish_es: "los Novatos"
+  source: "Manga Planeta tomo 8 p34 («todos los novatos de la Villa de la Hoja»); Planeta no dice «nueve». Resuelto 2026-09-21, S01E06 (antes {NOVATOS})"
+  verified: true
+
+- japanese: "火遁 (prefijo)"
+  english: "Fire Release / Fire Style (prefix)"
+  spanish_es: "Técnica ígnea"
+  source: "Guía oficial Planeta 1 p175-176 («Técnica ígnea: gran bola de fuego», «fuego del dragón»). Sustituye «Elemento Fuego» en S01E02. Resuelto 2026-09-21 (antes {FIRE})"
+  verified: true
+
+- japanese: "火遁・鳳仙火の術"
+  english: "Fire Release: Phoenix Flower Jutsu"
+  spanish_es: "Técnica ígnea: Flor de Fénix"
+  source: "Mismo jutsu (鳳仙火) que la entrada «Llamas del Fénix» de arriba, que viene de Wikipedia ES; el inglés del anime dice «Phoenix Flower». Solo el prefijo está confirmado por Planeta. Resuelto 2026-09-21, S01E07 (antes {FENIX})"
+  verified: false
+
+- japanese: "倍化の術"
+  english: "Expansion Jutsu"
+  spanish_es: "Multitamaño"
+  source: "Es el Multi-Size de los Akimichi: se alinea con la entrada verificada «Multitamaño». Resuelto 2026-09-21, S01E05 y S01E07 (antes {EXPANSION})"
+  verified: true

@@ -118,11 +118,11 @@ de supervivencia extrema.
 
 28
 00:03:43,659 --> 00:03:47,163
-¡Una batalla sin reglas por los pergaminos!
+¡Una batalla sin reglas por los rollos!
 
 29
 00:03:47,644 --> 00:03:49,312
-El Pergamino del Cielo y el Pergamino de la Tierra. {PERG}
+El Rollo del Cielo y el Rollo de la Tierra.
 
 30
 00:03:49,312 --> 00:03:51,606
@@ -135,17 +135,17 @@ Sois 78 participantes, en 26 equipos.
 32
 00:03:56,569 --> 00:03:59,322
 La mitad de los equipos, es decir 13,
-recibirá Pergaminos del Cielo.
+recibirá Rollos del Cielo.
 
 33
 00:03:59,864 --> 00:04:02,909
 La otra mitad
-recibirá Pergaminos de la Tierra.
+recibirá Rollos de la Tierra.
 
 34
 00:04:02,951 --> 00:04:05,370
 Cada equipo tendrá
-uno de los pergaminos.
+uno de los rollos.
 
 35
 00:04:06,204 --> 00:04:09,165
@@ -153,7 +153,7 @@ El objetivo es...
 
 36
 00:04:10,136 --> 00:04:12,518
-conseguir ambos pergaminos
+conseguir ambos rollos
 
 37
 00:04:12,543 --> 00:04:15,505
@@ -213,7 +213,7 @@ conseguir dormir...
 49
 00:04:44,492 --> 00:04:48,579
 Y aparte de las heridas sufridas
-peleando por los pergaminos...
+peleando por los rollos...
 
 50
 00:04:48,989 --> 00:04:50,748
@@ -234,7 +234,7 @@ del equipo no lleguen a la torre
 
 54
 00:05:01,676 --> 00:05:04,762
-con los pergaminos del Cielo y de la Tierra
+con los rollos del Cielo y de la Tierra
 dentro del tiempo límite.
 
 55
@@ -249,7 +249,7 @@ Y una cosa más...
 57
 00:05:14,564 --> 00:05:17,025
 Bajo ningún concepto miréis
-el contenido de los pergaminos
+el contenido de los rollos
 
 58
 00:05:17,108 --> 00:05:19,110
@@ -285,7 +285,7 @@ Es una prueba de vuestra integridad.
 65
 00:05:39,464 --> 00:05:42,675
 Cambiad los tres formularios de vuestro equipo
-por un pergamino en aquella cabaña.
+por un rollo en aquella cabaña.
 
 66
 00:05:43,426 --> 00:05:47,513
@@ -295,12 +295,12 @@ y todas las puertas se abrirán a la vez.
 67
 00:06:01,861 --> 00:06:06,324
 <i>Ya veo, así que no sabrás qué
-pergamino le ha tocado a cada equipo...</i>
+rollo le ha tocado a cada equipo...</i>
 
 68
 00:06:06,574 --> 00:06:11,329
 <i>y no sabrás cuál de los tres
-miembros lleva el pergamino.</i>
+miembros lleva el rollo.</i>
 
 69
 00:06:12,330 --> 00:06:14,082
@@ -591,7 +591,7 @@ En ese caso...
 
 133
 00:10:42,975 --> 00:10:44,935
-¡¿Cuál de vosotros tiene el pergamino?!
+¡¿Cuál de vosotros tiene el rollo?!
 
 134
 00:10:45,144 --> 00:10:46,812
@@ -599,7 +599,7 @@ En ese caso...
 
 135
 00:10:48,314 --> 00:10:50,358
-<i>¡Técnica ígnea: Flor de Fénix!</i> {FENIX}
+<i>¡Técnica ígnea: Flor de Fénix!</i>
 
 136
 00:10:55,821 --> 00:10:58,032
@@ -628,7 +628,7 @@ En ese caso...
 142
 00:11:11,837 --> 00:11:15,299
 ¡Si te mueves, eres hombre muerto!
-¡Ahora entrega el pergamino, por las buenas!
+¡Ahora entrega el rollo, por las buenas!
 
 143
 00:11:17,343 --> 00:11:18,260
@@ -774,7 +774,7 @@ sobrevivir es el cerebro!
 175
 00:13:04,116 --> 00:13:06,420
 los tipos que cayeron en
-la trampa tenían un pergamino de la Tierra!
+la trampa tenían un rollo de la Tierra!
 
 176
 00:13:06,840 --> 00:13:09,507
@@ -867,7 +867,7 @@ No vamos a hacer eso.
 
 197
 00:14:11,963 --> 00:14:16,489
-La examinadora dijo que necesitamos un pergamino del "Cielo"
+La examinadora dijo que necesitamos un rollo del "Cielo"
 y uno de la "Tierra" para pasar.
 
 198
@@ -931,7 +931,7 @@ no son shinobi corrientes.
 
 211
 00:15:09,272 --> 00:15:13,657
-Unos críos de la aldea de la Arena
+Unos críos de la Villa de la Arena
 nos están desafiando.
 
 212
@@ -954,7 +954,7 @@ Ahora, todos vais a morir.
 
 216
 00:15:38,149 --> 00:15:41,557
-<i>¿Qué pergamino tendrán esos...?</i>
+<i>¿Qué rollo tendrán esos...?</i>
 
 217
 00:15:42,519 --> 00:15:43,333
@@ -967,7 +967,7 @@ y reunir información antes de atacar?
 
 219
 00:15:48,541 --> 00:15:51,889
-Si tienen el mismo pergamino que nosotros,
+Si tienen el mismo rollo que nosotros,
 no tiene sentido pelear.
 
 220
@@ -1059,7 +1059,7 @@ por rebelarte contra Gaara...
 
 241
 00:17:18,048 --> 00:17:19,463
-<i>¡Ataúd de Arena!</i> {ATAUD}
+<i>¡Sarcófago de Arena!</i>
 
 242
 00:17:25,981 --> 00:17:27,225
@@ -1080,7 +1080,7 @@ Pero no tendría ninguna gracia.
 
 246
 00:18:14,166 --> 00:18:15,825
-<i>¡Funeral de Arena!</i>
+<i>¡Funeral del Desierto!</i>
 
 247
 00:18:28,637 --> 00:18:30,155
@@ -1093,7 +1093,7 @@ y lo he aplastado hasta la muerte.
 
 249
 00:18:34,877 --> 00:18:36,229
-E-El pergamino...
+E-El rollo...
 
 250
 00:18:37,079 --> 00:18:38,131
@@ -1118,7 +1118,7 @@ Esto es malo.
 
 255
 00:19:06,748 --> 00:19:08,637
-Qué suerte. Es un pergamino del Cielo.
+Qué suerte. Es un rollo del Cielo.
 
 256
 00:19:09,496 --> 00:19:11,829
@@ -1156,7 +1156,7 @@ pero para nosotros es peligroso!
 
 264
 00:19:38,115 --> 00:19:39,885
-¡Un juego de pergaminos es suficiente!
+¡Un juego de rollos es suficiente!
 
 265
 00:19:40,400 --> 00:19:41,933
@@ -1214,7 +1214,7 @@ Está bien.
 
 278
 00:20:53,180 --> 00:20:55,015
-¡Yo llevaré el pergamino!
+¡Yo llevaré el rollo!
 
 279
 00:20:56,100 --> 00:20:57,518
@@ -1423,7 +1423,7 @@ una serpiente tan enorme!</i>
 
 326
 00:24:00,326 --> 00:24:03,370
-Queréis nuestro pergamino de la Tierra,
+Queréis nuestro rollo de la Tierra,
 ¿verdad?
 
 327
@@ -1436,7 +1436,7 @@ Bueno, comencemos...
 
 329
 00:24:18,451 --> 00:24:20,870
-la batalla por los pergaminos.
+la batalla por los rollos.
 
 330
 00:24:23,182 --> 00:24:24,516
@@ -1646,7 +1646,7 @@ en nada a la situación.</i>
 
 378
 00:28:55,162 --> 00:28:56,914
-Te daré el pergamino.
+Te daré el rollo.
 
 379
 00:28:57,456 --> 00:28:59,958
@@ -1663,7 +1663,7 @@ Así que, por favor, tómalo y vete.
 382
 00:29:05,130 --> 00:29:07,591
 ¡¿De qué sirve darle
-el pergamino al enemigo?!
+el rollo al enemigo?!
 
 383
 00:29:08,381 --> 00:29:09,382
@@ -1743,7 +1743,7 @@ que nos dejará ir
 
 400
 00:30:03,463 --> 00:30:04,798
-después de darle el pergamino!
+después de darle el rollo!
 
 401
 00:30:05,528 --> 00:30:08,156
@@ -1764,7 +1764,7 @@ Tienes razón.
 
 405
 00:30:18,166 --> 00:30:19,584
-Un pergamino se puede...
+Un rollo se puede...
 
 406
 00:30:23,065 --> 00:30:25,275
@@ -1856,7 +1856,7 @@ deberían superarlo enseguida.
 
 427
 00:32:11,358 --> 00:32:13,193
-¡La marca de la Aldea de la Hoja, perfecto!
+¡La marca de la Villa de la Hoja, perfecto!
 
 428
 00:32:17,531 --> 00:32:19,199
@@ -1885,7 +1885,7 @@ Además, son extraños.
 434
 00:32:46,810 --> 00:32:49,646
 Enséñame las fotos de estos tres
-de la Aldea Oculta de la Hierba.
+de la Villa Oculta de la Hierba.
 
 435
 00:32:49,896 --> 00:32:51,148
@@ -1949,7 +1949,7 @@ voy a seguir a esos tipos!
 449
 00:33:29,598 --> 00:33:31,809
 <i>¡Ese hombre...
-está en la Aldea Oculta de la Hoja!</i>
+está en la Villa Oculta de la Hoja!</i>
 
 450
 00:33:41,656 --> 00:33:42,449
@@ -1989,7 +1989,7 @@ como un tatuaje.</i>
 
 458
 00:34:13,438 --> 00:34:16,149
-<i>¡Sello de Cinco Puntas!</i> {SELLO}
+<i>¡Sello de Cinco Puntas!</i>
 
 459
 00:34:24,533 --> 00:34:26,452
@@ -2187,12 +2187,12 @@ que abrirte camino a través de este examen.
 
 505
 00:40:01,611 --> 00:40:03,488
-- ¡El pergamino!
+- ¡El rollo!
 - Derrota a los tres...
 
 506
 00:40:03,571 --> 00:40:06,074
-ninjas del Sonido {SONIDO} a mis órdenes.
+ninjas del Sonido a mis órdenes.
 
 507
 00:40:06,694 --> 00:40:08,696
@@ -2349,7 +2349,7 @@ Sustitución.
 543
 00:44:00,733 --> 00:44:04,529
 Siendo como eres una jonin especial
-de la aldea.
+de la Villa.
 
 544
 00:44:05,029 --> 00:44:08,699
@@ -2367,7 +2367,7 @@ Hace un rato,
 547
 00:44:27,313 --> 00:44:29,991
 le di ese mismo Sello Maldito
-como regalo. {SELLO}
+como regalo.
 
 548
 00:44:31,430 --> 00:44:33,141
@@ -2420,7 +2420,7 @@ No canceles esta prueba, ¿entendido?
 
 559
 00:45:15,433 --> 00:45:18,436
-Tres personas de mi aldea
+Tres personas de mi villa
 también están a tu cargo.
 
 560
@@ -2703,7 +2703,7 @@ Entonces largo de aquí.
 
 624
 00:50:25,635 --> 00:50:29,013
-Quitarle un pergamino a unos cobardes
+Quitarle un rollo a unos cobardes
 como vosotros
 
 625
@@ -2835,7 +2835,7 @@ Está claro que no tienes talento.
 
 655
 00:52:14,643 --> 00:52:15,769
-<i>¡Huracán de la Hoja!</i> {HOJA}
+<i>¡Remolino de la Hoja!</i>
 
 656
 00:52:20,983 --> 00:52:23,193
@@ -2852,7 +2852,7 @@ esforzarte un poco!
 
 659
 00:52:29,969 --> 00:52:33,598
-¡Soy la Bestia Verde de la Hoja, {BESTIA}
+¡Soy la Bella Bestia Verde de la Hoja,
 Rock Lee!
 
 660
@@ -3032,7 +3032,7 @@ Es solo el principio.
 
 702
 00:55:04,480 --> 00:55:05,898
-<i>¡Loto Primario!</i> {LOTO}
+<i>¡Flor de Loto Frontal!</i>
 
 703
 00:55:11,987 --> 00:55:13,030
@@ -3391,7 +3391,7 @@ Sakura...
 
 787
 01:00:49,783 --> 01:00:50,951
-<i>¡Onda Sonora Cortante!</i> {SONIDO}
+<i>¡Onda Cortante!</i>
 
 788
 01:00:56,504 --> 01:00:58,423
@@ -3559,7 +3559,7 @@ Esa es mi frase.
 
 827
 01:03:56,261 --> 01:03:57,804
-¡Formación Ino! {MENTE}
+¡Formación Ino!
 
 828
 01:03:57,887 --> 01:03:59,306
@@ -3568,7 +3568,7 @@ Esa es mi frase.
 
 829
 01:03:59,514 --> 01:04:00,473
-<i>¡Jutsu de Expansión!</i>
+<i>¡Multitamaño!</i>
 
 830
 01:04:01,891 --> 01:04:04,019
@@ -3588,7 +3588,7 @@ Esa es mi frase.
 
 834
 01:04:19,159 --> 01:04:20,785
-<i>¡Onda Sonora Cortante!</i>
+<i>¡Onda Cortante!</i>
 
 835
 01:04:29,711 --> 01:04:30,587
@@ -3597,7 +3597,7 @@ Esa es mi frase.
 836
 01:04:32,464 --> 01:04:33,965
 <i>La presión del viento de mi
-Onda Sonora Cortante</i>
+Onda Cortante</i>
 
 837
 01:04:34,007 --> 01:04:35,925
@@ -3668,7 +3668,7 @@ para vigilar mi cuerpo.
 
 853
 01:05:21,756 --> 01:05:23,973
-<i>¡Arte ninja: Jutsu de Transferencia de Mente!</i>
+<i>¡Arte ninja: Técnica del Traspaso Mental!</i>
 
 854
 01:05:31,439 --> 01:05:32,315
@@ -3694,7 +3694,7 @@ termine aquí mismo,
 
 859
 01:05:45,120 --> 01:05:47,455
-¡dejad vuestro pergamino y marchaos!
+¡dejad vuestro rollo y marchaos!
 
 860
 01:05:47,956 --> 01:05:51,361
@@ -3724,7 +3724,7 @@ Descuidado.
 
 866
 01:06:13,773 --> 01:06:20,822
-Nuestro objetivo no son los pergaminos ni
+Nuestro objetivo no son los rollos ni
 siquiera aprobar esta prueba.
 
 867
@@ -3942,7 +3942,7 @@ no es nada de lo que tener miedo!
 
 917
 01:08:59,173 --> 01:09:00,883
-<i>¡Onda Sonora Cortante Supersónica!</i>
+<i>¡Onda Cortante Supersónica!</i>
 
 918
 01:09:14,080 --> 01:09:16,416
@@ -4237,7 +4237,7 @@ He venido a ayudar.
 
 987
 01:13:52,073 --> 01:13:53,950
-¿Dónde están esos ninjas de la Aldea del Sonido?
+¿Dónde están esos ninjas de la Villa del Sonido?
 
 988
 01:13:54,234 --> 01:13:56,486
@@ -4389,7 +4389,7 @@ Por lo que sabemos...
 
 1023
 01:15:59,885 --> 01:16:02,387
-puede que no queden pergaminos del Cielo.
+puede que no queden rollos del Cielo.
 
 1024
 01:16:03,221 --> 01:16:04,765
@@ -4416,7 +4416,7 @@ y veintiséis equipos.
 
 1029
 01:16:20,478 --> 01:16:23,106
-Solo hay trece pergaminos del Cielo
+Solo hay trece rollos del Cielo
 y trece de la Tierra.
 
 1030
@@ -4461,7 +4461,7 @@ que pelear con nadie!
 
 1039
 01:17:11,999 --> 01:17:15,085
-Tengo un montón de pergaminos en blanco guardados.
+Tengo un montón de rollos en blanco guardados.
 
 1040
 01:17:15,752 --> 01:17:18,880
@@ -4471,7 +4471,7 @@ y uno para apuntes...
 1041
 01:17:19,065 --> 01:17:22,359
 Si lo retocamos un poco y hacemos que
-se parezca exactamente a un pergamino del Cielo...
+se parezca exactamente a un rollo del Cielo...
 
 1042
 01:17:22,384 --> 01:17:23,760
@@ -4507,7 +4507,7 @@ algo escrito por dentro,
 1049
 01:17:36,690 --> 01:17:39,693
 y no se entiende
-a menos que tengas ambos pergaminos.
+a menos que tengas ambos rollos.
 
 1050
 01:17:40,152 --> 01:17:44,031
@@ -4520,7 +4520,7 @@ no sirve de nada hacer una falsificación!
 
 1052
 01:17:48,618 --> 01:17:49,786
-Este pergamino de la Tierra...
+Este rollo de la Tierra...
 
 1053
 01:17:49,836 --> 01:17:50,837
@@ -4547,7 +4547,7 @@ Maldición... ¡Todos son monstruos!
 
 1058
 01:18:25,800 --> 01:18:27,209
-¿Cómo podemos robar un pergamino
+¿Cómo podemos robar un rollo
 
 1059
 01:18:27,234 --> 01:18:29,862
@@ -4560,7 +4560,7 @@ nos exige todo lo que tenemos?
 
 1061
 01:18:32,572 --> 01:18:34,999
-¡El orgullo de nuestra aldea
+¡El orgullo de nuestra villa
 está en juego!
 
 1062
@@ -4600,7 +4600,7 @@ Tengo que permanecer escondido.
 
 1070
 01:19:29,659 --> 01:19:31,578
-El Pergamino de la Tierra... igual que el nuestro.
+El Rollo de la Tierra... igual que el nuestro.
 
 1071
 01:19:36,084 --> 01:19:37,627
@@ -4639,7 +4639,7 @@ hipnótico...
 1079
 01:20:43,418 --> 01:20:46,504
 para afectar a los ojos de quien abriera
-el pergamino antes de llegar a la torre.
+el rollo antes de llegar a la torre.
 
 1080
 01:20:47,518 --> 01:20:51,689
@@ -4661,7 +4661,7 @@ por aquí tú solo?
 
 1084
 01:21:00,745 --> 01:21:04,082
-No es que vaya tras vuestro pergamino.
+No es que vaya tras vuestro rollo.
 
 1085
 01:21:04,231 --> 01:21:05,315
@@ -4674,7 +4674,7 @@ podrías habérselo quitado a Naruto.
 
 1087
 01:21:11,279 --> 01:21:14,032
-¿Así que tú también buscas el pergamino del Cielo?
+¿Así que tú también buscas el rollo del Cielo?
 
 1088
 01:21:14,449 --> 01:21:15,200
@@ -4857,7 +4857,7 @@ de la prueba...
 1130
 01:23:27,974 --> 01:23:33,104
 la zona cercana a la torre es
-el mejor lugar para conseguir pergaminos.
+el mejor lugar para conseguir rollos.
 
 1131
 01:23:33,788 --> 01:23:36,249
@@ -4866,7 +4866,7 @@ Una emboscada, ¿no?
 
 1132
 01:23:36,549 --> 01:23:38,885
-En otras palabras, vamos a por los pergaminos
+En otras palabras, vamos a por los rollos
 de los equipos
 
 1133
@@ -4944,7 +4944,7 @@ después del comienzo de la segunda prueba!
 
 1150
 01:24:43,878 --> 01:24:47,798
-Tres ninjas de la Aldea Oculta de la Arena
+Tres ninjas de la Villa Oculta de la Arena
 han batido el récord.
 
 1151
@@ -5440,7 +5440,7 @@ No es nada.
 
 1266
 01:32:10,143 --> 01:32:12,646
-¡Mirad, el pergamino del Cielo!
+¡Mirad, el rollo del Cielo!
 
 1267
 01:32:12,831 --> 01:32:13,957
@@ -5470,7 +5470,7 @@ Perdón.
 1273
 01:32:36,071 --> 01:32:41,034
 Pero oye, ¡gracias a ti
-hemos conseguido ambos pergaminos!
+hemos conseguido ambos rollos!
 
 1274
 01:32:41,431 --> 01:32:44,351
@@ -5531,7 +5531,7 @@ Quiero preguntarle su opinión.
 
 1288
 01:33:27,264 --> 01:33:29,684
-Como espía de la Aldea del Sonido...
+Como espía de la Villa del Sonido...
 
 1289
 01:33:30,093 --> 01:33:31,929
@@ -5611,12 +5611,12 @@ Parece que falta un carácter.
 
 1307
 01:34:28,995 --> 01:34:31,248
-Probablemente tenga algo que ver con el pergamino
+Probablemente tenga algo que ver con el rollo
 
 1308
 01:34:31,897 --> 01:34:36,193
 Creo que esto significa que se supone que
-debemos abrir los pergaminos del Cielo y de la Tierra a la vez.
+debemos abrir los rollos del Cielo y de la Tierra a la vez.
 
 1309
 01:34:56,103 --> 01:34:58,647
