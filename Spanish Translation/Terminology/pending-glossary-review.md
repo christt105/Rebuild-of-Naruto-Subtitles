@@ -19,9 +19,6 @@ Free-text explanation of the term/decision, as long as needed.
 
 ---
 
-### `{CEJAS}` - Bushy Brow (apodo de Rock Lee)
-Apodo que Sasuke y Naruto dan a Rock Lee (S01E06, cues 381, 384, 419, 448, 538). Se ha traducido como «Cejotas» (aumentativo sobre «cejas», registro coloquial de España). Alternativas: «Cejas Pobladas», «Cejudo». Pendiente de contrastar con el doblaje/manga de España.
-
 ### `{INOCERDA}` - Ino Pig (apodo que Sakura da a Ino)
 Sakura llama a Ino «Ino Pig» (S01E06, cue 591). Se ha traducido como «Ino-cerda», con el mismo esquema que el apodo de Sakura («Pista de Aterrizaje»). Pendiente de contrastar con el doblaje de España.
 
@@ -40,17 +37,23 @@ English "Hidden Lock Village" in the "Land of Key", later shortened to "Lock Vil
 ### `{PACHINKO}` - Pachinko Jutsu (S01E05)
 Combination attack named "Pachinko Jutsu" in the English. Rendered "Técnica Pachinko". Unknown whether the Spanish edition transliterates or adapts it.
 
-### `{BOMBA}` - Paper Bomb
-"Paper Bomb" rendered "sello explosivo" (S01E07). Alternative: "papel bomba". Later uses in the episode use "sello explosivo" untagged.
-
-### `{ARTE}` - "Ninja Art:" technique prefix
-"Ninja Art:" rendered "Arte ninja:" before technique names (S01E07, Senbon Rainstorm rendered "Lluvia de Agujas", Shadow Possession and Mind Transfer also use the prefix). Only the first occurrence is tagged.
-
-### `{SERP}` - Striking Shadow Snakes
-Rendered "Serpientes Sombra Golpeadoras" (S01E07, Anko's technique).
-
 ### `{PESCA}` - Shadow Clone Jutsu: Fishing Version
 Naruto's joke technique rendered "Técnica de Clones de Sombra: Versión Pesca", introduced by "Técnica especial:" (S01E07, cue 1010).
 
-### `{LEONES}` - Lions Barrage
-Lee's/Sasuke's "Lions Barrage" rendered "Ráfaga de Leones" (S01E07, cue 1069).
+### `{KIBA}` - Kiba's beast-mimicry techniques (remaining)
+S01E08: "Man Beast Taijutsu Technique" rendered "Técnica de Taijutsu Hombre-Bestia" (cue 932) and "Fang Over Fang" rendered "Colmillo sobre Colmillo" (cue 933). The guide's "Colmillo perforador" is the single-user version, not Fang Over Fang. "Técnica animal", "Técnica de las Cuatro Garras" and "Multiplicación Bestial" are already resolved in the glossary.
+
+### `{SANGRE}` - Hot-Blooded (young Lee's Academy nickname)
+In the Academy-days flashback, Lee is mocked as "Hot-Blooded" / "Hot-Blooded loser" (S01E08, cues 1485-1490). Rendered "Sangre Caliente" / "Perdedor de Sangre Caliente". No source found for an official rendering; pending confirmation.
+
+### `{CLOSET}` - Closet Perv (Naruto's nickname for Ebisu)
+Naruto calls Ebisu "The Closet Perv" / "Closet pervert" on first meeting him (S01E09, first use cue 233). Rendered "el Pervertido de Armario", a literal calque of the English "closet" (hidden/secret) metaphor. No official Spanish-dub or manga source found; the character guide only confirms "pervertido" as a listed personality trait for Ebisu, not this specific nickname. Only the first occurrence is tagged.
+
+### `{MYOBOKU}` - Great Toad Sage of Mount Myoboku
+Jiraiya's mock self-introduction the first time Naruto meets him, "I am the Great Toad Sage of Mount Myoboku, the immortal... also known as the Toad Mountain Sage" (S01E09, cue 447-448). Rendered "el Sabio Sapo del Monte Myoboku" / "el Sabio Montaña Sapo". "Monte Myoboku" itself is confirmed by the Planeta character guide (recurring as "monte Myóboku"); the "Great Toad Sage" title is Jiraiya's own comedic exaggeration in-universe (not the same as "Ogama Sennin", the actual toad elder character named later in the guide) and has no direct official rendering. The place name is confirmed; only the title "Sabio Sapo" is pending.
+
+### `{TRIGRAMAS}` - Eight Trigrams Sealing Style / Four-Symbols Seal
+Jiraiya's internal analysis of Naruto's seal: "Two Four-Symbols Seals making up an Eight Trigrams Seal... So it's an Eight Trigrams Sealing Style" (S01E09, cue 602-603). Rendered "Sello de los Cuatro Símbolos" and "Sello/Estilo de Sellado de los Ocho Trigramas". No source found in the manga/guide database; literal translation of the English fansub terms (the seal's canonical Japanese name is Hakke no Fūin Shiki).
+
+### `{DANZALUNA}` - Leaf Style: Crescent Moon Dance
+A sword technique used against Zaku during the forest sequence, "Leaf Style: Crescent Moon Dance" (S01E09, cue 742-743). Rendered "Estilo Hoja: Danza de la Luna Creciente". No source found; literal translation, unverified against manga/guide.

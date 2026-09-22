@@ -517,9 +517,9 @@
 
 - japanese: "影真似の術"
   english: "Shadow Possession Jutsu"
-  spanish_es: "Jutsu Posesión de Sombras"
-  source: "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z (clan Nara)"
-  verified: false
+  spanish_es: "Técnica de la Sombra Imitadora (en frases, «mi Sombra Imitadora»)"
+  source: "Índice de técnicas de las guías oficiales Planeta («Técnica de la sombra imitadora»). Sustituye «Jutsu Posesión de Sombras» 2026-09-22, S01E05-S01E09"
+  verified: true
 
 - japanese: "影縫いの術"
   english: "Shadow Sewing Jutsu"
@@ -597,8 +597,8 @@
 
 - japanese: "九尾"
   english: "Nine-Tails / Nine-Tailed Fox / Demon Fox / Nine-Tailed Demon Fox"
-  spanish_es: "\"Nine-Tails\" -> \"el Nueve Colas\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\""
-  source: "Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)"
+  spanish_es: "\"Nine-Tails\" -> \"el Kyubi\"; \"Nine-Tailed Fox\" -> \"el Zorro de las Nueve Colas\"; \"Demon Fox\" -> \"el Zorro Demonio\"; \"Nine-Tailed Demon Fox\" -> \"el Zorro Demonio de las Nueve Colas\""
+  source: "«Kyubi»: Guías oficiales Planeta («Kyúbi»), decisión de Christian 2026-09-22 (antes «el Nueve Colas»), sin tilde como «Hyuga» e «Ichibi». Resto: Wikipedia ES / naruto.fandom.com/es (uso consistente, no distingue doblaje Espana vs. LatAm)"
   verified: false
 
 - japanese: "火の意志"
@@ -791,4 +791,130 @@
   english: "Expansion Jutsu"
   spanish_es: "Multitamaño"
   source: "Es el Multi-Size de los Akimichi: se alinea con la entrada verificada «Multitamaño». Resuelto 2026-09-21, S01E05 y S01E07 (antes {EXPANSION})"
+  verified: true
+
+- japanese: "ゲジマユ"
+  english: "Bushy Brow (apodo de Rock Lee)"
+  spanish_es: "Cejudo"
+  source: "Manga Planeta tomo 10 p104 y Guía oficial Planeta 1 p230 («el cejudo»). Sustituye «Cejotas». Resuelto 2026-09-22, S01E06-S01E09 (antes {CEJAS})"
+  verified: true
+
+- japanese: "デコリン"
+  english: "Billboard Brow / Forehead (apodo de Sakura)"
+  spanish_es: "Frentuda"
+  source: "Manga Planeta tomo 6 p173 y tomo 7 p58. Resuelto 2026-09-22, S01E08 (antes {FRENTONA})"
+  verified: true
+
+- japanese: "(no confirmado)"
+  english: "bowl-cut guy (apodo de Rock Lee)"
+  spanish_es: "cabeza de tazón"
+  source: "Manga Planeta tomo 10 p10 («ese cabeza de tazón», misma escena de las preliminares). Resuelto 2026-09-22, S01E08 (antes {TAZON})"
+  verified: true
+
+- japanese: "潜影蛇手"
+  english: "Striking Shadow Snakes"
+  spanish_es: "Serpientes de las Sombras"
+  source: "Guía oficial Planeta 1 p205 (ficha de técnica de Anko) e índices de técnicas de las guías 2-4. Resuelto 2026-09-22, S01E07 (antes {SERP})"
+  verified: true
+
+- japanese: "獅子連弾"
+  english: "Lions Barrage"
+  spanish_es: "Golpe del León"
+  source: "Índices de técnicas de las guías oficiales Planeta 2-4 («Golpe del león»); la guía 1 p164 lo menciona como base del golpe de Naruto. Sustituye «Ráfaga de Leones». Resuelto 2026-09-22, S01E07-S01E08 (antes {LEONES})"
+  verified: true
+
+- japanese: "うずまきナルト連弾"
+  english: "Naruto Barrage (Uzumaki Naruto Barrage)"
+  spanish_es: "Gran Golpe Cuádruple de Naruto Uzumaki"
+  source: "Guía oficial Planeta 1 p164. Planeta adapta el grito por sílabas; aquí se mantiene el «¡U! ¡Zu! ¡Ma! ¡Ki!» del audio y se usa el nombre de Planeta al final. Resuelto 2026-09-22, S01E08 (antes {RAFAGA})"
+  verified: true
+
+- japanese: "起爆札"
+  english: "Paper Bomb / Explosive Tag"
+  spanish_es: "sello explosivo"
+  source: "Guías oficiales Planeta 2 y 3 («sellos explosivos», también dentro de nombres de técnica). La guía 4 usa una vez «papel explosivo». Resuelto 2026-09-22, S01E07 (antes {BOMBA})"
+  verified: true
+
+- japanese: "寄壊蟲"
+  english: "Parasitic Insects"
+  spanish_es: "insectos parásito (Técnica de los Insectos Parásito)"
+  source: "Guía oficial Planeta 1 p160 y p179, guía 2 p22. Planeta deja «parásito» en singular. Resuelto 2026-09-22, S01E08 (antes {INSECTOS})"
+  verified: true
+
+- japanese: "傀儡の術"
+  english: "Puppet Master Jutsu / Puppet Master"
+  spanish_es: "Técnica del Marionetista / marionetista"
+  source: "Guía oficial Planeta 1 p64 y p181. Resuelto 2026-09-22, S01E08 (antes {MARIONETA})"
+  verified: true
+
+- japanese: "砂の盾 / 砂の鎧"
+  english: "Sand Shield / Sand Armor"
+  spanish_es: "Escudo de Arena / Armadura de Arena"
+  source: "Manga Planeta tomo 10 p37 y Guía oficial Planeta 1 p204. Resuelto 2026-09-22, S01E08 (antes {ARMADURA})"
+  verified: true
+
+- japanese: "八門遁甲"
+  english: "Eight (Inner) Gates"
+  spanish_es: "las Ocho Puertas: Puerta de la Apertura, del Descanso, de la Vida, de la Herida, de la Espiritualidad, de la Sombra, de la Sorpresa y de la Muerte"
+  source: "Manga Planeta tomo 10 p73 (nombres de cada puerta) y guías 1 y 3. Se siguen los nombres de Planeta aunque no coincidan literalmente con el inglés (Healing, Limit, View, Wonder). Resuelto 2026-09-22, S01E08 (antes {PUERTAS})"
+  verified: true
+
+- japanese: "剛拳 / 柔拳"
+  english: "Strong Fist / Gentle Fist"
+  spanish_es: "la técnica dura / la técnica blanda"
+  source: "Guía oficial Planeta 1 p158 y guía 3 («Técnica blanda: ...»). Resuelto 2026-09-22, S01E08 (antes {PUERTAS})"
+  verified: true
+
+- japanese: "経絡系 / 点穴"
+  english: "chakra network / chakra points (tenketsu)"
+  spanish_es: "meridianos / puntos de chakra"
+  source: "Manga Planeta tomo 9 p139 y tomo 10 p73, guía 1 p265. Resuelto 2026-09-22, S01E08 (antes {PUERTAS})"
+  verified: true
+
+- japanese: "ヒナタ様"
+  english: "Lady Hinata (Hinata-sama)"
+  spanish_es: "señorita Hinata"
+  source: "Manga Planeta tomo 9 p109-115 (Neji). Resuelto 2026-09-22, S01E08 (antes {PUERTAS})"
+  verified: true
+
+- japanese: "エロ仙人"
+  english: "Pervy Sage (apodo de Jiraiya)"
+  spanish_es: "Senninfómano"
+  source: "Guía oficial Planeta 1 p261 y manga Planeta tomo 11 p112. Resuelto 2026-09-22, S01E09 (antes {SENNIN})"
+  verified: true
+
+- japanese: "狸寝入りの術"
+  english: "Playing Possum Jutsu"
+  spanish_es: "Técnica del Sueño Instantáneo"
+  source: "Guía oficial Planeta 2 p92 y p244 (técnica de Gaara para liberar a Shukaku). Resuelto 2026-09-22, S01E09 (antes {SUENOINSTANTANEO})"
+  verified: true
+
+- japanese: "一尾"
+  english: "One-Tail / One-Tailed Beast"
+  spanish_es: "el Ichibi"
+  source: "Guías oficiales Planeta 3 y 4 («Ichibi (una cola)»). Unificado con «el Kyubi» (Nine-Tails) por decisión de Christian 2026-09-22; sin tilde, como «Hyuga». Resuelto 2026-09-22, S01E09 (antes {ICHIBI})"
+  verified: true
+
+- japanese: "擬獣忍法"
+  english: "Ninja Art of Beast Mimicry (Beast Mimicry)"
+  spanish_es: "Técnica animal"
+  source: "Guía oficial Planeta 1 p195 (grito «¡Técnica animal!»). Resuelto 2026-09-22, S01E08 (antes {KIBA})"
+  verified: true
+
+- japanese: "四脚の術"
+  english: "All Fours Jutsu / Four Legs Technique"
+  spanish_es: "Técnica de las Cuatro Garras"
+  source: "Guía oficial Planeta 1 p189. Sustituye «Técnica de las Cuatro Patas». Resuelto 2026-09-22, S01E08 (antes {KIBA})"
+  verified: true
+
+- japanese: "獣人分身"
+  english: "Man Beast Clone"
+  spanish_es: "Multiplicación Bestial"
+  source: "Guía oficial Planeta 1 p195. Decisión de Christian 2026-09-22: se usa el nombre de Planeta aunque «Shadow Clone» siga siendo «Clones de Sombra». Resuelto 2026-09-22, S01E08 (antes {KIBA})"
+  verified: true
+
+- japanese: "忍法 (prefijo)"
+  english: "Ninja Art: (prefijo de técnica)"
+  spanish_es: "Arte ninja:"
+  source: "Planeta no usa prefijo (traduce ninpō como «técnica»). Decisión de Christian 2026-09-22: se mantiene «Arte ninja:» porque se oye en el audio y ocupa lo mismo que el inglés; «ninja» en minúscula. Resuelto 2026-09-22, S01E01-S01E09 (antes {ARTE})"
   verified: true
