@@ -463,3 +463,16 @@ button.cue-toggle.active {
   font-weight: 600;
   text-decoration: none;
 }
+
+.pending-tag-card {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+  box-shadow: var(--shadow);
+}
+
+.pending-tag-card p {
+  margin-top: 0;
+}

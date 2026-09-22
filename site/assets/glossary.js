@@ -2,10 +2,12 @@ import { fetchJSON, escapeHtml } from "./app.js";
 
 const glossary = await fetchJSON("./data/glossary.json");
 glossary.entries.forEach((e, i) => (e._id = i));
+glossary.pending_tags.forEach((t, i) => (t._id = i));
 
 const body = document.getElementById("glossary-body");
 const filterText = document.getElementById("filter-text");
 const filterVerified = document.getElementById("filter-verified");
+const pendingContainer = document.getElementById("pending-tags");
 
 const INLINE_EPISODE_LIMIT = 6;
 const episodeCache = new Map();
@@ -17,13 +19,13 @@ function loadEpisode(code) {
   return episodeCache.get(code);
 }
 
-function episodesCell(entryId, cues) {
+function episodesCell(kind, entryId, cues) {
   const codes = Object.keys(cues);
   if (!codes.length) return '<span class="muted">sin coincidencias</span>';
   const chips = codes
     .map(
       (code) =>
-        `<button type="button" class="episode-chip cue-toggle" data-entry-id="${entryId}" data-code="${code}">${code} (${cues[code].length})</button>`
+        `<button type="button" class="episode-chip cue-toggle" data-kind="${kind}" data-entry-id="${entryId}" data-code="${code}">${code} (${cues[code].length})</button>`
     )
     .join("");
   const inner = `<div class="episode-chips">${chips}</div><div class="cue-detail"></div>`;
@@ -53,7 +55,7 @@ function render() {
       <td>${escapeHtml(e.english)}</td>
       <td>${escapeHtml(e.spanish_es)}</td>
       <td>${e.verified ? "✅" : "—"}</td>
-      <td>${episodesCell(e._id, e.cues)}</td>
+      <td>${episodesCell("term", e._id, e.cues)}</td>
     </tr>`
     )
     .join("");
@@ -78,13 +80,14 @@ async function showCues(container, code, indices) {
   container.innerHTML = rows || '<p class="muted">No se encontraron las cues.</p>';
 }
 
-body.addEventListener("click", (event) => {
+document.addEventListener("click", (event) => {
   const btn = event.target.closest(".cue-toggle");
   if (!btn) return;
   const cell = btn.closest(".cue-cell");
   const container = cell.querySelector(".cue-detail");
   const code = btn.dataset.code;
-  const entry = glossary.entries[Number(btn.dataset.entryId)];
+  const source = btn.dataset.kind === "tag" ? glossary.pending_tags : glossary.entries;
+  const entry = source[Number(btn.dataset.entryId)];
 
   if (container.dataset.openCode === code) {
     container.innerHTML = "";
@@ -102,11 +105,14 @@ filterText.addEventListener("input", render);
 filterVerified.addEventListener("change", render);
 render();
 
-const pendingContainer = document.getElementById("pending-tags");
 pendingContainer.innerHTML = glossary.pending_tags.length
   ? glossary.pending_tags
       .map(
-        (t) => `<p><span class="tag">{${t.code}}</span> <strong>${escapeHtml(t.title)}</strong><br>${escapeHtml(t.body)}</p>`
+        (t) => `
+    <div class="pending-tag-card">
+      <p><span class="tag">{${escapeHtml(t.code)}}</span> <strong>${escapeHtml(t.title)}</strong><br>${escapeHtml(t.body)}</p>
+      ${episodesCell("tag", t._id, t.cues)}
+    </div>`
       )
       .join("")
   : '<p class="muted">Sin tags pendientes de revisión.</p>';
