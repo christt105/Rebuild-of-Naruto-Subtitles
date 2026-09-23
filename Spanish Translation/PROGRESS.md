@@ -15,7 +15,7 @@ Fuente: 73 episodios actualmente publicados en [Maediem/Rebuild-of-Naruto-Subtit
 | S01E07 | Forest of Death | El Bosque de la Muerte | Naruto | Fusionado | PR #17 |
 | S01E08 | Preliminaries | Preliminares | Naruto | Fusionado | PR #21 |
 | S01E09 | Training | Entrenamiento | Naruto | Fusionado | PR #20 |
-| S01E10 | Finals | La Final | Naruto | Pendiente |  |
+| S01E10 | Finals | La Final | Naruto | PR abierta | PR #24 |
 | S01E11 | Destruction | Destrucción | Naruto | Pendiente |  |
 | S01E12 | Reunions | Reencuentros | Naruto | Pendiente |  |
 | S01E13 | The Offer | La Oferta | Naruto | Pendiente |  |
