@@ -57,3 +57,12 @@ Jiraiya's internal analysis of Naruto's seal: "Two Four-Symbols Seals making up 
 
 ### `{DANZALUNA}` - Leaf Style: Crescent Moon Dance
 A sword technique used against Zaku during the forest sequence, "Leaf Style: Crescent Moon Dance" (S01E09, cue 742-743). Rendered "Estilo Hoja: Danza de la Luna Creciente". No source found; literal translation, unverified against manga/guide.
+
+### `{CHUNIN}` - Chūnin/Jōnin macron inconsistency
+The glossary's verified:false entry for "Chūnin"/"Jōnin" keeps the macron, and S01E01/S01E03 used it that way, but S01E09 (Christian-reviewed, 2026-09-22) dropped the macron to "Chunin"/"Jonin" throughout. S01E10 continues directly from S01E09's arc, so it follows S01E09's no-macron spelling for consistency with the immediately preceding episode, diverging from the glossary and from S01E01/S01E03. Only the first occurrence in S01E10 is tagged (cue 102); the word is too frequent to tag every instance. Needs a decision on which spelling is canonical, then a pass to unify S01E01/S01E03 (or S01E09/S01E10) to match.
+
+### `{64PALMAS}` - Gentle Fist Art: Eight Trigrams 64 Palms
+Neji's ultimate technique, chanted in two parts: "Gentle Fist Art:" / "8 Trigrams 64 Palms!" (S01E10, cues 289-290). Rendered "Arte de la técnica blanda:" / "¡Ocho Trigramas: 64 Palmas!", built by analogy from two already-verified glossary entries: "la técnica dura / la técnica blanda" (Strong Fist/Gentle Fist) and "Ocho Trigramas" (established in S01E09 for the Eight Trigrams Sealing Style). No official Spain source found for this specific combined technique name or for the "Arte de..." prefix construction (distinct from the already-resolved "Arte ninja:" prefix).
+
+### `{HOZVIENTO}` - Ninja Art: Wind Scythe Jutsu
+Temari's fan technique, "Ninja Art: Wind Scythe Jutsu!" (S01E10, cue 658). Rendered "Arte ninja: Técnica de la Hoz de Viento!", using the already-resolved "Arte ninja:" prefix. No official Spain source found for "Wind Scythe" itself; "Hoz de Viento" is a literal translation, unverified against manga/guide.
