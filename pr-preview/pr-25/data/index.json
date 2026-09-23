@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:49:44.009055+00:00",
+  "generated_at": "2026-09-23T12:49:47.854254+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -155,8 +155,8 @@
       "title_en": "Destruction",
       "title_es": "Destrucción",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #25",
       "cue_count": 1706,
       "translated_count": 1678,
       "unresolved_tags": [
