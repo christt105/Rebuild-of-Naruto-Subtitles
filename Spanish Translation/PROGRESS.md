@@ -17,7 +17,7 @@ Fuente: 73 episodios actualmente publicados en [Maediem/Rebuild-of-Naruto-Subtit
 | S01E09 | Training | Entrenamiento | Naruto | Fusionado | PR #20 |
 | S01E10 | Finals | La Final | Naruto | Pendiente |  |
 | S01E11 | Destruction | Destrucción | Naruto | Pendiente |  |
-| S01E12 | Reunions | Reencuentros | Naruto | Pendiente |  |
+| S01E12 | Reunions | Reencuentros | Naruto | PR abierta | PR #26 |
 | S01E13 | The Offer | La Oferta | Naruto | Pendiente |  |
 | S01E14 | Rift | Fisura | Naruto | Pendiente |  |
 | S01E15 | Sasuke Retrieval Squad | Escuadrón de Recuperación de Sasuke | Naruto | Pendiente |  |
