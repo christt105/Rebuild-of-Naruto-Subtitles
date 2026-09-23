@@ -4379,117 +4379,117 @@ No me da sueño, ni siquiera de noche.
 
 1001
 01:37:23,509 --> 01:37:25,094
-Now, that's a problem.
+Vaya, eso es un problema.
 
 1002
 01:37:26,653 --> 01:37:29,989
-Normally, when you close your eyes,
-you get sleepy.
+Normalmente, cuando cierras los ojos,
+te entra sueño.
 
 1003
 01:37:30,302 --> 01:37:32,137
-Really?
+¿De verdad?
 
 1004
 01:37:33,643 --> 01:37:34,367
-Hey...
+Oye...
 
 1005
 01:37:36,012 --> 01:37:40,684
-Why... Why don't I have a mother?
+¿Por qué... Por qué no tengo madre?
 
 1006
 01:37:40,869 --> 01:37:41,870
-Well...
+Bueno...
 
 1007
 01:37:44,396 --> 01:37:47,591
-You have me, Lord Gaara.
+Me tiene a mí, mi señor Gaara.
 
 1008
 01:37:49,689 --> 01:37:53,192
-Because I am at your side...
+Porque estoy a su lado...
 
 1009
 01:37:53,482 --> 01:37:54,650
-... always.
+... siempre.
 
 1010
 01:38:51,884 --> 01:38:54,345
-Oh... a boxed lunch?
+Oh... ¿un bento?
 
 1011
 01:38:54,762 --> 01:38:55,420
-Yes!
+¡Sí!
 
 1012
 01:38:58,140 --> 01:38:59,825
-Ready?
+¿Listo?
 
 1013
 01:38:59,850 --> 01:39:00,935
-Over here!
+¡Por aquí!
 
 1014
 01:39:05,411 --> 01:39:06,411
-Power shot!
+¡Tiro de potencia!
 
 1015
 01:39:10,778 --> 01:39:11,946
-What are we going to do?
+¿Qué vamos a hacer?
 
 1016
 01:39:13,322 --> 01:39:16,495
-We don't know how to
-wall-climbing or anything...
+No sabemos escalar paredes
+ni nada de eso...
 
 1017
 01:39:25,335 --> 01:39:26,670
-Y-You're...
+T-Tú eres...
 
 1018
 01:39:34,760 --> 01:39:35,427
-This...
+Esto...
 
 1019
 01:39:35,831 --> 01:39:36,957
-It's Gaara...
+Es Gaara...
 
 1020
 01:39:37,246 --> 01:39:38,581
-R-Run!
+¡C-Corred!
 
 1021
 01:39:46,146 --> 01:39:47,146
-Wait!
+¡Esperad!
 
 1022
 01:39:47,356 --> 01:39:48,649
-Don't leave me alone!
+¡No me dejéis solo!
 
 1023
 01:39:51,151 --> 01:39:52,528
-Help me!
+¡Ayudadme!
 
 1024
 01:39:54,154 --> 01:39:55,154
-<i>I don't...</i>
+<i>No quiero...</i>
 
 1025
 01:39:57,491 --> 01:39:58,784
-<i>want to be alone anymore!</i>
+<i>estar solo nunca más!</i>
 
 1026
 01:40:06,333 --> 01:40:07,333
-<i>Really...</i>
+<i>¿De verdad...?</i>
 
 1027
 01:40:08,627 --> 01:40:09,795
-No!
+¡No!
 
 1028
 01:40:16,016 --> 01:40:18,018
-Gaara! Please calm down!
+¡Gaara! ¡Cálmate, por favor!
 
 1029
 01:40:19,763 --> 01:40:20,763
@@ -4497,11 +4497,11 @@ Yashamaru...
 
 1030
 01:40:36,655 --> 01:40:38,115
-It's no use after all...
+Al final no sirve de nada...
 
 1031
 01:40:39,145 --> 01:40:40,647
-The sand gets in the way.
+La arena se interpone.
 
 1032
 01:40:42,414 --> 01:40:43,582
@@ -4509,236 +4509,236 @@ Gaara...
 
 1033
 01:40:44,791 --> 01:40:45,834
-Yashamaru!
+¡Yashamaru!
 
 1034
 01:40:47,053 --> 01:40:48,763
-I may not look it,
+Puede que no lo parezca,
 
 1035
 01:40:48,980 --> 01:40:51,707
-but Lord Kazekage charged me
-to look after your physical condition
+pero el Señor Kazekage me encargó
+que velara por tu estado físico
 
 1036
 01:40:51,732 --> 01:40:54,152
-as a member of medical corps
-and as your guardian.
+como miembro del cuerpo médico
+y como tu tutor.
 
 1037
 01:40:54,942 --> 01:40:57,778
-Please do not do such things
-in front of me.
+Por favor, no hagas esas cosas
+delante de mí.
 
 1038
 01:41:00,326 --> 01:41:02,545
-Yashamaru... I'm sorry...
+Yashamaru... Lo siento...
 
 1039
 01:41:04,059 --> 01:41:07,604
-Oh, this? It's just a scrape.
+¿Esto? Solo es un rasguño.
 
 1040
 01:41:10,439 --> 01:41:11,607
-A scrape...
+Un rasguño...
 
 1041
 01:41:12,916 --> 01:41:13,744
-Is it painful?
+¿Duele?
 
 1042
 01:41:16,170 --> 01:41:19,356
-A little bit...
-But it'll heal in no time.
+Un poco...
+Pero se curará en nada.
 
 1043
 01:41:22,662 --> 01:41:24,127
-What is pain?
+¿Qué es el dolor?
 
 1044
 01:41:26,638 --> 01:41:30,475
-I've... never been wounded, so...
+Nunca... he sido herido, así que...
 
 1045
 01:41:30,880 --> 01:41:32,757
-I wondered what it's like...
+me preguntaba cómo sería...
 
 1046
 01:41:34,128 --> 01:41:35,380
-Well...
+Bueno...
 
 1047
 01:41:36,084 --> 01:41:38,127
-How can I explain it?
+¿Cómo puedo explicarlo?
 
 1048
 01:41:39,176 --> 01:41:42,054
-It's distressing, or difficult...
+Es angustioso, o difícil...
 
 1049
 01:41:43,343 --> 01:41:45,887
-In other words, when you're hit or cut...
+Es decir, cuando te golpean o te cortan...
 
 1050
 01:41:46,319 --> 01:41:50,323
-Maybe I should say it's a feeling
-of not being able to bear it,
+Quizá debería decir que es una sensación
+de no poder soportarlo,
 
 1051
 01:41:50,447 --> 01:41:51,863
-of not being able to stay normal...
+de no poder mantener la calma...
 
 1052
 01:41:53,332 --> 01:41:54,833
-I can't say it well,
+No sé explicarlo bien,
 
 1053
 01:41:54,858 --> 01:41:58,082
-but I suppose it describes a situation
-that's not very pleasant.
+pero supongo que describe una situación
+que no es muy agradable.
 
 1054
 01:42:00,572 --> 01:42:05,410
-So... maybe I'm injured too?
-The same as everyone?
+Entonces... ¿quizá yo también esté herido?
+¿Igual que todos?
 
 1055
 01:42:06,453 --> 01:42:08,080
-I'm not bleeding, but...
+No sangro, pero...
 
 1056
 01:42:08,448 --> 01:42:11,055
-I've been having a lot of
-pain around... here.
+he tenido mucho
+dolor por... aquí.
 
 1057
 01:42:22,773 --> 01:42:25,639
-Blood does flow from a wound
-on the body
+La sangre sí que fluye de una herida
+en el cuerpo
 
 1058
 01:42:25,664 --> 01:42:27,458
-and the wound itself will be painful.
+y la propia herida duele.
 
 1059
 01:42:28,000 --> 01:42:31,056
-But as time passes, the pain
-naturally disappears.
+Pero con el paso del tiempo, el dolor
+desaparece de forma natural.
 
 1060
 01:42:31,562 --> 01:42:33,981
-By using medicine,
-the healing is even faster.
+Usando medicina,
+la curación es aún más rápida.
 
 1061
 01:42:35,716 --> 01:42:38,262
-But what's truly dangerous is
-a wound to the heart.
+Pero lo verdaderamente peligroso es
+una herida en el corazón.
 
 1062
 01:42:38,762 --> 01:42:41,029
-That's much harder to heal.
+Esa es mucho más difícil de curar.
 
 1063
 01:42:42,197 --> 01:42:43,448
-A wound to the heart?
+¿Una herida en el corazón?
 
 1064
 01:42:43,894 --> 01:42:46,994
-A wound on the body and a wound
-to the heart are slightly different.
+Una herida en el cuerpo y una herida
+en el corazón son un poco diferentes.
 
 1065
 01:42:48,133 --> 01:42:51,348
-Unlike a wound on the body,
-there is no ointment and sometimes,
+A diferencia de una herida en el cuerpo,
+no hay pomada, y a veces,
 
 1066
 01:42:51,587 --> 01:42:53,438
-it might never heal
-in one's entire lifetime.
+puede que nunca se cure
+en toda una vida.
 
 1067
 01:43:00,923 --> 01:43:04,437
-But there is one thing that
-can cure a wound to the heart.
+Pero hay algo que
+puede curar una herida en el corazón.
 
 1068
 01:43:06,508 --> 01:43:08,659
-However, this is a complicated medicine.
+Sin embargo, es una medicina complicada.
 
 1069
 01:43:09,148 --> 01:43:11,577
-It can only be given to you
-by another person.
+Solo puede dártela
+otra persona.
 
 1070
 01:43:11,639 --> 01:43:13,891
-What? What do I have to do for that...?
+¿Qué? ¿Qué tengo que hacer para eso...?
 
 1071
 01:43:15,065 --> 01:43:17,069
-The thing that can cure
-a wound to the heart.
+Lo que puede curar
+una herida en el corazón.
 
 1072
 01:43:17,983 --> 01:43:18,984
-That is...
+Eso es...
 
 1073
 01:43:21,919 --> 01:43:23,170
-Love.
+El amor.
 
 1074
 01:43:23,947 --> 01:43:25,199
-Love?
+¿El amor?
 
 1075
 01:43:25,532 --> 01:43:26,325
-Yes.
+Sí.
 
 1076
 01:43:26,742 --> 01:43:31,372
-H-How can I get it?
-What do I have to do to receive it...?
+¿C-Cómo lo consigo?
+¿Qué tengo que hacer para recibirlo...?
 
 1077
 01:43:31,849 --> 01:43:35,186
-You've already been given it, Gaara.
+Ya te lo han dado, Gaara.
 
 1078
 01:43:35,390 --> 01:43:36,289
-Huh?
+¿Eh?
 
 1079
 01:43:40,356 --> 01:43:44,803
-Love is... the desire to serve
-someone precious to you,
+El amor es... el deseo de servir
+a alguien preciado para ti,
 
 1080
 01:43:45,190 --> 01:43:49,595
-to cherish them and watch over them,
-just as my older sister did for you.
+de apreciarlo y velar por él,
+tal como hizo mi hermana mayor contigo.
 
 1081
 01:43:50,466 --> 01:43:54,019
-I believe that my older sister
-loved you, Gaara.
+Creo que mi hermana mayor
+te quería, Gaara.
 
 1082
 01:43:54,535 --> 01:43:59,623
-The sand which automatically tries to
-protect you is like the love of a mother.
+La arena que intenta protegerte
+automáticamente es como el amor de una madre.
 
 1083
 01:44:00,633 --> 01:44:05,013
-I believe that sand is filled
-with your mother's will.
+Creo que esa arena está llena
+de la voluntad de tu madre.
 
 1084
 01:44:06,878 --> 01:44:12,425
-My sister... likely wanted to
-protect you even after death...
+Mi hermana... probablemente quiso
+protegerte incluso después de morir...
 
 1085
 01:44:15,784 --> 01:44:16,792
@@ -4746,176 +4746,176 @@ Yashamaru...
 
 1086
 01:44:17,755 --> 01:44:18,627
-What is it?
+¿Qué pasa?
 
 1087
 01:44:19,732 --> 01:44:23,819
-Thanks for what you did earlier...
-for stopping me.
+Gracias por lo que hiciste antes...
+por detenerme.
 
 1088
 01:44:24,629 --> 01:44:25,842
-You're welcome.
+De nada.
 
 1089
 01:44:27,300 --> 01:44:31,346
-You are a precious person
-who is near me, Gaara!
+¡Eres una persona preciada
+que está cerca de mí, Gaara!
 
 1090
 01:44:42,041 --> 01:44:45,639
-<i>Can you understand... my pain?</i>
+<i>¿Puedes entender... mi dolor?</i>
 
 1091
 01:44:52,910 --> 01:44:54,537
-<i>It tastes like iron...</i>
+<i>Sabe a hierro...</i>
 
 1092
 01:44:57,708 --> 01:45:01,003
-<i>Hey, Yashamaru...
-I have a favor to ask!</i>
+<i>Oye, Yashamaru...
+¡Tengo un favor que pedirte!</i>
 
 1093
 01:45:01,739 --> 01:45:02,739
-<i>What is it?</i>
+<i>¿Qué es?</i>
 
 1094
 01:45:04,137 --> 01:45:05,638
-<i>I want some ointment.</i>
+<i>Quiero pomada.</i>
 
 1095
 01:45:15,801 --> 01:45:18,763
-Sorry about earlier...
-It must've hurt.
+Siento lo de antes...
+Debió de doler.
 
 1096
 01:45:19,356 --> 01:45:21,483
-This is medicine.
+Esto es medicina.
 
 1097
 01:45:21,853 --> 01:45:22,687
-If you want it-
+Si la quieres...
 
 1098
 01:45:22,794 --> 01:45:24,796
-Go home... freak!
+¡Vete a casa... monstruo!
 
 1099
 01:45:37,309 --> 01:45:40,103
-<i>As I thought...
-Things don't go well...</i>
+<i>Tal como pensaba...
+Las cosas no van bien...</i>
 
 1100
 01:45:44,254 --> 01:45:47,674
-<i>Why is it... that I'm the only one
-who's such a freak?!</i>
+<i>¿Por qué... soy el único
+que es un monstruo así?!</i>
 
 1101
 01:45:49,573 --> 01:45:52,075
-<i>What... am I?!</i>
+<i>¿Qué... soy yo?!</i>
 
 1102
 01:45:53,180 --> 01:45:56,850
-<i>The thing that can cure
-a wound to the heart is love.</i>
+<i>Lo que puede curar
+una herida en el corazón es el amor.</i>
 
 1103
 01:45:58,318 --> 01:45:59,694
-<i>Yashamaru!</i>
+<i>¡Yashamaru!</i>
 
 1104
 01:46:14,242 --> 01:46:17,079
-<i>Why? Why me...?</i>
+<i>¿Por qué? ¿Por qué yo...?</i>
 
 1105
 01:46:17,746 --> 01:46:19,289
-<i>Why is it always me?!</i>
+<i>¡¿Por qué siempre soy yo?!</i>
 
 1106
 01:47:00,728 --> 01:47:03,856
-Well done... Gaara.
+Bien hecho... Gaara.
 
 1107
 01:47:08,164 --> 01:47:10,653
-Wh-Why...? Why would you do that?!
+¿P-Por qué...? ¡¿Por qué hiciste eso?!
 
 1108
 01:47:11,425 --> 01:47:13,301
-Why Yashamaru...?
+¿Por qué, Yashamaru...?
 
 1109
 01:47:14,094 --> 01:47:15,971
-Why did you, why...?
+¿Por qué tú, por qué...?
 
 1110
 01:47:18,525 --> 01:47:21,904
-I was ordered to kill you...
+Me ordenaron matarte...
 
 1111
 01:47:25,296 --> 01:47:26,672
-By your father...
+Tu padre...
 
 1112
 01:47:28,230 --> 01:47:29,498
-Lord Kazekage.
+El Señor Kazekage.
 
 1113
 01:47:32,904 --> 01:47:34,030
-My father...?
+¿Mi padre...?
 
 1114
 01:47:42,747 --> 01:47:44,833
-Why did my father...?
+¿Por qué mi padre...?
 
 1115
 01:47:45,167 --> 01:47:46,418
-Why...? Why me?
+¿Por qué...? ¿Por qué yo?
 
 1116
 01:47:47,627 --> 01:47:51,423
-You have been watched over
-as an experiment.
+Se te ha estado observando
+como a un experimento.
 
 1117
 01:47:53,863 --> 01:47:58,071
-Gaara, you couldn't
-control the Shukaku...
+Gaara, no lograste
+controlar al Shukaku...
 
 1118
 01:47:58,096 --> 01:48:01,766
-a spirit that commands
-the power of sand.
+un espíritu que domina
+el poder de la arena.
 
 1119
 01:48:02,809 --> 01:48:06,980
-Eventually, your existence would
-become too dangerous for the village.
+Con el tiempo, tu existencia se volvería
+demasiado peligrosa para la aldea.
 
 1120
 01:48:09,566 --> 01:48:10,942
-Before that occurred...
+Antes de que eso ocurriera...
 
 1121
 01:48:14,112 --> 01:48:16,364
-So Yashamaru, you had no choice...
+Entonces, Yashamaru, no tuviste elección...
 
 1122
 01:48:16,948 --> 01:48:18,658
-you just had to follow my father's order...?
+¿solo tuviste que obedecer la orden de mi padre...?
 
 1123
 01:48:20,494 --> 01:48:22,954
-No... That is not correct.
+No... Eso no es correcto.
 
 1124
 01:48:25,486 --> 01:48:28,197
-It is true I accepted
-Lord Kazekage's order.
+Es cierto que acepté
+la orden del Señor Kazekage.
 
 1125
 01:48:29,255 --> 01:48:33,092
-But if I had wanted to,
-I could have turned it down.
+Pero si hubiera querido,
+podría haberla rechazado.
 
 1126
 01:48:36,218 --> 01:48:37,218
@@ -4923,178 +4923,178 @@ Gaara...
 
 1127
 01:48:38,699 --> 01:48:42,911
-Deep down in my heart,
-I probably...
+En el fondo de mi corazón,
+probablemente...
 
 1128
 01:48:44,601 --> 01:48:45,685
-hated you.
+te odiaba.
 
 1129
 01:48:47,257 --> 01:48:50,009
-You, who took the life
-of my beloved sister at birth.
+Tú, que le arrebataste la vida
+a mi querida hermana al nacer.
 
 1130
 01:48:50,744 --> 01:48:52,615
-You are the child she left behind...
+Eres el hijo que ella dejó atrás...
 
 1131
 01:48:53,726 --> 01:49:00,191
-Since you were what she left behind,
-I tried desperately to love you.
+Como eras lo que ella dejó,
+intenté desesperadamente quererte.
 
 1132
 01:49:00,995 --> 01:49:03,456
-But... I never could.
+Pero... nunca pude.
 
 1133
 01:49:04,775 --> 01:49:07,806
-My sister didn't choose to have you.
+Mi hermana no eligió tenerte.
 
 1134
 01:49:09,166 --> 01:49:11,377
-My sister became a sacrifice
-for the village,
+Mi hermana se convirtió en un sacrificio
+para la aldea,
 
 1135
 01:49:11,589 --> 01:49:13,924
-and she died while
-cursing this village!
+¡y murió mientras
+maldecía esta aldea!
 
 1136
 01:49:15,643 --> 01:49:17,312
-Since then, I probably...
+Desde entonces, probablemente...
 
 1137
 01:49:17,842 --> 01:49:21,513
-have carried a wound
-in my heart that would never heal.
+he llevado una herida
+en el corazón que nunca sanaría.
 
 1138
 01:49:22,222 --> 01:49:25,600
-Your name...
-is the name my sister gave you.
+Tu nombre...
+es el nombre que te dio mi hermana.
 
 1139
 01:49:28,728 --> 01:49:30,814
-"This child's name is Gaara..."
+«Este niño se llama Gaara...»
 
 1140
 01:49:31,606 --> 01:49:33,316
-"A demon who loves only himself..."
+«Un demonio que solo se ama a sí mismo...»
 
 1141
 01:49:33,733 --> 01:49:35,485
-"Love only yourself..."
+«Ámate solo a ti mismo...»
 
 1142
 01:49:36,486 --> 01:49:39,447
-"And fight only for
-your own sake."
+«Y lucha solo
+por tu propio bien.»
 
 1143
 01:49:40,657 --> 01:49:43,326
-"If you do that,
-you will continue to exist."
+«Si haces eso,
+seguirás existiendo.»
 
 1144
 01:49:43,950 --> 01:49:45,993
-Such was the hope it contained.
+Esa era la esperanza que contenía.
 
 1145
 01:49:46,647 --> 01:49:47,647
-However...
+Sin embargo...
 
 1146
 01:49:47,837 --> 01:49:50,089
-my sister did not give you this name
+mi hermana no te dio este nombre
 
 1147
 01:49:50,114 --> 01:49:52,866
-because she was concerned
-about you or loved you...
+porque se preocupara por ti
+o te quisiera...
 
 1148
 01:49:53,271 --> 01:49:57,567
-The reason she gave you this name...
+La razón por la que te dio este nombre...
 
 1149
 01:49:59,843 --> 01:50:02,012
-... was so that the deep-seated hatred
-of my sister
+fue para que el odio profundo
+de mi hermana,
 
 1150
 01:50:02,142 --> 01:50:05,062
-who died hating and cursing
-this village...
+que murió odiando y maldiciendo
+esta aldea...
 
 1151
 01:50:06,745 --> 01:50:08,788
-would remain...
+perdurara...
 
 1152
 01:50:11,479 --> 01:50:13,273
-and be known to all!
+¡y todos lo supieran!
 
 1153
 01:50:30,040 --> 01:50:34,119
-You were never... loved!
+¡Nunca fuiste... amado!
 
 1154
 01:50:41,551 --> 01:50:42,636
-Please die...
+Muere, por favor...
 
 1155
 01:51:03,114 --> 01:51:07,035
-<i>I believe that my sister loved you, Gaara.</i>
+<i>Creo que mi hermana te quería, Gaara.</i>
 
 1156
 01:51:08,119 --> 01:51:09,204
-<i>Love?</i>
+<i>¿El amor?</i>
 
 1157
 01:51:54,066 --> 01:51:56,235
-<i>Love only yourself.</i>
+<i>Ámate solo a ti mismo.</i>
 
 1158
 01:51:56,598 --> 01:52:00,227
-<i>And fight only for your own sake.</i>
+<i>Y lucha solo por tu propio bien.</i>
 
 1159
 01:52:01,381 --> 01:52:04,134
-<i>So that is Gaara...
-That is me.</i>
+<i>Así que eso es Gaara...
+Eso soy yo.</i>
 
 1160
 01:52:04,884 --> 01:52:06,386
-<i>I finally understand.</i>
+<i>Por fin lo entiendo.</i>
 
 1161
 01:52:08,513 --> 01:52:09,806
-<i>I am alone.</i>
+<i>Estoy solo.</i>
 
 1162
 01:52:10,724 --> 01:52:13,893
-<i>I will no longer believe in anyone...
-or love anyone.</i>
+<i>Ya no confiaré en nadie...
+ni querré a nadie.</i>
 
 1163
 01:52:15,603 --> 01:52:16,896
-<i>I am alone!</i>
+<i>¡Estoy solo!</i>
 
 1164
 01:52:22,152 --> 01:52:24,988
-<i>Yes, I am all by myself.</i>
+<i>Sí, estoy completamente solo.</i>
 
 1165
 01:52:32,036 --> 01:52:33,163
-<i>It's those eyes...</i>
+<i>Son esos ojos...</i>
 
 1166
 01:52:36,458 --> 01:52:40,128
-What's the matter?
-Weren't you going to run away?
+¿Qué pasa?
+¿No ibas a huir?
 
 1167
 01:52:42,338 --> 01:52:43,423
@@ -5106,144 +5106,144 @@ Naruto...
 
 1169
 01:52:50,540 --> 01:52:56,230
-What are these two... to you?!
+¡¿Qué son estos dos... para ti?!
 
 1170
 01:52:58,295 --> 01:53:01,691
-T-These two are... my friends!
+¡E-Estos dos son... mis amigos!
 
 1171
 01:53:02,233 --> 01:53:05,111
-Try laying so much as
-another finger on them!
+¡Como les vuelvas a poner
+un solo dedo encima!
 
 1172
 01:53:05,615 --> 01:53:07,513
-I'll knock you out!
+¡Te dejaré fuera de combate!
 
 1173
 01:53:13,995 --> 01:53:17,999
-So... what's the matter?!
-Weren't you going to knock me out?
+Entonces... ¡¿qué pasa?!
+¿No ibas a dejarme fuera de combate?
 
 1174
 01:53:21,049 --> 01:53:22,309
-Hurry up and come at me...
+Date prisa y ven a por mí...
 
 1175
 01:53:29,427 --> 01:53:31,596
-Damn it!
+¡Maldita sea!
 
 1176
 01:53:39,145 --> 01:53:40,146
-Damn it!
+¡Maldita sea!
 
 1177
 01:53:48,029 --> 01:53:51,658
-<i>Damn it! Things will get really bad
-if they stay like this...!</i>
+<i>¡Maldita sea! Esto se va a poner muy feo
+si siguen así...!</i>
 
 1178
 01:53:55,495 --> 01:53:56,495
-<i>I'll have to...</i>
+<i>Tendré que...</i>
 
 1179
 01:53:58,581 --> 01:54:01,125
-<i>It's come to this...
-Though it's going to use a lot of chakra...</i>
+<i>Ha llegado a esto...
+Aunque va a gastar mucho chakra...</i>
 
 1180
 01:54:03,086 --> 01:54:06,714
-<i>There's no other way...
-I have to summon Gamabunta!</i>
+<i>No hay otra opción...
+¡Tengo que invocar a Gamabunta!</i>
 
 1181
 01:54:07,215 --> 01:54:08,675
-<i>Summoning Jutsu!</i>
+<i>¡Técnica de invocación!</i>
 
 1182
 01:54:13,638 --> 01:54:15,265
-What's this?! You're a little kid!
+¡¿Qué es esto?! ¡Eres un mocoso!
 
 1183
 01:54:15,729 --> 01:54:17,814
-If you want something from me,
-give me some snack!
+Si quieres algo de mí,
+¡dame algo de picar!
 
 1184
 01:54:18,175 --> 01:54:20,662
-If you don't, I won't play with you!
+¡Si no, no jugaré contigo!
 
 1185
 01:54:20,687 --> 01:54:24,207
-You know something?
-I hate frogs!
+¿Sabes qué?
+¡Odio a las ranas!
 
 1186
 01:54:24,232 --> 01:54:27,485
-What did you say?!
-Don't make fun of amphibians! I'm serious!
+¡¿Qué has dicho?!
+¡No te burles de los anfibios! ¡Lo digo en serio!
 
 1187
 01:54:28,361 --> 01:54:32,157
-Eh! I don't have time to
-play with you, little squirt!
+¡Eh! No tengo tiempo para
+jugar contigo, mocoso.
 
 1188
 01:54:34,826 --> 01:54:36,619
-<i>Damn! Why is it...?</i>
+<i>¡Maldita sea! ¿Por qué...?</i>
 
 1189
 01:54:36,817 --> 01:54:40,321
-<i>I practiced for so long, but if  this is
-all I can summon, there's no other way...</i>
+<i>Practiqué tanto tiempo, pero si esto es
+todo lo que puedo invocar, no hay otra opción...</i>
 
 1190
 01:54:41,249 --> 01:54:43,167
-I need to save everyone!
+¡Tengo que salvar a todos!
 
 1191
 01:54:44,935 --> 01:54:46,821
-Everyone... you say?
+¿A todos... dices?
 
 1192
 01:54:47,171 --> 01:54:48,464
-Don't make me laugh.
+No me hagas reír.
 
 1193
 01:54:48,923 --> 01:54:51,843
-I fight... only for myself!
+¡Yo lucho... solo por mí mismo!
 
 1194
 01:54:57,181 --> 01:54:59,642
-<i>He... he's transforming again!</i>
+<i>Se... ¡se está transformando otra vez!</i>
 
 1195
 01:55:03,479 --> 01:55:07,275
-If you don't take me down,
-the sand holding this girl will remain!
+¡Si no me derribas,
+la arena que sujeta a esta chica se quedará!
 
 1196
 01:55:07,901 --> 01:55:11,143
-Not only that, as time passes...
+Y no solo eso, con el paso del tiempo...
 
 1197
 01:55:11,168 --> 01:55:14,588
-the sand will slowly squeeze tighter
-and eventually suffocate this girl!
+¡la arena apretará poco a poco
+hasta asfixiar a esta chica!
 
 1198
 01:55:15,950 --> 01:55:16,829
-<i>Sakura!</i>
+<i>¡Sakura!</i>
 
 1199
 01:55:18,036 --> 01:55:20,413
-<i>He's getting closer and closer
-to a full transformation.</i>
+<i>Cada vez está más cerca
+de la transformación completa.</i>
 
 1200
 01:55:21,568 --> 01:55:23,779
-<i>That jutsu hasn't been activated yet,</i>
+<i>Ese jutsu aún no se ha activado,</i>
 
 1201
 01:55:24,125 --> 01:55:25,835
