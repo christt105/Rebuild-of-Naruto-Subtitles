@@ -2080,7 +2080,7 @@ Esta es la técnica secreta del Primer Hokage.
 
 474
 00:40:21,836 --> 00:40:23,254
-<i>Técnica secreta de madera:</i>
+<i>Técnica secreta de madera: {MADERA}</i>
 
 475
 00:40:28,384 --> 00:40:30,052
@@ -2158,7 +2158,7 @@ Es demasiado tarde.
 492
 00:42:50,276 --> 00:42:53,654
 ¡Por favor, Enma!
-El Báculo Adamantino.
+El Báculo Adamantino. {BACULO}
 
 493
 00:42:55,531 --> 00:42:58,200
@@ -2528,7 +2528,7 @@ Sí... Bien podría serlo...
 
 576
 00:51:50,649 --> 00:51:53,068
-¡Mi Técnica de la Inmortalidad!
+¡Mi Técnica de la Inmortalidad! {INMORTAL}
 
 577
 00:52:02,994 --> 00:52:04,621
@@ -2767,7 +2767,7 @@ y a quien se confía la voluntad de la Hoja.
 
 629
 00:57:20,186 --> 00:57:22,522
-<i>¡Genjutsu: Técnica de la Oscuridad Infinita!</i>
+<i>¡Genjutsu: Técnica de la Oscuridad Infinita! {OSCURINF}</i>
 
 630
 00:57:30,530 --> 00:57:32,157
@@ -3106,7 +3106,7 @@ Tenemos que contenerlos aquí como sea.
 705
 01:07:32,548 --> 01:07:36,844
 <i>¡Arte ninja: Invocación,
-Técnica de Derribar la Casa!</i>
+Técnica de Derribar la Casa! {DERRIBACASA}</i>
 
 706
 01:07:49,356 --> 01:07:51,358
@@ -3141,7 +3141,7 @@ y observad con atención.
 713
 01:08:14,699 --> 01:08:19,704
 El del legendario ninja Jiraiya...
-el Reino del Diablo Más Allá del Horizonte...
+el Reino del Diablo Más Allá del Horizonte... {REINODIABLO}
 
 714
 01:08:22,139 --> 01:08:25,351
@@ -6984,123 +6984,123 @@ a nadie más en el mundo.</i>
 
 1601
 02:29:34,610 --> 02:29:36,612
-D-Don't come any closer!
+¡N-No te acerques más!
 
 1602
 02:29:44,892 --> 02:29:51,148
-Being all alone... That pain
-is unbearable, isn't it?
+Estar completamente solo... Ese dolor
+es insoportable, ¿verdad?
 
 1603
 02:29:54,662 --> 02:29:56,330
-I know how you feel...
+Sé cómo te sientes...
 
 1604
 02:29:56,925 --> 02:30:00,345
-I don't know why, but I understand
-the pain in your heart so well.
+No sé por qué, pero entiendo muy bien
+el dolor de tu corazón.
 
 1605
 02:30:01,283 --> 02:30:06,288
-But now... I have people who are
-precious to me.
+Pero ahora... tengo gente
+preciada para mí.
 
 1606
 02:30:09,458 --> 02:30:14,255
-And I won't let those important people...
-get hurt!
+¡Y no dejaré que esa gente importante...
+salga herida!
 
 1607
 02:30:16,021 --> 02:30:22,444
-I will stop you... even if it means
-I have to kill you!
+¡Te detendré... aunque eso signifique
+que tenga que matarte!
 
 1608
 02:30:23,159 --> 02:30:24,159
-Why...?
+¿Por qué...?
 
 1609
 02:30:25,333 --> 02:30:28,503
-How can you...
-fight so hard for other people?
+¿Cómo puedes...
+luchar tan duro por otras personas?
 
 1610
 02:30:29,270 --> 02:30:33,190
-They saved me from the hell
-of being all alone.
+Me salvaron del infierno
+de estar completamente solo.
 
 1611
 02:30:33,826 --> 02:30:36,120
-They accepted me... for who I am.
+Me aceptaron... tal como soy.
 
 1612
 02:30:37,619 --> 02:30:40,772
-That's why...
-they're so important to me!
+¡Por eso...
+son tan importantes para mí!
 
 1613
 02:30:48,002 --> 02:30:52,673
-<i>Love is the desire to serve
-someone precious to you,</i>
+<i>El amor es el deseo de servir
+a alguien preciado para ti,</i>
 
 1614
 02:30:52,953 --> 02:30:55,397
-<i>to cherish them and watch over them...</i>
+<i>de apreciarlo y velar por él...</i>
 
 1615
 02:30:56,964 --> 02:30:58,466
-Love...
+El amor...
 
 1616
 02:31:00,326 --> 02:31:02,870
-<i>That is why he's so strong?</i>
+<i>¿Por eso es tan fuerte?</i>
 
 1617
 02:31:05,342 --> 02:31:06,761
-That's enough, Naruto...
+Ya es suficiente, Naruto...
 
 1618
 02:31:11,437 --> 02:31:12,813
-Sakura is okay.
+Sakura está bien.
 
 1619
 02:31:14,432 --> 02:31:16,192
-This guy's chakra must
-be depleted as well...
+El chakra de este tipo también
+debe de estar agotado...
 
 1620
 02:31:17,546 --> 02:31:19,626
-The sand around Sakura
-crumbled away a long time ago.
+La arena alrededor de Sakura
+se desmoronó hace tiempo.
 
 1621
 02:31:20,315 --> 02:31:22,031
-Oh, I see...
+Ah, ya veo...
 
 1622
 02:31:29,225 --> 02:31:32,478
-I've had enough... Let's stop this.
+Ya he tenido suficiente... Dejemos esto.
 
 1623
 02:31:32,812 --> 02:31:33,708
-Gaara?
+¿Gaara?
 
 1624
 02:31:35,873 --> 02:31:39,465
-<i>I've never seen Gaara in such
-a weakened state before...</i>
+<i>Nunca había visto a Gaara en un estado
+tan débil...</i>
 
 1625
 02:31:40,955 --> 02:31:41,967
-All right.
+Muy bien.
 
 1626
 02:32:02,447 --> 02:32:04,825
-<i>Naruto Uzumaki, huh?</i>
+<i>Naruto Uzumaki, ¿eh?</i>
 
 1627
 02:32:07,541 --> 02:32:10,085
-<i>One of these days, even I...</i>
+<i>Algún día, hasta yo...</i>
 
 1628
 02:32:13,624 --> 02:32:15,709
@@ -7108,206 +7108,206 @@ Temari... Kankuro...
 
 1629
 02:32:16,265 --> 02:32:16,876
-- Huh?
-- Huh?
+- ¿Eh?
+- ¿Eh?
 
 1630
 02:32:18,045 --> 02:32:19,045
-Sorry...
+Lo siento...
 
 1631
 02:32:23,676 --> 02:32:25,636
-D-Don't worry about it...
+N-No te preocupes por eso...
 
 1632
 02:33:30,951 --> 02:33:32,036
-Rain...
+Lluvia...
 
 1633
 02:33:33,037 --> 02:33:34,747
-The sky has started to weep as well...
+El cielo también se ha puesto a llorar...
 
 1634
 02:33:37,459 --> 02:33:39,086
-We will begin the memorial service
+Comenzaremos el servicio conmemorativo
 
 1635
 02:33:39,143 --> 02:33:41,645
-for the Third Hokage,
-who lost his life in this battle,
+por el Tercer Hokage,
+que perdió la vida en esta batalla,
 
 1636
 02:33:41,927 --> 02:33:46,474
-as well as the other victims
-of this attack.
+así como por las demás víctimas
+de este ataque.
 
 1637
 02:34:06,127 --> 02:34:07,378
-<i>Why?</i>
+<i>¿Por qué?</i>
 
 1638
 02:34:09,150 --> 02:34:12,111
-<i>Why did Old Man Hokage have to die?</i>
+<i>¿Por qué tuvo que morir el viejo Hokage?</i>
 
 1639
 02:34:21,523 --> 02:34:22,314
-<i>Why...?</i>
+<i>¿Por qué...?</i>
 
 1640
 02:34:46,288 --> 02:34:47,414
-For Hayate?
+¿Por Hayate?
 
 1641
 02:34:52,788 --> 02:34:56,166
-The Third Hokage's funeral
-has already started. Make it quick.
+El funeral del Tercer Hokage
+ya ha empezado. Date prisa.
 
 1642
 02:34:57,496 --> 02:35:00,624
-You too, Kakashi.
-You here for Obito...?
+Tú también, Kakashi.
+¿Estás aquí por Obito...?
 
 1643
 02:35:02,441 --> 02:35:05,110
-If you're always thinking of
-an excuse for your tardiness,
+Si siempre estás pensando
+una excusa para tu impuntualidad,
 
 1644
 02:35:05,801 --> 02:35:07,551
-you should just come earlier.
+deberías venir antes y ya está.
 
 1645
 02:35:12,052 --> 02:35:14,263
-I do...
-I've been here since the morning.
+Y lo hago...
+Llevo aquí desde por la mañana.
 
 1646
 02:35:17,448 --> 02:35:19,492
-It's just that,
-whenever I come here
+Lo que pasa es que,
+cada vez que vengo aquí
 
 1647
 02:35:19,518 --> 02:35:23,564
-I want to punish myself
-for being such a fool in the past.
+quiero castigarme
+por haber sido tan tonto en el pasado.
 
 1648
 02:35:31,030 --> 02:35:32,581
-There are two bells.
+Hay dos cascabeles.
 
 1649
 02:35:32,899 --> 02:35:34,561
-The fact that there are
-only two means...?
+El hecho de que solo haya
+dos significa...?
 
 1650
 02:35:35,075 --> 02:35:37,036
-That one of us has to go
-to the tree trunk...
+Que uno de nosotros tiene que ir
+al tronco del árbol...
 
 1651
 02:35:37,578 --> 02:35:39,872
-You're quick on the uptake, Orochimaru.
+Eres rápido captando las cosas, Orochimaru.
 
 1652
 02:35:40,372 --> 02:35:42,875
-All right! I'll make it!
+¡Muy bien! ¡Lo conseguiré!
 
 1653
 02:35:44,012 --> 02:35:46,155
-Come at me with the intent to kill!
+¡Ven a por mí con intención de matar!
 
 1654
 02:35:58,724 --> 02:36:01,573
-Jiraiya, I won the bet with you, didn't I?
+Jiraiya, gané la apuesta contigo, ¿verdad?
 
 1655
 02:36:02,311 --> 02:36:04,201
-You got tied to the tree trunk,
-after all.
+Al final te ataron
+al tronco del árbol.
 
 1656
 02:36:04,288 --> 02:36:05,237
-Shut up!
+¡Cállate!
 
 1657
 02:36:05,506 --> 02:36:07,511
-You're as flat as a cutting board.
+Estás tan plana como una tabla de cortar.
 
 1658
 02:36:08,150 --> 02:36:10,986
-What did you say?! You closet perv!
+¡¿Qué has dicho?! ¡Pervertido de armario!
 
 1659
 02:36:12,321 --> 02:36:15,157
-Okay, okay, that's enough.
+Vale, vale, ya basta.
 
 1660
 02:36:15,240 --> 02:36:17,076
-Tsunade and Orochimaru go home!
+¡Tsunade y Orochimaru, a casa!
 
 1661
 02:36:17,159 --> 02:36:18,160
-Okay!
+¡Vale!
 
 1662
 02:36:30,172 --> 02:36:31,918
-You are hopeless...
+No tienes remedio...
 
 1663
 02:36:32,695 --> 02:36:36,783
-Ninja shouldn't be getting caught in
-obvious traps like that over and over again.
+Un ninja no debería caer
+en trampas tan obvias una y otra vez.
 
 1664
 02:36:37,082 --> 02:36:37,942
-But...
+Pero...
 
 1665
 02:36:38,282 --> 02:36:40,451
-Why don't you learn a little
-from Orochimaru?!
+¡¿Por qué no aprendes un poco
+de Orochimaru?!
 
 1666
 02:36:41,537 --> 02:36:45,249
-Sarutobi-sensei, you're always
-saying Orochimaru, Orochimaru!
+¡Sarutobi-sensei, siempre estás
+diciendo Orochimaru esto, Orochimaru lo otro!
 
 1667
 02:36:45,708 --> 02:36:46,339
-Hm?
+¿Mm?
 
 1668
 02:36:46,953 --> 02:36:50,563
-When it comes to snooping,
-I'm great at Transparency Jutsu.
+Cuando se trata de espiar,
+se me da genial la Técnica de Transparencia. {TRANSPAR}
 
 1669
 02:36:51,947 --> 02:36:52,920
-Gimme a break...
+Dame un respiro...
 
 1670
 02:36:53,166 --> 02:36:54,918
-I don't even want to know
+Ni siquiera quiero saber
 
 1671
 02:36:54,943 --> 02:36:56,254
-what level of Transparency Jutsu
-you possess...
+qué nivel de la Técnica de Transparencia
+tienes...
 
 1672
 02:36:56,365 --> 02:36:59,564
-I've never been caught once!
-And that's the truth!
+¡Nunca me han pillado ni una vez!
+¡Y esa es la verdad!
 
 1673
 02:37:01,398 --> 02:37:06,484
-If you're that sure of yourself,
-I'll go with you next time...
+Si estás tan seguro de ti mismo,
+iré contigo la próxima vez...
 
 1674
 02:37:10,546 --> 02:37:12,351
-You're such a perv, Sarutobi-sensei...
+Menudo pervertido estás hecho, Sarutobi-sensei...
 
 1675
 02:37:27,146 --> 02:37:28,605
@@ -7315,140 +7315,140 @@ Iruka-sensei...
 
 1676
 02:37:28,689 --> 02:37:29,689
-Hmm?
+¿Mmm?
 
 1677
 02:37:30,718 --> 02:37:35,040
-Why do people risk their own lives
-for other people?
+¿Por qué la gente arriesga su propia vida
+por otras personas?
 
 1678
 02:37:38,989 --> 02:37:42,158
-When one person dies...
+Cuando una persona muere...
 
 1679
 02:37:43,894 --> 02:37:47,813
-their past, present, and future
-disappear along with them.
+su pasado, presente y futuro
+desaparecen con ella.
 
 1680
 02:37:48,980 --> 02:37:52,087
-Many people die fulfilling
-their duty in battle...
+Mucha gente muere cumpliendo
+con su deber en la batalla...
 
 1681
 02:37:52,754 --> 02:37:56,258
-And all too easily.
+Y con demasiada facilidad.
 
 1682
 02:37:58,189 --> 02:38:00,066
-Hayate was one of them.
+Hayate fue uno de ellos.
 
 1683
 02:38:01,096 --> 02:38:04,641
-Those who pass away also
-have dreams and ambitions.
+Los que fallecen también
+tienen sueños y ambiciones.
 
 1684
 02:38:05,767 --> 02:38:10,189
-But everyone has something else,
-just as important.
+Pero todo el mundo tiene algo más,
+igual de importante.
 
 1685
 02:38:11,440 --> 02:38:17,946
-Parents, siblings, friends, lovers...
-Those who are dear to them.
+Padres, hermanos, amigos, amantes...
+Los que les son queridos.
 
 1686
 02:38:19,422 --> 02:38:21,549
-They trust each other
-and help each other,
+Confían los unos en los otros
+y se ayudan mutuamente,
 
 1687
 02:38:22,191 --> 02:38:26,538
-the people they've cherished
-since the day they were born.
+las personas a las que han apreciado
+desde el día en que nacieron.
 
 1688
 02:38:27,956 --> 02:38:30,501
-And that bond that connects people
+Y ese vínculo que conecta a las personas
 
 1689
 02:38:30,895 --> 02:38:34,296
-becomes stronger and
-thicker as time goes by...
+se vuelve más fuerte y
+más sólido con el paso del tiempo...
 
 1690
 02:38:35,923 --> 02:38:37,466
-It can't be explained by logic...
+No se puede explicar con lógica...
 
 1691
 02:38:38,287 --> 02:38:43,688
-Those who hold those strings just do it,
-because it's important to them.
+Quienes sostienen esos hilos simplemente lo hacen
+porque es importante para ellos.
 
 1692
 02:38:45,254 --> 02:38:49,197
-Yeah, I kind of get it.
+Sí, más o menos lo entiendo.
 
 1693
 02:38:50,248 --> 02:38:50,902
-But...
+Pero...
 
 1694
 02:38:53,941 --> 02:38:55,484
-It's tough to die.
+Es duro morir.
 
 1695
 02:38:56,921 --> 02:38:59,424
-It's not like he died for nothing.
+No es que muriera en vano.
 
 1696
 02:39:00,531 --> 02:39:03,158
-He left us something very important.
+Nos dejó algo muy importante.
 
 1697
 02:39:04,607 --> 02:39:07,535
-Well, you'll eventually understand
-one of these days.
+Bueno, algún día
+lo acabarás entendiendo.
 
 1698
 02:39:08,277 --> 02:39:11,614
-Yeah, I kind of get that too!
+¡Sí, eso también lo entiendo más o menos!
 
 1699
 02:39:21,728 --> 02:39:23,614
-Bye! Iruka-sensei!
+¡Adiós! ¡Iruka-sensei!
 
 1700
 02:39:23,899 --> 02:39:24,607
-Yeah...
+Sí...
 
 1701
 02:39:26,967 --> 02:39:30,695
-<i>Lord Third Hokage,
-the Will of Fire you spoke of...</i>
+<i>Señor Tercer Hokage,
+la Voluntad de Fuego de la que hablaba...</i>
 
 1702
 02:39:31,573 --> 02:39:36,024
-<i>seems to have been passed on
-to the young Leaves.</i>
+<i>parece haber sido transmitida
+a las jóvenes Hojas.</i>
 
 1703
 02:39:37,985 --> 02:39:41,233
-<i>The flame that you lit
-in their hearts,</i>
+<i>La llama que encendió
+en sus corazones,</i>
 
 1704
 02:39:41,762 --> 02:39:45,019
-<i>will burn bright and strong...</i>
+<i>arderá brillante y fuerte...</i>
 
 1705
 02:39:45,615 --> 02:39:49,404
-<i>And it will shine upon this village,
-and watch over and protect us.</i>
+<i>Y brillará sobre esta aldea,
+y velará y nos protegerá.</i>
 
 1706
 02:39:54,935 --> 02:39:59,606
-<i>He'll become Hokage... one day</i>
+<i>Él se convertirá en Hokage... algún día</i>
 
