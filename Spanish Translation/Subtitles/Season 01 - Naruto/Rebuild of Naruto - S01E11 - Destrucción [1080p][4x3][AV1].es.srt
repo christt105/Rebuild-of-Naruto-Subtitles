@@ -1,125 +1,125 @@
 1
 00:01:34,641 --> 00:01:36,184
-Just my bad luck...
+Qué mala suerte tengo...
 
 2
 00:01:36,638 --> 00:01:38,306
-to have lookout duty
-on a day like this.
+que me toque hacer guardia
+precisamente hoy.
 
 3
 00:01:39,015 --> 00:01:41,976
-I wanted to watch the Chunin Exam too.
+Yo también quería ver el Examen Chunin.
 
 4
 00:01:42,435 --> 00:01:43,435
-Stop fussing.
+Deja de quejarte.
 
 5
 00:01:43,686 --> 00:01:45,855
-The Chunin Exam takes
-place twice a year.
+El Examen Chunin se celebra
+dos veces al año.
 
 6
 00:01:46,147 --> 00:01:47,816
-You'll have many more chances
-to see it.
+Tendrás muchas más ocasiones
+de verlo.
 
 7
 00:01:48,149 --> 00:01:52,153
-But this year, that kid from
-the Uchiha clan is taking part, right?
+Pero este año participa ese chaval
+del clan Uchiha, ¿no?
 
 8
 00:01:52,320 --> 00:01:53,947
-And I won't have
-a chance to see that...
+Y no voy a tener
+ocasión de verlo...
 
 9
 00:01:54,661 --> 00:01:56,381
-I can't die in peace now.
+Ahora no podré morir en paz.
 
 10
 00:01:58,576 --> 00:01:59,576
-What's that?!
+¡¿Qué es eso?!
 
 11
 00:02:03,553 --> 00:02:04,554
-A giant snake!
+¡Una serpiente gigante!
 
 12
 00:02:04,791 --> 00:02:06,459
-Notify Lord Hokage immediately!
+¡Avisad al Señor Hokage de inmediato!
 
 13
 00:02:23,215 --> 00:02:24,615
-I won't let you into the village!
+¡No dejaré que entréis en la aldea!
 
 14
 00:02:37,657 --> 00:02:38,926
-Dispatch reinforcements immediately!
+¡Enviad refuerzos de inmediato!
 
 15
 00:02:38,950 --> 00:02:39,763
-Yes sir!
+¡Sí, señor!
 
 16
 00:02:52,589 --> 00:02:53,589
-Sand Shinobi!
+¡Shinobi de la Arena!
 
 17
 00:03:02,140 --> 00:03:03,720
-- <i>Start the operation!</i>
-- <i>Start the operation!</i>
+- <i>¡Iniciad la operación!</i>
+- <i>¡Iniciad la operación!</i>
 
 18
 00:03:12,015 --> 00:03:12,910
-Lord Hokage!
+¡Señor Hokage!
 
 19
 00:03:13,526 --> 00:03:14,526
-Leave it to me!
+¡Dejádmelo a mí!
 
 20
 00:03:17,572 --> 00:03:18,572
-Gaara!
+¡Gaara!
 
 21
 00:03:22,202 --> 00:03:23,202
-Squad One, from above!
+¡Escuadrón Uno, desde arriba!
 
 22
 00:03:23,244 --> 00:03:25,580
-Squad Two, from below!
-Protect the feudal lords!
+¡Escuadrón Dos, desde abajo!
+¡Proteged a los señores feudales!
 
 23
 00:03:33,630 --> 00:03:34,630
-You're in the way!
+¡Estorbáis!
 
 24
 00:03:54,859 --> 00:03:56,539
-It's finally our turn.
+Por fin nos toca a nosotros.
 
 25
 00:03:56,778 --> 00:03:58,947
-We've been in disguise for so long.
+Llevamos tanto tiempo disfrazados...
 
 26
 00:03:59,072 --> 00:04:01,741
-I'm bursting with pent-up frustration.
+Estoy que reviento de tanto contenerme.
 
 27
 00:04:02,116 --> 00:04:04,577
-You guys smell all sweaty!
+¡Apestáis a sudor!
 
 28
 00:04:04,786 --> 00:04:07,205
-Come on, we're all comrades, right...?
+Vamos, que somos compañeros, ¿no...?
 
 29
 00:04:08,456 --> 00:04:09,791
-<i>Sound Shinobi...!</i>
+<i>¡Shinobi del Sonido...!</i>
 
 30
 00:04:13,086 --> 00:04:14,086
@@ -127,180 +127,180 @@ Raido...
 
 31
 00:04:14,629 --> 00:04:15,940
-We're heading out to
-back up Lord Hokage.
+Vamos a salir a
+apoyar al Señor Hokage.
 
 32
 00:04:15,964 --> 00:04:16,965
-Be careful of any traps!
+¡Cuidado con las trampas!
 
 33
 00:04:19,092 --> 00:04:20,092
-Do it...
+Hacedlo...
 
 34
 00:04:20,802 --> 00:04:21,802
-Yes sir!
+¡Sí, señor!
 
 35
 00:04:23,888 --> 00:04:24,806
-<i>- Ninja Art:
-- Ninja Art:</i>
+<i>- Arte ninja:
+- Arte ninja:</i>
 
 36
 00:04:24,889 --> 00:04:26,809
-<i>- Four Violet Flames Formation!
-- Four Violet Flames Formation!</i>
+<i>- ¡Formación de las Cuatro Llamas Violetas!
+- ¡Formación de las Cuatro Llamas Violetas!</i>
 
 37
 00:04:36,734 --> 00:04:37,734
-A barrier?!
+¡¿Una barrera?!
 
 38
 00:04:47,120 --> 00:04:48,663
-Lord Kazekage...
+Señor Kazekage...
 
 39
 00:04:52,375 --> 00:04:54,002
-Barrier ninjutsu, huh?!
+¡¿Ninjutsu de barrera, eh?!
 
 40
 00:04:55,044 --> 00:04:56,604
-To think they could outsmart the ANBU...
+No pensé que pudieran burlar al ANBU...
 
 41
 00:04:57,380 --> 00:04:58,673
-They're no ordinary shinobi...
+No son shinobi corrientes...
 
 42
 00:05:02,302 --> 00:05:04,637
-What are you doing here?!
-Lord Hokage is in danger!
+¡¿Qué hacéis aquí?!
+¡El Señor Hokage está en peligro!
 
 43
 00:05:14,722 --> 00:05:16,974
-What a nuisance...
+Qué fastidio...
 
 44
 00:05:17,150 --> 00:05:19,861
-To think the enemy was
-masquerading as our own ANBU...
+No pensé que el enemigo estuviera
+haciéndose pasar por nuestro propio ANBU...
 
 45
 00:05:21,070 --> 00:05:22,947
-So he's the one who cast
-the genjutsu too!
+¡Así que también fue él quien lanzó
+el genjutsu!
 
 46
 00:05:23,698 --> 00:05:25,742
-Yeah... there's no mistake.
+Sí... no hay duda.
 
 47
 00:05:28,745 --> 00:05:30,038
-What's going on?
+¿Qué está pasando?
 
 48
 00:05:30,830 --> 00:05:31,830
-Stop that, Gaara!
+¡Para ya, Gaara!
 
 49
 00:05:33,572 --> 00:05:36,075
-I'll kill him...!
+¡Voy a matarlo...!
 
 50
 00:05:37,061 --> 00:05:39,267
-There's no point in
-continuing this fight!
+¡No tiene sentido
+seguir con esta pelea!
 
 51
 00:05:39,464 --> 00:05:41,132
-Don't forget our mission!
+¡No olvides nuestra misión!
 
 52
 00:05:42,091 --> 00:05:43,091
-Out of my way...!
+¡Apartaos...!
 
 53
 00:05:43,902 --> 00:05:45,628
-What are you guys doing?!
+¡¿Qué estáis haciendo?!
 
 54
 00:05:46,220 --> 00:05:48,264
-The operation is already underway!
+¡La operación ya está en marcha!
 
 55
 00:06:00,485 --> 00:06:02,985
-What in the world is going on?
+¿Qué demonios está pasando?
 
 56
 00:06:05,611 --> 00:06:06,611
-Gaara!
+¡Gaara!
 
 57
 00:06:07,950 --> 00:06:08,950
-What's the matter?!
+¡¿Qué te pasa?!
 
 58
 00:06:11,741 --> 00:06:13,117
-His wound is deeper than
-I thought!
+¡Su herida es más profunda
+de lo que pensaba!
 
 59
 00:06:13,873 --> 00:06:16,334
-Besides, his chakra is really low!
+¡Además, su chakra está muy bajo!
 
 60
 00:06:16,417 --> 00:06:18,711
-Idiot! It's all because
-you didn't wait for the signal
+¡Idiota! Todo es porque
+no esperaste la señal
 
 61
 00:06:18,795 --> 00:06:20,963
-and tried to fully transform...
+e intentaste transformarte del todo...
 
 62
 00:06:21,172 --> 00:06:22,715
-What should we do?!
+¡¿Qué hacemos?!
 
 63
 00:06:23,174 --> 00:06:25,054
-Are you saying we have to do
-this without Gaara?
+¿Estás diciendo que tenemos que hacer
+esto sin Gaara?
 
 64
 00:06:28,679 --> 00:06:32,225
-You two, leave for now and
-tend to Gaara's wounds!
+¡Vosotros dos, marchaos por ahora y
+atended las heridas de Gaara!
 
 65
 00:06:33,017 --> 00:06:35,061
-As soon as Gaara's chakra has
-been restored...
+En cuanto el chakra de Gaara
+se haya recuperado...
 
 66
 00:06:35,395 --> 00:06:37,021
-the operation will recommence!
+¡la operación se reanudará!
 
 67
 00:06:37,730 --> 00:06:38,730
-Got it!
+¡Entendido!
 
 68
 00:06:41,651 --> 00:06:42,651
-What about you, Sensei?!
+¡¿Y usted, sensei?!
 
 69
 00:06:43,111 --> 00:06:45,154
-I'll hold them off!
+¡Yo los entretendré!
 
 70
 00:06:50,618 --> 00:06:53,663
-Is Orochimaru the host of this party?
+¿Es Orochimaru el anfitrión de esta fiesta?
 
 71
 00:06:55,498 --> 00:07:00,336
-Who knows...
-In any case, let's turn up the heat.
+Quién sabe...
+En cualquier caso, subamos el ritmo.
 
 72
 00:07:03,673 --> 00:07:04,573
@@ -308,103 +308,103 @@ Sasuke...
 
 73
 00:07:06,509 --> 00:07:10,138
-Sorry, but the Chunin Exam ends here.
+Lo siento, pero el Examen Chunin termina aquí.
 
 74
 00:07:12,223 --> 00:07:14,267
-You've already achieved Chunin level.
+Ya has alcanzado el nivel de Chunin.
 
 75
 00:07:15,226 --> 00:07:18,396
-If you're a Leaf shinobi,
-then serve the Leaf!
+¡Si eres un shinobi de la Hoja,
+sirve a la Hoja!
 
 76
 00:07:19,772 --> 00:07:22,525
-So, I just need to take down Gaara, right?
+Entonces, solo tengo que derrotar a Gaara, ¿no?
 
 77
 00:07:22,859 --> 00:07:24,299
-Picking up where we left off, right?
+Seguimos donde lo dejamos, ¿verdad?
 
 78
 00:07:24,569 --> 00:07:25,779
-Don't pursue too far.
+No lo persigas demasiado lejos.
 
 79
 00:07:26,094 --> 00:07:29,081
-From here on out, it's no longer an exam.
-It's the real thing!
+A partir de ahora, ya no es un examen.
+¡Es la realidad!
 
 80
 00:07:29,991 --> 00:07:32,160
-What I have to do... is still the same!
+¡Lo que tengo que hacer... sigue siendo lo mismo!
 
 81
 00:07:34,162 --> 00:07:35,162
-I won't let him through!
+¡No dejaré que pase!
 
 82
 00:07:43,171 --> 00:07:44,171
-<i>Sasuke...!</i>
+<i>¡Sasuke...!</i>
 
 83
 00:07:45,423 --> 00:07:46,591
-Boy oh boy...
+Vaya, vaya...
 
 84
 00:07:47,175 --> 00:07:51,596
-We intended to take Sasuke
-while Gaara was causing a diversion.
+Teníamos pensado llevarnos a Sasuke
+mientras Gaara causaba una distracción.
 
 85
 00:07:52,591 --> 00:07:56,387
-But not everything goes as planned.
+Pero no todo sale como se planea.
 
 86
 00:07:58,093 --> 00:08:01,012
-I see... Is that so?
+Ya veo... ¿Conque es eso?
 
 87
 00:08:02,172 --> 00:08:07,344
-So the Hidden Leaf and...
-Sasuke were your targets?
+Así que la Hoja Oculta y...
+Sasuke eran vuestros objetivos.
 
 88
 00:08:07,996 --> 00:08:10,456
-Is the Leaf such a big prize?
+¿Tan gran premio es la Hoja?
 
 89
 00:08:11,574 --> 00:08:15,453
-More importantly,
-if Gaara comes back,
+Más importante aún,
+si Gaara vuelve,
 
 90
 00:08:15,620 --> 00:08:18,706
-I'll be able to show you something
-much more interesting.
+podré enseñarte algo
+mucho más interesante.
 
 91
 00:08:19,123 --> 00:08:20,791
-Well, anyway...
+Bueno, en fin...
 
 92
 00:08:21,459 --> 00:08:25,171
-Your stubbornness has allowed
-the Leaf to be outplayed.
+Tu tozudez ha permitido
+que superen a la Hoja.
 
 93
 00:08:26,047 --> 00:08:27,673
-It's my win.
+Es mi victoria.
 
 94
 00:08:29,300 --> 00:08:32,470
-Nothing is decided
-until the very end.
+Nada está decidido
+hasta el final.
 
 95
 00:08:32,970 --> 00:08:35,306
-I believe that's what I taught you...
+Creo que eso fue lo que te enseñé...
 
 96
 00:08:38,309 --> 00:08:39,769
@@ -412,458 +412,458 @@ Orochimaru.
 
 97
 00:08:41,103 --> 00:08:45,107
-I thought this day would
-eventually arrive.
+Pensé que este día
+acabaría llegando.
 
 98
 00:08:46,150 --> 00:08:47,193
-However...
+Sin embargo...
 
 99
 00:08:48,361 --> 00:08:52,031
-You won't get my head that easily!
+¡No te llevarás mi cabeza tan fácilmente!
 
 100
 00:08:53,783 --> 00:08:55,243
-I told you, didn't I?
+Te lo dije, ¿no?
 
 101
 00:08:55,618 --> 00:08:59,205
-You should have
-named a Fifth Hokage...
+Deberías haber
+nombrado a un Quinto Hokage...
 
 102
 00:08:59,789 --> 00:09:01,123
-Third Hokage...
+Tercer Hokage...
 
 103
 00:09:01,958 --> 00:09:05,711
-because you will... die here.
+porque tú vas a... morir aquí.
 
 104
 00:09:10,383 --> 00:09:11,467
-That Orochimaru...
+Ese Orochimaru...
 
 105
 00:09:12,385 --> 00:09:13,135
-What should we do?
+¿Qué hacemos?
 
 106
 00:09:13,355 --> 00:09:14,775
-Should we send reinforcements?
+¿Enviamos refuerzos?
 
 107
 00:09:15,179 --> 00:09:18,633
-No. It's too dangerous to make a move
-when we don't know...
+No. Es demasiado peligroso movernos
+cuando no conocemos...
 
 108
 00:09:18,658 --> 00:09:19,742
-the full situation.
+la situación completa.
 
 109
 00:09:19,976 --> 00:09:22,437
-If the mastermind is Orochimaru...
+Si el cerebro de todo esto es Orochimaru...
 
 110
 00:09:22,770 --> 00:09:23,770
-even more so.
+aún más.
 
 111
 00:09:25,314 --> 00:09:29,068
-Is Orochimaru... really that dangerous?
+¿De verdad Orochimaru... es tan peligroso?
 
 112
 00:09:29,986 --> 00:09:31,737
-Long ago, when I was a kid...
+Hace mucho, cuando era niño...
 
 113
 00:09:33,072 --> 00:09:36,492
-there's one thing I remember
-thinking when I saw that guy...
+hay algo que recuerdo haber
+pensado al ver a ese tipo...
 
 114
 00:09:42,037 --> 00:09:44,164
-That he didn't seem human...
+Que no parecía humano...
 
 115
 00:09:44,792 --> 00:09:47,962
-That he seemed like something
-that had just taken on a human form...
+Que parecía algo
+que acababa de tomar forma humana...
 
 116
 00:09:50,176 --> 00:09:51,177
-Frightening...
+Aterrador...
 
 117
 00:09:53,009 --> 00:09:55,761
-<i>Simply... frightening.</i>
+<i>Sencillamente... aterrador.</i>
 
 118
 00:09:59,557 --> 00:10:00,557
-Reporting!
+¡Informe!
 
 119
 00:10:01,183 --> 00:10:03,704
-A giant snake has appeared near
-the East Gate of the Hidden Leaf!
+¡Ha aparecido una serpiente gigante cerca
+de la Puerta Este de la Hoja Oculta!
 
 120
 00:10:03,728 --> 00:10:07,106
-And behind it, about a hundred
-Sand ninja are infiltrating the village!
+¡Y tras ella, un centenar
+de ninjas de la Arena se están infiltrando en la aldea!
 
 121
 00:10:07,648 --> 00:10:09,626
-They are currently engaged in
-armed conflict with our shinobi
+Se encuentran en pleno
+combate armado con nuestros shinobi
 
 122
 00:10:09,650 --> 00:10:10,730
-who were patrolling nearby!
+que patrullaban cerca!
 
 123
 00:10:10,776 --> 00:10:13,404
-Squad One and Two will remain here.
-All other units, head for the eastern gate.
+El Escuadrón Uno y el Dos se quedan aquí.
+El resto de unidades, a la puerta este.
 
 124
 00:10:13,755 --> 00:10:14,255
-Immediately!
+¡De inmediato!
 
 125
 00:10:14,697 --> 00:10:15,276
-- Yes sir!
-- Yes sir!
+- ¡Sí, señor!
+- ¡Sí, señor!
 
 126
 00:10:26,709 --> 00:10:28,419
-This is as far as you go!
+¡Hasta aquí llegáis!
 
 127
 00:10:44,185 --> 00:10:45,645
-There's quite a large number.
+Son bastantes.
 
 128
 00:10:46,024 --> 00:10:47,150
-We were careless!
+¡Bajamos la guardia!
 
 129
 00:10:47,578 --> 00:10:49,385
-And even Lord Hokage is under attack...
+E incluso el Señor Hokage está siendo atacado...
 
 130
 00:10:51,014 --> 00:10:53,725
-Kakashi! Look inside the barrier!
+¡Kakashi! ¡Mira dentro de la barrera!
 
 131
 00:10:54,130 --> 00:10:54,715
-Yeah.
+Sí.
 
 132
 00:10:55,404 --> 00:10:56,008
-<i>What...?</i>
+<i>¿Qué...?</i>
 
 133
 00:11:02,745 --> 00:11:03,500
-Orochimaru!
+¡Orochimaru!
 
 134
 00:11:05,206 --> 00:11:06,206
-Orochimaru?!
+¡¿Orochimaru?!
 
 135
 00:11:07,875 --> 00:11:08,959
-<i>Why is that guy...?</i>
+<i>¿Por qué está ese tipo...?</i>
 
 136
 00:11:10,586 --> 00:11:12,546
-<i>Don't tell me
-they're after Sasuke again?!</i>
+<i>No me digas
+que van a por Sasuke otra vez...</i>
 
 137
 00:11:14,423 --> 00:11:15,423
-Sasuke!
+¡Sasuke!
 
 138
 00:11:17,468 --> 00:11:18,468
-<i>Huh?</i>
+<i>¿Eh?</i>
 
 139
 00:11:19,136 --> 00:11:20,346
-<i>He's not there...?</i>
+<i>¿No está...?</i>
 
 140
 00:11:33,171 --> 00:11:35,673
-Sakura, stay there for a while.
+Sakura, quédate ahí un momento.
 
 141
 00:11:36,555 --> 00:11:38,101
-I'm going to go thin out their numbers.
+Voy a reducir su número.
 
 142
 00:11:52,545 --> 00:11:55,548
-Damn! I'm worried about
-Lord Hokage, but...
+¡Maldita sea! Me preocupa
+el Señor Hokage, pero...
 
 143
 00:11:56,173 --> 00:11:57,341
-Leave it to the ANBU.
+Déjaselo al ANBU.
 
 144
 00:11:58,092 --> 00:11:59,092
-Besides...
+Además...
 
 145
 00:11:59,427 --> 00:12:02,972
-Lord Hokage isn't the kind of guy
-who can be taken down that easily.
+El Señor Hokage no es de los que
+caen tan fácilmente.
 
 146
 00:12:04,483 --> 00:12:05,483
-But...
+Pero...
 
 147
 00:12:06,100 --> 00:12:11,355
-After all, he is the Hokage
-of the Hidden Leaf Village.
+Al fin y al cabo, es el Hokage
+de la Hoja Oculta.
 
 148
 00:12:21,741 --> 00:12:24,785
-Are you so happy, you're crying?
+¿Tan feliz estás que lloras?
 
 149
 00:12:25,737 --> 00:12:26,737
-Or...
+¿O...
 
 150
 00:12:27,504 --> 00:12:34,552
-do you feel even an iota of sadness in your heart
-at the thought of killing me, your own teacher?
+sientes aunque sea una pizca de tristeza
+al pensar en matarme a mí, tu propio maestro?
 
 151
 00:12:47,767 --> 00:12:50,060
-I was feeling so sleepy earlier.
+Antes tenía mucho sueño.
 
 152
 00:12:50,311 --> 00:12:52,396
-But I'm wide awake now.
+Pero ahora estoy bien despierto.
 
 153
 00:12:54,231 --> 00:12:56,859
-That's what I thought.
+Eso pensaba.
 
 154
 00:13:01,113 --> 00:13:05,618
-I know you aren't someone
-who would hold a grudge.
+Sé que no eres de los que
+guardan rencor.
 
 155
 00:13:05,951 --> 00:13:09,538
-You have neither a goal nor motive.
+No tienes ni objetivo ni motivo.
 
 156
 00:13:09,955 --> 00:13:12,249
-Hmm... I guess...
+Mmm... Supongo...
 
 157
 00:13:13,083 --> 00:13:15,461
-I do kind of have a goal.
+que sí tengo una especie de objetivo.
 
 158
 00:13:16,253 --> 00:13:17,880
-If I were to explain it...
+Si tuviera que explicarlo...
 
 159
 00:13:19,256 --> 00:13:22,510
-It's interesting to watch things
-that move.
+Es interesante ver cosas
+que se mueven.
 
 160
 00:13:23,302 --> 00:13:26,555
-I get no pleasure if
-something doesn't move.
+No siento ningún placer si
+algo no se mueve.
 
 161
 00:13:27,329 --> 00:13:29,498
-Like a windmill that doesn't turn...
+Como un molino que no gira...
 
 162
 00:13:30,059 --> 00:13:33,938
-Well, it may have some kind
-of appeal once in a while.
+Bueno, puede tener cierto
+encanto de vez en cuando.
 
 163
 00:13:34,271 --> 00:13:36,941
-But usually,
-it's not worth looking at.
+Pero por lo general,
+no vale la pena mirarlo.
 
 164
 00:13:38,275 --> 00:13:42,363
-Right now... with a wind I call
-"The Destruction of Leaf"...
+Ahora mismo... con un viento que llamo
+«la Destrucción de la Hoja»...
 
 165
 00:13:42,446 --> 00:13:44,990
-I want to turn that windmill.
+quiero hacer girar ese molino.
 
 166
 00:13:47,326 --> 00:13:49,703
-You're the same as always...
+Sigues siendo el mismo de siempre...
 
 167
 00:13:57,336 --> 00:13:58,336
-Sakura!
+¡Sakura!
 
 168
 00:13:59,880 --> 00:14:02,675
-It was worth teaching you
-genjutsu survival training
+Mereció la pena enseñarte
+entrenamiento de supervivencia con genjutsu
 
 169
 00:14:02,700 --> 00:14:04,160
-during the Genin Exam.
+durante el Examen Genin.
 
 170
 00:14:04,969 --> 00:14:07,721
-You truly have a talent for it.
+Realmente tienes talento para ello.
 
 171
 00:14:08,222 --> 00:14:09,222
-Huh?
+¿Eh?
 
 172
 00:14:09,974 --> 00:14:12,893
-Release the genjutsu and
-wake up Naruto and Shikamaru!
+¡Libera el genjutsu y
+despierta a Naruto y a Shikamaru!
 
 173
 00:14:14,436 --> 00:14:16,438
-Naruto will be delighted.
+Naruto se pondrá contentísimo.
 
 174
 00:14:17,606 --> 00:14:19,606
-He'll be getting a mission
-after so long.
+Por fin le toca una misión
+después de tanto tiempo.
 
 175
 00:14:20,609 --> 00:14:21,809
-What do you mean by a mission?
+¿A qué te refieres con una misión?
 
 176
 00:14:22,486 --> 00:14:23,821
-Be careful...
+Ten cuidado...
 
 177
 00:14:25,614 --> 00:14:28,576
-It's your first A-rank mission
-since the Land of Waves.
+Es tu primera misión de rango A
+desde lo del País de las Olas.
 
 178
 00:14:35,193 --> 00:14:38,238
-<i>I feel uneasy...
-about that unusual chakra.</i>
+<i>Siento inquietud...
+por ese chakra tan extraño.</i>
 
 179
 00:14:47,386 --> 00:14:48,762
-But then,
+Pero entonces,
 
 180
 00:14:49,017 --> 00:14:51,092
-we should wake up Ino and Choji
-and go as a larger group.
+deberíamos despertar a Ino y a Choji
+e ir en un grupo más grande.
 
 181
 00:14:51,724 --> 00:14:54,393
-There may already
-be quite a large number
+Puede que ya haya
+bastantes
 
 182
 00:14:54,418 --> 00:14:57,132
-of Sand and Sound shinobi
-who've infiltrated the village.
+shinobi de la Arena y del Sonido
+infiltrados en la aldea.
 
 183
 00:14:59,273 --> 00:15:03,360
-A squad loses speed when it has
-more than the standard four members...
+Un escuadrón pierde velocidad cuando tiene
+más de los cuatro miembros habituales...
 
 184
 00:15:03,485 --> 00:15:05,988
-and it becomes difficult to
-hide from the enemy.
+y se vuelve difícil
+ocultarse del enemigo.
 
 185
 00:15:07,907 --> 00:15:11,118
-You learned that in the Academy's
-patrol practical training, right?
+Eso lo aprendiste en las prácticas de patrulla
+de la Academia, ¿no?
 
 186
 00:15:12,109 --> 00:15:17,099
-Oh, I see! So if it's a team of four,
-does that mean you'll come with us?
+¡Ah, ya veo! Entonces, si somos un equipo de cuatro,
+¿eso significa que vienes con nosotros?
 
 187
 00:15:17,124 --> 00:15:19,793
-No, I have to stay here.
+No, yo tengo que quedarme aquí.
 
 188
 00:15:20,669 --> 00:15:21,669
-<i>Summoning Jutsu!</i>
+<i>¡Técnica de invocación!</i>
 
 189
 00:15:25,591 --> 00:15:29,511
-Pakkun here will
-track Sasuke by his scent!
+¡Pakkun rastreará
+a Sasuke por su olor!
 
 190
 00:15:30,888 --> 00:15:33,933
-D-Don't tell me...
-the fourth member is this puppy?!
+N-No me digas...
+¿que el cuarto miembro es este cachorro?!
 
 191
 00:15:37,061 --> 00:15:42,107
-Hey, watch it little girl! Don't you dare
-call me "cute" or a "puppy"!
+¡Eh, cuidadito, niñata! ¡No te atrevas
+a llamarme «mono» ni «cachorro»!
 
 192
 00:15:43,275 --> 00:15:45,653
-<i>I didn't say... cute.</i>
+<i>No he dicho... mono.</i>
 
 193
 00:15:46,487 --> 00:15:49,949
-Okay, Sakura! Release the genjutsu
-on Naruto and Shikamaru!
+¡Vale, Sakura! ¡Libera el genjutsu
+de Naruto y Shikamaru!
 
 194
 00:15:50,699 --> 00:15:51,247
-Okay!
+¡Vale!
 
 195
 00:16:07,132 --> 00:16:08,132
-<i>Release!</i>
+<i>¡Liberación!</i>
 
 196
 00:16:16,642 --> 00:16:18,310
-What is it... Sakura?
+¿Qué pasa... Sakura?
 
 197
 00:16:19,017 --> 00:16:19,907
-Get down!
+¡Agáchate!
 
 198
 00:16:21,355 --> 00:16:23,524
-I'll tell you later!
-Just stay down!
+¡Ya te lo explicaré!
+¡Quédate agachado!
 
 199
 00:16:28,951 --> 00:16:32,204
-Shikamaru, you were awake
-from the beginning...
+Shikamaru, estabas despierto
+desde el principio...
 
 200
 00:16:35,368 --> 00:16:37,119
-Owwee!
+¡Ayyy!
 
 201
 00:16:37,496 --> 00:16:39,873
