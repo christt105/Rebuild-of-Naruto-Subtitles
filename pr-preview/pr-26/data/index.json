@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T23:38:59.218997+00:00",
+  "generated_at": "2026-09-23T23:39:15.010357+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -167,8 +167,8 @@
       "title_en": "Reunions",
       "title_es": "Reencuentros",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #26",
       "cue_count": 1251,
       "translated_count": 1235,
       "unresolved_tags": [
