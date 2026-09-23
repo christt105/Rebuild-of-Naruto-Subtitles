@@ -5247,186 +5247,186 @@ de la transformación completa.</i>
 
 1201
 01:55:24,125 --> 01:55:25,835
-<i>but at this rate, I'll also be...!</i>
+<i>pero a este ritmo, ¡yo también...!</i>
 
 1202
 01:55:26,669 --> 01:55:28,087
-<i>Sand Shuriken!</i>
+<i>¡Shuriken de Arena! {SHURIARENA}</i>
 
 1203
 01:55:37,347 --> 01:55:39,057
-You're... really weak!
+Eres... realmente débil.
 
 1204
 01:55:39,864 --> 01:55:40,665
-Shut up!
+¡Cállate!
 
 1205
 01:55:40,999 --> 01:55:42,757
-Just what is that guy?
+¿Qué demonios es ese tipo?
 
 1206
 01:55:52,609 --> 01:55:54,653
-<i>Wh-What lonely eyes...</i>
+<i>Q-Qué ojos tan solitarios...</i>
 
 1207
 01:55:55,093 --> 01:55:57,095
-<i>I don't know what happened, but...</i>
+<i>No sé qué pasó, pero...</i>
 
 1208
 01:55:57,957 --> 01:56:01,127
-<i>This guy's always been
-suffering all alone...</i>
+<i>Este tipo siempre ha sufrido
+completamente solo...</i>
 
 1209
 01:56:01,864 --> 01:56:03,532
-<i>Even now,
-without ever feeling relief...</i>
+<i>Incluso ahora,
+sin sentir nunca alivio...</i>
 
 1210
 01:56:04,040 --> 01:56:07,210
-<i>Only able to believe in himself...</i>
+<i>Solo capaz de creer en sí mismo...</i>
 
 1211
 01:56:07,951 --> 01:56:10,454
-<i>Even now,
-he's battling in hell...</i>
+<i>Incluso ahora,
+está luchando en el infierno...</i>
 
 1212
 01:56:13,675 --> 01:56:16,719
-What's the matter?!
-Are you afraid of me?
+¡¿Qué te pasa?!
+¿Me tienes miedo?
 
 1213
 01:56:17,091 --> 01:56:20,970
-Fighting for yourself?
-Fighting for others?
+¿Luchar por ti mismo?
+¿Luchar por otros?
 
 1214
 01:56:21,536 --> 01:56:26,041
-You should just love yourself,
-and fight for yourself!
+¡Deberías amarte solo a ti mismo
+y luchar por ti mismo!
 
 1215
 01:56:26,573 --> 01:56:29,826
-That's what it means to be strong!
+¡Eso es lo que significa ser fuerte!
 
 1216
 01:56:31,167 --> 01:56:32,710
-Now fight me!
+¡Ahora lucha contra mí!
 
 1217
 01:56:33,077 --> 01:56:34,995
-What happened to
-the boldness you had earlier?!
+¡¿Qué pasó con
+la osadía que tenías antes?!
 
 1218
 01:56:35,416 --> 01:56:39,879
-Show me your strength!
-I'll crush that strength underfoot!
+¡Muéstrame tu fuerza!
+¡La aplastaré bajo mis pies!
 
 1219
 01:56:42,034 --> 01:56:46,538
-Now what's the matter?!
-If you don't fight me I'll kill that girl!
+¡¿Ahora qué te pasa?!
+¡Si no luchas contra mí, mataré a esa chica!
 
 1220
 01:56:49,564 --> 01:56:51,024
-Damn it!
+¡Maldita sea!
 
 1221
 01:56:52,021 --> 01:56:54,065
-<i>Multi-Shadow Clone Jutsu!</i>
+<i>¡Técnica de Multiclones de Sombra!</i>
 
 1222
 01:56:57,301 --> 01:56:58,386
-<i>Wind Style:</i>
+<i>Técnica de viento:</i>
 
 1223
 01:57:00,513 --> 01:57:03,433
-<i>Infinite Sandstorm Devastation!</i>
+<i>¡Devastación de Tormenta de Arena!</i>
 
 1224
 01:57:08,229 --> 01:57:11,065
-<i>This isn't good...
-He really got me.</i>
+<i>Esto es malo...
+Me ha dado de verdad.</i>
 
 1225
 01:57:11,441 --> 01:57:14,318
-First, I'll toy with you
-without killing you!
+¡Primero jugaré contigo
+sin matarte!
 
 1226
 01:57:14,444 --> 01:57:17,196
-I look forward to seeing
-when and how you give up
+Espero con ganas ver
+cuándo y cómo te rindes
 
 1227
 01:57:17,221 --> 01:57:18,806
-and abandon your precious friends!
+¡y abandonas a tus preciados amigos!
 
 1228
 01:57:25,872 --> 01:57:28,124
-<i>But... what is it?</i>
+<i>Pero... ¿qué es esto?</i>
 
 1229
 01:57:30,752 --> 01:57:31,919
-It's far from over!
+¡Esto está lejos de terminar!
 
 1230
 01:57:38,593 --> 01:57:41,262
-<i>What is this... this feeling?</i>
+<i>¿Qué es esto... esta sensación?</i>
 
 1231
 01:57:42,263 --> 01:57:43,598
-<i>Sand Shuriken!</i>
+<i>¡Shuriken de Arena!</i>
 
 1232
 01:57:50,271 --> 01:57:52,982
-D-Damn it!
+¡M-Maldita sea!
 
 1233
 01:57:53,775 --> 01:57:55,234
-Damn it!
+¡Maldita sea!
 
 1234
 01:57:55,777 --> 01:57:57,445
-H-He's...
+E-Está...
 
 1235
 01:57:58,446 --> 01:58:02,533
-<i>What is this?!
-This feeling that's overcoming me?</i>
+<i>¡¿Qué es esto?!
+¿Esta sensación que me invade?</i>
 
 1236
 01:58:04,846 --> 01:58:07,641
-<i>For some reason...
-I don't want to lose to this guy...</i>
+<i>Por alguna razón...
+no quiero perder contra este tipo...</i>
 
 1237
 01:58:07,960 --> 01:58:09,754
-You...
+Tú...
 
 1238
 01:58:13,011 --> 01:58:14,943
-<i>... even if I die!</i>
+<i>... ¡aunque me muera!</i>
 
 1239
 01:58:15,379 --> 01:58:16,506
-What's the matter?
+¿Qué te pasa?
 
 1240
 01:58:17,006 --> 01:58:19,675
-After pursuing me like that,
-what's up with you?
+Después de perseguirme así,
+¿qué te pasa ahora?
 
 1241
 01:58:20,127 --> 01:58:22,958
-You're not even able to touch me...
+Ni siquiera eres capaz de tocarme...
 
 1242
 01:58:23,721 --> 01:58:25,056
-What a joke!
+¡Vaya broma!
 
 1243
 01:58:27,183 --> 01:58:28,183
@@ -5434,166 +5434,166 @@ What a joke!
 
 1244
 01:58:32,271 --> 01:58:35,024
-<i>I don't know how far I can go, but...</i>
+<i>No sé hasta dónde puedo llegar, pero...</i>
 
 1245
 01:58:36,359 --> 01:58:39,695
-I have to give it... my best shot!
+¡Tengo que darlo... todo!
 
 1246
 01:58:39,904 --> 01:58:41,280
-<i>Shadow Clone Jutsu!</i>
+<i>¡Técnica de Clones de Sombra!</i>
 
 1247
 01:58:47,078 --> 01:58:48,246
-Here goes!
+¡Allá voy!
 
 1248
 01:58:48,412 --> 01:58:50,915
-This is my ultimate secret taijutsu!
+¡Este es mi taijutsu secreto definitivo!
 
 1249
 01:58:51,207 --> 01:58:55,294
 Naruto Uzumaki...
-Clone Body Slam!
+¡Placaje de Clones! {COMBONARUTO}
 
 1250
 01:59:00,925 --> 01:59:01,509
-- Now!
-- Now!
+- ¡Ahora!
+- ¡Ahora!
 
 1251
 01:59:01,634 --> 01:59:02,760
-Okay!
+¡Vale!
 
 1252
 01:59:04,846 --> 01:59:06,472
-<i>Shadow Clone Jutsu!</i>
+<i>¡Técnica de Clones de Sombra!</i>
 
 1253
 01:59:07,765 --> 01:59:10,768
-Once again...
-<i>Shadow Clone Jutsu!</i>
+Una vez más...
+<i>¡Técnica de Clones de Sombra!</i>
 
 1254
 01:59:12,603 --> 01:59:13,396
-Take this!
+¡Toma esto!
 
 1255
 01:59:13,437 --> 01:59:15,606
-Hidden Leaf Secret Ultimate
-Taijutsu Technique,
+La técnica secreta definitiva de taijutsu
+de la Hoja Oculta,
 
 1256
 01:59:15,648 --> 01:59:17,150
-learned from Kakashi-sensei!
+¡aprendida de Kakashi-sensei!
 
 1257
 01:59:18,526 --> 01:59:20,611
-<i>A Thousand Years of Death!</i>
+<i>¡Muerte Milenaria!</i>
 
 1258
 01:59:26,242 --> 01:59:27,121
-Gotcha.
+Te pillé.
 
 1259
 01:59:37,295 --> 01:59:40,631
-Doing all that work...
-And managing just one blow, huh?
+Con todo ese esfuerzo...
+¿Y solo consigues un golpe, eh?
 
 1260
 01:59:40,840 --> 01:59:43,092
-S-Shut up!
+¡C-Cállate!
 
 1261
 01:59:45,219 --> 01:59:49,515
-<i>He attacked the base of the tail
-which has the weakest defense...</i>
+<i>Atacó la base de la cola,
+que es donde la defensa es más débil...</i>
 
 1262
 01:59:50,130 --> 01:59:53,967
-<i>Even though I'm not wounded,
-I can't absorb the impact.</i>
+<i>Aunque no estoy herido,
+no puedo absorber el impacto.</i>
 
 1263
 01:59:55,813 --> 01:59:57,315
-<i>Did I underestimate him too much?</i>
+<i>¿Lo habré subestimado demasiado?</i>
 
 1264
 02:00:01,527 --> 02:00:02,737
-Hey, Naruto...
+Oye, Naruto...
 
 1265
 02:00:04,262 --> 02:00:07,766
-Sakura... Rescue her,
-even if it's the last thing you do!
+Sakura... ¡Rescátala,
+aunque sea lo último que hagas!
 
 1266
 02:00:09,368 --> 02:00:10,608
-And after you've rescued her...
+Y después de rescatarla...
 
 1267
 02:00:11,743 --> 02:00:13,620
-take Sakura and get out of here.
+llévate a Sakura y sal de aquí.
 
 1268
 02:00:15,082 --> 02:00:16,292
-You, if anyone, can do it!
+¡Si alguien puede hacerlo, eres tú!
 
 1269
 02:00:18,912 --> 02:00:23,166
-I can still... hold him off for a while.
+Todavía puedo... contenerlo un rato.
 
 1270
 02:00:25,801 --> 02:00:28,346
-I lost everything once...
+Una vez lo perdí todo...
 
 1271
 02:00:29,267 --> 02:00:31,937
-I don't want to see...
+no quiero volver a ver...
 
 1272
 02:00:32,767 --> 02:00:36,187
-any precious comrades die
-right before my eyes again.
+morir a ningún compañero preciado
+delante de mis ojos otra vez.
 
 1273
 02:00:37,605 --> 02:00:40,233
-Precious... comrades...
+<i>Compañeros... preciados...</i>
 
 1274
 02:00:41,734 --> 02:00:42,985
-<i>I will not allow my comrades...</i>
+<i>No permitiré que a mis compañeros...</i>
 
 1275
 02:00:44,111 --> 02:00:46,614
-<i>to be killed, no matter what.</i>
+<i>los maten, pase lo que pase.</i>
 
 1276
 02:00:52,411 --> 02:00:53,411
-I see...
+Ya veo...
 
 1277
 02:00:57,866 --> 02:00:59,273
-That's right.
+Así es.
 
 1278
 02:01:01,645 --> 02:01:03,522
-Because he has gone through life
+Porque ha pasado por la vida
 
 1279
 02:01:03,547 --> 02:01:06,092
-with the same loneliness
-and sadness as I have...
+con la misma soledad
+y tristeza que yo...
 
 1280
 02:01:06,634 --> 02:01:11,389
-That guy who continued to fight
-in solitude for himself,
+Ese tipo que siguió luchando
+en soledad por sí mismo,
 
 1281
 02:01:11,497 --> 02:01:13,598
-I thought... he was strong.
+pensé... que era fuerte.
 
 1282
 02:01:15,726 --> 02:01:16,727
@@ -5601,219 +5601,219 @@ Naruto...
 
 1283
 02:01:17,186 --> 02:01:21,774
-But that's not what true strength is...
+Pero eso no es lo que es la verdadera fuerza...
 
 1284
 02:01:22,441 --> 02:01:24,735
-If one fights just for
-oneself in solitude...
+Si uno lucha solo por
+sí mismo en soledad...
 
 1285
 02:01:25,111 --> 02:01:27,780
-one can't really become strong...
+no puede llegar a ser realmente fuerte...
 
 1286
 02:01:30,140 --> 02:01:34,477
-<i>When a person has something
-precious they want to protect...</i>
+<i>Cuando una persona tiene algo
+preciado que quiere proteger...</i>
 
 1287
 02:01:37,833 --> 02:01:42,171
-<i>that's when... they can truly
-become strong.</i>
+<i>es entonces... cuando de verdad
+puede volverse fuerte.</i>
 
 1288
 02:01:47,425 --> 02:01:50,594
-<i>You will... become strong.</i>
+<i>Tú... te volverás fuerte.</i>
 
 1289
 02:01:56,017 --> 02:01:58,686
-<i>He's releasing such a
-massive amount of chakra!</i>
+<i>¡Está liberando una cantidad
+tan masiva de chakra!</i>
 
 1290
 02:02:00,062 --> 02:02:02,356
-<i>That's... Naruto?!</i>
+<i>¿Ese es... Naruto?!</i>
 
 1291
 02:02:04,532 --> 02:02:06,660
-No matter what, I will...
+Pase lo que pase, yo...
 
 1292
 02:02:09,822 --> 02:02:12,033
-protect you!
+¡te protegeré!
 
 1293
 02:02:21,375 --> 02:02:23,377
-<i>Multi-Shadow Clone Jutsu!</i>
+<i>¡Técnica de Multiclones de Sombra!</i>
 
 1294
 02:02:29,550 --> 02:02:32,428
-I've kept you waiting
-a long time!
+¡Os he hecho esperar
+mucho tiempo!
 
 1295
 02:02:33,304 --> 02:02:37,016
-The First Scroll of the Naruto Uzumaki
-Ninja Chronicles begins now!
+¡El Primer Pergamino de las Crónicas Ninja
+de Naruto Uzumaki empieza ahora!
 
 1296
 02:02:37,266 --> 02:02:40,978
-Wh-What's up with this...
-large number of clones?!
+¡¿Q-Qué pasa con...
+esta cantidad de clones?!
 
 1297
 02:02:41,562 --> 02:02:42,980
-What the hell is this?
+¿Qué demonios es esto?
 
 1298
 02:02:43,481 --> 02:02:46,734
-T-This is... amazing!
+¡E-Esto es... increíble!
 
 1299
 02:02:47,985 --> 02:02:51,072
-You are pretty promising.
+Eres bastante prometedor.
 
 1300
 02:02:51,572 --> 02:02:53,532
-You... This is...
+Tú... Esto es...
 
 1301
 02:02:53,949 --> 02:02:57,161
-Sasuke, you get yourself
-a good rest.
+Sasuke, tómate
+un buen descanso.
 
 1302
 02:02:57,828 --> 02:03:01,415
-Leave the rest to Naruto Uzumaki!
+¡Deja el resto a Naruto Uzumaki!
 
 1303
 02:03:03,686 --> 02:03:04,686
-<i>This guy is...</i>
+<i>Este tipo es...</i>
 
 1304
 02:03:05,836 --> 02:03:09,507
-Alright, everyone! Here we go!
+¡Muy bien, todos! ¡Allá vamos!
 
 1305
 02:03:10,788 --> 02:03:13,333
-<i>That's Naruto?!</i>
+<i>¡¿Ese es Naruto?!</i>
 
 1306
 02:03:18,557 --> 02:03:19,809
-Jump!
+¡Saltad!
 
 1307
 02:03:20,684 --> 02:03:23,854
-Naruto's... Ninja... Handbook!
+¡El... Manual... Ninja... de Naruto!
 
 1308
 02:03:27,108 --> 02:03:28,526
-Everywhere...
+¡Por todas partes...
 
 1309
 02:03:28,734 --> 02:03:30,403
-Shuriken!
+shuriken!
 
 1310
 02:03:31,404 --> 02:03:33,322
-<i>My body hasn't fully recovered...</i>
+<i>Mi cuerpo no se ha recuperado del todo...</i>
 
 1311
 02:03:33,364 --> 02:03:35,491
-<i>My only choice is to
-use Sand as a defense!</i>
+<i>Mi única opción es
+usar la arena como defensa!</i>
 
 1312
 02:03:41,122 --> 02:03:46,001
-- U-zu-ma-ki... Naruto Two Thousand Combo!
-- U-zu-ma-ki... Naruto Two Thousand Combo!
+- ¡U-zu-ma-ki... Combo Dos Mil de Naruto!
+- ¡U-zu-ma-ki... Combo Dos Mil de Naruto!
 
 1313
 02:03:59,890 --> 02:04:01,350
-- Barrage!
-- Barrage!
+- ¡Ráfaga!
+- ¡Ráfaga!
 
 1314
 02:04:07,356 --> 02:04:09,608
-<i>T-This guy...!</i>
+<i>E-Este tipo...!</i>
 
 1315
 02:04:09,900 --> 02:04:11,545
-- This time, I'll use both legs...
-- This time, I'll use both legs...
+- Esta vez, usaré las dos piernas...
+- Esta vez, usaré las dos piernas...
 
 1316
 02:04:11,569 --> 02:04:13,654
-- and make it a Four Thousand Hit Barrage!
-- And make it a Four Thousand Hit Barrage!
+- ¡y lo convertiré en una Ráfaga de Cuatro Mil Golpes!
+- ¡Y lo convertiré en una Ráfaga de Cuatro Mil Golpes!
 
 1317
 02:04:14,280 --> 02:04:17,283
-<i>Where does that strength come from?</i>
+<i>¿De dónde sale esa fuerza?</i>
 
 1318
 02:04:18,200 --> 02:04:22,121
-<i>No way!
-There's no way...</i>
+<i>¡No puede ser!
+No hay manera...</i>
 
 1319
 02:04:24,419 --> 02:04:29,507
-<i>No way I'll... lose to... a guy like this!</i>
+<i>¡No hay forma de que... pierda... contra un tipo así!</i>
 
 1320
 02:04:41,765 --> 02:04:43,642
-Wh-What's... that?
+¿Q-Qué es... eso?
 
 1321
 02:04:51,108 --> 02:04:53,486
-<i>It finally... emerged.</i>
+<i>Por fin... ha emergido.</i>
 
 1322
 02:05:10,294 --> 02:05:11,587
-<i>He's fully transformed!</i>
+<i>¡Se ha transformado del todo!</i>
 
 1323
 02:05:16,133 --> 02:05:20,387
-This is...
-the monster inside that guy.
+Esto es...
+el monstruo que hay dentro de ese tipo.
 
 1324
 02:05:25,017 --> 02:05:26,017
-Naruto!
+¡Naruto!
 
 1325
 02:05:28,437 --> 02:05:30,397
-Damn... my body!
+Maldición... ¡mi cuerpo!
 
 1326
 02:05:32,399 --> 02:05:35,694
-<i>My chakra is almost gone...
-from all those clones earlier...</i>
+<i>Mi chakra casi se ha agotado...
+por todos esos clones de antes...</i>
 
 1327
 02:05:41,784 --> 02:05:42,515
-<i>Sakura!</i>
+<i>¡Sakura!</i>
 
 1328
 02:05:47,414 --> 02:05:49,333
-This will mark your end...
+Esto marcará tu fin...
 
 1329
 02:05:49,989 --> 02:05:51,135
-<i>Sand Burial!</i>
+<i>¡Funeral del Desierto!</i>
 
 1330
 02:05:51,159 --> 02:05:52,408
-<i>Summoning Jutsu!</i>
+<i>¡Técnica de invocación!</i>
 
 1331
 02:06:00,386 --> 02:06:01,637
-I will protect...
+Voy a proteger...
 
 1332
 02:06:03,180 --> 02:06:04,723
-Sakura!
+¡a Sakura!
 
 1333
 02:06:10,020 --> 02:06:12,398
@@ -5821,296 +5821,296 @@ Naruto Uzumaki...
 
 1334
 02:06:15,943 --> 02:06:19,989
-You continue to provide
-such exquisite entertainment...
+Sigues proporcionándome
+un entretenimiento exquisito...
 
 1335
 02:06:20,489 --> 02:06:24,577
 <i>Naruto...
-What in the... world...?</i>
+¿Qué... demonios...?</i>
 
 1336
 02:06:25,244 --> 02:06:28,539
-Not you again!
-What in the world do you want?
+¡Tú otra vez no!
+¿Qué diablos quieres?
 
 1337
 02:06:29,582 --> 02:06:30,582
-Huh?!
+¡¿Eh?!
 
 1338
 02:06:31,500 --> 02:06:35,671
-That must be...
-the Shukaku of the Sand.
+Eso debe de ser...
+el Shukaku de la Arena.
 
 1339
 02:06:36,505 --> 02:06:40,050
-Boss Toad!
-You have to help me fight!
+¡Rana Jefe!
+¡Tienes que ayudarme a luchar!
 
 1340
 02:06:44,513 --> 02:06:45,514
-No way!
+¡Ni hablar!
 
 1341
 02:06:45,598 --> 02:06:46,724
-What?!
+¡¿Qué?!
 
 1342
 02:06:47,433 --> 02:06:50,936
-Why would I go out of my way
-and fight a guy like that?
+¿Por qué iba a tomarme la molestia
+de luchar contra un tipo así?
 
 1343
 02:06:51,434 --> 02:06:53,061
-That's idiotic!
+¡Es una idiotez!
 
 1344
 02:06:53,188 --> 02:06:54,523
-Why?!
+¡¿Por qué?!
 
 1345
 02:06:54,690 --> 02:06:57,610
-You told me the other day that you
-would make me your henchman!
+¡El otro día me dijiste que
+me convertirías en tu secuaz!
 
 1346
 02:06:57,860 --> 02:07:01,030
-It's a boss's duty to help out
-his underling!
+¡Es deber de un jefe ayudar
+a su subordinado!
 
 1347
 02:07:01,363 --> 02:07:03,198
-That's respect and duty, right?!
+¡Eso es respeto y deber, ¿no?!
 
 1348
 02:07:03,866 --> 02:07:07,578
-It's true I told you
-I'd make you my henchman...
+Es cierto que te dije
+que te convertiría en mi secuaz...
 
 1349
 02:07:08,412 --> 02:07:12,708
-But we haven't even exchanged cups
-of sake to seal our relationship yet...
+Pero todavía ni siquiera hemos brindado
+con sake para sellar nuestra relación...
 
 1350
 02:07:12,791 --> 02:07:16,378
-Gimme a break!
-I'm still underage!
+¡Dame un respiro!
+¡Todavía soy menor de edad!
 
 1351
 02:07:16,462 --> 02:07:18,047
-I can't drink alcohol!
+¡No puedo beber alcohol!
 
 1352
 02:07:19,055 --> 02:07:22,517
-Don't say that and just listen
-to what this guy says, Pop!
+¡No digas eso y escucha
+lo que dice este chico, papá!
 
 1353
 02:07:22,593 --> 02:07:23,855
-Huh?! Pop?!
+¡¿Eh?! ¡¿Papá?!
 
 1354
 02:07:24,595 --> 02:07:28,432
-Why are you here, Gamakichi?
+¿Por qué estás aquí, Gamakichi?
 
 1355
 02:07:28,668 --> 02:07:31,046
-I had lots of time on my hands,
-so I came to visit...
+Tenía mucho tiempo libre,
+así que vine a visitarte...
 
 1356
 02:07:31,685 --> 02:07:34,063
-Huh? Huh?
-You're father and son?
+¿Eh? ¿Eh?
+¡¿Sois padre e hijo?!
 
 1357
 02:07:34,614 --> 02:07:37,450
-And that guy over there
-tried to bully me!
+¡Y ese tipo de ahí
+intentó meterse conmigo!
 
 1358
 02:07:38,771 --> 02:07:40,648
-What was that?!
+¡¿Qué has dicho?!
 
 1359
 02:07:41,445 --> 02:07:44,573
-When that happened,
-this guy here rescued me...
+Cuando pasó eso,
+este de aquí me rescató...
 
 1360
 02:07:44,995 --> 02:07:47,206
-He clashed with that monster...
+Se enfrentó a ese monstruo...
 
 1361
 02:07:47,242 --> 02:07:50,037
-Pretty interesting guy.
+Un tipo bastante interesante.
 
 1362
 02:07:52,331 --> 02:07:53,707
-I see...
+Ya veo...
 
 1363
 02:07:54,958 --> 02:07:59,254
-Kid...
-I recognize you as my henchman...
+Chico...
+Te reconozco como mi secuaz...
 
 1364
 02:08:00,172 --> 02:08:04,885
-and I'll show you what duty
-and respect means!
+¡y te mostraré lo que significan
+el deber y el respeto!
 
 1365
 02:08:07,888 --> 02:08:10,099
-Hang on tight!
+¡Agárrate fuerte!
 
 1366
 02:08:12,850 --> 02:08:14,936
-How's that?!
+¡¿Qué tal eso?!
 
 1367
 02:08:21,360 --> 02:08:22,444
-<i>Awesome...</i>
+<i>Increíble...</i>
 
 1368
 02:08:38,085 --> 02:08:39,920
-<i>What a guy...</i>
+<i>Menudo tipo...</i>
 
 1369
 02:08:40,170 --> 02:08:41,422
-<i>He's so heavy,</i>
+<i>Pesa tanto</i>
 
 1370
 02:08:41,447 --> 02:08:43,657
-<i>I could barely manage to
-thrust my dagger through him.</i>
+<i>que apenas conseguí
+clavarle la daga.</i>
 
 1371
 02:08:44,378 --> 02:08:45,963
-<i>If I don't hurry up,</i>
+<i>Si no me doy prisa,</i>
 
 1372
 02:08:46,016 --> 02:08:48,227
-<i>this battle will change
-the shape of the landscape.</i>
+<i>esta batalla cambiará
+la forma del paisaje.</i>
 
 1373
 02:08:49,085 --> 02:08:50,878
-Hey! Hey! Boss!
+¡Eh! ¡Eh! ¡Jefe!
 
 1374
 02:08:51,056 --> 02:08:54,268
-Sakura is over that way,
-so don't move that way!
+Sakura está por allí,
+así que no te muevas hacia allí.
 
 1375
 02:08:54,426 --> 02:08:56,720
-Please lure him in this direction.
+Atráelo hacia esta dirección, por favor.
 
 1376
 02:08:57,119 --> 02:08:58,787
-Sakura...?
+¿Sakura...?
 
 1377
 02:08:59,356 --> 02:09:01,942
-That's his girlfriend, Pop.
+Es su novia, papá.
 
 1378
 02:09:02,443 --> 02:09:04,069
-I've got to take that guy down.
+Tengo que derribar a ese tipo.
 
 1379
 02:09:04,614 --> 02:09:06,616
-Otherwise, I won't be able
-to rescue Sakura!
+¡Si no, no podré
+rescatar a Sakura!
 
 1380
 02:09:10,075 --> 02:09:11,577
-Interesting!
+¡Interesante!
 
 1381
 02:09:12,286 --> 02:09:16,248
-This is interesting, Naruto Uzumaki!
+¡Esto es interesante, Naruto Uzumaki!
 
 1382
 02:09:16,415 --> 02:09:17,583
-<i>T-This isn't good!</i>
+<i>¡E-Esto es malo!</i>
 
 1383
 02:09:18,375 --> 02:09:20,711
 <i>Gaara...
-He's going to do it...</i>
+Va a hacerlo...</i>
 
 1384
 02:09:21,086 --> 02:09:22,421
-<i>I need to get out of here!</i>
+<i>¡Tengo que salir de aquí!</i>
 
 1385
 02:09:42,649 --> 02:09:44,067
-He's done it...!
+¡Lo ha hecho...!
 
 1386
 02:09:45,444 --> 02:09:48,322
-Wh-What's going to happen, Chief?
+¿Q-Qué va a pasar, Jefe?
 
 1387
 02:09:49,531 --> 02:09:52,951
-When the host uses the Feigning Sleep Jutsu...
+Cuando el portador usa la Técnica del Sueño Fingido... {SUENOFING}
 
 1388
 02:09:52,976 --> 02:09:55,311
-... Shukaku will appear!
+¡...el Shukaku aparecerá!
 
 1389
 02:10:01,960 --> 02:10:06,089
-I'm finally able to emerge!
+¡Por fin puedo emerger!
 
 1390
 02:10:08,342 --> 02:10:13,305
-Let's do this!
-The guy I want to kill is you!
+¡Vamos allá!
+¡El que quiero matar eres tú!
 
 1391
 02:10:14,640 --> 02:10:15,682
-I'm going to jump...
+Voy a saltar...
 
 1392
 02:10:16,016 --> 02:10:16,558
-Huh?
+¿Eh?
 
 1393
 02:10:16,850 --> 02:10:19,937
-<i>Wind Style: Air Bullets!</i>
+<i>¡Técnica de viento: Balas de Aire!</i>
 
 1394
 02:10:22,773 --> 02:10:25,192
-<i>Water Style: Water Bullets!</i>
+<i>¡Técnica acuática: Balas de Agua!</i>
 
 1395
 02:10:34,326 --> 02:10:36,995
-That practically created a storm...
+Eso prácticamente ha creado una tormenta...
 
 1396
 02:10:37,746 --> 02:10:40,040
-What kind of battle is this...?!
+¡¿Qué clase de batalla es esta?!
 
 1397
 02:10:43,710 --> 02:10:45,712
-Chief! I told you,
-not in that direction!
+¡Jefe! Te lo dije,
+¡en esa dirección no!
 
 1398
 02:10:45,836 --> 02:10:48,672
-Shut up! I know!
+¡Cállate! ¡Ya lo sé!
 
 1399
 02:10:50,384 --> 02:10:51,885
-<i>Air Bullets!</i>
+<i>¡Balas de Aire!</i>
 
 1400
 02:10:52,886 --> 02:10:54,054
-<i>Water Bullets!</i>
+<i>¡Balas de Agua!</i>
 
 1401
 02:10:57,766 --> 02:10:59,059
