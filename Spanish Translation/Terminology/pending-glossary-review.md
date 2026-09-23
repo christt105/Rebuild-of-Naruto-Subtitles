@@ -69,3 +69,12 @@ The toad summon Jiraiya feeds Itachi and Kisame to, referred to as "the Rock Toa
 
 ### `{FUUIN}` - Sealing Jutsu: Fire Sealing Method (S01E12)
 Jiraiya's technique to seal Itachi's Amaterasu flames, "Sealing Jutsu: Fire Sealing Method!" (cue 573). Rendered "Jutsu de sellado: Método de Sellado de Fuego". Literal translation, unverified against manga/guide.
+
+### `{SUCKER}` - The Legendary Sucker (Tsunade's other epithet, S01E12)
+Tsunade's gambling nickname, distinct from "Slug Princess"/"Legendary Sannin": "The Legendary Sucker" (cues 718-719), payoff of a running joke started at cue 712 ("Legendary, you might say..."). Rendered "la Legendaria Perdedora". No official Spanish source found; literal-ish translation of the English fansub's own rendering of the joke.
+
+### `{TABU}` - Shinobi's Three Taboos (S01E12)
+Jiraiya's lesson to Naruto about "the 'Shinobi's Three Taboos'" (alcohol, women, money), cues 772-782 and reprised at cue 820. Rendered "los Tres Tabúes del Shinobi". No source found; appears to be filler-episode invented terminology, not core canon vocabulary.
+
+### `{DARKNIN}` - the legendary "Dark Ninja" (S01E12)
+Epithet of the thug gang's leader, a former Chunin of the Hidden Stone Village: "the legendary 'Dark Ninja'" (cue 837). Rendered "el legendario 'Ninja de las Tinieblas'". Minor one-off filler character; no source found.
