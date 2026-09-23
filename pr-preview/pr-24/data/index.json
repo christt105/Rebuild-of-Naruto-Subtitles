@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:07:15.407397+00:00",
+  "generated_at": "2026-09-23T09:07:30.240488+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -143,8 +143,8 @@
       "title_en": "Finals",
       "title_es": "La Final",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #24",
       "cue_count": 1134,
       "translated_count": 1113,
       "unresolved_tags": [
