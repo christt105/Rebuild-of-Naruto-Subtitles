@@ -3520,103 +3520,103 @@ Tú, que tienes un propósito...
 
 801
 01:16:31,587 --> 01:16:35,967
-You're... my...
+Eres... mi...
 
 802
 01:16:38,455 --> 01:16:42,536
-My prey!
+¡Mi presa!
 
 803
 01:16:47,352 --> 01:16:48,645
-<i>It's started...!</i>
+<i>¡Ha empezado...!</i>
 
 804
 01:16:55,235 --> 01:16:56,235
-You're naive.
+Eres ingenuo.
 
 805
 01:17:01,907 --> 01:17:02,908
-All right!
+¡Muy bien!
 
 806
 01:17:09,333 --> 01:17:10,333
-<i>Insects?!</i>
+<i>¿¡Insectos?!</i>
 
 807
 01:17:14,254 --> 01:17:16,054
-To think you'd make
-a clone out of insects and
+Pensar que harías
+un clon con insectos y
 
 808
 01:17:16,079 --> 01:17:17,748
-have it circle around behind me...
+lo harías rodearme por detrás...
 
 809
 01:17:18,008 --> 01:17:19,008
-Not bad!
+¡Nada mal!
 
 810
 01:17:19,718 --> 01:17:23,055
-Your reach encompasses from medium
-to long distance and you use a puppet.
+Tu alcance va de media
+a larga distancia y usas una marioneta.
 
 811
 01:17:23,597 --> 01:17:25,325
-I didn't think you would
-do well in close combat.
+No pensé que te fuera bien
+en combate cuerpo a cuerpo.
 
 812
 01:17:25,349 --> 01:17:28,894
-You're well aware of a
-puppet master's weaknesses!
+¡Conoces bien las debilidades
+de un marionetista!
 
 813
 01:17:29,353 --> 01:17:31,838
-However, from here on,
+Sin embargo, a partir de ahora,
 
 814
 01:17:31,863 --> 01:17:34,939
-I'll show you the true essence of
-this puppet fighting style!
+¡te mostraré la verdadera esencia de
+este estilo de lucha con marionetas!
 
 815
 01:17:36,360 --> 01:17:40,113
-The true terror of my puppet, Karasu!
+¡El verdadero terror de mi marioneta, Karasu!
 
 816
 01:17:48,705 --> 01:17:50,874
-<i>This is poison smoke!</i>
+<i>¡Esto es humo venenoso!</i>
 
 817
 01:17:56,296 --> 01:17:58,298
-<i>Did I inhale... a little bit?</i>
+<i>¿He inhalado... un poco?</i>
 
 818
 01:17:59,132 --> 01:18:03,303
-<i>I see...
-So the puppet master stays hidden, eh?</i>
+<i>Ya veo...
+Así que el marionetista se esconde, ¿eh?</i>
 
 819
 01:18:18,610 --> 01:18:19,610
-Listen, everyone...
+Escuchad, todos...
 
 820
 01:18:20,278 --> 01:18:23,824
-Even if enemy shinobi appear,
-don't panic.
+Aunque aparezcan shinobi enemigos,
+no os asustéis.
 
 821
 01:18:24,035 --> 01:18:25,870
-Go into the hidden room quickly.
+Entrad rápido en la sala oculta.
 
 822
 01:18:29,079 --> 01:18:34,167
-Your Jonin and Chunin-sensei will protect
-you, even if it costs us our lives!
+¡Vuestros sensei Jonin y Chunin os protegerán,
+aunque nos cueste la vida!
 
 823
 01:18:44,596 --> 01:18:45,596
-Oh!
+¡Oh!
 
 824
 01:18:46,179 --> 01:18:47,389
@@ -3624,40 +3624,40 @@ Konohamaru...
 
 825
 01:18:48,306 --> 01:18:49,391
-It'll be okay!
+¡Todo irá bien!
 
 826
 01:18:50,350 --> 01:18:51,727
-Everyone's doing their best.
+Todos se están esforzando al máximo.
 
 827
 01:18:52,561 --> 01:18:54,604
-They'll drive off the enemy in no time.
+Repelerán al enemigo en un abrir y cerrar de ojos.
 
 828
 01:19:05,464 --> 01:19:07,814
-Cracks in the Hokage Monument...
+Grietas en el Monumento Hokage...
 
 829
 01:19:08,425 --> 01:19:10,093
-<i>How ominous...</i>
+<i>Qué mal presagio...</i>
 
 830
 01:19:24,282 --> 01:19:27,111
-Now... Let me feel it!
+Ahora... ¡Déjame sentirlo!
 
 831
 01:19:29,139 --> 01:19:30,139
-<i>That eye!</i>
+<i>¡Ese ojo!</i>
 
 832
 01:19:32,972 --> 01:19:35,350
-<i>That eye... from before!</i>
+<i>Ese ojo... de antes!</i>
 
 833
 01:20:14,935 --> 01:20:18,980
-<i>It doesn't look like this will be
-over by the time you get here...</i>
+<i>No parece que esto vaya a terminar
+para cuando llegues...</i>
 
 834
 01:20:19,722 --> 01:20:20,722
@@ -3665,681 +3665,681 @@ over by the time you get here...</i>
 
 835
 01:20:27,169 --> 01:20:29,713
-<i>It seems the poison has
-started to spread.</i>
+Parece que el veneno
+ha empezado a extenderse.
 
 836
 01:20:30,784 --> 01:20:32,410
-<i>I'll finish this!</i>
+¡Voy a acabar con esto!
 
 837
 01:20:41,503 --> 01:20:42,776
-<i>Insects, again?!</i>
+<i>¡¿Insectos, otra vez?!</i>
 
 838
 01:20:43,630 --> 01:20:46,091
-<i>But he shouldn't be able to
-move in that state...</i>
+<i>Pero no debería poder
+moverse en ese estado...</i>
 
 839
 01:20:50,944 --> 01:20:52,874
-<i>I'll make things easier for you...</i>
+<i>Te lo voy a poner más fácil...</i>
 
 840
 01:20:55,892 --> 01:20:57,018
-<i>Hey! What's wrong?!</i>
+<i>¡Eh! ¡¿Qué pasa?!</i>
 
 841
 01:21:01,260 --> 01:21:02,344
-<i>What's happening...?</i>
+<i>¿Qué está pasando...?</i>
 
 842
 01:21:05,968 --> 01:21:08,763
-<i>He jammed beetles into its joints
-so the puppet can't move?</i>
+<i>¿Metió escarabajos en las articulaciones
+para que la marioneta no pueda moverse?</i>
 
 843
 01:21:09,906 --> 01:21:12,075
-<i>That was his aim from the beginning!</i>
+<i>¡Ese era su objetivo desde el principio!</i>
 
 844
 01:21:13,368 --> 01:21:15,787
-<i>The beetles are passing through
-the threads of my chakra...</i>
+<i>Los escarabajos están atravesando
+los hilos de mi chakra...</i>
 
 845
 01:21:16,746 --> 01:21:17,746
-<i>Why...?</i>
+<i>¿Por qué...?</i>
 
 846
 01:21:18,832 --> 01:21:22,377
-<i>That's right! I remember now,
-their food source is chakra.</i>
+<i>¡Es verdad! Ahora lo recuerdo,
+se alimentan de chakra.</i>
 
 847
 01:21:28,091 --> 01:21:29,843
-<i>At this rate,
-they'll pinpoint my location!</i>
+<i>¡A este paso,
+localizarán mi posición!</i>
 
 848
 01:21:33,722 --> 01:21:36,558
-<i>He cut the chakra threads himself...?</i>
+<i>¿Cortó él mismo los hilos de chakra...?</i>
 
 849
 01:21:47,903 --> 01:21:48,945
-<i>You got careless!</i>
+<i>¡Te has confiado!</i>
 
 850
 01:21:49,613 --> 01:21:53,325
-<i>Instantly reattaching chakra threads</i>
+<i>Reconectar al instante los hilos de chakra</i>
 
 851
 01:21:53,954 --> 01:21:57,290
-<i>is child's play for a
-first-rate puppet master.</i>
+<i>es un juego de niños para un
+marionetista de primera categoría.</i>
 
 852
 01:21:59,331 --> 01:22:02,042
-<i>It's a big mistake if you think
-this has ended...</i>
+<i>Es un gran error si crees que
+esto se ha acabado...</i>
 
 853
 01:22:02,918 --> 01:22:04,294
-<i>by simply immobilizing my puppet!</i>
+<i>¡solo con inmovilizar a mi marioneta!</i>
 
 854
 01:22:04,920 --> 01:22:07,672
-<i>There's lots of poison
-on the tip of the needle...</i>
+<i>Hay mucho veneno
+en la punta de la aguja...</i>
 
 855
 01:22:08,673 --> 01:22:09,673
-<i>Die!</i>
+<i>¡Muere!</i>
 
 856
 01:22:16,306 --> 01:22:17,807
-<i>Just like that, the insects...!</i>
+<i>Así sin más, ¡¿los insectos...?!</i>
 
 857
 01:22:18,850 --> 01:22:20,894
-<i>The chakra threads have been
-bitten through!</i>
+<i>¡Han mordido y cortado
+los hilos de chakra!</i>
 
 858
 01:22:34,741 --> 01:22:36,284
-What?! Why...?!
+¡¿Qué?! ¡¿Por qué...?!
 
 859
 01:22:36,701 --> 01:22:39,454
-Where did these insects
-spring out from?!
+¡¿De dónde han salido
+estos insectos?!
 
 860
 01:22:40,670 --> 01:22:44,215
-When you swatted away the decoy
-insects on the chakra threads,
+Cuando espantaste los insectos señuelo
+de los hilos de chakra,
 
 861
 01:22:44,349 --> 01:22:45,392
-you let your guard down.
+bajaste la guardia.
 
 862
 01:22:45,919 --> 01:22:50,799
-You didn't notice...
-the wriggling insects behind you.
+No te diste cuenta...
+de los insectos que se retorcían tras de ti.
 
 863
 01:22:53,718 --> 01:22:55,804
-The insects were moving
-the whole time...
+Los insectos llevaban
+todo el rato moviéndose...
 
 864
 01:22:56,888 --> 01:22:59,474
-heading for your headband.
+dirigiéndose hacia tu bandana.
 
 865
 01:23:00,058 --> 01:23:01,643
-Wh-What did you say?!
+¡¿Q-Qué has dicho?!
 
 866
 01:23:02,219 --> 01:23:03,470
-The one blow earlier...
+Aquel golpe de antes...
 
 867
 01:23:03,995 --> 01:23:09,083
-I pretended to miss and
-attached one of my kikaichu to you.
+fingí fallar y
+te pegué uno de mis kikaichu.
 
 868
 01:23:11,027 --> 01:23:12,821
-Then, this one beetle on my forehead...
+Y este escarabajo de mi frente...
 
 869
 01:23:14,072 --> 01:23:15,949
-Right... It's a female.
+Así es... Es una hembra.
 
 870
 01:23:26,376 --> 01:23:29,337
-<i>The poison has circulated
-through my whole body, huh...</i>
+<i>El veneno se ha extendido
+por todo mi cuerpo, ¿eh...?</i>
 
 871
 01:23:31,256 --> 01:23:33,550
-<i>It looks like I won't be able
-to back you up...</i>
+<i>Parece que no voy a poder
+apoyarte...</i>
 
 872
 01:23:34,217 --> 01:23:37,804
-<i>I'm sorry, Sasuke Uchiha.</i>
+<i>Lo siento, Sasuke Uchiha.</i>
 
 873
 01:23:43,101 --> 01:23:44,894
-No escape!
+¡No hay escapatoria!
 
 874
 01:23:45,478 --> 01:23:50,191
-I won't let you escape!
-Sasuke Uchiha!
+¡No dejaré que escapes!
+¡Sasuke Uchiha!
 
 875
 01:24:10,462 --> 01:24:13,590
-<i>You've have to be kidding!
-What's with that outrageous strength...?</i>
+<i>¡Tiene que ser broma!
+¿Qué es esa fuerza tan descomunal...?</i>
 
 876
 01:24:14,674 --> 01:24:17,010
-Are you afraid of me?
+¿Me tienes miedo?
 
 877
 01:24:18,178 --> 01:24:19,554
-<i>It's too overwhelming...</i>
+<i>Es demasiado abrumador...</i>
 
 878
 01:24:20,805 --> 01:24:28,480
-Sasuke Uchiha! Are you afraid?
-Are you afraid of my existence?!
+¡Sasuke Uchiha! ¿Tienes miedo?
+¡¿Tienes miedo de mi existencia?!
 
 879
 01:24:29,121 --> 01:24:31,331
-Your hatred and intent to kill...
+Tu odio y tu intención de matar...
 
 880
 01:24:31,775 --> 01:24:34,152
-have they given way to fear?
+¿han dado paso al miedo?
 
 881
 01:24:34,831 --> 01:24:38,501
-Is that the extent of your existence?!
+¡¿Eso es todo lo que vale tu existencia?!
 
 882
 01:24:39,233 --> 01:24:42,736
-Fight me... and confirm it!
+¡Lucha contra mí... y compruébalo!
 
 883
 01:24:43,703 --> 01:24:46,956
-Your value! Your existence!
+¡Tu valor! ¡Tu existencia!
 
 884
 01:24:47,665 --> 01:24:49,042
-Experience it!
+¡Experiméntalo!
 
 885
 01:24:49,876 --> 01:24:51,419
-If you want an answer...
+Si quieres una respuesta...
 
 886
 01:24:52,921 --> 01:24:53,963
-Come at me!
+¡Ven a por mí!
 
 887
 01:25:16,486 --> 01:25:21,282
-Now, let me have some fun...
-Sasuke Uchiha!
+Ahora, déjame divertirme un poco...
+¡Sasuke Uchiha!
 
 888
 01:25:24,494 --> 01:25:25,912
-<i>I'll finish it with one blow!</i>
+<i>¡Acabaré con esto de un golpe!</i>
 
 889
 01:25:42,345 --> 01:25:43,345
-Gaara!
+¡Gaara!
 
 890
 01:26:10,748 --> 01:26:15,628
-I just realized the reason...
-why it's so fun!
+Acabo de darme cuenta de por qué...
+¡es tan divertido!
 
 891
 01:26:17,297 --> 01:26:18,548
-This pain...
+Este dolor...
 
 892
 01:26:19,674 --> 01:26:22,677
-To take down an opponent
-who wounded me...
+Derribar a un oponente
+que me ha herido...
 
 893
 01:26:22,927 --> 01:26:25,388
-and utterly destroy him...!
+¡y destruirlo por completo...!
 
 894
 01:26:25,726 --> 01:26:29,438
-That will make me truly feel alive!
+¡Eso me hará sentirme de verdad vivo!
 
 895
 01:26:31,425 --> 01:26:36,138
-<i>Gaara's never been wounded before,
-but he got him twice.</i>
+<i>Gaara nunca había sido herido,
+pero este le ha dado dos veces.</i>
 
 896
 01:26:37,275 --> 01:26:40,111
-<i>Is he... a freak?!</i>
+<i>¿Es... un monstruo?!</i>
 
 897
 01:26:41,154 --> 01:26:44,199
-<i>No... the true freak is...</i>
+<i>No... el verdadero monstruo es...</i>
 
 898
 01:26:46,159 --> 01:26:50,830
-<i>At least Gaara has only 
-transformed his right arm so far.</i>
+<i>Al menos Gaara solo ha
+transformado el brazo derecho hasta ahora.</i>
 
 899
 01:26:54,555 --> 01:26:56,474
-More, more!
+¡Más, más!
 
 900
 01:26:56,794 --> 01:26:57,794
-<i>What?!</i>
+<i>¡¿Qué?!</i>
 
 901
 01:27:09,182 --> 01:27:11,017
-<i>What the hell is this guy?!</i>
+<i>¡¿Qué demonios es este tipo?!</i>
 
 902
 01:27:11,684 --> 01:27:13,186
-<i>One after another...</i>
+<i>Uno tras otro...</i>
 
 903
 01:27:16,606 --> 01:27:19,108
-Here goes!
+¡Allá va!
 
 904
 01:27:20,902 --> 01:27:21,902
-<i>He's even faster!</i>
+<i>¡Es aún más rápido!</i>
 
 905
 01:27:33,790 --> 01:27:36,751
-<i>I can't dodge unless
-I read ahead of his movements.</i>
+<i>No puedo esquivarlo si no
+anticipo sus movimientos.</i>
 
 906
 01:27:37,710 --> 01:27:40,004
-<i>If I didn't have these eyes
-I'd have died long ago.</i>
+<i>Si no tuviera estos ojos,
+ya habría muerto hace tiempo.</i>
 
 907
 01:27:44,550 --> 01:27:45,750
-<i>I can't use Chidori again...</i>
+<i>No puedo usar el Chidori otra vez...</i>
 
 908
 01:27:46,803 --> 01:27:49,806
-<i>Fire Style: Fireball Jutsu!</i>
+<i>¡Técnica ígnea: Bola de Fuego!</i>
 
 909
 01:27:58,147 --> 01:27:59,947
-<i>So Fire Style doesn't
-work against sand...</i>
+<i>Así que la técnica ígnea no
+funciona contra la arena...</i>
 
 910
 01:28:00,316 --> 01:28:02,318
-<i>Not only that,
-this level of jutsu won't...</i>
+<i>Y no solo eso,
+este nivel de jutsu no...</i>
 
 911
 01:28:03,027 --> 01:28:04,487
-Die!
+¡Muere!
 
 912
 01:28:05,196 --> 01:28:06,864
-<i>Apparently... only the Chidori will...</i>
+<i>Al parecer... solo el Chidori...</i>
 
 913
 01:28:27,844 --> 01:28:32,348
-Well, your limit is two shots a day.
-That's all you've got for now.
+Bueno, tu límite es de dos disparos al día.
+Es todo lo que tienes por ahora.
 
 914
 01:28:36,010 --> 01:28:38,512
-This is as many Chidori
-you can use in one day
+Este es el máximo de veces que puedes usar el Chidori
+en un día
 
 915
 01:28:38,747 --> 01:28:39,832
-with your current chakra levels.
+con tus niveles actuales de chakra.
 
 916
 01:28:40,832 --> 01:28:43,835
-After all, this Chidori is a technique
-that can only be used
+Al fin y al cabo, el Chidori es una técnica
+que solo se puede usar
 
 917
 01:28:43,860 --> 01:28:46,060
-in conjunction with the Sharingan
-in actual combat.
+junto con el Sharingan
+en combate real.
 
 918
 01:28:47,488 --> 01:28:51,701
-But using the Sharingan and
-another jutsu simultaneously means
+Pero usar el Sharingan y
+otro jutsu a la vez significa
 
 919
 01:28:52,160 --> 01:28:56,414
-exploding and using up the chakra
-in your body all at once.
+que el chakra de tu cuerpo estalla
+y se consume de golpe.
 
 920
 01:28:57,582 --> 01:29:01,085
-Still, you're one of the more
-impressive ones I've trained.
+Aun así, eres uno de los más
+impresionantes que he entrenado.
 
 921
 01:29:01,836 --> 01:29:03,046
-Even with my Chidori...
+Incluso con mi Chidori...
 
 922
 01:29:03,477 --> 01:29:06,229
-If I use the Lightning Blade
-four times in a day,
+si uso el Raikiri
+cuatro veces en un día,
 
 923
 01:29:06,673 --> 01:29:09,175
-I'd completely use up my chakra.
+agotaría por completo mi chakra.
 
 924
 01:29:10,587 --> 01:29:14,133
-What would happen if I tried
-to use more than two shots?
+¿Qué pasaría si intentara
+usarlo más de dos veces?
 
 925
 01:29:15,459 --> 01:29:17,628
-The third shot won't be activated...
+El tercer disparo no se activará...
 
 926
 01:29:18,672 --> 01:29:19,840
-Remember this well!
+¡Recuerda esto bien!
 
 927
 01:29:21,417 --> 01:29:23,710
-If you try to force a jutsu to activate...
+Si intentas forzar la activación de un jutsu...
 
 928
 01:29:24,067 --> 01:29:26,319
-not only will the jutsu
-not properly activate,
+no solo el jutsu
+no se activará correctamente,
 
 929
 01:29:26,501 --> 01:29:28,336
-but your chakra will deplete to zero...
+sino que tu chakra se agotará por completo...
 
 930
 01:29:29,197 --> 01:29:31,240
-And in the worst case, you'll die!
+¡Y en el peor de los casos, morirás!
 
 931
 01:29:34,035 --> 01:29:39,019
-Even if you were to survive,
-absolutely nothing good will come of it.
+Aunque sobrevivieras,
+no saldría nada bueno de ello.
 
 932
 01:29:41,042 --> 01:29:42,668
-Especially in your case.
+Especialmente en tu caso.
 
 933
 01:29:51,344 --> 01:29:52,470
-What's the matter?
+¿Qué te pasa?
 
 934
 01:29:53,304 --> 01:29:56,474
-Does the value of your existence
-amount to only this much?
+¿El valor de tu existencia
+se reduce solo a esto?
 
 935
 01:29:57,392 --> 01:29:58,851
-I'll be blunt...
+Seré directo...
 
 936
 01:29:59,560 --> 01:30:02,230
-You are... weak!
+¡Eres... débil!
 
 937
 01:30:06,359 --> 01:30:08,569
-You're too optimistic.
+Eres demasiado optimista.
 
 938
 01:30:09,284 --> 01:30:11,578
-And it's because your hatred
-is weak!
+¡Y es porque tu odio
+es débil!
 
 939
 01:30:14,158 --> 01:30:17,286
-The power of hatred is
-the power of the intent to kill!
+¡El poder del odio es
+el poder de la intención de matar!
 
 940
 01:30:18,155 --> 01:30:21,283
-The power of the intent to kill
-is the power of revenge!
+¡El poder de la intención de matar
+es el poder de la venganza!
 
 941
 01:30:22,291 --> 01:30:23,291
-Shut up...
+Cállate...
 
 942
 01:30:25,503 --> 01:30:27,588
-Do you understand
-the meaning of this?!
+¡¿Entiendes
+lo que significa esto?!
 
 943
 01:30:28,464 --> 01:30:29,464
-Shut up!
+¡Cállate!
 
 944
 01:30:30,004 --> 01:30:34,879
-That means...
-You're weaker than I am!
+Eso significa...
+¡que eres más débil que yo!
 
 945
 01:30:36,639 --> 01:30:42,687
-<i>Itachi chose me to be the avenger...
-to have me kill him!</i>
+<i>Itachi me eligió para ser el vengador...
+¡para que lo matara!</i>
 
 946
 01:30:45,898 --> 01:30:47,442
-<i>I am an avenger!</i>
+<i>¡Soy un vengador!</i>
 
 947
 01:31:42,038 --> 01:31:43,539
-<i>The Curse Mark again...</i>
+<i>El Sello Maldito otra vez...</i>
 
 948
 01:31:51,172 --> 01:31:53,299
-<i>Damn...! My body...</i>
+<i>¡Maldita sea...! Mi cuerpo...</i>
 
 949
 01:32:13,611 --> 01:32:15,738
-<i>T-This guy...</i>
+<i>E-Este tipo...</i>
 
 950
 01:32:18,032 --> 01:32:19,032
-Sasuke!
+¡Sasuke!
 
 951
 01:32:24,330 --> 01:32:25,487
-You guys...
+Vosotros...
 
 952
 01:32:26,040 --> 01:32:27,040
-<i>T-This...</i>
+<i>E-Esto...</i>
 
 953
 01:32:27,833 --> 01:32:29,669
-<i>He probably fought recklessly...</i>
+<i>Probablemente luchó sin ningún cuidado...</i>
 
 954
 01:32:31,337 --> 01:32:32,547
-<i>like that time!</i>
+<i>¡como aquella vez!</i>
 
 955
 01:32:36,008 --> 01:32:37,008
-Sasuke!
+¡Sasuke!
 
 956
 01:32:37,510 --> 01:32:41,055
-<i>Kakashi-sensei said there was nothing
-to worry about with that mark!</i>
+<i>¡Kakashi-sensei dijo que no había nada
+de qué preocuparse con esa marca!</i>
 
 957
 01:32:41,222 --> 01:32:43,432
-So tell me... Sakura...
+Así que dime... Sakura...
 
 958
 01:32:44,517 --> 01:32:45,517
-Sakura!
+¡Sakura!
 
 959
 01:32:46,394 --> 01:32:47,471
-What do you want?!
+¡¿Qué quieres?!
 
 960
 01:32:48,604 --> 01:32:51,065
-This guy... Who is he?!
+Este tipo... ¡¿Quién es?!
 
 961
 01:32:52,191 --> 01:32:54,610
-His outward appearance
-is different, but...
+Su aspecto exterior
+es diferente, pero...
 
 962
 01:32:55,918 --> 01:32:57,837
-he's that guy called Gaara.
+es ese al que llaman Gaara.
 
 963
 01:32:59,626 --> 01:33:02,170
-<i>I was born a monster.</i>
+<i>Nací siendo un monstruo.</i>
 
 964
 01:33:03,786 --> 01:33:06,163
-<i>So that's what he was saying...</i>
+<i>Así que eso es lo que decía...</i>
 
 965
 01:33:06,789 --> 01:33:09,250
-<i>He's the one who hurt Sasuke...</i>
+<i>Es el que hirió a Sasuke...</i>
 
 966
 01:33:09,543 --> 01:33:10,753
-Hey young girl!
+¡Eh, jovencita!
 
 967
 01:33:11,627 --> 01:33:14,797
-Just so you know,
-I'm not the fighting type!
+Que sepas que
+¡no soy de los que pelean!
 
 968
 01:33:14,964 --> 01:33:16,679
-I know that just by looking at you!
+¡Eso se nota con solo mirarte!
 
 969
 01:33:18,843 --> 01:33:19,844
-Sasuke!
+¡Sasuke!
 
 970
 01:33:21,012 --> 01:33:22,888
-I see...
+Ya veo...
 
 971
 01:33:24,140 --> 01:33:26,434
-you're the one I failed to kill back then.
+eres al que no logré matar entonces.
 
 972
 01:33:28,853 --> 01:33:32,189
-L-Let's run! Everyone!
+¡C-Corramos! ¡Todos!
 
 973
 01:33:33,608 --> 01:33:35,610
-Die, Sasuke Uchiha!
+¡Muere, Sasuke Uchiha!
 
 974
 01:33:40,448 --> 01:33:41,782
-Out of the way!
+¡Apartaos!
 
 975
 01:33:56,756 --> 01:33:57,798
-Sakura!
+¡Sakura!
 
 976
 01:34:09,226 --> 01:34:10,227
-Why...?
+¿Por qué...?
 
 977
 01:34:28,226 --> 01:34:29,226
-Mommy...
+Mamá...
 
 978
 01:34:41,464 --> 01:34:42,465
-I...
+Yo...
 
 979
 01:34:46,722 --> 01:34:47,765
-I...
+Yo...
 
 980
 01:35:25,456 --> 01:35:27,842
-Hey, you're so cool!
+¡Eh, eres genial!
 
 981
 01:35:37,903 --> 01:35:38,977
-Wow!
+¡Vaya!
 
 982
 01:35:40,561 --> 01:35:43,253
-Can you do food too?
+¿Puedes hacer comida también?
 
 983
 01:35:54,718 --> 01:35:56,178
-Whoa, grilled squid!
+¡Anda, calamar a la parrilla!
 
 984
 01:36:01,692 --> 01:36:02,693
-Ramen!
+¡Ramen!
 
 985
 01:36:09,013 --> 01:36:09,690
-Cherries!
+¡Cerezas!
 
 986
 01:36:12,596 --> 01:36:13,562
-Lobster!
+¡Langosta!
 
 987
 01:36:17,271 --> 01:36:20,118
-Hmm... Sea urchin and rice bowl!
+Mmm... ¡Un bol de arroz con erizo de mar!
 
 988
 01:36:20,586 --> 01:36:21,683
-That's so cool!
+¡Es genial!
 
 989
 01:36:22,410 --> 01:36:23,126
-Okay then...
+Bueno, entonces...
 
 990
 01:36:24,436 --> 01:36:25,812
-How about a big pile of poop?
+¿Qué tal una gran montaña de caca?
 
 991
 01:36:26,035 --> 01:36:27,328
-Can you do it?
+¿Puedes hacerlo?
 
 992
 01:36:33,196 --> 01:36:33,863
@@ -4351,7 +4351,7 @@ Kankuro...
 
 994
 01:36:36,455 --> 01:36:36,955
-Yes!
+¡Sí!
 
 995
 01:36:43,611 --> 01:36:44,423
@@ -4359,23 +4359,23 @@ Gaara...
 
 996
 01:36:45,161 --> 01:36:45,855
-Temari!
+¡Temari!
 
 997
 01:36:46,989 --> 01:36:47,554
-Yes!
+¡Sí!
 
 998
 01:37:15,721 --> 01:37:17,180
-Hey, Yashamaru...
+Oye, Yashamaru...
 
 999
 01:37:18,481 --> 01:37:21,651
-I don't get sleepy, even at night.
+No me da sueño, ni siquiera de noche.
 
 1000
 01:37:21,806 --> 01:37:23,224
-Why is that?
+¿Por qué será?
 
 1001
 01:37:23,509 --> 01:37:25,094
