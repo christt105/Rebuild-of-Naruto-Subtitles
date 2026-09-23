@@ -60,3 +60,12 @@ A sword technique used against Zaku during the forest sequence, "Leaf Style: Cre
 
 ### `{SUITON}` - Kisame/Kakashi's named Water Style jutsu (S01E12)
 English "Water Style: Water Shark Bomb Jutsu" (cue 152) and "Water Style: Water Wall" (cue 184), following the glossary's confirmed "Técnica acuática: <nombre>" prefix pattern. Rendered "Técnica acuática: Bomba de Tiburón de Agua" and "Técnica acuática: Muro de Agua". The prefix is verified but these two specific technique names are not individually confirmed against the manga/guide index, so only the names are pending review.
+
+### `{GAMAGUCHI}` - Ninja Art: Toad Mouth Trap (S01E12)
+Jiraiya's stomach-trap summoning jutsu against Itachi and Kisame, "Ninja Art: Toad Mouth Trap" (cue 541), following the confirmed "Arte ninja:" prefix convention. Rendered "Arte ninja: Trampa de la Boca del Sapo". Name itself not verified against manga/guide.
+
+### `{SAPOROCA}` - Rock Toad / Fire-Breathing Rock Toad (S01E12)
+The toad summon Jiraiya feeds Itachi and Kisame to, referred to as "the Rock Toad" (cue 546) and "The Fire-Breathing Rock Toad" (cue 570). Rendered "el Sapo de Piedra" / "el Sapo de Piedra Lanzallamas". No source found confirming an official name for this specific summon.
+
+### `{FUUIN}` - Sealing Jutsu: Fire Sealing Method (S01E12)
+Jiraiya's technique to seal Itachi's Amaterasu flames, "Sealing Jutsu: Fire Sealing Method!" (cue 573). Rendered "Jutsu de sellado: Método de Sellado de Fuego". Literal translation, unverified against manga/guide.
