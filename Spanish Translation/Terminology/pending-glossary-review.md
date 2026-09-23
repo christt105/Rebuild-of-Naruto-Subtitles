@@ -57,3 +57,6 @@ Jiraiya's internal analysis of Naruto's seal: "Two Four-Symbols Seals making up 
 
 ### `{DANZALUNA}` - Leaf Style: Crescent Moon Dance
 A sword technique used against Zaku during the forest sequence, "Leaf Style: Crescent Moon Dance" (S01E09, cue 742-743). Rendered "Estilo Hoja: Danza de la Luna Creciente". No source found; literal translation, unverified against manga/guide.
+
+### `{SUITON}` - Kisame/Kakashi's named Water Style jutsu (S01E12)
+English "Water Style: Water Shark Bomb Jutsu" (cue 152) and "Water Style: Water Wall" (cue 184), following the glossary's confirmed "Técnica acuática: <nombre>" prefix pattern. Rendered "Técnica acuática: Bomba de Tiburón de Agua" and "Técnica acuática: Muro de Agua". The prefix is verified but these two specific technique names are not individually confirmed against the manga/guide index, so only the names are pending review.
