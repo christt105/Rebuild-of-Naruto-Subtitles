@@ -30,10 +30,15 @@ see `WORKFLOW.md`.
 
 ## Manga reference database
 
-`scripts/manga_ref.py` OCRs the Spanish (Planeta) manga volumes and the
-official character guides once, on CPU only, and stores the text in a local
-SQLite database with full-text search. Use it to check how the manga renders
-a name or technique instead of re-running OCR each time.
+When a term ends up in `Terminology/pending-glossary-review.md` because no
+official Spanish rendering could be confirmed, `scripts/manga_ref.py` is a
+personal tool to help settle it: it OCRs the Spanish (Planeta) manga volumes
+and official character guides you own, once, on CPU only, and stores the
+text in a local SQLite database with full-text search, so an undecided
+translation can be checked against how the manga actually rendered it
+instead of guessed. It's a private lookup aid for volumes already in your
+possession, not a scraper or a way to publish the manga's text — nothing it
+extracts is meant to leave your machine or land in this repo.
 
 ```
 python3 "Spanish Translation/scripts/manga_ref.py" ingest <volume.cbr> --kind manga --title Naruto --volume 1
@@ -44,11 +49,12 @@ python3 "Spanish Translation/scripts/manga_ref.py" page Naruto 1 23
 
 Needs `tesseract` with the `spa` language pack and `unar`. Ingestion is
 resumable (pages already stored are skipped) and runs at the lowest CPU
-priority with one OCR thread. The database holds copyrighted text, so it
-lives outside the repo (`MANGA_REF_DB`, default
-`~/.local/share/manga-ref/manga_ref.db`) and must never be committed.
-OCR output is noisy on small or stylised lettering: treat hits as leads to
-confirm on the page image, not as verified text.
+priority with one OCR thread. The database holds copyrighted text extracted
+from volumes you own for this personal-reference use, so it lives outside
+the repo (`MANGA_REF_DB`, default `~/.local/share/manga-ref/manga_ref.db`)
+and must never be committed. OCR output is noisy on small or stylised
+lettering: treat hits as leads to confirm on the page image, not as
+verified text.
 
 ## Workflow
 
