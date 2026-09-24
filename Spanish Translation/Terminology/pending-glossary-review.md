@@ -105,3 +105,23 @@ A Sound-shinobi trap technique used to try to stop Kakashi/Guy from pursuing the
 
 ### `{TRANSPAR}` - Transparency Jutsu
 Young Sarutobi's joking name for his peeping/snooping technique in the flashback with Jiraiya/Tsunade/Orochimaru (S01E11, cue 1668, referenced again 1671): "I'm great at Transparency Jutsu." Rendered "Técnica de Transparencia". Likely related to the canonical "Invisibility Jutsu" (Toumei no Jutsu) but no official source checked to confirm the Spain rendering.
+### `{SUITON}` - Kisame/Kakashi's named Water Style jutsu (S01E12)
+English "Water Style: Water Shark Bomb Jutsu" (cue 152) and "Water Style: Water Wall" (cue 184), following the glossary's confirmed "Técnica acuática: <nombre>" prefix pattern. Rendered "Técnica acuática: Bomba de Tiburón de Agua" and "Técnica acuática: Muro de Agua". The prefix is verified but these two specific technique names are not individually confirmed against the manga/guide index, so only the names are pending review.
+
+### `{GAMAGUCHI}` - Ninja Art: Toad Mouth Trap (S01E12)
+Jiraiya's stomach-trap summoning jutsu against Itachi and Kisame, "Ninja Art: Toad Mouth Trap" (cue 541), following the confirmed "Arte ninja:" prefix convention. Rendered "Arte ninja: Trampa de la Boca del Sapo". Name itself not verified against manga/guide.
+
+### `{SAPOROCA}` - Rock Toad / Fire-Breathing Rock Toad (S01E12)
+The toad summon Jiraiya feeds Itachi and Kisame to, referred to as "the Rock Toad" (cue 546) and "The Fire-Breathing Rock Toad" (cue 570). Rendered "el Sapo de Piedra" / "el Sapo de Piedra Lanzallamas". No source found confirming an official name for this specific summon.
+
+### `{FUUIN}` - Sealing Jutsu: Fire Sealing Method (S01E12)
+Jiraiya's technique to seal Itachi's Amaterasu flames, "Sealing Jutsu: Fire Sealing Method!" (cue 573). Rendered "Jutsu de sellado: Método de Sellado de Fuego". Literal translation, unverified against manga/guide.
+
+### `{SUCKER}` - The Legendary Sucker (Tsunade's other epithet, S01E12)
+Tsunade's gambling nickname, distinct from "Slug Princess"/"Legendary Sannin": "The Legendary Sucker" (cues 718-719), payoff of a running joke started at cue 712 ("Legendary, you might say..."). Rendered "la Legendaria Perdedora". No official Spanish source found; literal-ish translation of the English fansub's own rendering of the joke.
+
+### `{TABU}` - Shinobi's Three Taboos (S01E12)
+Jiraiya's lesson to Naruto about "the 'Shinobi's Three Taboos'" (alcohol, women, money), cues 772-782 and reprised at cue 820. Rendered "los Tres Tabúes del Shinobi". No source found; appears to be filler-episode invented terminology, not core canon vocabulary.
+
+### `{DARKNIN}` - the legendary "Dark Ninja" (S01E12)
+Epithet of the thug gang's leader, a former Chunin of the Hidden Stone Village: "the legendary 'Dark Ninja'" (cue 837). Rendered "el legendario 'Ninja de las Tinieblas'". Minor one-off filler character; no source found.
