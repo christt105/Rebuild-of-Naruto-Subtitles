@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T08:24:31.245994+00:00",
+  "generated_at": "2026-09-24T13:14:23.352406+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -143,11 +143,14 @@
       "title_en": "Finals",
       "title_es": "La Final",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "Fusionado",
+      "notes": "PR #27 — PR #31",
       "cue_count": 1134,
-      "translated_count": 0,
-      "unresolved_tags": [],
+      "translated_count": 1113,
+      "unresolved_tags": [
+        "CHUNIN",
+        "HOZVIENTO"
+      ],
       "srt_error": null
     },
     {
@@ -155,11 +158,19 @@
       "title_en": "Destruction",
       "title_es": "Destrucción",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "Fusionado",
+      "notes": "PR #28 — PR #31",
       "cue_count": 1706,
-      "translated_count": 0,
-      "unresolved_tags": [],
+      "translated_count": 1678,
+      "unresolved_tags": [
+        "COMBONARUTO",
+        "DERRIBACASA",
+        "MENTEDEST",
+        "OSCURINF",
+        "REINODIABLO",
+        "TELARANA",
+        "TRANSPAR"
+      ],
       "srt_error": null
     },
     {
@@ -167,11 +178,16 @@
       "title_en": "Reunions",
       "title_es": "Reencuentros",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "Fusionado",
+      "notes": "PR #29 — PR #31",
       "cue_count": 1251,
-      "translated_count": 0,
-      "unresolved_tags": [],
+      "translated_count": 1235,
+      "unresolved_tags": [
+        "DARKNIN",
+        "MYOBOKU",
+        "SAPOROCA",
+        "TABU"
+      ],
       "srt_error": null
     },
     {
@@ -910,7 +926,7 @@
   "totals": {
     "episodes": 73,
     "cues_total": 98188,
-    "cues_translated": 11431,
-    "unresolved_tags": 13
+    "cues_translated": 15457,
+    "unresolved_tags": 25
   }
 }

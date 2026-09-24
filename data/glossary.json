@@ -1403,12 +1403,10 @@
           92,
           97,
           99,
-          192,
           212,
           219,
           221,
           223,
-          234,
           474,
           550,
           566,
@@ -1479,7 +1477,6 @@
           375,
           380,
           382,
-          645,
           1117,
           1151
         ],
@@ -3389,15 +3386,11 @@
         "S01E12": [
           24,
           111,
-          127,
           129,
           164,
-          170,
           177,
           192,
           258,
-          402,
-          541,
           674,
           772,
           773,
@@ -9524,11 +9517,21 @@
         "Hoja Relámpago"
       ],
       "episodes": [
-        "S01E04"
+        "S01E04",
+        "S01E10",
+        "S01E11"
       ],
       "cues": {
         "S01E04": [
           718
+        ],
+        "S01E10": [
+          1086,
+          1087,
+          1088
+        ],
+        "S01E11": [
+          922
         ]
       }
     },
@@ -9565,7 +9568,8 @@
       "episodes": [
         "S01E02",
         "S01E04",
-        "S01E09"
+        "S01E09",
+        "S01E11"
       ],
       "cues": {
         "S01E02": [
@@ -9576,6 +9580,9 @@
         ],
         "S01E09": [
           443
+        ],
+        "S01E11": [
+          1257
         ]
       }
     },
@@ -9614,7 +9621,8 @@
       "verified": true,
       "episodes": [
         "S01E05",
-        "S01E08"
+        "S01E08",
+        "S01E11"
       ],
       "cues": {
         "S01E05": [
@@ -9625,6 +9633,9 @@
           892,
           899,
           964
+        ],
+        "S01E11": [
+          1419
         ]
       }
     },
@@ -9700,7 +9711,9 @@
         "S01E05",
         "S01E07",
         "S01E08",
-        "S01E09"
+        "S01E09",
+        "S01E10",
+        "S01E11"
       ],
       "cues": {
         "S01E01": [
@@ -9734,6 +9747,23 @@
         ],
         "S01E09": [
           812
+        ],
+        "S01E10": [
+          192,
+          194,
+          196,
+          199,
+          234,
+          483
+        ],
+        "S01E11": [
+          264,
+          505,
+          612,
+          613,
+          1246,
+          1252,
+          1253
         ]
       }
     },
@@ -9746,7 +9776,8 @@
       "episodes": [
         "S01E01",
         "S01E02",
-        "S01E05"
+        "S01E05",
+        "S01E12"
       ],
       "cues": {
         "S01E01": [
@@ -9757,6 +9788,9 @@
         ],
         "S01E05": [
           1020
+        ],
+        "S01E12": [
+          388
         ]
       }
     },
@@ -10050,7 +10084,9 @@
         "S01E04",
         "S01E07",
         "S01E08",
-        "S01E09"
+        "S01E09",
+        "S01E11",
+        "S01E12"
       ],
       "cues": {
         "S01E04": [
@@ -10071,6 +10107,19 @@
           960,
           1096,
           1169
+        ],
+        "S01E11": [
+          188,
+          267,
+          445,
+          446,
+          483,
+          604,
+          1181,
+          1330
+        ],
+        "S01E12": [
+          389
         ]
       }
     },
@@ -10080,8 +10129,14 @@
       "spanish_es": "Invocación, reencarnación al mundo impío",
       "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) H-Z",
       "verified": false,
-      "episodes": [],
-      "cues": {}
+      "episodes": [
+        "S01E11"
+      ],
+      "cues": {
+        "S01E11": [
+          265
+        ]
+      }
     },
     {
       "japanese": "逆・口寄せの術",
@@ -10116,8 +10171,14 @@
       "spanish_es": "Sello del Dios de la Muerte",
       "source": "Convencion (no localizada en el fragmento de Wikipedia consultado; traduccion literal de los kanji, sin confirmar)",
       "verified": false,
-      "episodes": [],
-      "cues": {}
+      "episodes": [
+        "S01E11"
+      ],
+      "cues": {
+        "S01E11": [
+          651
+        ]
+      }
     },
     {
       "japanese": "五封結界",
@@ -10176,8 +10237,17 @@
       "spanish_es": "Hilos de Chakra",
       "source": "Wikipedia ES - Anexo:Ninjutsu (Naruto) A-G (clan de marionetistas)",
       "verified": false,
-      "episodes": [],
-      "cues": {}
+      "episodes": [
+        "S01E11"
+      ],
+      "cues": {
+        "S01E11": [
+          848,
+          850,
+          857,
+          860
+        ]
+      }
     },
     {
       "japanese": "影真似の術",
@@ -10192,7 +10262,9 @@
         "S01E05",
         "S01E07",
         "S01E08",
-        "S01E09"
+        "S01E09",
+        "S01E10",
+        "S01E11"
       ],
       "cues": {
         "S01E05": [
@@ -10207,6 +10279,16 @@
         ],
         "S01E09": [
           1505
+        ],
+        "S01E10": [
+          661,
+          770
+        ],
+        "S01E11": [
+          374,
+          393,
+          407,
+          1486
         ]
       }
     },
@@ -10228,7 +10310,8 @@
       "episodes": [
         "S01E05",
         "S01E07",
-        "S01E08"
+        "S01E08",
+        "S01E11"
       ],
       "cues": {
         "S01E05": [
@@ -10239,6 +10322,9 @@
         ],
         "S01E08": [
           1753
+        ],
+        "S01E11": [
+          1489
         ]
       }
     },
@@ -10525,7 +10611,6 @@
           297,
           441,
           605,
-          822,
           956,
           1256,
           1666,
@@ -11324,24 +11409,13 @@
           435,
           441,
           444,
-          550,
-          566,
-          570,
-          819,
           947
         ],
         "S01E11": [
-          12,
-          18,
-          31,
-          42,
-          129,
-          142,
-          145,
-          236,
-          461,
-          511,
-          599
+          147,
+          498,
+          626,
+          627
         ],
         "S01E17": [
           310
@@ -11717,7 +11791,6 @@
         "S01E08",
         "S01E09",
         "S01E10",
-        "S01E11",
         "S01E12",
         "S01E13",
         "S01E17",
@@ -11808,13 +11881,9 @@
           517,
           520
         ],
-        "S01E11": [
-          685
-        ],
         "S01E12": [
           270,
           278,
-          484,
           485,
           665,
           671
@@ -12394,13 +12463,17 @@
       "source": "Titulo oficial de la edicion espanola de Planeta Comic (\"Naruto Shippuden Anime Comic: Los Herederos de la Voluntad de Fuego\")",
       "verified": true,
       "episodes": [
-        "S01E01"
+        "S01E01",
+        "S01E11"
       ],
       "cues": {
         "S01E01": [
           1246,
           1247,
           1249
+        ],
+        "S01E11": [
+          1701
         ]
       }
     },
@@ -12492,7 +12565,9 @@
       ],
       "episodes": [
         "S01E03",
-        "S01E09"
+        "S01E09",
+        "S01E10",
+        "S01E12"
       ],
       "cues": {
         "S01E03": [
@@ -12501,6 +12576,13 @@
         ],
         "S01E09": [
           1005
+        ],
+        "S01E10": [
+          1072
+        ],
+        "S01E12": [
+          164,
+          192
         ]
       }
     },
@@ -12543,13 +12625,18 @@
         "Libro Bingo"
       ],
       "episodes": [
-        "S01E03"
+        "S01E03",
+        "S01E12"
       ],
       "cues": {
         "S01E03": [
           397,
           477,
           517
+        ],
+        "S01E12": [
+          130,
+          262
         ]
       }
     },
@@ -12584,7 +12671,8 @@
       "episodes": [
         "S01E01",
         "S01E02",
-        "S01E08"
+        "S01E08",
+        "S01E10"
       ],
       "cues": {
         "S01E01": [
@@ -12603,6 +12691,18 @@
           1263,
           1267,
           1269
+        ],
+        "S01E10": [
+          231,
+          282,
+          300,
+          335,
+          359,
+          377,
+          387,
+          405,
+          436,
+          440
         ]
       }
     },
@@ -12613,11 +12713,19 @@
       "source": "Wikipedia ES / naruto.fandom.com/es (Bunke)",
       "verified": false,
       "episodes": [
-        "S01E08"
+        "S01E08",
+        "S01E10"
       ],
       "cues": {
         "S01E08": [
           1063
+        ],
+        "S01E10": [
+          300,
+          360,
+          377,
+          382,
+          440
         ]
       }
     },
@@ -12631,7 +12739,8 @@
         "S01E01",
         "S01E03",
         "S01E06",
-        "S01E08"
+        "S01E08",
+        "S01E10"
       ],
       "cues": {
         "S01E01": [
@@ -12647,6 +12756,9 @@
         ],
         "S01E08": [
           75
+        ],
+        "S01E10": [
+          544
         ]
       }
     },
@@ -12664,7 +12776,8 @@
         "S01E04",
         "S01E05",
         "S01E07",
-        "S01E08"
+        "S01E08",
+        "S01E11"
       ],
       "cues": {
         "S01E03": [
@@ -12688,6 +12801,9 @@
           772,
           773,
           775
+        ],
+        "S01E11": [
+          854
         ]
       }
     },
@@ -12704,7 +12820,8 @@
         "S01E04",
         "S01E06",
         "S01E08",
-        "S01E09"
+        "S01E09",
+        "S01E10"
       ],
       "cues": {
         "S01E04": [
@@ -12721,6 +12838,9 @@
         ],
         "S01E09": [
           208
+        ],
+        "S01E10": [
+          421
         ]
       }
     },
@@ -12857,7 +12977,8 @@
       "verified": true,
       "episodes": [
         "S01E07",
-        "S01E08"
+        "S01E08",
+        "S01E11"
       ],
       "cues": {
         "S01E07": [
@@ -12866,6 +12987,10 @@
         ],
         "S01E08": [
           1655
+        ],
+        "S01E11": [
+          1329,
+          1444
         ]
       }
     },
@@ -12912,7 +13037,9 @@
       "episodes": [
         "S01E07",
         "S01E08",
-        "S01E09"
+        "S01E09",
+        "S01E10",
+        "S01E11"
       ],
       "cues": {
         "S01E07": [
@@ -12932,6 +13059,19 @@
         ],
         "S01E09": [
           37
+        ],
+        "S01E10": [
+          337,
+          338,
+          339,
+          344,
+          375,
+          376,
+          382,
+          406
+        ],
+        "S01E11": [
+          947
         ]
       }
     },
@@ -13014,7 +13154,8 @@
         "S01E02",
         "S01E04",
         "S01E05",
-        "S01E07"
+        "S01E07",
+        "S01E11"
       ],
       "cues": {
         "S01E02": [
@@ -13032,6 +13173,11 @@
           135,
           491,
           920
+        ],
+        "S01E11": [
+          466,
+          908,
+          909
         ]
       }
     },
@@ -13059,7 +13205,8 @@
       "episodes": [
         "S01E05",
         "S01E07",
-        "S01E08"
+        "S01E08",
+        "S01E11"
       ],
       "cues": {
         "S01E05": [
@@ -13070,6 +13217,9 @@
         ],
         "S01E08": [
           1753
+        ],
+        "S01E11": [
+          1489
         ]
       }
     },
@@ -13086,7 +13236,8 @@
         "S01E06",
         "S01E07",
         "S01E08",
-        "S01E09"
+        "S01E09",
+        "S01E10"
       ],
       "cues": {
         "S01E06": [
@@ -13108,6 +13259,9 @@
         "S01E09": [
           188,
           1409
+        ],
+        "S01E10": [
+          308
         ]
       }
     },
@@ -13166,11 +13320,15 @@
         "Serpientes Sombra Golpeadoras"
       ],
       "episodes": [
-        "S01E07"
+        "S01E07",
+        "S01E11"
       ],
       "cues": {
         "S01E07": [
           536
+        ],
+        "S01E11": [
+          674
         ]
       }
     },
@@ -13240,7 +13398,8 @@
       "verified": true,
       "episodes": [
         "S01E01",
-        "S01E08"
+        "S01E08",
+        "S01E11"
       ],
       "cues": {
         "S01E01": [
@@ -13248,6 +13407,9 @@
         ],
         "S01E08": [
           427
+        ],
+        "S01E11": [
+          1504
         ]
       }
     },
@@ -13258,12 +13420,18 @@
       "source": "Guía oficial Planeta 1 p64 y p181. Resuelto 2026-09-22, S01E08 (antes {MARIONETA})",
       "verified": true,
       "episodes": [
-        "S01E08"
+        "S01E08",
+        "S01E11"
       ],
       "cues": {
         "S01E08": [
           543,
           553
+        ],
+        "S01E11": [
+          812,
+          818,
+          851
         ]
       }
     },
@@ -13274,7 +13442,8 @@
       "source": "Manga Planeta tomo 10 p37 y Guía oficial Planeta 1 p204. Resuelto 2026-09-22, S01E08 (antes {ARMADURA})",
       "verified": true,
       "episodes": [
-        "S01E08"
+        "S01E08",
+        "S01E10"
       ],
       "cues": {
         "S01E08": [
@@ -13282,6 +13451,10 @@
           1447,
           1626,
           1640
+        ],
+        "S01E10": [
+          279,
+          973
         ]
       }
     },
@@ -13301,12 +13474,17 @@
       "source": "Guía oficial Planeta 1 p158 y guía 3 («Técnica blanda: ...»). Resuelto 2026-09-22, S01E08 (antes {PUERTAS})",
       "verified": true,
       "episodes": [
-        "S01E08"
+        "S01E08",
+        "S01E10"
       ],
       "cues": {
         "S01E08": [
           1150,
           1156
+        ],
+        "S01E10": [
+          274,
+          289
         ]
       }
     },
@@ -13317,7 +13495,8 @@
       "source": "Manga Planeta tomo 9 p139 y tomo 10 p73, guía 1 p265. Resuelto 2026-09-22, S01E08 (antes {PUERTAS})",
       "verified": true,
       "episodes": [
-        "S01E08"
+        "S01E08",
+        "S01E10"
       ],
       "cues": {
         "S01E08": [
@@ -13329,6 +13508,14 @@
           1181,
           1187,
           1585
+        ],
+        "S01E10": [
+          3,
+          245,
+          269,
+          271,
+          448,
+          459
         ]
       }
     },
@@ -13357,7 +13544,8 @@
       "source": "Guía oficial Planeta 1 p261 y manga Planeta tomo 11 p112. Resuelto 2026-09-22, S01E09 (antes {SENNIN})",
       "verified": true,
       "episodes": [
-        "S01E09"
+        "S01E09",
+        "S01E12"
       ],
       "cues": {
         "S01E09": [
@@ -13373,6 +13561,37 @@
           1092,
           1219,
           1224
+        ],
+        "S01E12": [
+          109,
+          321,
+          334,
+          341,
+          344,
+          347,
+          348,
+          350,
+          364,
+          366,
+          456,
+          458,
+          554,
+          597,
+          601,
+          658,
+          659,
+          690,
+          748,
+          787,
+          803,
+          817,
+          910,
+          912,
+          925,
+          954,
+          958,
+          1039,
+          1148
         ]
       }
     },
@@ -13383,11 +13602,15 @@
       "source": "Guía oficial Planeta 2 p92 y p244 (técnica de Gaara para liberar a Shukaku). Resuelto 2026-09-22, S01E09 (antes {SUENOINSTANTANEO})",
       "verified": true,
       "episodes": [
-        "S01E09"
+        "S01E09",
+        "S01E11"
       ],
       "cues": {
         "S01E09": [
           695
+        ],
+        "S01E11": [
+          1387
         ]
       }
     },
@@ -13471,7 +13694,9 @@
         "S01E04",
         "S01E07",
         "S01E08",
-        "S01E09"
+        "S01E09",
+        "S01E10",
+        "S01E11"
       ],
       "cues": {
         "S01E01": [
@@ -13492,6 +13717,217 @@
         ],
         "S01E09": [
           841
+        ],
+        "S01E10": [
+          658
+        ],
+        "S01E11": [
+          35,
+          483,
+          705,
+          1565
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Eight Trigrams Sixty-Four Palms",
+      "spanish_es": "64 signos hakke",
+      "source": "Guía oficial Planeta 1 pp.110/163/217-218 y manga Naruto vols 12 p36, 22 p181, 28 p9, 29 p182 (técnica de Neji): «Hakke rokujúyon shó — Hakke/64/signo — 64 signos hakke»; el manga no traduce «hakke» y no usa «Ocho Trigramas» ni «Palmas». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E10 (antes {64PALMAS}, '¡Ocho Trigramas: 64 Palmas!')",
+      "verified": true,
+      "deprecated": [
+        "Ocho Trigramas: 64 Palmas"
+      ],
+      "episodes": [
+        "S01E10"
+      ],
+      "cues": {
+        "S01E10": [
+          290
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Wood Style Secret Jutsu: Deep Forest Emergence",
+      "spanish_es": "Técnica oculta de la madera: Génesis de los Bosques",
+      "source": "Guía oficial Planeta 2 p278 (ficha del Primer Hokage): «TÉCNICA OCULTA DE LA MADERA: [GÉNESIS DE LOS BOSQUES]». Distinta del prefijo general «Técnica de madera: <nombre>» ya establecido para otras técnicas de Elemento Madera; esta es la variante 'secreta' propia del Primer Hokage. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {MADERA}, 'Técnica secreta de madera: ¡Aparición del Bosque Profundo!')",
+      "verified": true,
+      "deprecated": [
+        "Técnica secreta de madera: Aparición del Bosque Profundo"
+      ],
+      "episodes": [],
+      "cues": {}
+    },
+    {
+      "japanese": "",
+      "english": "Adamantine Staff",
+      "spanish_es": "bastón indestructible vajra",
+      "source": "Guía oficial Planeta 2 p271 (ficha de Enma): «TRANSFORMACIÓN: BASTÓN INDESTRUCTIBLE VAJRA». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {BACULO}, 'el Báculo Adamantino')",
+      "verified": true,
+      "deprecated": [
+        "Báculo Adamantino"
+      ],
+      "episodes": [
+        "S01E11"
+      ],
+      "cues": {
+        "S01E11": [
+          492
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Immortality Jutsu",
+      "spanish_es": "Técnica de la Inmortalidad",
+      "source": "Guía oficial Planeta 2 p269 (ficha de Orochimaru): «TÉCNICA DE LA INMORTALIDAD», traslado del espíritu a otro cuerpo; listada aparte de «Resurrección de ultratumba». Coincide exactamente con la traducción ya usada. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {INMORTAL})",
+      "verified": true,
+      "episodes": [
+        "S01E11"
+      ],
+      "cues": {
+        "S01E11": [
+          576,
+          577
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Sand Shuriken",
+      "spanish_es": "Shuriken de Arena",
+      "source": "Guía oficial Planeta 2 p239, listada también en el índice de técnicas de Gaara. Coincide exactamente con la traducción ya usada. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {SHURIARENA})",
+      "verified": true,
+      "episodes": [
+        "S01E11"
+      ],
+      "cues": {
+        "S01E11": [
+          1202,
+          1231
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Shadow Strangle Jutsu",
+      "spanish_es": "Técnica de la Sombra Soga",
+      "source": "Guía oficial Planeta 2 pp.197/202/212/219/245 (fichas de Shikamaru y Shikaku Nara): «TÉCNICA DE LA SOMBRA SOGA», distinta de «Técnica de la Sombra Imitadora» (Shadow Possession). Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {ESTRANGSOMB}, 'Técnica de Estrangulación de Sombra')",
+      "verified": true,
+      "deprecated": [
+        "Técnica de Estrangulación de Sombra"
+      ],
+      "episodes": [
+        "S01E11"
+      ],
+      "cues": {
+        "S01E11": [
+          1488
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Water Style: Water Shark Bomb Jutsu",
+      "spanish_es": "Técnica acuática: Tromba del Gran Tiburón",
+      "source": "Guía oficial Planeta 3 p262 (ficha de Kisame Hoshigaki): «TÉCNICA ACUÁTICA: TROMBA DEL GRAN TIBURÓN». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {SUITON}, 'Bomba de Tiburón de Agua')",
+      "verified": true,
+      "deprecated": [
+        "Bomba de Tiburón de Agua"
+      ],
+      "episodes": [],
+      "cues": {}
+    },
+    {
+      "japanese": "",
+      "english": "Water Style: Water Wall",
+      "spanish_es": "Técnica acuática: Barrera de Agua",
+      "source": "Guía oficial Planeta 2 p236: «TÉCNICA ACUÁTICA: BARRERA DE AGUA». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {SUITON}, 'Técnica acuática: Muro de Agua')",
+      "verified": true,
+      "deprecated": [
+        "Técnica acuática: Muro de Agua"
+      ],
+      "episodes": [
+        "S01E12"
+      ],
+      "cues": {
+        "S01E12": [
+          184
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Ninja Art: Toad Mouth Trap",
+      "spanish_es": "Técnica del hechicero: Unión con la Boca del Sapo",
+      "source": "Guía oficial Planeta 2 p209 (ficha de Jiraiya): «TÉCNICA DEL HECHICERO: UNIÓN CON LA BOCA DEL SAPO», invocación del esófago del gran sapo de piedra del monte Myóboku para atrapar al enemigo. Usa el prefijo de invocación «Técnica del hechicero:», no «Arte ninja:». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {GAMAGUCHI}, 'Arte ninja: Trampa de la Boca del Sapo')",
+      "verified": true,
+      "deprecated": [
+        "Arte ninja: Trampa de la Boca del Sapo"
+      ],
+      "episodes": [
+        "S01E12"
+      ],
+      "cues": {
+        "S01E12": [
+          541
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Sealing Jutsu: Fire Sealing Method",
+      "spanish_es": "Sello Atrapa-Fuego",
+      "source": "Guía oficial Planeta 2 pp.266-267 (ficha de Jiraiya): «SELLO ATRAPA-FUEGO», técnica de sellado especial para técnicas de fuego, capaz de sellar el amaterasu. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {FUUIN}, 'Jutsu de sellado: Método de Sellado de Fuego')",
+      "verified": true,
+      "deprecated": [
+        "Jutsu de sellado: Método de Sellado de Fuego"
+      ],
+      "episodes": [
+        "S01E12"
+      ],
+      "cues": {
+        "S01E12": [
+          573
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "The Legendary Sucker",
+      "spanish_es": "la Legendaria Pardilla",
+      "source": "Guía oficial Planeta 2 p107 y p176 (ficha de Tsunade): «la legendaria pardilla», apodo en el mundillo de las apuestas («cuando gana una apuesta significa que algo va a salir mal»). Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {SUCKER}, 'la Legendaria Perdedora')",
+      "verified": true,
+      "deprecated": [
+        "la Legendaria Perdedora"
+      ],
+      "episodes": [
+        "S01E12"
+      ],
+      "cues": {
+        "S01E12": [
+          718,
+          719,
+          1161
+        ]
+      }
+    },
+    {
+      "japanese": "",
+      "english": "Fang Over Fang",
+      "spanish_es": "Colmillos Cruzados",
+      "source": "Guía oficial Planeta 1 p174 (ficha de Kiba): «COLMILLOS CRUZADOS», ambos se transforman entre sí (Kiba/Akamaru) y se abalanzan girando sobre la presa. Distinta de «Técnica de Taijutsu Hombre-Bestia», que sigue pendiente. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E08 (antes {KIBA}, 'Colmillo sobre Colmillo')",
+      "verified": true,
+      "deprecated": [
+        "Colmillo sobre Colmillo"
+      ],
+      "episodes": [
+        "S01E08"
+      ],
+      "cues": {
+        "S01E08": [
+          933
         ]
       }
     }
@@ -13506,7 +13942,7 @@
     {
       "code": "INOCERDA",
       "title": "Ino Pig (apodo que Sakura da a Ino)",
-      "body": "Sakura llama a Ino «Ino Pig» (S01E06, cue 591). Se ha traducido como «Ino-cerda», con el mismo esquema que el apodo de Sakura («Pista de Aterrizaje»). Pendiente de contrastar con el doblaje de España.",
+      "body": "Sakura llama a Ino «Ino Pig» (S01E06, cue 591). Se ha traducido como «Ino-cerda», con el mismo esquema que el apodo de Sakura («Pista de Aterrizaje»). Pendiente de contrastar con el doblaje de España. Comprobado 2026-09-24 contra la base OCR del manga/guía: sin coincidencia.",
       "cues": {
         "S01E06": [
           591
@@ -13519,7 +13955,7 @@
     {
       "code": "PAWENC",
       "title": "Paw Encyclopedia (S01E05)",
-      "body": "English \"Paw Encyclopedia\", the book of cat paw prints Sasuke and Itachi compiled. Translated literally as \"Enciclopedia de Patas\". The official Spain rendering is unknown.",
+      "body": "English \"Paw Encyclopedia\", the book of cat paw prints Sasuke and Itachi compiled. Translated literally as \"Enciclopedia de Patas\". The official Spain rendering is unknown. Checked 2026-09-24 against the manga/guide OCR database: no hit — likely anime-filler content not covered by the manga.",
       "cues": {
         "S01E05": [
           78
@@ -13529,7 +13965,7 @@
     {
       "code": "MATATABI",
       "title": "silvervine drink (S01E05)",
-      "body": "English \"silvervine drink\" (the plant cats are drawn to, matatabi in Japanese). Kept as \"bebida de matatabi\" to preserve the cat-plant reference. Alternatives: \"actinidia\" or a plain \"bebida para gatos\".",
+      "body": "English \"silvervine drink\" (the plant cats are drawn to, matatabi in Japanese). Kept as \"bebida de matatabi\" to preserve the cat-plant reference. Alternatives: \"actinidia\" or a plain \"bebida para gatos\". Checked 2026-09-24 against the manga/guide OCR database: no hit.",
       "cues": {
         "S01E05": [
           197
@@ -13539,7 +13975,7 @@
     {
       "code": "VENDETTA",
       "title": "vendetta (S01E05)",
-      "body": "English \"vendetta\" / \"vendetta permit\" / \"34 vendettas\" for the legal revenge-killing arc. Kept as \"vendetta\" (common in Spain Spanish) with \"permiso de vendetta\". Alternative: \"venganza\" / \"permiso de venganza\".",
+      "body": "English \"vendetta\" / \"vendetta permit\" / \"34 vendettas\" for the legal revenge-killing arc. Kept as \"vendetta\" (common in Spain Spanish) with \"permiso de vendetta\". Alternative: \"venganza\" / \"permiso de venganza\". Checked 2026-09-24 against the manga/guide OCR database: no hit (only unrelated \"venganza\" hits about Sasuke's arc) — this is an anime-filler arc, not in the manga.",
       "cues": {
         "S01E05": [
           302
@@ -13549,7 +13985,7 @@
     {
       "code": "LOCK",
       "title": "Lock Village and Land of Key (S01E05)",
-      "body": "English \"Hidden Lock Village\" in the \"Land of Key\", later shortened to \"Lock Village\" and \"ninja of the Lock\". Rendered \"Villa Oculta del Cerrojo\", \"País de la Llave\", \"Villa del Cerrojo\". The official village and country names are unverified (follows the \"Villa Oculta de la Hoja\" convention).",
+      "body": "English \"Hidden Lock Village\" in the \"Land of Key\", later shortened to \"Lock Village\" and \"ninja of the Lock\". Rendered \"Villa Oculta del Cerrojo\", \"País de la Llave\", \"Villa del Cerrojo\". The official village and country names are unverified (follows the \"Villa Oculta de la Hoja\" convention). Checked 2026-09-24 against the manga/guide OCR database: no hit — anime-filler location, not in the manga.",
       "cues": {
         "S01E05": [
           549
@@ -13559,7 +13995,7 @@
     {
       "code": "PACHINKO",
       "title": "Pachinko Jutsu (S01E05)",
-      "body": "Combination attack named \"Pachinko Jutsu\" in the English. Rendered \"Técnica Pachinko\". Unknown whether the Spanish edition transliterates or adapts it.",
+      "body": "Combination attack named \"Pachinko Jutsu\" in the English. Rendered \"Técnica Pachinko\". Unknown whether the Spanish edition transliterates or adapts it. Checked 2026-09-24 against the manga/guide OCR database: one hit (Naruto vol.18 p.59) but it's a footnote about a literal pachinko gambling machine, unrelated to this filler combo attack.",
       "cues": {
         "S01E05": [
           1082
@@ -13569,7 +14005,7 @@
     {
       "code": "PESCA",
       "title": "Shadow Clone Jutsu: Fishing Version",
-      "body": "Naruto's joke technique rendered \"Técnica de Clones de Sombra: Versión Pesca\", introduced by \"Técnica especial:\" (S01E07, cue 1010).",
+      "body": "Naruto's joke technique rendered \"Técnica de Clones de Sombra: Versión Pesca\", introduced by \"Técnica especial:\" (S01E07, cue 1010). Checked 2026-09-24 against the manga/guide OCR database: no hit — anime-filler joke technique.",
       "cues": {
         "S01E07": [
           1010
@@ -13578,19 +14014,18 @@
     },
     {
       "code": "KIBA",
-      "title": "Kiba's beast-mimicry techniques (remaining)",
-      "body": "S01E08: \"Man Beast Taijutsu Technique\" rendered \"Técnica de Taijutsu Hombre-Bestia\" (cue 932) and \"Fang Over Fang\" rendered \"Colmillo sobre Colmillo\" (cue 933). The guide's \"Colmillo perforador\" is the single-user version, not Fang Over Fang. \"Técnica animal\", \"Técnica de las Cuatro Garras\" and \"Multiplicación Bestial\" are already resolved in the glossary.",
+      "title": "Kiba's Man Beast Taijutsu Technique (remaining)",
+      "body": "S01E08: \"Man Beast Taijutsu Technique\" rendered \"Técnica de Taijutsu Hombre-Bestia\" (cue 932). \"Técnica animal\", \"Técnica de las Cuatro Garras\" and \"Multiplicación Bestial\" are already resolved in the glossary; \"Fang Over Fang\" was resolved 2026-09-24 as \"Colmillos Cruzados\" (guía oficial 1 p.174). This specific one is still unconfirmed: the guide's p.196 entry \"¡¡La combinación hombre-bestia!!\" is tagged as Ninjutsu, not Taijutsu, and doesn't match the \"Técnica de Taijutsu...\" wording exactly, so it's not a confident enough match to resolve.",
       "cues": {
         "S01E08": [
-          932,
-          933
+          932
         ]
       }
     },
     {
       "code": "SANGRE",
       "title": "Hot-Blooded (young Lee's Academy nickname)",
-      "body": "In the Academy-days flashback, Lee is mocked as \"Hot-Blooded\" / \"Hot-Blooded loser\" (S01E08, cues 1485-1490). Rendered \"Sangre Caliente\" / \"Perdedor de Sangre Caliente\". No source found for an official rendering; pending confirmation.",
+      "body": "In the Academy-days flashback, Lee is mocked as \"Hot-Blooded\" / \"Hot-Blooded loser\" (S01E08, cues 1485-1490). Rendered \"Sangre Caliente\" / \"Perdedor de Sangre Caliente\". No source found for an official rendering; pending confirmation. Checked 2026-09-24 against the manga/guide OCR database: no hit — likely anime-only flashback content.",
       "cues": {
         "S01E08": [
           1485
@@ -13600,7 +14035,7 @@
     {
       "code": "CLOSET",
       "title": "Closet Perv (Naruto's nickname for Ebisu)",
-      "body": "Naruto calls Ebisu \"The Closet Perv\" / \"Closet pervert\" on first meeting him (S01E09, first use cue 233). Rendered \"el Pervertido de Armario\", a literal calque of the English \"closet\" (hidden/secret) metaphor. No official Spanish-dub or manga source found; the character guide only confirms \"pervertido\" as a listed personality trait for Ebisu, not this specific nickname. Only the first occurrence is tagged.",
+      "body": "Naruto calls Ebisu \"The Closet Perv\" / \"Closet pervert\" on first meeting him (S01E09, first use cue 233). Rendered \"el Pervertido de Armario\", a literal calque of the English \"closet\" (hidden/secret) metaphor. No official Spanish-dub or manga source found; the character guide only confirms \"pervertido\" as a listed personality trait for Ebisu, not this specific nickname. Only the first occurrence is tagged. Re-checked 2026-09-24: still no hit for a \"closet\"/\"armario\" nickname specifically.",
       "cues": {
         "S01E09": [
           233
@@ -13610,17 +14045,20 @@
     {
       "code": "MYOBOKU",
       "title": "Great Toad Sage of Mount Myoboku",
-      "body": "Jiraiya's mock self-introduction the first time Naruto meets him, \"I am the Great Toad Sage of Mount Myoboku, the immortal... also known as the Toad Mountain Sage\" (S01E09, cue 447-448). Rendered \"el Sabio Sapo del Monte Myoboku\" / \"el Sabio Montaña Sapo\". \"Monte Myoboku\" itself is confirmed by the Planeta character guide (recurring as \"monte Myóboku\"); the \"Great Toad Sage\" title is Jiraiya's own comedic exaggeration in-universe (not the same as \"Ogama Sennin\", the actual toad elder character named later in the guide) and has no direct official rendering. The place name is confirmed; only the title \"Sabio Sapo\" is pending.",
+      "body": "Jiraiya's mock self-introduction the first time Naruto meets him, \"I am the Great Toad Sage of Mount Myoboku, the immortal... also known as the Toad Mountain Sage\" (S01E09, cue 447-448). Rendered \"el Sabio Sapo del Monte Myoboku\" / \"el Sabio Montaña Sapo\". \"Monte Myoboku\" itself is confirmed by the Planeta character guide (recurring as \"monte Myóboku\"); the \"Great Toad Sage\" title is Jiraiya's own comedic exaggeration in-universe (not the same as \"Ogama Sennin\", the actual toad elder character named later in the guide) and has no direct official rendering. The place name is confirmed; only the title \"Sabio Sapo\" is pending. Re-checked 2026-09-24: guide vol.3 p.84 confirms \"Ogama Sennin\" as the distinct real toad-elder name, matching this entry's own reasoning; still no hit for a \"Gran Sabio Sapo\" title itself.",
       "cues": {
         "S01E09": [
           447
+        ],
+        "S01E12": [
+          352
         ]
       }
     },
     {
       "code": "TRIGRAMAS",
       "title": "Eight Trigrams Sealing Style / Four-Symbols Seal",
-      "body": "Jiraiya's internal analysis of Naruto's seal: \"Two Four-Symbols Seals making up an Eight Trigrams Seal... So it's an Eight Trigrams Sealing Style\" (S01E09, cue 602-603). Rendered \"Sello de los Cuatro Símbolos\" and \"Sello/Estilo de Sellado de los Ocho Trigramas\". No source found in the manga/guide database; literal translation of the English fansub terms (the seal's canonical Japanese name is Hakke no Fūin Shiki).",
+      "body": "Jiraiya's internal analysis of Naruto's seal: \"Two Four-Symbols Seals making up an Eight Trigrams Seal... So it's an Eight Trigrams Sealing Style\" (S01E09, cue 602-603). Rendered \"Sello de los Cuatro Símbolos\" and \"Sello/Estilo de Sellado de los Ocho Trigramas\". No source found in the manga/guide database; literal translation of the English fansub terms (the seal's canonical Japanese name is Hakke no Fūin Shiki). Checked 2026-09-24: no hit for \"trigrama(s)\" anywhere in the OCR database — Planeta consistently keeps \"hakke\" as an untranslated loanword instead (e.g. \"Hakke rokujúyon shó\", \"Hakke kú shó\"; see the now-resolved 64PALMAS = \"64 signos hakke\"). Suggests \"Ocho Trigramas\" may not be how Spain renders \"hakke\" here either, but no direct hit for this specific seal concept (distinct from Neji's techniques), so left pending rather than guessed.",
       "cues": {
         "S01E09": [
           602
@@ -13630,10 +14068,130 @@
     {
       "code": "DANZALUNA",
       "title": "Leaf Style: Crescent Moon Dance",
-      "body": "A sword technique used against Zaku during the forest sequence, \"Leaf Style: Crescent Moon Dance\" (S01E09, cue 742-743). Rendered \"Estilo Hoja: Danza de la Luna Creciente\". No source found; literal translation, unverified against manga/guide.",
+      "body": "A sword technique used against Zaku during the forest sequence, \"Leaf Style: Crescent Moon Dance\" (S01E09, cue 742-743). Rendered \"Estilo Hoja: Danza de la Luna Creciente\". No source found; literal translation, unverified against manga/guide. Checked 2026-09-24: only a coincidental hit, \"Tajo de Luna Creciente de la Escuela de la Nube\" (guide vol.3 p.318) — a different technique/style (Cloud \"tajo\"/slash, not Leaf \"danza\"/dance), not the same move.",
       "cues": {
         "S01E09": [
           743
+        ]
+      }
+    },
+    {
+      "code": "CHUNIN",
+      "title": "Chūnin/Jōnin macron inconsistency",
+      "body": "The glossary's verified:false entry for \"Chūnin\"/\"Jōnin\" keeps the macron, and S01E01/S01E03 used it that way, but S01E09 (Christian-reviewed, 2026-09-22) dropped the macron to \"Chunin\"/\"Jonin\" throughout. S01E10 continues directly from S01E09's arc, so it follows S01E09's no-macron spelling for consistency with the immediately preceding episode, diverging from the glossary and from S01E01/S01E03. Only the first occurrence in S01E10 is tagged (cue 102); the word is too frequent to tag every instance. Needs a decision on which spelling is canonical, then a pass to unify S01E01/S01E03 (or S01E09/S01E10) to match. Checked 2026-09-24: Planeta doesn't use \"Chunin\"/\"Jonin\" as loanwords at all — it translates the rank as \"grado medio\" throughout (e.g. Naruto vol.4 pp.140-164). Interesting, but doesn't settle the macron question on its own since the loanword itself isn't used in the source.",
+      "cues": {
+        "S01E10": [
+          102
+        ]
+      }
+    },
+    {
+      "code": "HOZVIENTO",
+      "title": "Ninja Art: Wind Scythe Jutsu",
+      "body": "Temari's fan technique, \"Ninja Art: Wind Scythe Jutsu!\" (S01E10, cue 658). Rendered \"Arte ninja: Técnica de la Hoz de Viento!\", using the already-resolved \"Arte ninja:\" prefix. No official Spain source found for \"Wind Scythe\" itself; \"Hoz de Viento\" is a literal translation, unverified against manga/guide. Checked 2026-09-24: guide vol.2 p.210 describes Temari's ultimate wind-scythe technique, \"Danza Cortante\" (weasel-summoning, \"una guadaña que lo corta todo\"), and the technique index lists other Temari wind/scythe entries (\"Filo del viento\", \"Espirales guadaña\", \"Grandes espirales guadaña\") — several candidates exist but none titled \"Hoz de Viento\" exactly, and none clearly matches this specific simple S01E10 shout. Left pending rather than guessing which one (if any) applies.",
+      "cues": {
+        "S01E10": [
+          658
+        ]
+      }
+    },
+    {
+      "code": "OSCURINF",
+      "title": "Genjutsu: Infinite Darkness Jutsu",
+      "body": "Orochimaru's genjutsu cast on Sarutobi during the barrier fight: \"Genjutsu: Infinite Darkness Jutsu!\" (S01E11, cue 629). Rendered \"Genjutsu: Técnica de la Oscuridad Infinita\". Literal translation, unverified against manga/guide. Checked 2026-09-24: only a coincidental hit, \"Hacia la oscuridad infinita\" (guide vol.2 p.52) — a narrative chapter-title metaphor for Sasuke's path, unrelated to this genjutsu.",
+      "cues": {
+        "S01E11": [
+          629
+        ]
+      }
+    },
+    {
+      "code": "DERRIBACASA",
+      "title": "Ninja Art: Summoning Bring Down the House Jutsu",
+      "body": "Jiraiya's comedic entrance technique: \"Ninja Art: Summoning Bring Down the House Jutsu!\" (S01E11, cue 705). Rendered \"Arte ninja: Invocación, Técnica de Derribar la Casa\". Literal/idiomatic translation, unverified. Checked 2026-09-24 against the manga/guide OCR database: no hit — anime-only comedic content.",
+      "cues": {
+        "S01E11": [
+          705
+        ]
+      }
+    },
+    {
+      "code": "REINODIABLO",
+      "title": "Realm of Devil's Beyond the Horizon",
+      "body": "Part of Jiraiya's self-introduction bravado: \"The legendary ninja Jiraiya's... Realm of Devil's Beyond the Horizon... will now rage!\" (S01E11, cue 713-714). Rendered \"el Reino del Diablo Más Allá del Horizonte\". The English itself reads as garbled/non-standard grammar (possibly a mangled fansub line); translated as literally as the English allows. Flagging for review rather than just terminology. Checked 2026-09-24 against the manga/guide OCR database: no hit.",
+      "cues": {
+        "S01E11": [
+          713
+        ]
+      }
+    },
+    {
+      "code": "COMBONARUTO",
+      "title": "Naruto's comedic combo-move names",
+      "body": "A cluster of joke technique names Naruto invents mid-fight, parodying Lee/Guy-style taijutsu naming (S01E11, cues 1249-1316): \"Naruto Uzumaki... Clone Body Slam!\", \"The First Scroll of the Naruto Uzumaki Ninja Chronicles\", \"Naruto's... Ninja... Handbook!\", \"U-zu-ma-ki... Naruto Two Thousand Combo!\", \"Barrage!\", \"Four Thousand Hit Barrage!\". Rendered as \"¡Placaje de Clones!\", \"El Primer Pergamino de las Crónicas Ninja de Naruto Uzumaki\", \"¡El Manual Ninja de Naruto!\", \"¡Combo Dos Mil de Naruto!\", \"¡Ráfaga!\", \"¡Ráfaga de Cuatro Mil Golpes!\". Only the first cue (1249) is tagged; treat the whole cluster as one naming decision to review together. No official source checked, these read as fully invented/joke names in the English source itself. Checked 2026-09-24 against the manga/guide OCR database: no hit, consistent with being anime-only invented content.",
+      "cues": {
+        "S01E11": [
+          1249
+        ]
+      }
+    },
+    {
+      "code": "MENTEDEST",
+      "title": "Mind Destruction Jutsu",
+      "body": "An Ino-Shika-Cho-arc technique shouted during the group fight (S01E11, cue 1490): \"Mind Destruction Jutsu!\". Rendered \"Técnica de Destrucción Mental\". Literal translation; not the same as any already-verified Yamanaka technique in the glossary, unverified against manga/guide. Checked 2026-09-24: only \"traspaso mental\" hits (Ino's classic Mind Transfer, already a distinct verified entry) — no hit for this technique specifically.",
+      "cues": {
+        "S01E11": [
+          1490
+        ]
+      }
+    },
+    {
+      "code": "TELARANA",
+      "title": "Ninja Art: Spider Web Net",
+      "body": "A Sound-shinobi trap technique used to try to stop Kakashi/Guy from pursuing the retreating enemy: \"Ninja Art: Spider Web Net!\" (S01E11, cue 1565). Rendered \"Arte ninja: Red de Telaraña\". Literal translation, unverified. Checked 2026-09-24: guide vol.2 pp.213-218 list several Kidomaru (Sound Four) spider-web techniques used against Team Guy's pursuit in this exact arc — matching context, e.g. \"Apertura de la Telaraña\" (p.215: \"Utiliza sus brazos para crear una bola de hilos en un instante y luego la convierte en una amplia red\"), plus \"Tela de Araña\", \"Territorio de la Telaraña\", \"Flor de Telaraña\". Strong conceptual match but no technique is named exactly \"Red de Telaraña\", and there are multiple similarly-themed candidates — left pending rather than picking one.",
+      "cues": {
+        "S01E11": [
+          1565
+        ]
+      }
+    },
+    {
+      "code": "TRANSPAR",
+      "title": "Transparency Jutsu",
+      "body": "Young Sarutobi's joking name for his peeping/snooping technique in the flashback with Jiraiya/Tsunade/Orochimaru (S01E11, cue 1668, referenced again 1671): \"I'm great at Transparency Jutsu.\" Rendered \"Técnica de Transparencia\". Likely related to the canonical \"Invisibility Jutsu\" (Toumei no Jutsu) but no official source checked to confirm the Spain rendering. Checked 2026-09-24: \"invisibilidad\" hits are all Konohamaru's unrelated \"capa de invisibilidad\" (guide vol.1 p.170) — wrong character/context; \"transparencia\" itself never appears.",
+      "cues": {
+        "S01E11": [
+          1668
+        ]
+      }
+    },
+    {
+      "code": "SAPOROCA",
+      "title": "Rock Toad / Fire-Breathing Rock Toad (S01E12)",
+      "body": "The toad summon Jiraiya feeds Itachi and Kisame to, referred to as \"the Rock Toad\" (cue 546) and \"The Fire-Breathing Rock Toad\" (cue 570). Rendered \"el Sapo de Piedra\" / \"el Sapo de Piedra Lanzallamas\". No source found confirming an official name for this specific summon. Checked 2026-09-24: guide vol.2 p.209 (same passage that resolved GAMAGUCHI) calls the summon \"el gran sapo de la roca del monte Myóboku\", supporting \"Sapo de Piedra/de la Roca\" as directionally right, but there's no dedicated named profile for this specific toad and nothing confirms a \"lanzallamas\" (fire-breathing) epithet — left pending.",
+      "cues": {
+        "S01E12": [
+          546
+        ]
+      }
+    },
+    {
+      "code": "TABU",
+      "title": "Shinobi's Three Taboos (S01E12)",
+      "body": "Jiraiya's lesson to Naruto about \"the 'Shinobi's Three Taboos'\" (alcohol, women, money), cues 772-782 and reprised at cue 820. Rendered \"los Tres Tabúes del Shinobi\". No source found; appears to be filler-episode invented terminology, not core canon vocabulary. Checked 2026-09-24: \"tabú\" appears several times in the guide but always as a generic word (Naruto's fox secret, Chōji's weight, etc.), never as \"Tres Tabúes del Shinobi\" — consistent with this being filler-invented.",
+      "cues": {
+        "S01E12": [
+          772
+        ]
+      }
+    },
+    {
+      "code": "DARKNIN",
+      "title": "the legendary \"Dark Ninja\" (S01E12)",
+      "body": "Epithet of the thug gang's leader, a former Chunin of the Hidden Stone Village: \"the legendary 'Dark Ninja'\" (cue 837). Rendered \"el legendario 'Ninja de las Tinieblas'\". Minor one-off filler character; no source found. Checked 2026-09-24 against the manga/guide OCR database: no hit.",
+      "cues": {
+        "S01E12": [
+          837
         ]
       }
     }
