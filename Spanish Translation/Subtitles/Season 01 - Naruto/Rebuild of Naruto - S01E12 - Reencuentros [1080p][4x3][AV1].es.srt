@@ -656,8 +656,8 @@ Para ti.
 
 152
 00:13:13,834 --> 00:13:15,834
-<i>- ¡Bomba de Tiburón de Agua! {SUITON}
-- ¡Bomba de Tiburón de Agua!</i>
+<i>- ¡Tromba del Gran Tiburón!
+- ¡Tromba del Gran Tiburón!</i>
 
 153
 00:13:20,466 --> 00:13:22,134
@@ -800,7 +800,7 @@ A diferencia de Kisame, yo no tardaré mucho.
 
 184
 00:15:36,900 --> 00:15:38,610
-<i>¡Técnica acuática: Muro de Agua! {SUITON}</i>
+<i>¡Técnica acuática: Barrera de Agua!</i>
 
 185
 00:15:47,530 --> 00:15:51,159
@@ -2363,7 +2363,7 @@ Ya basta...
 
 541
 00:42:11,701 --> 00:42:14,245
-<i>Arte ninja: Trampa de la Boca del Sapo. {GAMAGUCHI}</i>
+<i>Técnica del hechicero: Unión con la Boca del Sapo.</i>
 
 542
 00:42:15,036 --> 00:42:17,696
@@ -2499,7 +2499,7 @@ le quemaron un agujero en la garganta...</i>
 
 573
 00:44:38,300 --> 00:44:41,261
-<i>¡Jutsu de sellado: Método de Sellado de Fuego! {FUUIN}</i>
+<i>¡Sello Atrapa-Fuego!</i>
 
 574
 00:45:09,204 --> 00:45:13,876
@@ -3135,12 +3135,12 @@ La Legendaria...
 
 718
 00:56:24,631 --> 00:56:25,673
-¡La Legendaria Perdedora! {SUCKER}
+¡La Legendaria Pardilla!
 
 719
 00:56:27,258 --> 00:56:31,513
 ¡Sip! Pero por muy famosa
-que sea la Legendaria Perdedora,
+que sea la Legendaria Pardilla,
 
 720
 00:56:31,538 --> 00:56:33,999
@@ -5081,7 +5081,7 @@ gracias a esa señora.
 1161
 01:29:34,243 --> 01:29:36,954
 <i>Sí... de verdad que eres
-la Legendaria Perdedora.</i>
+la Legendaria Pardilla.</i>
 
 1162
 01:29:37,955 --> 01:29:40,708

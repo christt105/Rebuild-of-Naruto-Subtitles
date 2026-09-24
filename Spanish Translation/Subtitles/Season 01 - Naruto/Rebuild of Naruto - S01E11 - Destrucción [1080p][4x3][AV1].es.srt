@@ -2080,11 +2080,11 @@ Esta es la técnica secreta del Primer Hokage.
 
 474
 00:40:21,836 --> 00:40:23,254
-<i>Técnica secreta de madera: {MADERA}</i>
+<i>Técnica oculta de la madera:</i>
 
 475
 00:40:28,384 --> 00:40:30,052
-<i>¡Aparición del Bosque Profundo!</i>
+<i>¡Génesis de los Bosques!</i>
 
 476
 00:41:04,962 --> 00:41:08,883
@@ -2158,7 +2158,7 @@ Es demasiado tarde.
 492
 00:42:50,276 --> 00:42:53,654
 ¡Por favor, Enma!
-El Báculo Adamantino. {BACULO}
+El bastón indestructible vajra.
 
 493
 00:42:55,531 --> 00:42:58,200
@@ -2528,7 +2528,7 @@ Sí... Bien podría serlo...
 
 576
 00:51:50,649 --> 00:51:53,068
-¡Mi Técnica de la Inmortalidad! {INMORTAL}
+¡Mi Técnica de la Inmortalidad!
 
 577
 00:52:02,994 --> 00:52:04,621
@@ -5251,7 +5251,7 @@ de la transformación completa.</i>
 
 1202
 01:55:26,669 --> 01:55:28,087
-<i>¡Shuriken de Arena! {SHURIARENA}</i>
+<i>¡Shuriken de Arena!</i>
 
 1203
 01:55:37,347 --> 01:55:39,057
@@ -6056,7 +6056,7 @@ Va a hacerlo...</i>
 
 1387
 02:09:49,531 --> 02:09:52,951
-Cuando el portador usa la Técnica del Sueño Fingido... {SUENOFING}
+Cuando el portador usa la Técnica del Sueño Instantáneo...
 
 1388
 02:09:52,976 --> 02:09:55,311
@@ -6491,7 +6491,7 @@ Bueno, ya que estoy, toma también esto...
 1488
 02:18:41,563 --> 02:18:45,066
 La técnica oculta de la Hoja...
-¡Técnica de Estrangulación de Sombra! {ESTRANGSOMB}
+¡Técnica de la Sombra Soga!
 
 1489
 02:18:49,946 --> 02:18:51,531

@@ -967,3 +967,96 @@
   spanish_es: "Arte ninja:"
   source: "Planeta no usa prefijo (traduce ninpō como «técnica»). Decisión de Christian 2026-09-22: se mantiene «Arte ninja:» porque se oye en el audio y ocupa lo mismo que el inglés; «ninja» en minúscula. Resuelto 2026-09-22, S01E01-S01E09 (antes {ARTE})"
   verified: true
+
+- japanese: ""
+  english: "Eight Trigrams Sixty-Four Palms"
+  spanish_es: "64 signos hakke"
+  source: "Guía oficial Planeta 1 pp.110/163/217-218 y manga Naruto vols 12 p36, 22 p181, 28 p9, 29 p182 (técnica de Neji): «Hakke rokujúyon shó — Hakke/64/signo — 64 signos hakke»; el manga no traduce «hakke» y no usa «Ocho Trigramas» ni «Palmas». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E10 (antes {64PALMAS}, '¡Ocho Trigramas: 64 Palmas!')"
+  verified: true
+  deprecated:
+    - "Ocho Trigramas: 64 Palmas"
+
+- japanese: ""
+  english: "Wood Style Secret Jutsu: Deep Forest Emergence"
+  spanish_es: "Técnica oculta de la madera: Génesis de los Bosques"
+  source: "Guía oficial Planeta 2 p278 (ficha del Primer Hokage): «TÉCNICA OCULTA DE LA MADERA: [GÉNESIS DE LOS BOSQUES]». Distinta del prefijo general «Técnica de madera: <nombre>» ya establecido para otras técnicas de Elemento Madera; esta es la variante 'secreta' propia del Primer Hokage. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {MADERA}, 'Técnica secreta de madera: ¡Aparición del Bosque Profundo!')"
+  verified: true
+  deprecated:
+    - "Técnica secreta de madera: Aparición del Bosque Profundo"
+
+- japanese: ""
+  english: "Adamantine Staff"
+  spanish_es: "bastón indestructible vajra"
+  source: "Guía oficial Planeta 2 p271 (ficha de Enma): «TRANSFORMACIÓN: BASTÓN INDESTRUCTIBLE VAJRA». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {BACULO}, 'el Báculo Adamantino')"
+  verified: true
+  deprecated:
+    - "Báculo Adamantino"
+
+- japanese: ""
+  english: "Immortality Jutsu"
+  spanish_es: "Técnica de la Inmortalidad"
+  source: "Guía oficial Planeta 2 p269 (ficha de Orochimaru): «TÉCNICA DE LA INMORTALIDAD», traslado del espíritu a otro cuerpo; listada aparte de «Resurrección de ultratumba». Coincide exactamente con la traducción ya usada. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {INMORTAL})"
+  verified: true
+
+- japanese: ""
+  english: "Sand Shuriken"
+  spanish_es: "Shuriken de Arena"
+  source: "Guía oficial Planeta 2 p239, listada también en el índice de técnicas de Gaara. Coincide exactamente con la traducción ya usada. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {SHURIARENA})"
+  verified: true
+
+- japanese: ""
+  english: "Shadow Strangle Jutsu"
+  spanish_es: "Técnica de la Sombra Soga"
+  source: "Guía oficial Planeta 2 pp.197/202/212/219/245 (fichas de Shikamaru y Shikaku Nara): «TÉCNICA DE LA SOMBRA SOGA», distinta de «Técnica de la Sombra Imitadora» (Shadow Possession). Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E11 (antes {ESTRANGSOMB}, 'Técnica de Estrangulación de Sombra')"
+  verified: true
+  deprecated:
+    - "Técnica de Estrangulación de Sombra"
+
+- japanese: ""
+  english: "Water Style: Water Shark Bomb Jutsu"
+  spanish_es: "Técnica acuática: Tromba del Gran Tiburón"
+  source: "Guía oficial Planeta 3 p262 (ficha de Kisame Hoshigaki): «TÉCNICA ACUÁTICA: TROMBA DEL GRAN TIBURÓN». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {SUITON}, 'Bomba de Tiburón de Agua')"
+  verified: true
+  deprecated:
+    - "Bomba de Tiburón de Agua"
+
+- japanese: ""
+  english: "Water Style: Water Wall"
+  spanish_es: "Técnica acuática: Barrera de Agua"
+  source: "Guía oficial Planeta 2 p236: «TÉCNICA ACUÁTICA: BARRERA DE AGUA». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {SUITON}, 'Técnica acuática: Muro de Agua')"
+  verified: true
+  deprecated:
+    - "Técnica acuática: Muro de Agua"
+
+- japanese: ""
+  english: "Ninja Art: Toad Mouth Trap"
+  spanish_es: "Técnica del hechicero: Unión con la Boca del Sapo"
+  source: "Guía oficial Planeta 2 p209 (ficha de Jiraiya): «TÉCNICA DEL HECHICERO: UNIÓN CON LA BOCA DEL SAPO», invocación del esófago del gran sapo de piedra del monte Myóboku para atrapar al enemigo. Usa el prefijo de invocación «Técnica del hechicero:», no «Arte ninja:». Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {GAMAGUCHI}, 'Arte ninja: Trampa de la Boca del Sapo')"
+  verified: true
+  deprecated:
+    - "Arte ninja: Trampa de la Boca del Sapo"
+
+- japanese: ""
+  english: "Sealing Jutsu: Fire Sealing Method"
+  spanish_es: "Sello Atrapa-Fuego"
+  source: "Guía oficial Planeta 2 pp.266-267 (ficha de Jiraiya): «SELLO ATRAPA-FUEGO», técnica de sellado especial para técnicas de fuego, capaz de sellar el amaterasu. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {FUUIN}, 'Jutsu de sellado: Método de Sellado de Fuego')"
+  verified: true
+  deprecated:
+    - "Jutsu de sellado: Método de Sellado de Fuego"
+
+- japanese: ""
+  english: "The Legendary Sucker"
+  spanish_es: "la Legendaria Pardilla"
+  source: "Guía oficial Planeta 2 p107 y p176 (ficha de Tsunade): «la legendaria pardilla», apodo en el mundillo de las apuestas («cuando gana una apuesta significa que algo va a salir mal»). Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E12 (antes {SUCKER}, 'la Legendaria Perdedora')"
+  verified: true
+  deprecated:
+    - "la Legendaria Perdedora"
+
+- japanese: ""
+  english: "Fang Over Fang"
+  spanish_es: "Colmillos Cruzados"
+  source: "Guía oficial Planeta 1 p174 (ficha de Kiba): «COLMILLOS CRUZADOS», ambos se transforman entre sí (Kiba/Akamaru) y se abalanzan girando sobre la presa. Distinta de «Técnica de Taijutsu Hombre-Bestia», que sigue pendiente. Japonés no capturado por el OCR. Resuelto 2026-09-24, S01E08 (antes {KIBA}, 'Colmillo sobre Colmillo')"
+  verified: true
+  deprecated:
+    - "Colmillo sobre Colmillo"
+  verified: true
