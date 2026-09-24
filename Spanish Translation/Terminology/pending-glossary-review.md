@@ -66,3 +66,42 @@ Neji's ultimate technique, chanted in two parts: "Gentle Fist Art:" / "8 Trigram
 
 ### `{HOZVIENTO}` - Ninja Art: Wind Scythe Jutsu
 Temari's fan technique, "Ninja Art: Wind Scythe Jutsu!" (S01E10, cue 658). Rendered "Arte ninja: Técnica de la Hoz de Viento!", using the already-resolved "Arte ninja:" prefix. No official Spain source found for "Wind Scythe" itself; "Hoz de Viento" is a literal translation, unverified against manga/guide.
+
+### `{MADERA}` - Wood Style Secret Jutsu (prefix)
+The First Hokage's "Wood Style Secret Jutsu: Deep Forest Emergence" (S01E11, cue 474-475). Rendered "Técnica secreta de madera:", extending the same "Técnica X:" prefix pattern already verified in the glossary for Fire/Water/Earth/Wind Release ("Técnica ígnea/acuática/terrestre/de viento:"). The Wood Release category name itself ("Elemento Madera") is glossary-verified:false; this specific "secret jutsu" prefix has no independent source.
+
+### `{BACULO}` - Adamantine Staff (Enma's weapon)
+Enma's staff, requested by Sarutobi mid-fight: "Please, Enma! The Adamantine Staff." (S01E11, cue 492). Rendered "el Báculo Adamantino", a literal translation. No official Spain source checked.
+
+### `{INMORTAL}` - Immortality Jutsu (Orochimaru's body-switch technique)
+Orochimaru's own name for the technique behind his body-hopping immortality, explained at length in S01E11 (cues 576-580: "My Immortality Jutsu!"). Rendered "Técnica de la Inmortalidad". This is distinct from the already-verified "Reencarnación al Mundo Impío" (Impure World Reincarnation, used on the First/Second Hokage) and from "Sello del Dios de la Muerte" (Reaper Death Seal); no official source checked for this specific name.
+
+### `{OSCURINF}` - Genjutsu: Infinite Darkness Jutsu
+Orochimaru's genjutsu cast on Sarutobi during the barrier fight: "Genjutsu: Infinite Darkness Jutsu!" (S01E11, cue 629). Rendered "Genjutsu: Técnica de la Oscuridad Infinita". Literal translation, unverified against manga/guide.
+
+### `{DERRIBACASA}` - Ninja Art: Summoning Bring Down the House Jutsu
+Jiraiya's comedic entrance technique: "Ninja Art: Summoning Bring Down the House Jutsu!" (S01E11, cue 705). Rendered "Arte ninja: Invocación, Técnica de Derribar la Casa". Literal/idiomatic translation, unverified.
+
+### `{REINODIABLO}` - Realm of Devil's Beyond the Horizon
+Part of Jiraiya's self-introduction bravado: "The legendary ninja Jiraiya's... Realm of Devil's Beyond the Horizon... will now rage!" (S01E11, cue 713-714). Rendered "el Reino del Diablo Más Allá del Horizonte". The English itself reads as garbled/non-standard grammar (possibly a mangled fansub line); translated as literally as the English allows. Flagging for review rather than just terminology.
+
+### `{SHURIARENA}` - Sand Shuriken
+Gaara's sand-based ranged attack, shouted twice in the Gaara/Naruto fight (S01E11, cues 1202, 1231; only the first occurrence tagged). Rendered "Shuriken de Arena". No official source checked; not the same as the glossary's "Striking Shadow Snakes" or other verified sand techniques.
+
+### `{COMBONARUTO}` - Naruto's comedic combo-move names
+A cluster of joke technique names Naruto invents mid-fight, parodying Lee/Guy-style taijutsu naming (S01E11, cues 1249-1316): "Naruto Uzumaki... Clone Body Slam!", "The First Scroll of the Naruto Uzumaki Ninja Chronicles", "Naruto's... Ninja... Handbook!", "U-zu-ma-ki... Naruto Two Thousand Combo!", "Barrage!", "Four Thousand Hit Barrage!". Rendered as "¡Placaje de Clones!", "El Primer Pergamino de las Crónicas Ninja de Naruto Uzumaki", "¡El Manual Ninja de Naruto!", "¡Combo Dos Mil de Naruto!", "¡Ráfaga!", "¡Ráfaga de Cuatro Mil Golpes!". Only the first cue (1249) is tagged; treat the whole cluster as one naming decision to review together. No official source checked, these read as fully invented/joke names in the English source itself.
+
+### `{SUENOFING}` - Feigning Sleep Jutsu
+The mechanism by which Shukaku emerges when Gaara's host body sleeps: "When the host uses the Feigning Sleep Jutsu... Shukaku will appear!" (S01E11, cue 1387). Rendered "Técnica del Sueño Fingido". Literal translation, unverified against manga/guide.
+
+### `{ESTRANGSOMB}` - Shadow Strangle Jutsu
+Shikaku Nara's technique, distinct from the already-verified "Técnica de la Sombra Imitadora" (Shadow Possession Jutsu): "The Leaf's hidden technique... Shadow Strangle Jutsu!" (S01E11, cue 1488). Rendered "Técnica de Estrangulación de Sombra". Literal translation, unverified.
+
+### `{MENTEDEST}` - Mind Destruction Jutsu
+An Ino-Shika-Cho-arc technique shouted during the group fight (S01E11, cue 1490): "Mind Destruction Jutsu!". Rendered "Técnica de Destrucción Mental". Literal translation; not the same as any already-verified Yamanaka technique in the glossary, unverified against manga/guide.
+
+### `{TELARANA}` - Ninja Art: Spider Web Net
+A Sound-shinobi trap technique used to try to stop Kakashi/Guy from pursuing the retreating enemy: "Ninja Art: Spider Web Net!" (S01E11, cue 1565). Rendered "Arte ninja: Red de Telaraña". Literal translation, unverified.
+
+### `{TRANSPAR}` - Transparency Jutsu
+Young Sarutobi's joking name for his peeping/snooping technique in the flashback with Jiraiya/Tsunade/Orochimaru (S01E11, cue 1668, referenced again 1671): "I'm great at Transparency Jutsu." Rendered "Técnica de Transparencia". Likely related to the canonical "Invisibility Jutsu" (Toumei no Jutsu) but no official source checked to confirm the Spain rendering.
