@@ -1441,560 +1441,562 @@ cueste lo que cueste!
 
 331
 00:28:31,918 --> 00:28:32,918
-That kid...
+Ese chaval...
 
 332
 00:28:37,507 --> 00:28:39,634
-<i>What? She's a bit off her guard...</i>
+<i>¿Qué? Ha bajado un poco la guardia...</i>
 
 333
 00:28:40,218 --> 00:28:42,011
-<i>I can't tackle her head on.</i>
+<i>No puedo atacarla de frente.</i>
 
 334
 00:28:42,470 --> 00:28:44,055
-<i>Then, I'll have to use that jutsu now...</i>
+<i>Entonces tendré que usar esa técnica ahora...</i>
 
 335
 00:28:44,639 --> 00:28:45,807
-<i>Concentrate!</i>
+<i>¡Concéntrate!</i>
 
 336
 00:28:57,902 --> 00:28:58,902
-<i>Oh, no!</i>
+<i>¡Oh, no!</i>
 
 337
 00:29:00,155 --> 00:29:02,282
-<i>What?! This jutsu is...!</i>
+<i>¡¿Qué?! ¡Esta técnica es...!</i>
 
 338
 00:29:17,447 --> 00:29:21,117
-<i>I never thought he'd attempt to use
-the Fourth Hokage's jutsu.</i>
+<i>Nunca pensé que intentaría usar
+la técnica del Cuarto Hokage.</i>
 
 339
 00:29:22,177 --> 00:29:24,012
-<i>But it's still at this level...</i>
+<i>Pero aun así está a este nivel...</i>
 
 340
 00:29:24,480 --> 00:29:26,983
-<i>It's nothing like the original.</i>
+<i>No se parece en nada al original.</i>
 
 341
 00:29:27,902 --> 00:29:31,739
-<i>Tsunade... She's as strong as ever.</i>
+<i>Tsunade... Sigue siendo igual de fuerte.</i>
 
 342
 00:29:33,271 --> 00:29:35,273
-<i>I remember a long time ago,</i>
+<i>Recuerdo que hace mucho tiempo,</i>
 
 343
 00:29:35,398 --> 00:29:38,651
-<i>I got punched by her and
-sent flying nearly 100 meters...</i>
+<i>me dio un puñetazo y salí volando
+casi 100 metros...</i>
 
 344
 00:29:40,737 --> 00:29:43,782
-<i>At any rate, Naruto's hopeless.</i>
+<i>En fin, Naruto no tiene remedio.</i>
 
 345
 00:29:44,449 --> 00:29:45,825
-Are you okay?
+¿Estás bien?
 
 346
 00:29:47,202 --> 00:29:49,009
-Jiraiya, was it you...
+Jiraiya, ¿fuiste tú...
 
 347
 00:29:49,034 --> 00:29:51,234
-who taught him that jutsu,
-the Rasengan?
+quien le enseñó esa técnica,
+el Rasengan?
 
 348
 00:29:51,956 --> 00:29:53,082
-<i>The Rasengan...?!</i>
+<i>¡¿El Rasengan...?!</i>
 
 349
 00:29:53,750 --> 00:29:57,754
-I'm his teacher, after all.
+Soy su maestro, al fin y al cabo.
 
 350
 00:29:58,379 --> 00:30:02,717
-Hmph... You and the Fourth are
-the only ones who could use that jutsu.
+Hmph... Tú y el Cuarto erais
+los únicos que podíais usar esa técnica.
 
 351
 00:30:03,367 --> 00:30:05,953
-Don't give him false hope by 
+No le des falsas esperanzas
 
 352
 00:30:06,254 --> 00:30:07,934
-teaching him a jutsu
-he can't possibly master.
+enseñándole una técnica
+que es imposible que domine.
 
 353
 00:30:08,645 --> 00:30:10,605
-Are you in your right mind...?
+¿Estás en tus cabales...?
 
 354
 00:30:11,115 --> 00:30:16,245
-That's why this stubborn kid is spouting
-such nonsense about becoming Hokage!
+¡Por eso este cabezota suelta
+esas tonterías de que será Hokage!
 
 355
 00:30:17,106 --> 00:30:20,568
-It's no joke, idiot! You idiot!
+¡No es ninguna broma, tonta! ¡Tonta!
 
 356
 00:30:20,777 --> 00:30:23,780
-Give me three days, and
-I'll master this jutsu!
+¡Dame tres días y
+dominaré esta técnica!
 
 357
 00:30:25,114 --> 00:30:27,158
-You said it, brat.
+Lo has dicho, mocoso.
 
 358
 00:30:27,807 --> 00:30:29,517
-Men don't go back on their word!
+¡Un hombre no se echa atrás
+en su palabra!
 
 359
 00:30:29,806 --> 00:30:33,184
-Hah! I never go back on my word.
+¡Ja! Yo nunca me echo atrás en mi palabra.
 
 360
 00:30:34,503 --> 00:30:36,630
-That's my Ninja Way.
+Ese es mi camino del ninja.
 
 361
 00:30:42,257 --> 00:30:44,926
-Then... how about a wager?
+Entonces... ¿qué tal una apuesta?
 
 362
 00:30:45,927 --> 00:30:46,927
-A wager...?
+¿Una apuesta...?
 
 363
 00:30:47,512 --> 00:30:48,888
-I'll give you one week.
+Te daré una semana.
 
 364
 00:30:49,514 --> 00:30:51,891
-If you can master that jutsu,
+Si logras dominar esa técnica,
 
 365
 00:30:52,308 --> 00:30:54,620
-I'll acknowledge that you have
-what it takes to become Hokage
+reconoceré que tienes lo que hay que tener
+para ser Hokage
 
 366
 00:30:54,697 --> 00:30:56,657
-and give you this necklace.
+y te daré este collar.
 
 367
 00:30:56,813 --> 00:30:59,858
-Lady Tsunade! That's the precious...!
+¡Tsunade! ¡Ese es el preciado...!
 
 368
 00:31:00,236 --> 00:31:02,947
-I don't need some crummy old necklace!
+¡No necesito un collar viejo y cutre!
 
 369
 00:31:03,188 --> 00:31:04,648
-Don't say such things, Naruto...
+No digas esas cosas, Naruto...
 
 370
 00:31:05,196 --> 00:31:07,615
-That's the only one like it in the world.
+Es el único así en todo el mundo.
 
 371
 00:31:07,797 --> 00:31:10,037
-You could buy three mountains
-if you sold it.
+Podrías comprarte tres montañas
+si lo vendieras.
 
 372
 00:31:10,827 --> 00:31:13,329
-It belonged to the First Hokage.
+Perteneció al Primer Hokage.
 
 373
 00:31:14,497 --> 00:31:16,082
-<i>A-Amazing...</i>
+<i>I-Increíble...</i>
 
 374
 00:31:17,041 --> 00:31:19,252
-Well, that'll be fine!
+¡Bueno, entonces perfecto!
 
 375
 00:31:20,664 --> 00:31:22,374
-<i>He'd do anything for money...?</i>
+<i>¿Haría cualquier cosa por dinero...?</i>
 
 376
 00:31:22,955 --> 00:31:23,955
-Good...
+Bien...
 
 377
 00:31:23,995 --> 00:31:28,458
-However, if you can't master the
-jutsu in one week, you lose!
+¡Sin embargo, si no dominas la
+técnica en una semana, pierdes!
 
 378
 00:31:29,137 --> 00:31:31,057
-And you'll hand over all the money
-you have on you.
+Y me entregarás todo el dinero
+que lleves encima.
 
 379
 00:31:31,292 --> 00:31:32,668
-Oh! Gama-chan!
+¡Oh! ¡Gama-chan!
 
 380
 00:31:32,920 --> 00:31:33,920
-When did she...?!
+¡¿Cuándo ha...?!
 
 381
 00:31:34,684 --> 00:31:36,311
-Lady Tsunade! Why?
+¡Tsunade! ¿Por qué?
 
 382
 00:31:36,394 --> 00:31:37,520
-That necklace is...
+Ese collar es...
 
 383
 00:31:38,855 --> 00:31:40,315
-He won't be able to do it, anyway...
+De todas formas, no podrá conseguirlo...
 
 384
 00:31:40,690 --> 00:31:41,690
-Let's go, Shizune.
+Vámonos, Shizune.
 
 385
 00:31:42,775 --> 00:31:46,696
-<i>She's never used
-that necklace in a bet before...</i>
+<i>Nunca había usado
+ese collar en una apuesta...</i>
 
 386
 00:31:49,198 --> 00:31:51,701
-<i>You don't have to answer right now.</i>
+<i>No tienes que responder ahora mismo.</i>
 
 387
 00:31:52,368 --> 00:31:55,079
-<i>However, I want it in a week.</i>
+<i>Sin embargo, la quiero dentro de una semana.</i>
 
 388
 00:32:05,224 --> 00:32:06,809
-Oh, you're already at it, I see!
+¡Oh, ya estás en ello, por lo que veo!
 
 389
 00:32:07,032 --> 00:32:08,033
-Hi, welcome!
+¡Hola, bienvenido!
 
 390
 00:32:08,968 --> 00:32:10,178
-Why are you here?
+¿Qué haces aquí?
 
 391
 00:32:10,553 --> 00:32:13,640
-You're cold. Don't say that.
+Qué fría eres. No digas eso.
 
 392
 00:32:14,933 --> 00:32:15,975
-Lord Jiraiya...
+Jiraiya...
 
 393
 00:32:17,101 --> 00:32:20,813
-Shizune, could you leave us?
+Shizune, ¿puedes dejarnos a solas?
 
 394
 00:32:21,476 --> 00:32:23,937
-It's been a while.
-I'd like to have a drink with her.
+Hace tiempo que no nos vemos.
+Me apetece tomar algo con ella.
 
 395
 00:32:24,817 --> 00:32:27,695
-Bartender, sake! And some radishes!
+¡Camarero, sake! ¡Y unos rábanos!
 
 396
 00:32:27,779 --> 00:32:28,779
-Coming up!
+¡Marchando!
 
 397
 00:32:32,408 --> 00:32:34,744
-<i>I'm counting on you, Lord Jiraiya.</i>
+<i>Cuento contigo, Jiraiya.</i>
 
 398
 00:32:40,200 --> 00:32:41,410
-Your radish is ready.
+Aquí tiene su rábano.
 
 399
 00:32:41,435 --> 00:32:43,270
-Ooh. This looks good.
+Oooh. Esto tiene buena pinta.
 
 400
 00:32:47,490 --> 00:32:52,245
-Anyway, to think you'd still be taking
-such good care of that necklace...
+En cualquier caso, pensar que todavía cuidas
+tan bien de ese collar...
 
 401
 00:32:52,679 --> 00:32:56,057
-I figured you'd have gambled it
-away long ago.
+Creía que lo habrías perdido
+jugando hace mucho.
 
 402
 00:32:57,630 --> 00:32:59,632
-It's a memento of those two, right?
+Es un recuerdo de esos dos, ¿verdad?
 
 403
 00:33:07,573 --> 00:33:09,158
-Is that kid on your mind...?
+¿Tienes a ese chaval en la cabeza...?
 
 404
 00:33:09,430 --> 00:33:10,430
-Who?
+¿A quién?
 
 405
 00:33:12,615 --> 00:33:13,866
-Naruto.
+A Naruto.
 
 406
 00:33:15,368 --> 00:33:16,368
-Not particularly...
+No especialmente...
 
 407
 00:33:17,328 --> 00:33:20,665
-Still, it was immature of you,
-taking on that kid...
+Aun así, fue una inmadurez por tu parte
+meterte con ese chaval...
 
 408
 00:33:21,040 --> 00:33:25,044
-He shouldn't be able to master
-that jutsu in a week.
+No debería poder dominar
+esa técnica en una semana.
 
 409
 00:33:25,712 --> 00:33:28,131
-That's hardly what I'd call a fair bet.
+Eso no es precisamente
+lo que yo llamaría una apuesta justa.
 
 410
 00:33:30,550 --> 00:33:32,176
-What's with that gloomy look?
+¿Y esa cara de pocos amigos?
 
 411
 00:33:33,428 --> 00:33:36,180
-I don't have a gloomy look!
+¡No tengo cara de pocos amigos!
 
 412
 00:33:38,099 --> 00:33:40,101
-Are you going to meet
-Orochimaru again?
+¿Vas a reunirte con
+Orochimaru otra vez?
 
 413
 00:33:41,894 --> 00:33:43,896
-I can tell just by looking
-at Shizune's face.
+Lo noto con solo mirar
+la cara de Shizune.
 
 414
 00:33:44,480 --> 00:33:48,234
-I don't know what kind of deal
-he proposed,
+No sé qué clase de trato
+te ha propuesto,
 
 415
 00:33:49,277 --> 00:33:51,237
-but don't rush into a decision.
+pero no te precipites con la decisión.
 
 416
 00:33:52,447 --> 00:33:56,576
-And... let me just tell you one thing.
+Y... déjame decirte una sola cosa.
 
 417
 00:33:57,577 --> 00:33:59,537
-The Hokages, for generations,
-have protected
+Los Hokages, a lo largo de las generaciones,
+han protegido
 
 418
 00:33:59,579 --> 00:34:02,790
-the Leaf Village and those living in it.
+la Villa de la Hoja y a quienes viven en ella.
 
 419
 00:34:03,041 --> 00:34:07,420
-They brought troubled times under control
-and helped the village to prosper.
+Controlaron los tiempos difíciles
+y ayudaron a que la villa prosperase.
 
 420
 00:34:07,840 --> 00:34:09,842
-They risked their lives
-for this dream, this ideal!
+¡Arriesgaron sus vidas
+por este sueño, por este ideal!
 
 421
 00:34:12,050 --> 00:34:15,428
-You're not the kind of person who can't
-understand the feelings of the past Hokages.
+No eres de esa clase de personas que no
+entienden los sentimientos de los Hokages anteriores.
 
 422
 00:34:16,888 --> 00:34:20,892
-If you even think about
-betraying the Leaf Village...
+Si siquiera se te pasa por la cabeza
+traicionar a la Villa de la Hoja...
 
 423
 00:34:23,311 --> 00:34:26,773
-When that happens, I'll kill you myself!
+¡Cuando eso ocurra, te mataré yo mismo!
 
 424
 00:34:29,233 --> 00:34:31,778
-It has nothing to do with me now!
+¡Ahora eso no tiene nada que ver conmigo!
 
 425
 00:34:32,983 --> 00:34:35,423
-Someone who has experienced
-the death of those close to them
+Quien ha vivido
+la muerte de sus seres cercanos
 
 426
 00:34:35,448 --> 00:34:37,492
-and feels nothing is no better
-than a butcher.
+y no siente nada no es mejor
+que un carnicero.
 
 427
 00:34:39,243 --> 00:34:40,661
-You're different, aren't you?
+Tú eres distinta, ¿verdad?
 
 428
 00:34:41,454 --> 00:34:45,541
-No one cared for the welfare
-of the villagers more than you.
+Nadie se preocupó más que tú
+por el bienestar de los aldeanos.
 
 429
 00:34:47,393 --> 00:34:48,686
-Back then, too...
+Entonces también...
 
 430
 00:34:48,711 --> 00:34:50,797
-That's enough with the lecture!
+¡Basta de sermones!
 
 431
 00:34:53,633 --> 00:34:57,470
-Why... did you bring that kid along?
+¿Por qué... trajiste a ese chaval contigo?
 
 432
 00:34:57,929 --> 00:35:00,556
-<i>Becoming the Hokage is my dream.</i>
+<i>Ser Hokage es mi sueño.</i>
 
 433
 00:35:03,017 --> 00:35:04,393
-He resembles him, doesn't he?
+Se parece a él, ¿verdad?
 
 434
 00:35:05,019 --> 00:35:06,938
-He's about the same age, too...
+Tiene más o menos la misma edad...
 
 435
 00:35:08,332 --> 00:35:09,400
-It's not just that...
+No es solo eso...
 
 436
 00:35:14,987 --> 00:35:17,448
-<i>Becoming Hokage is my dream!</i>
+<i>¡Ser Hokage es mi sueño!</i>
 
 437
 00:35:21,202 --> 00:35:23,246
-<i>Seriously, all you ever do is
-reckless things.</i>
+<i>En serio, lo único que haces
+son locuras.</i>
 
 438
 00:35:23,271 --> 00:35:24,355
-<i>Do you want to die?</i>
+<i>¿Quieres morir?</i>
 
 439
 00:35:24,931 --> 00:35:28,976
-<i>You're still a Genin, so on the
-battlefield, you should just run.</i>
+<i>Todavía eres un genin, así que en el
+campo de batalla lo que debes hacer es huir.</i>
 
 440
 00:35:29,167 --> 00:35:31,837
-<i>Don't tell a man to run away!</i>
+<i>¡No le digas a un hombre que huya!</i>
 
 441
 00:35:32,839 --> 00:35:36,092
-<i>That dream...
-And his stubborn cockiness, too...</i>
+<i>Ese sueño...
+Y esa testarudez insolente también...</i>
 
 442
 00:35:39,717 --> 00:35:43,429
-Huh? Who is it this late at night?
+¿Eh? ¿Quién será a estas horas de la noche?
 
 443
 00:35:44,350 --> 00:35:47,061
-Okay, okay. I'm coming.
+Vale, vale. Ya voy.
 
 444
 00:35:49,188 --> 00:35:53,151
-I'm sorry to bother you so late, Naruto.
-But I need to talk to you...
+Perdona por molestarte tan tarde, Naruto.
+Pero necesito hablar contigo...
 
 445
 00:35:54,193 --> 00:35:58,072
-Me, I'm going to get a good night's sleep
-and train hard tomorrow!
+¡Yo me voy a dormir bien
+y mañana a entrenar a tope!
 
 446
 00:35:58,114 --> 00:36:02,743
-I'm sorry. But I didn't want you
-to misunderstand Lady Tsunade...
+Lo siento. Pero no quería que
+malinterpretaras a Tsunade...
 
 447
 00:36:03,973 --> 00:36:06,058
-And about the necklace...
+Y sobre el collar...
 
 448
 00:36:25,808 --> 00:36:29,312
-Nawaki, happy twelfth birthday!
+¡Nawaki, feliz duodécimo cumpleaños!
 
 449
 00:36:31,981 --> 00:36:35,985
-I'm not a kid anymore!
-I don't need birthday presents!
+¡Ya no soy un crío!
+¡No necesito regalos de cumpleaños!
 
 450
 00:36:36,263 --> 00:36:39,308
-What are you talking about?
-You're still a kid, aren't you?!
+¿De qué hablas?
+¡Todavía eres un crío, ¿no?!
 
 451
 00:36:40,164 --> 00:36:42,416
-But never mind that.
-Hurry up and open your present!
+Pero eso da igual.
+¡Date prisa y abre tu regalo!
 
 452
 00:36:42,658 --> 00:36:44,493
-You'll definitely be pleased!
+¡Seguro que te gusta!
 
 453
 00:36:51,542 --> 00:36:53,920
-Sis, could this be?
+Hermana, ¿podría ser...?
 
 454
 00:36:54,670 --> 00:36:59,425
-Yes... It's the First Hokage's,
-our grandfather's necklace!
+Sí... ¡Es el collar del Primer Hokage,
+el de nuestro abuelo!
 
 455
 00:36:59,759 --> 00:37:01,177
-I love you, Sis!
+¡Te quiero, hermana!
 
 456
 00:37:02,236 --> 00:37:04,363
-I thought it would be better
-if you had it, rather than me.
+Pensé que sería mejor
+que lo tuvieras tú, en vez de yo.
 
 457
 00:37:05,389 --> 00:37:10,186
-You've been wanting it all along, right?
-Take good care of it.
+Siempre lo has querido, ¿verdad?
+Cuídalo bien.
 
 458
 00:37:10,792 --> 00:37:12,794
-Not just this necklace!
+¡No solo este collar!
 
 459
 00:37:13,934 --> 00:37:19,648
-This village is Grandfather's treasure!
-And I'm going to protect it!
+¡Esta villa es el tesoro del abuelo!
+¡Y yo la voy a proteger!
 
 460
 00:37:20,571 --> 00:37:21,572
@@ -2002,291 +2004,291 @@ Nawaki...
 
 461
 00:37:22,464 --> 00:37:26,635
-I'm the grandson of the Hokage who
-founded the Hidden Leaf Village. so...!
+¡Soy el nieto del Hokage que
+fundó la Villa Oculta de la Hoja, así que...!
 
 462
 00:37:27,578 --> 00:37:30,623
-You said it.
-Men don't go back on their word!
+Lo has dicho.
+¡Un hombre no se echa atrás en su palabra!
 
 463
 00:37:30,873 --> 00:37:31,499
-Right!
+¡Claro!
 
 464
 00:37:31,791 --> 00:37:35,795
-Someday, I'll be just like Grandfather!
-And the title of Hokage will be mine!
+¡Algún día seré igual que el abuelo!
+¡Y el título de Hokage será mío!
 
 465
 00:37:37,421 --> 00:37:40,591
-Becoming the Hokage is my dream!
+¡Ser Hokage es mi sueño!
 
 466
 00:37:44,075 --> 00:37:46,035
-Take off your headband, Nawaki.
+Quítate la banda, Nawaki.
 
 467
 00:37:47,511 --> 00:37:50,764
-Just hurry up and take it off.
-I have another present for you.
+Date prisa y quítatela.
+Tengo otro regalo para ti.
 
 468
 00:37:53,261 --> 00:37:55,471
-It's a charm to make
-your dream come true.
+Es un amuleto para que
+se cumpla tu sueño.
 
 469
 00:38:22,591 --> 00:38:25,428
-It's best if you don't look
-at the remains.
+Es mejor que no mires
+los restos.
 
 470
 00:38:26,554 --> 00:38:28,347
-There's nothing wrong with that,
-is there?
+No hay nada de malo en ello,
+¿no?
 
 471
 00:38:28,681 --> 00:38:30,308
-Even if she were to look,
+Aunque ella los mirase,
 
 472
 00:38:30,641 --> 00:38:33,311
-she wouldn't be able to tell
-it was her little brother.
+no podría saber
+que era su hermanito.
 
 473
 00:38:33,477 --> 00:38:34,729
-Enough, Orochimaru!
+¡Basta, Orochimaru!
 
 474
 00:38:35,604 --> 00:38:41,068
-We're at war.
-All shinobi end up like this eventually.
+Estamos en guerra.
+Todos los shinobi acaban así tarde o temprano.
 
 475
 00:38:41,617 --> 00:38:44,453
-There are no medics on
-the battlefield, so...
+No hay médicos
+en el campo de batalla, así que...
 
 476
 00:38:45,101 --> 00:38:48,896
-Still, children get far
-too excited, don't they?
+Aun así, los niños se emocionan
+demasiado, ¿no?
 
 477
 00:38:49,660 --> 00:38:53,664
-Especially on the day after
-they receive a present.
+Sobre todo al día siguiente
+de recibir un regalo.
 
 478
 00:39:04,267 --> 00:39:06,227
-<i>Not just this necklace...</i>
+<i>No solo este collar...</i>
 
 479
 00:39:09,544 --> 00:39:14,674
-<i>This village is grandfather's treasure!
-I'm going to protect it!</i>
+<i>¡Esta villa es el tesoro del abuelo!
+¡Yo la voy a proteger!</i>
 
 480
 00:39:16,979 --> 00:39:19,648
-First, for missions where
-a four-man cell must operate alone
+Primero, en misiones
+en las que un equipo de cuatro debe operar solo
 
 481
 00:39:19,690 --> 00:39:22,985
-for a long period of time
-in enemy territory,
+durante mucho tiempo
+en territorio enemigo,
 
 482
 00:39:23,611 --> 00:39:26,947
-by assigning one of the four
-as a medical specialist,
+si se asigna a uno de los cuatro
+como especialista médico,
 
 483
 00:39:27,079 --> 00:39:30,374
-both the survival rate and
-the mission success rate
+tanto la tasa de supervivencia
+como la de éxito de la misión
 
 484
 00:39:30,399 --> 00:39:32,067
-should go up significantly.
+deberían aumentar considerablemente.
 
 485
 00:39:32,536 --> 00:39:33,996
-Therefore, establishing a framework
+Por tanto, establecer una estructura
 
 486
 00:39:34,021 --> 00:39:35,832
-to train ninja with
-advanced medical skills
+para formar ninjas
+con habilidades médicas avanzadas
 
 487
 00:39:35,915 --> 00:39:37,517
-and establish a medical corps
+y crear un cuerpo médico
 
 488
 00:39:37,541 --> 00:39:42,421
-should be considered an urgent priority!
+¡debería considerarse una prioridad urgente!
 
 489
 00:39:43,370 --> 00:39:47,124
-Indeed, your points are valid.
+Ciertamente, tus argumentos son válidos.
 
 490
 00:39:47,999 --> 00:39:49,917
-But we're in the middle of a war now.
+Pero ahora estamos en plena guerra.
 
 491
 00:39:50,471 --> 00:39:54,642
-Establishing a medical framework
-takes too much time.
+Establecer una estructura médica
+requiere demasiado tiempo.
 
 492
 00:39:54,850 --> 00:39:57,186
-And right now,
-we lack the necessary knowledge...
+Y ahora mismo
+nos falta el conocimiento necesario...
 
 493
 00:39:57,853 --> 00:40:00,106
-The enemy doesn't wait.
+El enemigo no espera.
 
 494
 00:40:01,232 --> 00:40:03,109
-What was that?! You old man!
+¡¿Qué has dicho?! ¡Viejo!
 
 495
 00:40:03,692 --> 00:40:05,736
-Then we'll never...
+Entonces nunca...
 
 496
 00:40:05,861 --> 00:40:08,030
-I agree with her.
+Estoy de acuerdo con ella.
 
 497
 00:40:08,864 --> 00:40:13,035
-I don't want the shinobi who died
-to have died in vain.
+No quiero que los shinobi que murieron
+hayan muerto en vano.
 
 498
 00:40:13,411 --> 00:40:15,579
-There should be something
-we can learn from that.
+Debería haber algo
+que podamos aprender de ello.
 
 499
 00:40:19,333 --> 00:40:20,334
-Excuse me!
+¡Disculpa!
 
 500
 00:40:21,335 --> 00:40:22,335
-Thanks for earlier.
+Gracias por lo de antes.
 
 501
 00:40:24,505 --> 00:40:26,674
-What you said was right.
+Lo que dijiste era cierto.
 
 502
 00:40:28,717 --> 00:40:29,717
-Umm...
+Esto...
 
 503
 00:40:30,594 --> 00:40:33,264
-It's late.
-Shall I walk you home?
+Es tarde.
+¿Te acompaño a casa?
 
 504
 00:40:33,550 --> 00:40:36,804
-Huh? Is that all right with you?
-Where's your place?
+¿Eh? ¿Seguro que te parece bien?
+¿Dónde vives?
 
 505
 00:40:37,768 --> 00:40:38,769
-The other way.
+Por el otro lado.
 
 506
 00:40:39,254 --> 00:40:40,588
-Then don't bother.
+Entonces no te molestes.
 
 507
 00:40:41,147 --> 00:40:44,900
-I don't mind.
-Besides, I'd like to talk with you more.
+No me importa.
+Además, me gustaría hablar más contigo.
 
 508
 00:40:45,818 --> 00:40:50,072
-This was my favorite path, the one I always
-took to pick up my little sister from the Academy.
+Este era mi camino favorito, el que siempre
+tomaba para recoger a mi hermana pequeña de la Academia.
 
 509
 00:40:50,275 --> 00:40:51,693
-I loved this path.
+Me encantaba este camino.
 
 510
 00:40:51,980 --> 00:40:53,742
-Huh? You "loved"?
+¿Eh? ¿«Me encantaba»?
 
 511
 00:40:54,785 --> 00:40:58,914
-Yeah. During the night attack on
-the Leaf a year ago,
+Sí. Durante el ataque nocturno a
+la Hoja hace un año,
 
 512
 00:40:58,998 --> 00:41:00,249
-my little sister was...
+mi hermana pequeña...
 
 513
 00:41:01,750 --> 00:41:04,920
-<i>This man... is the same as me.</i>
+<i>Este hombre... es igual que yo.</i>
 
 514
 00:41:11,427 --> 00:41:14,513
-<i>Tomorrow's mission is deep
-within enemy lines...</i>
+<i>La misión de mañana es en lo más profundo
+de las líneas enemigas...</i>
 
 515
 00:41:16,223 --> 00:41:21,020
-Fighting and losing cherished people
-is not the only way for a shinobi.
+Luchar y perder a seres queridos
+no es la única vía para un shinobi.
 
 516
 00:41:21,562 --> 00:41:22,229
-Mm-hm.
+Ajá.
 
 517
 00:41:22,563 --> 00:41:25,566
-We live in a shinobi world
-where death always hovers near.
+Vivimos en un mundo shinobi
+donde la muerte siempre ronda cerca.
 
 518
 00:41:26,066 --> 00:41:30,070
-I want to risk my life to bring
-peace to this war-torn world.
+Quiero arriesgar mi vida para traer
+la paz a este mundo desgarrado por la guerra.
 
 519
 00:41:31,238 --> 00:41:34,241
-I love this village and my comrades.
+Quiero a esta villa y a mis compañeros.
 
 520
 00:41:34,978 --> 00:41:37,022
-So I want to protect them.
+Por eso quiero protegerlos.
 
 521
 00:41:37,947 --> 00:41:42,869
-Since my little sister died,
-that sole thought has sustained me.
+Desde que murió mi hermana pequeña,
+ese único pensamiento me ha sostenido.
 
 522
 00:41:43,584 --> 00:41:45,586
-So I'll become the Hokage...
+Por eso me convertiré en Hokage...
 
 523
 00:41:46,212 --> 00:41:47,732
-A figure who protects everyone...
+Una figura que protege a todos...
 
 524
 00:41:49,757 --> 00:41:52,092
-Becoming Hokage is my dream.
+Ser Hokage es mi sueño.
 
 525
 00:42:00,434 --> 00:42:01,434
@@ -2294,585 +2296,585 @@ Dan...
 
 526
 00:42:07,483 --> 00:42:11,028
-I'd like you... to take this.
+Me gustaría... que te quedaras con esto.
 
 527
 00:42:17,868 --> 00:42:19,078
-Hang on, Dan!
+¡Aguanta, Dan!
 
 528
 00:42:19,787 --> 00:42:24,375
-Tsunade... I don't... want to die yet.
+Tsunade... No quiero... morir todavía.
 
 529
 00:42:25,334 --> 00:42:29,880
-I have many things that I must... do.
+Tengo muchas cosas que... hacer.
 
 530
 00:42:29,982 --> 00:42:31,108
-Don't speak, Dan!
+¡No hables, Dan!
 
 531
 00:42:31,882 --> 00:42:33,801
-<i>His kidney has been blown out...</i>
+<i>Le han reventado el riñón...</i>
 
 532
 00:42:34,510 --> 00:42:37,638
-<i>It's hopeless, even for Tsunade,
-one of the Sannin...</i>
+<i>No hay esperanza, ni siquiera para Tsunade,
+una de los Sannin...</i>
 
 533
 00:42:38,347 --> 00:42:43,269
-I... can't... die here.
+No... puedo... morir aquí.
 
 534
 00:42:44,812 --> 00:42:47,231
-It'll be okay. I stopped the bleeding.
+Todo irá bien. He detenido la hemorragia.
 
 535
 00:42:48,214 --> 00:42:51,718
-So it'll be okay... You'll be saved, Dan!
+Así que todo irá bien... ¡Te salvarás, Dan!
 
 536
 00:42:52,820 --> 00:42:53,821
-Really?
+¿De verdad?
 
 537
 00:42:55,656 --> 00:42:57,074
-Thank goodness...
+Menos mal...
 
 538
 00:42:58,826 --> 00:43:00,494
-Dan! Hang on!
+¡Dan! ¡Aguanta!
 
 539
 00:43:00,953 --> 00:43:01,953
-Dan!
+¡Dan!
 
 540
 00:43:06,125 --> 00:43:08,168
-Damn it! Don't come out...
+¡Maldita sea! No salgas...
 
 541
 00:43:09,003 --> 00:43:11,380
-Stop... Please stop!
+Para... Por favor, para.
 
 542
 00:43:12,006 --> 00:43:13,674
-Stop... Stop...
+Para... Para...
 
 543
 00:43:14,341 --> 00:43:16,093
-Stop... Stop...
+Para... Para...
 
 544
 00:43:16,302 --> 00:43:20,014
-Stop! Stop! Stop! Stop! Stop!
+¡Para! ¡Para! ¡Para! ¡Para! ¡Para!
 
 545
 00:43:20,139 --> 00:43:20,848
-Stop it, I said!
+¡Que pares, te digo!
 
 546
 00:43:20,931 --> 00:43:22,474
-That's enough. He's dead!
+¡Ya basta! ¡Está muerto!
 
 547
 00:44:15,486 --> 00:44:20,949
-No good! Damn it! Damn it!
-Tomorrow, I'll get it for sure!
+¡No sale! ¡Maldición! ¡Maldición!
+¡Mañana lo conseguiré seguro!
 
 548
 00:44:22,910 --> 00:44:25,829
-My head hurts.
+Me duele la cabeza.
 
 549
 00:44:27,164 --> 00:44:30,417
-I've got a massive hangover,
-thanks to her...
+Tengo una resaca enorme,
+gracias a ella...
 
 550
 00:44:34,598 --> 00:44:40,103
-<i>Looks like Naruto didn't come back
-last night...</i>
+<i>Parece que Naruto no volvió
+anoche...</i>
 
 551
 00:44:48,478 --> 00:44:51,189
-<i>He's such a fool.</i>
+<i>Qué tonto es.</i>
 
 552
 00:45:03,614 --> 00:45:06,283
-<i>Why don't we make a deal?</i>
+<i>¿Por qué no hacemos un trato?</i>
 
 553
 00:45:07,103 --> 00:45:11,608
-<i>I'll resurrect your little brother
-and the man you loved...</i>
+<i>Resucitaré a tu hermanito
+y al hombre al que amaste...</i>
 
 554
 00:45:12,418 --> 00:45:15,587
-<i>with the Forbidden Jutsu I've developed.</i>
+<i>con la Técnica Prohibida que he desarrollado.</i>
 
 555
 00:45:17,297 --> 00:45:20,926
-<i>Don't you want to see those two,
+<i>¿No quieres ver a esos dos,
 Tsunade?</i>
 
 556
 00:45:26,890 --> 00:45:28,100
-<i>If I treat your arms...</i>
+<i>Si te curo los brazos...</i>
 
 557
 00:45:29,393 --> 00:45:31,311
-<i>What do you intend to do with them?</i>
+<i>¿qué piensas hacer con ellos?</i>
 
 558
 00:45:31,937 --> 00:45:35,482
-<i>This time, I will completely
-destroy the Leaf Village!</i>
+<i>¡Esta vez destruiré por completo
+la Villa de la Hoja!</i>
 
 559
 00:45:35,941 --> 00:45:38,652
-<i>No! You must not believe
-in their sweet talk...</i>
+<i>¡No! No debes creer
+sus palabras dulces...</i>
 
 560
 00:45:39,528 --> 00:45:40,738
-<i>Their wishes...</i>
+<i>Sus deseos...</i>
 
 561
 00:45:41,196 --> 00:45:45,217
-<i>And Tsunade, your own wishes...
-Your dreams... Have you forgotten them?!</i>
+<i>Y Tsunade, tus propios deseos...
+¡¡¿Los has olvidado?!</i>
 
 562
 00:45:45,242 --> 00:45:46,702
-<i>I'll be straight with you.</i>
+<i>Seré claro contigo.</i>
 
 563
 00:45:48,537 --> 00:45:52,916
-<i>Tsunade, the village has demanded
-that you become the Fifth Hokage.</i>
+<i>Tsunade, la villa ha exigido
+que seas la Quinta Hokage.</i>
 
 564
 00:46:20,569 --> 00:46:23,238
-<i>Listen, in this third step,</i>
+<i>Escucha, en este tercer paso,</i>
 
 565
 00:46:23,322 --> 00:46:26,158
-<i>you've got to use 100%
-of what you have learned...</i>
+<i>tienes que usar al 100 %
+lo que has aprendido...</i>
 
 566
 00:46:26,241 --> 00:46:27,576
-<i>And maintain it.</i>
+<i>Y mantenerlo.</i>
 
 567
 00:46:40,589 --> 00:46:41,673
-<i>In other words,</i>
+<i>Es decir,</i>
 
 568
 00:46:41,715 --> 00:46:44,468
-<i>imagine creating a thin shell
-within the balloon</i>
+<i>imagina que creas una capa fina
+dentro del globo</i>
 
 569
 00:46:44,510 --> 00:46:47,429
-<i>and compressing the chakra within that shell.</i>
+<i>y que comprimes el chakra dentro de esa capa.</i>
 
 570
 00:46:49,348 --> 00:46:52,559
-<i>I know that in my head...</i>
+<i>Eso lo sé en la cabeza...</i>
 
 571
 00:46:53,268 --> 00:46:54,853
-<i>But no matter what,</i>
+<i>Pero por más que lo intento,</i>
 
 572
 00:46:55,187 --> 00:46:59,233
-<i>I just can't seem to fully contain
-all my power in a perfect sphere...</i>
+<i>no consigo contener todo mi poder
+en una esfera perfecta...</i>
 
 573
 00:47:21,116 --> 00:47:25,631
-<i>Don't give him false hope by teaching him
-a jutsu he can't possibly master.</i>
+<i>No le des falsas esperanzas enseñándole
+una técnica que es imposible que domine.</i>
 
 574
 00:47:26,734 --> 00:47:32,531
-<i>That's why this stubborn kid is spouting
-such nonsense about becoming Hokage!</i>
+<i>¡Por eso este cabezota suelta
+esas tonterías de que será Hokage!</i>
 
 575
 00:47:43,360 --> 00:47:44,360
-Not good...
+Mal asunto...
 
 576
 00:47:46,196 --> 00:47:51,577
-Damn it! Damn it! This time for sure...
-I'll do it no matter what!
+¡Maldición! ¡Maldición! ¡Esta vez sí...
+lo conseguiré cueste lo que cueste!
 
 577
 00:48:16,393 --> 00:48:17,394
-Tomorrow, huh...
+Mañana, ¿eh...?
 
 578
 00:48:21,732 --> 00:48:23,066
-Come again, okay?
+Vuelve otra vez, ¿vale?
 
 579
 00:48:24,067 --> 00:48:25,527
-I certainly will!
+¡Por supuesto que sí!
 
 580
 00:48:41,243 --> 00:48:43,370
-<i>Are you going to meet
-Orochimaru again?</i>
+<i>¿Vas a reunirte con
+Orochimaru otra vez?</i>
 
 581
 00:48:51,094 --> 00:48:53,722
-<i>To think she'd be that shaken up...</i>
+<i>Pensar que se alteraría tanto...</i>
 
 582
 00:48:54,643 --> 00:48:56,812
-<i>Something extreme must have happened.</i>
+<i>Debe de haber pasado algo extremo.</i>
 
 583
 00:48:58,682 --> 00:49:02,019
-<i>That one-week deadline bugs me, somehow...</i>
+<i>Ese plazo de una semana me inquieta, de algún modo...</i>
 
 584
 00:49:08,111 --> 00:49:12,115
-<i>And Naruto hasn't come back
-to the inn for nearly a week.</i>
+<i>Y Naruto lleva casi una semana
+sin volver a la posada.</i>
 
 585
 00:49:13,450 --> 00:49:16,787
-<i>I guess I'll press Tsunade a little more.</i>
+<i>Creo que presionaré un poco más a Tsunade.</i>
 
 586
 00:49:29,967 --> 00:49:31,009
-<i>No good...</i>
+<i>No sale...</i>
 
 587
 00:49:34,680 --> 00:49:36,264
-<i>No good... Why?</i>
+<i>No sale... ¿Por qué?</i>
 
 588
 00:49:37,975 --> 00:49:42,479
-<i>there's no time...
-It's going to be too late.</i>
+<i>no hay tiempo...
+Va a ser demasiado tarde.</i>
 
 589
 00:49:51,071 --> 00:49:52,071
-<i>What is this...?!</i>
+<i>¡¿Qué es esto...?!</i>
 
 590
 00:49:55,450 --> 00:49:57,244
-What happened, Naruto?!
+¡¿Qué te ha pasado, Naruto?!
 
 591
 00:49:57,703 --> 00:49:58,703
-Are you okay?
+¿Estás bien?
 
 592
 00:50:15,012 --> 00:50:16,012
-What do you want?
+¿Qué quieres?
 
 593
 00:50:16,930 --> 00:50:18,306
-The moon's out.
+Hay luna.
 
 594
 00:50:20,851 --> 00:50:22,269
-How about going out for a drink?
+¿Qué tal si salimos a tomar algo?
 
 595
 00:50:32,320 --> 00:50:36,199
-Tomorrow will be the one week
-you promised to Naruto.
+Mañana se cumple la semana
+que le prometiste a Naruto.
 
 596
 00:50:42,873 --> 00:50:45,625
-I wonder what became of Naruto?
+¿Qué habrá sido de Naruto?
 
 597
 00:50:49,046 --> 00:50:50,088
-Beats me.
+Ni idea.
 
 598
 00:50:56,386 --> 00:50:57,846
-I guess I'll have something.
+Creo que tomaré algo.
 
 599
 00:50:58,138 --> 00:50:59,181
-Radish, please.
+Rábano, por favor.
 
 600
 00:50:59,389 --> 00:51:00,389
-Coming up.
+Marchando.
 
 601
 00:51:12,527 --> 00:51:13,695
-Oh?
+¿Oh?
 
 602
 00:51:18,784 --> 00:51:19,784
-Here you go.
+Aquí tiene.
 
 603
 00:51:20,952 --> 00:51:23,747
-Ooh! This looks good.
+¡Oooh! Esto tiene buena pinta.
 
 604
 00:51:46,394 --> 00:51:47,395
-Lady Tsunade!
+¡Tsunade!
 
 605
 00:51:50,190 --> 00:51:51,274
-What happened to Naruto?
+¿Qué le ha pasado a Naruto?
 
 606
 00:51:52,687 --> 00:51:54,105
-He's quite exhausted and weakened.
+Está bastante agotado y debilitado.
 
 607
 00:51:55,987 --> 00:51:58,156
-And his right hand has
-severe chakra burns...
+Y tiene la mano derecha con
+graves quemaduras de chakra...
 
 608
 00:52:00,200 --> 00:52:01,952
-As it stands now,
+Tal como está ahora,
 
 609
 00:52:02,327 --> 00:52:04,727
-this kid probably won't wake up
-for another two days.
+este chaval seguramente no despertará
+hasta dentro de dos días.
 
 610
 00:52:07,779 --> 00:52:09,280
-It's as Jiraiya says...
+Es como dice Jiraiya...
 
 611
 00:52:10,930 --> 00:52:13,516
-Why did I make such a foolish bet?
+¿Por qué hice una apuesta tan necia?
 
 612
 00:52:15,405 --> 00:52:18,492
-What am I, of all people,
-getting so worked up over this?
+¿Por qué me estoy alterando
+tanto yo, precisamente?
 
 613
 00:52:19,594 --> 00:52:20,846
-How stupid.
+Qué estúpida.
 
 614
 00:52:26,476 --> 00:52:27,476
-Tomorrow...
+Mañana...
 
 615
 00:52:30,240 --> 00:52:32,075
-Please don't go tomorrow!
+¡Por favor, no vayas mañana!
 
 616
 00:52:36,027 --> 00:52:38,405
-Why don't you say anything?!
+¡¿Por qué no dices nada?!
 
 617
 00:52:38,864 --> 00:52:41,950
-Lady Tsunade! Please don't be silent.
-Please answer!
+¡Tsunade! No te quedes callada, por favor.
+¡Responde!
 
 618
 00:52:44,828 --> 00:52:46,454
-If you say that you're going...
+Si dices que vas a ir...
 
 619
 00:52:48,373 --> 00:52:49,541
-What will you do?
+¿Qué harás?
 
 620
 00:52:50,333 --> 00:52:53,003
-I'll stop you with my life!
+¡Te detendré con mi vida!
 
 621
 00:52:56,688 --> 00:53:00,513
-Shizune... Have you forgotten
-to whom you're speaking?
+Shizune... ¿Has olvidado
+con quién estás hablando?
 
 622
 00:53:24,951 --> 00:53:28,163
-It'll be troublesome if we're disturbed
-during the negotiations...
+Sería un fastidio que nos molestaran
+durante las negociaciones...
 
 623
 00:53:29,331 --> 00:53:30,371
-What are your orders?
+¿Cuáles son tus órdenes?
 
 624
 00:53:31,374 --> 00:53:36,254
-It might be good to kill...
-Tsunade's attendant.
+Quizá fuera buena idea matar a...
+la ayudante de Tsunade.
 
 625
 00:53:44,475 --> 00:53:45,475
-Hey!
+¡Eh!
 
 626
 00:53:46,473 --> 00:53:47,849
-I said hey!
+¡Que te digo que eh!
 
 627
 00:53:52,020 --> 00:53:53,230
-Naruto?
+¿Naruto?
 
 628
 00:53:54,981 --> 00:53:59,778
-Oh no! What time is it?
-No, what day is it?
+¡Ay, no! ¿Qué hora es?
+No, ¿qué día es?
 
 629
 00:54:00,779 --> 00:54:02,030
-It's Monday...
+Es lunes...
 
 630
 00:54:04,866 --> 00:54:06,326
-What is it?
+¿Qué pasa?
 
 631
 00:54:07,202 --> 00:54:09,537
-Is your body okay?
+¿Estás bien del cuerpo?
 
 632
 00:54:10,538 --> 00:54:13,416
-As I recall, you were supposed
-to sleep for two full days...
+Si no recuerdo mal, se suponía que
+dormirías dos días enteros...
 
 633
 00:54:14,960 --> 00:54:16,086
-No matter what the wound,
+¡Sea cual sea la herida,
 
 634
 00:54:16,242 --> 00:54:21,956
-I always recover completely
-after one night's sleep!
+yo siempre me recupero del todo
+después de una noche de sueño!
 
 635
 00:54:22,624 --> 00:54:25,252
-<i>That's right.
-This kid has Nine-Tails' power...</i>
+<i>Es verdad.
+Este chaval tiene el poder del Kyubi...</i>
 
 636
 00:54:26,096 --> 00:54:29,557
-More importantly,
-where's that old hag?!
+Más importante,
+¡¿dónde está esa vieja bruja!?
 
 637
 00:54:30,058 --> 00:54:32,978
-Today's the day of the bet.
+Hoy es el día de la apuesta.
 
 638
 00:54:33,154 --> 00:54:34,864
-Then, what about the jutsu...
+Entonces, ¿y la técnica...?
 
 639
 00:54:37,023 --> 00:54:41,236
-It's not perfect yet, but I'll make it work!
+¡Aún no es perfecta, pero la haré funcionar!
 
 640
 00:54:45,171 --> 00:54:47,090
-<i>That's right. This isn't the time for this.</i>
+<i>Es verdad. No es momento para esto.</i>
 
 641
 00:54:47,993 --> 00:54:49,911
-- Naruto, please stay...
-- Huh?
+- Naruto, por favor, quédate...
+- ¿Eh?
 
 642
 00:54:52,539 --> 00:54:53,539
-You are...!
+¡Tú eres...!
 
 643
 00:54:54,291 --> 00:54:55,917
-What?! Oh!
+¡¿Qué?! ¡Oh!
 
 644
 00:54:58,295 --> 00:54:59,963
-Wait, Shizune!
+¡Espera, Shizune!
 
 645
 00:55:02,674 --> 00:55:07,470
-That damn Tsunade spiked my drink.
+Esa maldita Tsunade me echó algo en la bebida.
 
 646
 00:55:08,463 --> 00:55:11,007
-I can't build up my chakra well...
+No consigo acumular bien el chakra...
 
 647
 00:55:11,182 --> 00:55:15,312
-And my body's so numb,
-I can barely throw a kunai.
+Y tengo el cuerpo tan entumecido
+que apenas puedo lanzar un kunai.
 
 648
 00:55:16,813 --> 00:55:19,482
-<i>What was he thinking, throwing that?!
-What if it had hit me?!</i>
+<i>¡¿En qué pensaba al lanzar eso?!
+¡¿Y si me hubiera dado?!</i>
 
 649
 00:55:19,983 --> 00:55:24,321
-That's pathetic! And here you are,
-always bragging about being a legendary ninja!
+¡Qué patético! ¡Y tú siempre
+presumiendo de ser un ninja legendario!
 
 650
 00:55:24,446 --> 00:55:27,198
-And you got taken out by a cheap trick
-like that, Pervy Sage?!
+¡¿Y te dejas vencer por un truco barato
+como ese, Senninfómano?!
 
 651
 00:55:27,282 --> 00:55:28,575
-Shut up!
+¡Cállate!
 
 652
 00:55:30,160 --> 00:55:33,163
-Even if she's rotten,
-she's still a medical specialist.
+Aunque esté podrida,
+sigue siendo especialista médica.
 
 653
 00:55:34,164 --> 00:55:39,794
-She's the only one who could concoct a tasteless,
-odorless drug that would work on a ninja.
+Es la única capaz de preparar
+una droga insípida e inodora que funcione con un ninja.
 
 654
 00:55:41,171 --> 00:55:44,924
-Still, to think I'd let my guard down,
+Aun así, pensar que bajé la guardia,
 
 655
 00:55:44,949 --> 00:55:46,617
-no matter how intoxicated I was...
+por muy ebrio que estuviera...
 
 656
 00:55:50,666 --> 00:55:54,295
-<i>I never thought I'd end up encountering
-Lord Jiraiya in a place like this...</i>
+<i>Nunca pensé que acabaría encontrándome
+con Jiraiya en un sitio como este...</i>
 
 657
 00:55:55,518 --> 00:55:59,564
-<i>Things have become complicated.
-I should withdraw for now.</i>
+<i>Las cosas se han complicado.
+Será mejor retirarme por ahora.</i>
 
 658
 00:56:01,441 --> 00:56:05,862
-<i>At any rate, Naruto...
-To think you'd be here, too...</i>
+<i>En cualquier caso, Naruto...
+Pensar que también estarías aquí...</i>
 
 659
 00:56:12,202 --> 00:56:13,495
-Hey! Shizune.
+¡Eh! Shizune.
 
 660
 00:56:13,536 --> 00:56:14,996
-Y-Yes?!
+¿S-Sí?
 
 661
 00:56:15,830 --> 00:56:17,265
