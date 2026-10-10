@@ -93,3 +93,12 @@ Jiraiya's lesson to Naruto about "the 'Shinobi's Three Taboos'" (alcohol, women,
 
 ### `{DARKNIN}` - the legendary "Dark Ninja" (S01E12)
 Epithet of the thug gang's leader, a former Chunin of the Hidden Stone Village: "the legendary 'Dark Ninja'" (cue 837). Rendered "el legendario 'Ninja de las Tinieblas'". Minor one-off filler character; no source found. Checked 2026-09-24 against the manga/guide OCR database: no hit.
+
+### `{CREACION}` - Ninja Art: Creation Rebirth
+Tsunade's regenerative technique, "Ninja Art: Creation Rebirth!" (S01E13, cue 1128), activated by releasing the Yin Seal on her forehead ("Sello Yin: Liberación", also unverified). Rendered "Arte ninja: Renacimiento de la Creación". Checked 2026-10-10 against the manga/guide OCR database: only unrelated hits ("Capítulo de la creación", chapter titles in the guide); the guide's index lists "Curación del yin" and "Eliminación de sello" (Tsunade's, guide vol.3 p.201) which may be related to the Yin Seal but don't match the exact names. Left pending.
+
+### `{ACIDO}` - Acid Slime (Katsuyu)
+Katsuyu's attack against Orochimaru and Manda, "Acid Slime!" (S01E13, cue 1192). Rendered "Baba Ácida". Checked 2026-10-10 against the manga/guide OCR database: Katsuyu appears only as "babosa" (guide vol.2 p.69), no technique with this name. Literal translation.
+
+### `{ACEITESAPO}` - Fire Style: Toad Oil Flamethrower
+Jiraiya and Bunta's combined attack, "Fire Style: Toad Oil Flamethrower!" (S01E13, cue 1202). Rendered "Técnica ígnea: Lanzallamas de Aceite de Sapo". "Aceite de sapo" is confirmed by the guide (vol.2 p.203, vol.4 p.238-240), but the full technique name and the "Lanzallamas" wording are not.
