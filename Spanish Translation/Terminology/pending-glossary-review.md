@@ -93,3 +93,36 @@ Jiraiya's lesson to Naruto about "the 'Shinobi's Three Taboos'" (alcohol, women,
 
 ### `{DARKNIN}` - the legendary "Dark Ninja" (S01E12)
 Epithet of the thug gang's leader, a former Chunin of the Hidden Stone Village: "the legendary 'Dark Ninja'" (cue 837). Rendered "el legendario 'Ninja de las Tinieblas'". Minor one-off filler character; no source found. Checked 2026-09-24 against the manga/guide OCR database: no hit.
+
+### `{E16RAFAGAS}` - Sakon/Ukon "Multiple Fist Barrage" / "Multiple Leg Barrage" (S01E16)
+Sakon's strikes, "Multiple Fist Barrage!" (cues 170, 350) and "Multiple Leg Barrage!" (cue 359). Rendered "Ráfaga de Puños Múltiples" and "Ráfaga de Patadas Múltiples". Literal translations, unverified against manga/guide. Only the first occurrence (cue 170) is tagged.
+
+### `{E16LOBO}` - Wolf Fang Over Fang (S01E16)
+Kiba and Akamaru's upgraded "Fang Over Fang" while in the two-headed wolf form (cues 389, 404, 406, 418, 421), rendered "Colmillos Cruzados del Lobo" building on the resolved "Colmillos Cruzados". Unverified. Only the first occurrence (cue 389) is tagged.
+
+### `{E16INUZUKA}` - Dynamic Marking, Man-Beast Transformation Combo, Two-Headed Wolf (S01E16)
+Inuzuka technique names in Kiba's fight against Sakon/Ukon: "Dynamic Marking" (cue 392) rendered "Marcaje Dinámico", "Inuzuka Style: Man-Beast Transformation Combo" (cue 395) rendered "Estilo Inuzuka: Combo de Transformación Hombre-Bestia", and "Two-Headed Wolf" (cue 396) rendered "Lobo de Dos Cabezas". Treat as one naming decision, consistent with the still-pending `{KIBA}` Man-Beast term. Only cue 392 is tagged.
+
+### `{E16DANZAS}` - Kimimaro's Dances and Ten-Finger Drilling Bullets (S01E16)
+Kimimaro's technique names: "Willow Dance" (cue 506) "Danza del Sauce", "Dance of the Camellia" (cues 521, 847) "Danza de la Camelia", "Dance of the Larch" (cue 878) "Danza del Alerce", "Dance of the Clematis: Vine / Flower" (cues 1124-1126) "Danza de la Clemátide: Vid / Flor", "Dance of the Seedling Fern" (cues 1155-1156) "Danza del Helecho Joven", and "Ten-Finger Drilling Bullets" (cues 921, 1025) "Balas Perforadoras de Diez Dedos". Also "five Dances" (cue 517) "cinco Danzas". All literal translations of the English; no official Spain source checked. Only cue 506 is tagged; review as one cluster.
+
+### `{E16FLAUTA}` - Tayuya's flute techniques (S01E16)
+"Demonic Flute: Phantom Sound Chains" (cue 562) rendered "Flauta Demoníaca: Cadenas de Sonido Fantasma", "Demonic Flute: Chains of Fantasia" (cue 690) rendered "Flauta Demoníaca: Cadenas de Fantasía", the summoned "Chakra Phantoms" (cue 569) rendered "Fantasmas de Chakra", and "melody of death" (cues 337, 380) rendered "melodía de la muerte". Literal translations, unverified. Only cue 562 is tagged.
+
+### `{E16LEE}` - Lee's drunken entrance and Drunken Fist (S01E16)
+Lee's self-introduction "The rejuvenated... Hidden Leaf's Handsome Devil... Rock Lee!" (cues 761-763) rendered "El rejuvenecido... Apuesto Diablo de la Hoja... ¡Rock Lee!", a parody of the glossary's "la Bella Bestia Verde de la Hoja". Unverified, probably anime-only content. Only cue 761 is tagged.
+
+### `{E16BORRACHO}` - Drunken Fist (S01E16)
+Lee's drunken fighting style "Drunken Fist!" (cue 836) rendered "Puño Borracho". Alternative: "Puño del Borracho" or "Boxeo Ebrio". Unverified.
+
+### `{E16HOZ}` - Temari's Cyclone Scythe Jutsu and Summoning: Blade Dance (S01E16)
+"Cyclone Scythe Jutsu!" (cue 953) rendered "Técnica de la Hoz Ciclón" and "Summoning: Blade Dance!" (cue 1002) rendered "Invocación: Danza de las Cuchillas". Related to the pending `{HOZVIENTO}` wind-scythe naming; resolve together. Only cue 953 is tagged.
+
+### `{E16KANKURO}` - Kankuro's puppets and Black Secret Technique: Iron Maiden (S01E16)
+"Black Ant" (cues 973, 991-993) rendered "Hormiga Negra", "Crow" (cue 993) rendered "Cuervo", and "Black Secret Technique: Iron Maiden!" (cue 995) rendered "Técnica Secreta Negra: Doncella de Hierro". Literal translations, unverified against manga/guide. Only cue 995 is tagged.
+
+### `{E16ARENA}` - Gaara's sand techniques (S01E16)
+"Sand Shower" (cue 1032) rendered "Lluvia de Arena", "Sand Tsunami" (cue 1054) rendered "Maremoto de Arena", "Giant Sand Burial" (cue 1056) rendered "Gran Funeral del Desierto" (extending the resolved "Funeral del Desierto" for Sand Burial). Unverified. Only cue 1032 is tagged.
+
+### `{E16SELLOS}` - Earth / Heaven Curse Mark (S01E16)
+Kabuto contrasts Kimimaro's "Earth Curse Mark" with the replacement's "Heaven Curse Mark" (cues 63-64). Rendered "Sello Maldito de la Tierra" and "Sello Maldito del Cielo", extending the resolved "Sello Maldito". Unverified, the Planeta edition may use other wording for the two variants. Only cue 63 is tagged.

@@ -21,7 +21,7 @@ Fuente: 73 episodios actualmente publicados en [Maediem/Rebuild-of-Naruto-Subtit
 | S01E13 | The Offer | La Oferta | Naruto | Pendiente |  |
 | S01E14 | Rift | Fisura | Naruto | Pendiente |  |
 | S01E15 | Sasuke Retrieval Squad | Escuadrón de Recuperación de Sasuke | Naruto | Pendiente |  |
-| S01E16 | Miscalculation | Error de Cálculo | Naruto | Pendiente |  |
+| S01E16 | Miscalculation | Error de Cálculo | Naruto | PR abierta | PR #37 |
 | S01E17 | Broken Bond | Vínculo Roto | Naruto | Pendiente |  |
 | S02E01 | Land of Rice Fields | El País del Arroz | Naruto Gaiden | Pendiente |  |
 | S02E02 | Search for the Bikochu | La Búsqueda del Bikochu | Naruto Gaiden | Pendiente |  |
