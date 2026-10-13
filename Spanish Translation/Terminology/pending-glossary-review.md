@@ -93,3 +93,33 @@ Jiraiya's lesson to Naruto about "the 'Shinobi's Three Taboos'" (alcohol, women,
 
 ### `{DARKNIN}` - the legendary "Dark Ninja" (S01E12)
 Epithet of the thug gang's leader, a former Chunin of the Hidden Stone Village: "the legendary 'Dark Ninja'" (cue 837). Rendered "el legendario 'Ninja de las Tinieblas'". Minor one-off filler character; no source found. Checked 2026-09-24 against the manga/guide OCR database: no hit.
+
+### `{PILDORAS}` - Mind Awakening Pills (S01E15)
+The pills the Sound Four give Sasuke before the barrier ritual ("Mind Awakening Pills", cue 4). Rendered "Píldoras del Despertar Mental", literal. No source checked.
+
+### `{NIEBLAS}` - Four Black Mists Formation / Black Seal (S01E15)
+Sound Four barrier technique used on Sasuke (cues 12-13): "Four Black Mists Formation!" rendered "Formación de las Cuatro Brumas Negras", and "Black Seal!" rendered "Sello Negro". Literal translations, unverified against manga/guide.
+
+### `{ESTADO2}` - Curse Mark State 2 (S01E15)
+"State 2" of the Curse Mark (first use cue 161, then cues 457, 462, 483). Rendered "Estado 2". Planeta may use another wording (e.g. "segundo nivel"/"fase 2"); unverified. Consistent with the verified "Sello Maldito".
+
+### `{HOMBREBESTIA}` - Ninja Art: Human Beast Mimicry / Beast Human Mimicry (S01E15)
+Kiba and Akamaru's transformation before the new Fang Over Fang (cues 236-237). Rendered "Arte ninja: Imitación Hombre-Bestia" and "Arte ninja: Imitación Bestia-Hombre". The glossary has "Técnica animal" (Beast Mimicry) and "Multiplicación Bestial" (Man Beast Clone), both from Planeta; this variant does not match either exactly, so it was kept literal and flagged.
+
+### `{ESFTUMBAS}` - Earth Style: Sphere of Graves (S01E15)
+Jirobo's technique (cue 333). Rendered "Arte Ninja de Tierra: Esfera de Tumbas", following the verified "Arte Ninja de Tierra: Escudo de Tierra" pattern. Name itself unverified.
+
+### `{TRICOLOR}` - Tri-Colored Pills / Food Pills (S01E15)
+Akimichi clan pills (cue 363 onward): "Tri-Colored Pills" rendered "Píldoras Tricolores", with "Píldora Verde / Amarilla / Roja"; the ordinary "food pills" are rendered "píldoras de comida". Planeta's official wording is unconfirmed (it may use a different term for the Akimichi pills).
+
+### `{PALMAPLAST}` - Jirobo's Slamming Palm / Boulder Slam (S01E15)
+Jirobo's attacks: "Slamming Palm" (cue 410, also 459, 549) rendered "Palma Aplastante", and "Boulder Slam" (cue 552) rendered "Golpe de Roca". Literal translations, unverified against manga/guide.
+
+### `{TELESPIRAL}` - Ninja Art: Spiral Spider Web (S01E15)
+Kidomaru's spiral thread technique (cue 608). Rendered "Arte ninja: Telaraña en Espiral". Related to the pending `{TELARANA}` entry (Spider Web Net, same arc); the guide's "Apertura de la Telaraña" / "Territorio de la Telaraña" candidates listed there may apply to this one as well.
+
+### `{OROARANA}` - Spider Sticky Gold (S01E15)
+Kidomaru's golden thread technique (cues 636, 707): "Ninja Art: Spider Sticky Gold" rendered "Arte ninja: Oro Pegajoso de Araña". Literal; unverified against manga/guide.
+
+### `{GOMA}` - Gum Style Spider Thread (S01E15)
+Kidomaru explaining his metal thread (cue 732): "Gum Style Spider Thread...". The English is odd ("Gum Style" looks like a garbled fansub rendering of the sticky spider gold thread). Rendered literally as "Hilo de Araña de Estilo Goma". Flagging for review.
