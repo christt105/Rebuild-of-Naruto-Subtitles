@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:10:26.308161+00:00",
+  "generated_at": "2026-10-13T06:10:41.974957+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -207,8 +207,8 @@
       "title_en": "Rift",
       "title_es": "Fisura",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #34",
       "cue_count": 915,
       "translated_count": 899,
       "unresolved_tags": [
