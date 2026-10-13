@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:31:57.562163+00:00",
+  "generated_at": "2026-10-13T22:32:10.952124+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -231,8 +231,8 @@
       "title_en": "Miscalculation",
       "title_es": "Error de Cálculo",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #37",
       "cue_count": 1195,
       "translated_count": 1179,
       "unresolved_tags": [
