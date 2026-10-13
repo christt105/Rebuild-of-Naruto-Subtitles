@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:11:50.176364+00:00",
+  "generated_at": "2026-10-13T06:11:57.647685+00:00",
   "seasons": [
     "Naruto",
     "Naruto Gaiden",
@@ -219,8 +219,8 @@
       "title_en": "Sasuke Retrieval Squad",
       "title_es": "Escuadrón de Recuperación de Sasuke",
       "season": "Naruto",
-      "status": "Pendiente",
-      "notes": "",
+      "status": "PR abierta",
+      "notes": "PR #35",
       "cue_count": 952,
       "translated_count": 942,
       "unresolved_tags": [
