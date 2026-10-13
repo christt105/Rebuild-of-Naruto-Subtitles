@@ -93,3 +93,15 @@ Jiraiya's lesson to Naruto about "the 'Shinobi's Three Taboos'" (alcohol, women,
 
 ### `{DARKNIN}` - the legendary "Dark Ninja" (S01E12)
 Epithet of the thug gang's leader, a former Chunin of the Hidden Stone Village: "the legendary 'Dark Ninja'" (cue 837). Rendered "el legendario 'Ninja de las Tinieblas'". Minor one-off filler character; no source found. Checked 2026-09-24 against the manga/guide OCR database: no hit.
+
+### `{VIGOR}` - Youthful Vigor Herbal Pills (S01E14)
+Guy's bitter pills in Lee's flashback, "Youthful Vigor Herbal Pills" (cue 168). Rendered "Píldoras Herbales del Vigor Juvenil". Literal translation of the English; filler flashback content, no official Spain rendering known.
+
+### `{REVITAL}` - Cell Revitalization (S01E14)
+Tsunade's research on Kabuto's technique, first shown as the title "Cell Revitalization" (cue 247) and then described as his "cell regeneration technique" (cue 258). Rendered "Revitalización Celular" and "regeneración celular". Literal translation, unverified against the manga/guide.
+
+### `{PUERTAS8}` - Eight Inner Gates (S01E14)
+Lee's thoughts about "The Eight Inner Gates" and the "Forbidden Jutsu that destroys the user's body" (cues 332-333, 336). Rendered "las Ocho Puertas Internas" and "técnica prohibida". Literal translation, not checked against the manga/guide (Planeta may keep a Japanese name).
+
+### `{SONIDO4}` - Sound Four (S01E14)
+Tayuya introduces her group as "the Sound Four" (cue 598). Rendered "los Cuatro del Sonido", following the "Villa Oculta del Sonido" convention. Official Spain rendering unverified (Planeta may use a different name for the group).
