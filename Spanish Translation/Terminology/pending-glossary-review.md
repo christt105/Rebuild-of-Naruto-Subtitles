@@ -93,3 +93,18 @@ Jiraiya's lesson to Naruto about "the 'Shinobi's Three Taboos'" (alcohol, women,
 
 ### `{DARKNIN}` - the legendary "Dark Ninja" (S01E12)
 Epithet of the thug gang's leader, a former Chunin of the Hidden Stone Village: "the legendary 'Dark Ninja'" (cue 837). Rendered "el legendario 'Ninja de las Tinieblas'". Minor one-off filler character; no source found. Checked 2026-09-24 against the manga/guide OCR database: no hit.
+
+### `{E17POLICIA}` - Leaf Police Force (S01E17)
+English "Leaf Police Force" / "Police Force", the Uchiha-run organization with the clan crest as its emblem (S01E17, first use cue 116). Rendered "Policía de la Hoja" (first mention) and "la Policía" afterwards. The official Spain rendering is unverified. Only the first occurrence is tagged.
+
+### `{E17NAKANO}` - Nakano River / Nakano Shrine (S01E17)
+Place names tied to Shisui's death and the Uchiha secret meeting place: "Nakano River" (cue 243) and "Nakano Shrine" (cues 513, 541). Rendered "río Nakano" and "santuario Nakano" (translating "Shrine" rather than keeping it as a loanword). Official Spain rendering unverified. Only the first occurrence is tagged.
+
+### `{E17SHISUI}` - Shisui of the Body Flicker (S01E17)
+Shisui's epithet "Shisui of the Body Flicker" (cue 257), with "Body Flicker" referring to the high-speed movement jutsu. Rendered "Shisui del Cuerpo Parpadeante", a literal translation. The official Spain rendering of "Body Flicker" is unverified.
+
+### `{E17BOLAFUEGO}` - Fire Style: Fireball Jutsu (S01E17)
+The Uchiha fundamental technique, "Fire Style: Fireball Jutsu" (first use cue 324, used many times afterwards). Rendered "Técnica ígnea: Bola de fuego" using the resolved "Técnica ígnea" prefix. The glossary only lists the "Great Fireball" variant ("Gran bola de fuego"), so this simpler form is unconfirmed. Only the first occurrence is tagged.
+
+### `{E17VALLE}` - Valley of the End (S01E17)
+Location of Naruto and Sasuke's fight (first use cue 798). Rendered "Valle del Fin". Official Spain rendering unverified. Only the first occurrence is tagged.
